@@ -13,6 +13,6 @@ videos=(
 )
 for v in "${videos[@]}"; do
   echo "Downloading transcript for $v"
-  ./yt-dlp --skip-download --write-sub --write-auto-sub --sub-lang en --sub-format json3 --no-check-certificate -o "transcripts/%(id)s.%(ext)s" "$v"
+  python3 -m yt_dlp --ignore-errors --skip-download --write-sub --write-auto-sub --sub-lang en --sub-format json3 --no-check-certificate -o "transcripts/%(id)s.%(ext)s" "$v"
 done
 echo "Done"
