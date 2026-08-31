@@ -2,14 +2,14 @@
 
 ## Overview
 
-This Money Teaching distills core financial principles from Donald Trump and Robert Kiyosaki's conversation on building wealth through real estate, strategic debt, and financial education. It challenges conventional wisdom about assets, liabilities, and lifestyle choices, offering a mindset shift toward expanding your means rather than restricting them. The goal is to help you develop the financial intelligence needed to distinguish good investments from bad ones and build lasting wealth.
+This Money Teaching distills core financial principles from Donald Trump and Robert Kiyosaki's conversation on building wealth through real estate, strategic debt, and financial education. It challenges common beliefs about assets, liabilities, and lifestyle choices, offering a perspective shift toward expanding your income rather than restricting it. The goal is to help you develop the financial intelligence needed to distinguish good investments from bad ones and build wealth.
 
 ## When to Follow These Money Teachings
 
 - When you need to rethink common beliefs about assets, liabilities, and debt
 - When working on building a real estate investment portfolio
-- When the user asks about improving their financial IQ or escaping the rat race
 - When evaluating whether traditional "safe" investments align with your wealth goals
+- When evaluating investments with your own analysis
 
 ## Steps
 
@@ -19,19 +19,19 @@ Question everything you have been taught about assets and liabilities. A house y
 
 ### Step 2: Use Debt as a Strategic Weapon, Not a Trap
 
-Debt is a two-edged sword. It can make you richer or wipe you out depending on how you use it. Use borrowed money to purchase cash-flowing assets like rental real estate, not consumable liabilities like cars or vacations. The more debt you use, the more financially literate you must become to handle it safely.
+Debt amplifies gains and losses depending on how you use it. Use borrowed money to purchase cash-flowing assets like rental real estate, not consumable liabilities like cars or vacations. The more debt you use, the more financially literate you must become to handle it safely.
 
 ### Step 3: Expand Your Means Instead of Living Below Them
 
-Reject the outdated advice to "live below your means." This mindset kills ambition and spirit. Instead, invest in financial education and use that knowledge to expand your income and investment capacity. Feed your brain first, and let your means grow to match your aspirations.
+Reject the advice to "live below your means." This approach can limit your growth potential. Instead, invest in financial education and use that knowledge to expand your income and investment capacity. Feed your brain first, and let your means grow to match your aspirations.
 
-### Step 4: Develop Your Financial IQ Through Action and Experience
+### Step 4: Develop Your Financial IQ (financial intelligence) Through Action and Experience
 
 Financial intelligence is what makes an investment valuable or worthless. You must learn to distinguish good advice from bad advice and good investments from bad ones. Read books, study markets, and make calculated investments. Even failures are valuable education if you analyze where you went wrong and rebuild smarter.
 
 ### Step 5: Choose Investments Based on Knowledge, Not Popular Opinion
 
-Conservative "safe" investments like blue-chip stocks can still cut your net worth in half. Gold, real estate, stocks, and oil can all make you rich or poor. Your financial IQ determines the outcome. Never invest based on what others say is safe; invest based on what you understand and have thoroughly analyzed.
+Conservative "safe" investments like blue-chip stocks can still lose substantial value. Gold, real estate, stocks, and oil can all produce gains or losses. Your financial IQ affects the outcome. Never invest based on what others say is safe; invest based on what you understand and have thoroughly analyzed.
 
 ## Examples
 
@@ -45,7 +45,7 @@ If you put 20% down on a $200,000 rental property that cash flows $300 per month
 
 ### Example 3: Choosing Between a First-Class Flight and a Investment Book
 
-A friend who was not yet successful insisted on flying first class to maintain the mindset of a high achiever. While not everyone should spend beyond their means, this example shows that psychological positioning can drive future success. The actionable lesson is to invest in whatever mindset and education moves you toward your goals, as long as the foundation is sound financial knowledge.
+A friend who had not yet built wealth insisted on flying first class to reinforce the identity of a high earner. While not everyone should spend beyond their means, this example shows that psychological positioning can influence future direction. The actionable lesson is to invest in whatever mindset and education moves you toward your goals, as long as the foundation is financial knowledge.
 
 ## Best Practices
 
@@ -62,12 +62,12 @@ A friend who was not yet successful insisted on flying first class to maintain t
 
 ## Keep In Mind
 
-- Your financial IQ determines whether an investment is good or bad, not the asset class itself
+- Financial literacy affects whether an investment succeeds or fails, beyond the asset class itself
 - Debt magnifies results in both directions; education is the safety net
-- Real estate is powerful when used correctly but dangerous when mishandled
-- Achievement gives you freedom; the goal is to build the option to have it, not necessarily to keep it forever
-- Conservative investors can still suffer massive losses if they lack financial literacy
-- Money makes life easier but does not guarantee happiness; focus on contentment through growth
+- Real estate is powerful when applied with knowledge but dangerous when applied without knowledge
+- Achievement provides more options in life; the goal is to build the ability to have those options, not necessarily to hold them indefinitely
+- Conservative investors can still suffer large losses if they lack financial literacy
+- Money can reduce specific stresses but is not the sole source of well-being; focus on growth as part of an overall financial strategy
 
 ## Security & Safety Notes
 
@@ -75,7 +75,7 @@ A friend who was not yet successful insisted on flying first class to maintain t
 - Always verify the cash flow numbers on any real estate deal before proceeding
 - Keep an emergency fund separate from investment capital to avoid forced sales during downturns
 - Diversify across asset classes only after you understand each class deeply
-- Beware of investment advice from people who have not achieved the results you seek
+- Beware of investment advice from sources whose track record you have not independently verified
 
 ## Common Pitfalls
 
