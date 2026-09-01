@@ -1,8 +1,10 @@
 # Build a Powerful Brand Through the PLB Framework, Scalable Systems, and Strategic Communication
 
+**Scalable Systems** are business structures—such as licensing agreements and franchise networks—that generate income without requiring your daily direct labor. **Strategic Communication** is the coordinated use of specific channels, such as television and books, to maintain brand visibility and reinforce your value proposition over time.
+
 ## Overview
 
-Robert Kiyosaki teaches how to transition from a Solo (S) income model—where earnings stop when you stop working—to a Business (B) model built on assets that generate ongoing income. He introduces the PLB framework (Product, Legal, Brand) and explains how to expand through licensing and franchising. Communication through television, books, and media keeps the brand visible, while a strong brand cuts through overcrowded markets by conveying your entire value proposition instantly. This guide translates those principles into actionable steps for entrepreneurs who want to build lasting, saleable brands.
+Robert Kiyosaki teaches how to transition from a Solo (S) income model—where earnings stop when you stop working—to a Business (B) model built on assets that generate ongoing income without requiring your daily direct labor. He introduces the PLB framework (Product, Legal, Brand) and explains how to expand through licensing and franchising. Communication through television, books, and media keeps the brand visible, while a well-defined brand cuts through competitive markets by conveying your entire value proposition clearly. This guide translates those principles into actionable steps for entrepreneurs who want to build lasting, saleable brands.
 
 ## When to Follow These Money Teachings
 
@@ -21,20 +23,20 @@ Understand the difference between an S type and a B type. An S type earns income
 Apply the PLB framework to your business:
 - P = Product, Profession, or Service: Define what you offer.
 - L = Legal: Use the legal system—specifically licensing—to let other companies pay you for rights to produce your content, products, or games.
-- B = Brand: Build a brand that represents your entire value proposition, not just communication.
-Ensure all three components work together so your business can scale beyond your personal effort.
+- B = Brand: Build a brand that represents your entire value proposition, not just communication. A **tight bi-triangle** is the alignment of all three PLB components—Product, Legal, and Brand—operating in sync so that each reinforces the others.
+Ensure all three components work together so your business can generate income without requiring your daily direct labor.
 
 ### Step 3: Expand Through Systems and Franchising
 
-Move from selling only through bookstores or direct channels to creating a franchise system. To franchise successfully, maintain a tight "bi-triangle" (alignment across Product, Legal, and Brand). If you lack this alignment, franchising can create legal and operational trouble. Study how established franchises expand and model your systems accordingly.
+Move from selling only through bookstores or direct channels to creating a franchise system. To franchise successfully, maintain a tight bi-triangle—alignment across Product, Legal, and Brand. If you lack this alignment, franchising can create legal and operational trouble. Study how established franchises expand and model your systems accordingly.
 
 ### Step 4: Use Strategic Communication Channels to Keep Your Brand Visible
 
-Stay visible across multiple media channels: television, books, interviews, blogs, and print. Robert Kiyosaki expanded Rich Dad through TV shows, books, and consistent media presence. Choose communication channels that reach your target audience and use them consistently to reinforce your brand.
+Stay visible across media channels including television, books, interviews, blogs, and print. Robert Kiyosaki expanded Rich Dad through TV shows, books, and consistent media presence. Choose communication channels that reach your target audience and use them consistently to reinforce your brand.
 
 ### Step 5: Build a Brand That Cuts Through Market Noise
 
-In an overcrowded world full of blogs, magazines, television, games, and iPods competing for attention, a strong brand acts as a shortcut in the customer's mind. Your brand should instantly communicate your mission, team, leadership, style, and message—just as "Ferrari," "Apple," or "Marine Corps" evoke specific emotions and values without lengthy explanation.
+In a competitive landscape full of blogs, magazines, television, games, and digital devices competing for attention, a well-defined brand conveys your entire value proposition in a single moment. Your brand should communicate your mission, team, leadership, style, and message at first recognition—just as "Ferrari," "Apple," or "Marine Corps" evoke specific emotions and values without lengthy explanation.
 
 ### Step 6: Position Your Brand Emotionally Against Competitors
 
@@ -42,7 +44,7 @@ Identify how your brand differs from competitors in emotional impact, not just f
 
 ### Step 7: Ensure Your Brand Makes Selling Easier
 
-A strong brand reduces the effort required to sell because prospects already know what you stand for. When someone hears your brand name, they should think, "I know what that means" or "I know what the person stands for." Test whether your brand is clear enough that a stranger can summarize your value in one sentence. If they cannot, simplify your messaging.
+A well-defined brand—one that conveys a clear value proposition, mission, and emotional identity—reduces the effort required to sell because prospects already know what you stand for. When someone hears your brand name, they should think, "I know what that means" or "I know what the person stands for." Test whether your brand is clear enough that a stranger can summarize your value in one sentence. If they cannot, simplify your messaging.
 
 ## Examples
 
@@ -52,13 +54,13 @@ Rich Dad expanded globally by licensing the brand to companies that produce book
 
 ### Example 2: Marine Corps Brand Positioning
 
-The Marine Corps uses its brand to communicate its entire identity—mission, team, leadership, style, and message—through a single phrase: "We are only looking for a few good men and women." This positions the Marines distinctly from the Army, Air Force, Coast Guard, and Navy. Entrepreneurs can apply the same principle: define one clear, emotionally charged statement that separates your brand from every competitor.
+The Marine Corps uses its brand to communicate its entire identity—mission, team, leadership, style, and message—through a single phrase: "We are only looking for a few good men and women." This positions the Marines distinctly from the Army, Air Force, Coast Guard, and Navy. Entrepreneurs can apply the same principle: define one clear, emotionally charged statement that separates your brand from competitors.
 
 ## Best Practices
 
 - ✅ Build at least one asset that generates income without your daily labor
 - ✅ Align Product, Legal, and Brand into one tight bi-triangle before franchising
-- ✅ Use multiple communication channels (TV, books, interviews, blogs) to keep your brand visible
+- ✅ Use communication channels including television, books, interviews, and blogs to keep your brand visible
 - ✅ Define one clear emotional effect you want your brand to produce
 - ❌ Do not rely solely on being a Solo (S) type where income stops when you stop working
 - ❌ Do not franchise or license without a tight bi-triangle across Product, Legal, and Brand
@@ -67,8 +69,8 @@ The Marine Corps uses its brand to communicate its entire identity—mission, te
 ## Keep In Mind
 
 - A brand is the entire bi-triangle (Product, Legal, Brand), not just communication
-- In today's overcrowded marketplace, becoming a brand is essential for entrepreneurs
-- A strong brand makes selling easier because prospects already know what you stand for
+- In today's competitive marketplace, becoming a brand is essential for entrepreneurs
+- A well-defined brand makes selling easier because prospects already know what you stand for
 
 ## Security & Safety Notes
 

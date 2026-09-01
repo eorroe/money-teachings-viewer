@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Money Teaching teaches you to prioritize financial education over chasing quick profits, specifically through real estate investing using a cash flow strategy rather than a capital gains approach. It explains why buying undervalued properties with poor management, improving them through better management, and refinancing to pull out your original investment creates an infinite return on investment. The core message is that your financial success depends on what you know, not which asset class you choose — if you lack financial education, you will lose money in any market.
+This Money Teaching teaches you to prioritize financial education over chasing quick profits, specifically through real estate investing using a cash flow strategy rather than a capital gains approach. It explains why buying undervalued properties with poor management, improving them through better management, and refinancing to pull out your original investment creates a return where you recover 100% of your original capital while retaining ownership and ongoing cash flow. The core message is that your financial success depends on what you know, not which asset class you choose — if you lack financial education, you will lose money in any market.
 
 ## When to Follow These Money Teachings
 
@@ -33,15 +33,15 @@ Raise rents by removing bad tenants and improving property management. Increase 
 
 ### Step 5: Refinance to Pull Out Your Original Investment
 
-Once the property valuation has increased due to improved cash flow, refinance the property to extract your original investment. For example, buy a property for 11 million dollars, improve operations, refinance at 17 million, pull out your original 11 million, and keep the remaining cash flow and equity. This is how you achieve an infinite return on investment.
+Once the property valuation has increased due to improved cash flow, refinance the property to extract your original investment. For example, in one deal a property was purchased for approximately $11 million, improved, and refinanced at approximately $17 million. After pulling out the original $11 million, the owner kept the remaining cash flow and equity. This is how you achieve a return where you recover 100% of your original capital while retaining ownership and ongoing cash flow.
 
 ### Step 6: Repeat the Cycle With Other People's Money
 
-After pulling out your original investment, you have no money tied up in the deal but you still own the asset and collect monthly cash flow. Repeat this cycle with additional properties. You can structure deals where you have no personal investment at all, yet control millions of dollars in assets and collect ongoing cash flow from tenants.
+After pulling out your original investment, you have no money tied up in the deal but you still own the asset and collect monthly cash flow. Repeat this cycle with additional properties. You can structure deals where you have no personal investment at all, yet control large amounts of assets and collect ongoing cash flow from tenants.
 
 ### Step 7: Choose the Right Time to Start Ventures
 
-Do not start a new business or venture when the market is booming and everyone is euphoric. That is the worst time to start. Start when the market is down, when others are struggling, and when there is less competition. Times of crisis are when the best opportunities emerge for educated investors.
+Do not start a new business or venture when the market is booming and everyone is euphoric. The worst time to start is when everyone is euphoric and prices are at their peak. Start when the market is down, when others are struggling, and when there is less competition. Times of crisis are when the best opportunities emerge for educated investors. The best opportunities emerge when others are selling.
 
 ### Step 8: Use Your Home as a Shelter, Not an ATM
 
@@ -53,7 +53,7 @@ When deals go wrong or you lose money, examine what you did wrong rather than bl
 
 ### Step 10: Read Financial Education Materials and Apply Them
 
-Study materials like Rich Dad Poor Dad and pay specific attention to sections on property management. Most readers skip these sections, but they contain critical information about building a team and creating value through operations. Read with the intent to apply, not just to consume. Recognize that property managers are among the most important people on your investment team.
+Study materials like Rich Dad Poor Dad and pay specific attention to sections on property management. Most readers skip these sections, but they contain critical information about building a team and creating value through operations. Read with the intent to apply, not just to consume. Recognize that property managers are critical members of your investment team.
 
 ## Examples
 
@@ -81,7 +81,7 @@ You notice commercial office buildings sitting empty because their owners cannot
 ## Keep In Mind
 
 - The asset class does not cause losses — lack of financial education does. You will lose money in real estate, stocks, gold, silver, or oil if you are uneducated.
-- Rich Dad Poor Dad teaches that your passive income must exceed your expenses — this principle has not changed.
+- Rich Dad Poor Dad teaches that your passive income must exceed your expenses — this principle, as taught in Rich Dad Poor Dad, has not changed.
 - A cash flow strategy requires management skill and a good team; it is not passive in the way some investors assume.
 - Being a "flipper" who buys for capital gains without cash flow to support mistakes is dangerous and will leave you broke when the market turns.
 - Property management is the critical skill that separates successful cash flow investors from those who lose money.
@@ -110,4 +110,4 @@ You notice commercial office buildings sitting empty because their owners cannot
   **Solution:** Audit your own decisions and knowledge gaps after every loss. The asset is not the problem — your understanding of the asset is.
 
 - **Problem:** Trying to flip houses without cash flow reserves to support mistakes.
-  **Solution:** Only enter deals where you have cash flow to absorb errors. If you cannot afford to be wrong, do not enter the deal.
+  **Solution:** Only enter deals where you have cash flow to learn from mistakes without catastrophic loss. If you cannot afford to be wrong, do not enter the deal.

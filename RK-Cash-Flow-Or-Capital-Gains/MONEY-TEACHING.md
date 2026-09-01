@@ -2,13 +2,13 @@
 
 ## Overview
 
-This Money Teaching explains the fundamental difference between two types of investing: cashflow investing (fundamental) and capital gains investing (technical). Cashflow investing focuses on buying assets that generate recurring monthly income, while capital gains investing relies on market price appreciation driven by emotion. The teaching demonstrates that true financial freedom comes from building enough passive monthly income to cover living expenses, not from accumulating paper net worth that fluctuates with market sentiment.
+This Money Teaching explains the fundamental difference between two types of investing: cashflow investing (fundamental) and capital gains investing (technical). Cashflow investing focuses on buying assets that generate recurring monthly income, while capital gains investing relies on market price appreciation driven by emotion. The teaching demonstrates that the point where passive income covers all monthly expenses is achieved by building passive monthly income that exceeds your monthly expenses, not by accumulating net worth calculated from asset market values that change with buyer emotion.
 
 ## When to Follow These Money Teachings
 
 - When deciding how to allocate money between a personal home and income-producing real estate
 - When evaluating whether to flip a property or hold it long-term for cashflow
-- When trying to determine your "freedom number" — the monthly passive income needed to stop working
+- When trying to determine your "freedom number" — the monthly passive income needed to cover all living expenses
 - When someone asks whether to invest based on net worth (capital gains) or monthly cash income (cashflow)
 - When choosing a city or market for real estate investment based on job growth and demographics
 - When feeling pressure to buy status symbols (big house, luxury cars) before having the cashflow to support them
@@ -21,23 +21,23 @@ Before buying any asset, determine which category it falls into. Cashflow invest
 
 ### Step 2: Prioritize cashflow-producing assets over status purchases
 
-Any money you would spend on a personal residence, luxury cars, or consumer goods is classified in the Cashflow game as a "doodad" — a liability that drains cash. Instead of buying a primary home or expensive items, redirect every available dollar into income-producing real estate or businesses. Accept that you may appear "broke" on paper because all your money is tied up in assets, but those assets will generate recurring income that compounds over time.
+Any money you would spend on a personal residence, luxury cars, or consumer goods is classified in the Cashflow game as a "doodad" — a liability that drains cash without generating income. Instead of buying a primary home or expensive items, redirect every available dollar into income-producing real estate or businesses. Accept that you may appear "broke" on paper because all your money is tied up in assets, but those assets will generate recurring income that grows as you acquire additional assets and rents rise.
 
 ### Step 3: Choose markets using demographic and economic fundamentals, not hype
 
-Buy real estate in locations where job growth is strong and population is increasing. Strong job markets drive rent demand upward over time. Examples of positive fundamentals include oil-driven economies like Calgary or Oklahoma, or retirement-driven migration to Arizona and Florida. Avoid markets reliant on a single failing industry, such as Detroit during the decline of General Motors. Demographics are predictable: a growing population needs housing, and replacement construction costs rise alongside inflation.
+Buy real estate in locations where job growth is strong and population is increasing. Strong job markets cause rent demand to rise as population and job growth increase. Examples of positive fundamentals include oil-driven economies like Calgary or Oklahoma, or retirement-driven migration to Arizona and Florida. Avoid markets reliant on a single failing industry, such as Detroit during the decline of General Motors. Demographics are predictable: a growing population needs housing, and replacement construction costs rise alongside inflation.
 
 ### Step 4: Hold properties long-term instead of flipping
 
-Flipping properties for quick capital gains is a losing strategy regardless of whether the market is rising or falling. Investors who flipped homes in Phoenix in 2003 lost 70–80% of their value when the market turned. If those same investors had held their properties, their purchase prices would be far lower today and the same homes would be generating strong cashflow as rents rose. Flipping only works if you perfectly time the market, which even experienced investors cannot reliably do.
+Flipping properties for quick capital gains is a losing strategy regardless of whether the market is rising or falling. Investors who flipped homes in Phoenix in 2003 lost 70–80% of their value when the market turned. If those same investors had held their properties, their purchase prices would be far lower today and the same homes would be generating strong cashflow as rents rose. Flipping requires buying at the right price and selling at the right time, which depends on market timing that is difficult to predict.
 
 ### Step 5: Live below your means until your cashflow exceeds your expenses
 
-Buy a small, affordable home that generates positive cashflow. Let the equity and income from multiple investment properties compound. Only upgrade to a larger personal residence after you own enough cashflow-producing assets to comfortably afford it. The sequence matters: build 20+ income-producing properties first, then buy the dream home. Poor people buy the big house first and struggle to afford it; rich people build income first and buy the big house later.
+Buy the smallest home that meets your basic housing needs and generates positive cashflow. Let the equity and income from multiple investment properties compound. Only upgrade to a larger personal residence after you own enough cashflow-producing assets that monthly passive income exceeds monthly expenses. The sequence matters: build at least 20 income-producing properties first, then buy the dream home. Poor people buy the big house first and struggle to afford it; rich people build income first and buy the big house later.
 
 ### Step 6: Calculate your freedom number and retire when you reach it
 
-Your freedom number is the monthly passive income amount that covers all your living expenses. When your monthly cashflow exceeds your monthly outflow, you are financially free and no longer need to work for a paycheck. Robert and Kim Kiyosaki first retired in 1994 when they reached $10,000 per month in passive income against $3,000 per month in expenses. The specific dollar amount is not what matters — what matters is that your income covers your outgo, freeing you to pursue what you truly want to do.
+Your freedom number is the monthly passive income amount that covers all your living expenses. When your monthly cashflow exceeds your monthly outflow, you are financially free and no longer need to work for a paycheck. Robert and Kim Kiyosaki first retired in 1994 when they reached $10,000 per month in passive income against $3,000 per month in expenses. What matters is that monthly passive income exceeds monthly expenses, freeing you to pursue what you truly want to do.
 
 ## Examples
 
@@ -47,7 +47,7 @@ An investor buys a single rental property that nets $25 per month after all expe
 
 ### Example 2: Calgary Real Estate Driven by Oil Industry Job Growth
 
-An investor identifies Calgary as a strong market because the oil industry is creating high-paying jobs, which increases housing demand. Calgary city-wide property values appreciated 50% in a single year. Rather than flipping for a quick profit, the investor holds the property. Rents rise sharply as workers migrate to the area for employment. Population growth, Baby Boomer retirement patterns, and rising replacement costs all reinforce long-term fundamentals. The investor benefits from both ongoing rental cashflow and sustained property value growth.
+An investor identifies Calgary as a strong market because the oil industry is creating high-paying jobs, which increases housing demand. Calgary city-wide property values appreciated 50% in a single year. Rather than flipping for a quick profit, the investor holds the property. Rents rise dramatically as workers migrate to the area for employment. Population growth, Baby Boomer retirement patterns, and rising replacement costs all reinforce long-term fundamentals. The investor benefits from both ongoing rental cashflow and sustained property value growth.
 
 ## Best Practices
 
@@ -61,25 +61,25 @@ An investor identifies Calgary as a strong market because the oil industry is cr
 
 ## Keep In Mind
 
-- Cashflow is the only investment metric that matters for financial freedom — net worth can drop overnight based on market emotion
-- Being "broke" on paper with no savings but high cashflow and many assets is a stronger financial position than having a high-net-worth paper balance with no monthly income
-- Poor people want to look rich by buying liabilities; rich people want to be rich by accumulating income-producing assets
+- For financial freedom, cashflow is the investment metric that matters most — net worth can change quickly based on shifts in market prices
+- Having low reported savings but high cashflow and multiple assets is a more resilient financial position than having a high-net-worth paper balance with no monthly income
+- People with a laborer mindset often buy liabilities to appear wealthy; people with an investor mindset buy assets to become wealthy.
 - The order of purchases determines your outcome: buy the big house last, not first
-- It does not take a college education to understand cashflow investing — the concepts are simple enough to learn from a game like Monopoly
+- It does not take a college education to understand cashflow investing — the concepts are simple enough to learn from a board game that teaches property acquisition and cash flow.
 
 ## Security & Safety Notes
 
 - Never invest based on hype, media headlines, or short-term market predictions — rely on fundamental analysis of job growth, population trends, and rental demand instead
-- Avoid investing in a single market heavily reliant on one employer or industry, such as a city dependent on one failing manufacturing company
+- Avoid investing in a single market heavily reliant on one employer or industry, such as Detroit when it was dependent on General Motors.
 - Do not use borrowed money to fund a lifestyle of status purchases before your cashflow can support those payments
 
 ## Common Pitfalls
 
 - **Problem:** Flipping properties for quick profits instead of holding for long-term cashflow.
-  **Solution:** Commit to holding every investment property for at least the duration needed for rents to rise and the loan to amortize. Flipping only works if you perfectly time the market, which is not reliably achievable.
+  **Solution:** Commit to holding every investment property for at least the duration needed for rents to rise and the loan to amortize. Flipping requires buying at the right price and selling at the right time, which depends on market timing that is difficult to predict.
 - **Problem:** Buying a large personal home or luxury car before establishing sufficient monthly cashflow.
-  **Solution:** Live in the smallest affordable home while building a portfolio of 20+ cashflow-producing properties. Upgrade your lifestyle only after your passive income exceeds your expenses.
+  **Solution:** Live in the smallest affordable home while building a portfolio of at least 20 cashflow-producing properties. Upgrade your lifestyle only after your passive income exceeds your expenses.
 - **Problem:** Measuring financial success by net worth or equity rather than monthly passive income.
-  **Solution:** Track your monthly cashflow against your monthly expenses. Net worth fluctuates with market emotion; monthly cashflow determines whether you are truly free to stop working.
+  **Solution:** Track your monthly cashflow against your monthly expenses. Net worth changes with market prices; monthly cashflow determines whether you can stop working.
 - **Problem:** Investing based on a single commodity or industry boom without verifying broader demographic trends.
   **Solution:** Research population growth, job diversity, and long-term housing demand in a market before buying. A city dependent entirely on one industry is high risk if that industry declines.
