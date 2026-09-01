@@ -1,0 +1,5220 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 80,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "welcome back to the School of Hard\nKnocks podcast I'm James and I'm here",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3320,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with Jack and Josh we're out in\nScottsdale Arizona with a very special",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 6720,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "guest Jeremy Miner who's a sales Legend\none of the greatest salesman I'd say in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 10880,
+    "dDurationMs": 5399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the United States right now he's the\nfounder of the third largest sales",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 14480,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "training organization in the entire at\nleast my grandma tells me that yeah you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 18199,
+    "dDurationMs": 4761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's incredible though grandma likes\nme yeah seriously though for those maybe",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 21600,
+    "dDurationMs": 3800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "who are some new viewers they're not\nsuper aware with who you are could you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 24279,
+    "dDurationMs": 3961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "give a little bit of a background a\nstory about yourself kind of how you got",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 27119,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to where you are now just let the people\nknow who you are yeah so I uh I started",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 30880,
+    "dDurationMs": 7679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh I started as a salesperson probably\nlike you watching me 23 years ago got my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 36879,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "first job selling home security systems\ndoor to door I think my going into my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 40360,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "senior year in school cuz I like had to\nmake money I had a kid on the way I was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 43800,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "getting married at that time and uh you\nknow suffered uh really hard the first",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 48760,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "two or three months because just wasn't\nreally taught the right way to sell and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 53800,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "at the same time I was going to school\nmy major is Behavioral Science human",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 56719,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "psychology kind of studi the brain like\nwhy and how human beings make decisions",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 60960,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so I'm like trying to take what I'm\nlearning in school about the brain and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 64439,
+    "dDurationMs": 5641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I'm like oh this kind of makes sense\nbecause if I'm trying to persuade",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 67720,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "somebody I need to understand you know\nwhat happens in their brain that causes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 71680,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "them to say yes compared to saying no\nright so I I went on this like mission",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 75759,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of like trying to figure this out and uh\nyou know supposedly I did and and made a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 80400,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "few bucks along the way and then uh\nretired in 20 17 and late 2018 started",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 86799,
+    "dDurationMs": 5201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "my own sales training firm called seven\nfubble yep here we are going to ask you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 90520,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "did did having kids make you hustle\nharder yeah I mean yeah at a necessity",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 94280,
+    "dDurationMs": 5479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because I didn't really have a choice so\nyou know when you're like it was kind of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 97479,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like I've heard I think Tony Robins said\nI might be butchering what he said you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 100960,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know forgive me Tony if I've sinned here\nbut uh I I remember him saying something",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 104960,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like um you know when you when you pull\nup to the island like you got to burn",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 108479,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the the boats like there's no going back\nso like you know as a 21 20-year old two",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 113600,
+    "dDurationMs": 5879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "kid like I kind of had to like burn the\nboat like I didn't have a choice it was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 116719,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like plan a and it was only plan a and I\nwas going to have to figure out how plan",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 120560,
+    "dDurationMs": 4919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a Works cuz there was no plan B right\nand I wanted to ask you right like for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 123759,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you personally was that was a part of\nthat salesmanship was it innate was it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 127039,
+    "dDurationMs": 4641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "kind of born in you was was there a\nnatural salesmanship there or was a lot",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 129879,
+    "dDurationMs": 4521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of it kind of selftaught or you learned\nfrom other people and just in general",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 132959,
+    "dDurationMs": 4121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right for people in today's world right\nA lot of people do struggle with sales",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 135959,
+    "dDurationMs": 3360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do you think it kind of is a part of\nsome people to either have that or not",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 138280,
+    "dDurationMs": 4239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "or like how much of that can you really\ndevelop let me ask you this question uh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 141120,
+    "dDurationMs": 5479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do you know anybody that's born with\nAdvanced questioning skills no uh do you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 145319,
+    "dDurationMs": 5801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know anybody that was born at their\nmother's room with Advanced tonality",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 148239,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "skills no do you know anybody that was\nborn out of their mother's womb with",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 152640,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Advance objection handling and\nprevention skills no okay so when people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 157280,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "say oh you know people are just\nnaturally born salespeople that's a myth",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 162239,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like what data shows what scientific\nevidence shows that someone in their DNA",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 166120,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is born magically as a salesperson\nbecause sales people like don't just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 170800,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like you know when you think of a\nsalesperson they're not like the great",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 174080,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "salesp people in the world are not like\nthey just talk all the time that that's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 178200,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what average sales people do actually so\nthe greatest salesp people in the world",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 181920,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "are the ones that are best at at asking\nthe right questions to get the prospect",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 185920,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to internalize and think deeper about\ntheir situation and help them find",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 190360,
+    "dDurationMs": 4519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "problems they didn't realize they have\nright and then being able to get them to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 193599,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "see what the future looks like once\nthose problems are solved so no one is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 197040,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "born with those skills like nobody's\nborn as a natural golfer right they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 202319,
+    "dDurationMs": 6041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "learn the technique to golf so as a\nsalesperson you learn the techniques you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 206400,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "learn the toneal you learn how to ask\nquestions you learn what to say to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 210519,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "prevent objections you learn how to help\nthe prospect overcome their concerns",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 214040,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "those are skills you have to acquire and\nlearn yeah so I I didn't I was obviously",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 218120,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not born with any of those skills I grew\nup on a uh on a cater Ranch outside of a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 222920,
+    "dDurationMs": 4879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "town with less than 800 people in\nMissouri so unfortunately for me they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 226080,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "didn't teach me that in high school you\nin your career you when you were a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 229439,
+    "dDurationMs": 5321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Salesman you know coming up through the\nranks you amassed you know multiple",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 233319,
+    "dDurationMs": 5801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "seven figures a year as a Salesman in\ncommission sales what separated you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 237040,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apart and how did you in that role learn\nto separate to go from just you know a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 241319,
+    "dDurationMs": 5361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "couple commission checks here and there\nto being a high seven figureure earner",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 243879,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yeah um I I think it was like my\ndedication to acquiring the skill like I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 249079,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was obsessed about everything I did like\nevery like every word I used from the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 254920,
+    "dDurationMs": 5879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "start of that conversation to the end I\nwas obsessed of tweaking it to make it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 259479,
+    "dDurationMs": 5481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like making it sure it was almost\nperfect that if I lost a deal I'd go",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 263400,
+    "dDurationMs": 6359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "back and like what did I say like what\ndid I what did I not ask like what did I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 266960,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do that triggered that prospect that had\nproblems that I could have solved to not",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 272720,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "buy from me and I was obsessed with\nfiguring out and tweaking it where I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 277400,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just didn't lose that many deals so you\nknow my background went to school for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 280440,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "human behavior social dynamics so I kind\nof had an advantage of like oh like you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 284960,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know this is what causes a human being\nto go into fight ORF flight mode this is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 288520,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what causes the survival part of the\nbrain your tonality actually you know",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 293880,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like a telemarketer calls you like hi my\nname is I'm with XYZ company and you're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 297639,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not even listening to the words you're\nreparing their tone and immediately you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 301759,
+    "dDurationMs": 4761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "get defensive right it's defensive\nreaction in your survival part of your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 304720,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "brain that says salesperson trying to\nsell me something and you instantly go",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 308280,
+    "dDurationMs": 8639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "into fight or flight mode so if I can\nlearn how to adjust my tonality where I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 313479,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "don't sound like a salesperson if I can\nask different words if I can interrupt",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 318880,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that pattern in their brain I just have\na far higher advantage to close sales",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 324120,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "than other sales people do but I had to\nlearn those skills not like I said not",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 326919,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "something I was born with nobody is\nthere's a there's a common saying that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 330759,
+    "dDurationMs": 4841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people buy from people that they like\nand one of the biggest things that you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 334199,
+    "dDurationMs": 4681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have to learn in sales is how to build\nrapport how to build a relationship with",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 337080,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "those customers what advice would you\ngive to newer salespeople that are",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 340240,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "looking to build a connection with their\nwith their customers don't sound like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 343360,
+    "dDurationMs": 4839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all the other\nsalespeople hi how you doing how's your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 346479,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "day going sir hey can I have two minutes\nof your time where I can share with you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 349479,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "my XYZ blah blah blah blah blah because\nyou sound like everybody else your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 353440,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "prospect like I said we are constant as\na as a society we're constantly being",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 357360,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sold to all of the time I'll give you an\nexample like when you wake up in the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 360600,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "morning uh besides going to the bathroom\nwhat's one of the first things you do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 364280,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "look at your phone and you see ads\ntrying to sell you something right",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 368479,
+    "dDurationMs": 4881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "starts in the very first day you walk\ninto your kitchen you turn on the TV",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 372160,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "maybe you're drinking some coffee\ngetting ready for work you see",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 375160,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "commercials trying to sell you something\nyou get in your car to go to the gym you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 378680,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "turn on the radio you hear what ads on\nthe radio trying to sell you something",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 383720,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh you you drive down the road there's\nthese things called Billboards trying to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 387599,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sell you something you get into your\noffice",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 390199,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh maybe you get back on social media\nyou notice you know that Grandma's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 393400,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pitching her latest greatest you know\nMLM opportunity or whatever so you're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 397080,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "constantly and I love mlms but you your\ncly being sold to all the time and so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 401560,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because of that Society human beings\nhave built up defensive mechanisms in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 405479,
+    "dDurationMs": 6681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "their brain that anytime they feel\nyou're trying to sell them something",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 410000,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they go into like surface like fight or\nflight mode so when you ask questions",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 414120,
+    "dDurationMs": 6199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you ever noticed some of your prospects\ngive you like vague generalized service",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 418400,
+    "dDurationMs": 5239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "level answers because they've been\ntriggered to like stay surface level",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 422440,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they're trying to protect themselves so\nthey don't have to buy something so if I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 425599,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can learn how to not sound like all the\nother salespeople uh because I would say",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 430440,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know that saying from Dale Carnegie\nthat's where you got it like people buy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 433400,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "from people they like I would say well\nthat was in 1936 when you wrote that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 437759,
+    "dDurationMs": 7521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "book it's 2024 I would say people buy\nfrom people who they trust can get them",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 443680,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the best results that doesn't\nnecessarily mean they have to like you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 446879,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like we're friends but they trust you\ncan get them a better result because you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 451080,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know like I was telling you um you love\nGrandma but let's say you meet somebody",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 456319,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "else and you don't even know and they're\nselling the same thing but you feel like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 459840,
+    "dDurationMs": 5319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that person can get you a better result\nwho are you going to buy from Grandma",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 462560,
+    "dDurationMs": 7319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "who you like or the person who you feel\ngoing to get a better result person get",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 467599,
+    "dDurationMs": 6241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a better result so people buy from\npeople who they trust can get them the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 472440,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "best result now if they like you that's\njust a bonus but that's not the deciding",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 477080,
+    "dDurationMs": 5119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "factor yeah you you talk about you know\nwhen people they're in that high stakes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 480960,
+    "dDurationMs": 3359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "kind of they get that kind of anxiety\nthey feel like they're being sold to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 483280,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they're going to stay really surface\nlevel what are those kind of different",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 486720,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tactics or you know things in the\nconversation that you can use to really",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 489800,
+    "dDurationMs": 5359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "kind of get them to go more deeper\nreally to open up with you uh we call",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 493360,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that disarming the prospect we call the\nabds of selling always be disarming like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 497680,
+    "dDurationMs": 7519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "instead of ABCs of closing I'm like\nalways trying to disarm always trying to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 502159,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "disarm the prospect so let's say that uh\nI don't know let's say we're on zoom and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 506840,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're the prospect just give an example\nand you get on there and you're like hey",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 510560,
+    "dDurationMs": 4919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to and I'm the salesperson and use a\nproos you say hey how you doing today or",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 513640,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "how's your day going now most sales\npeople would just be like oh you know",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 516719,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I'm doing good you drinking coffee\nworking hard that doesn't hurt you but",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 521039,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that doesn't really help you so I'm\nlooking to how can I disarm this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 524839,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Prospect to get them to pull me in so I\nmight say oh you know just hanging out",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 529080,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "being the boring guy what what about you\nyou know what they'll do oh I'm sure",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 532360,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're not boring you know but it's how\nI use my tone there see I used a playful",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 536440,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tone because if I said it in this tone I\nwould just hang H out being the boring",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 540519,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "guy how about you whoa that's kind of\nweird right or I might say ah you know",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 545160,
+    "dDurationMs": 4280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just hanging out trying to stay out of\ntrouble are you getting into trouble",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 547480,
+    "dDurationMs": 6359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "over there Joanne oh no I wouldn't ever\nget in trouble see that playful tone",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 551800,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "causes them to kind of relax like let\ntheir guard down so that's just kind of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 555440,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "one example out of a really a million I\ncould give you yeah yeah I wanted to ask",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 559720,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you right because you know we recently\ndid an interview with Ryan Sirin and one",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 562760,
+    "dDurationMs": 4319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of the things that he said is that\npeople hate being sold to but they love",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 565839,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to buy in particularly like they love to\nshop with their friends so like kind of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 569440,
+    "dDurationMs": 3399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "where do you kind of meet people in that\nbottom line right where like you're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 571880,
+    "dDurationMs": 4280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trying to get your product or your\nservice across but how do you find it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 574680,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know at that middle point where like\nyou're able to do that in a way that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 577399,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people again it isn't coming off as like\nsuper salesy I believe it's the it's the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 581720,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's the quality of questions you ask\nthat get them to internalize what you're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 586160,
+    "dDurationMs": 6359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "asking and it's how you ask the\nquestions because one of the biggest",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 589360,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reasons why most salese get surface\nlevel answers from their prospects is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 594200,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they actually ask the question so fast\nthat the prospect has no time to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 598560,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "internalize and think deep about what\nyou're asking right so if I'm uh let's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 603800,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "say if I'm selling uh I don't know uh\nlife insurance for example and I might",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 608160,
+    "dDurationMs": 5679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ask what we call a consequence question\nwhen I'm when I'm three4 of the way",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 612079,
+    "dDurationMs": 7521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "through that conversation and I might\nsay so what happens if you I mean if you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 616880,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "don't do anything about this you just\nkeep the work policy you have now but",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 622440,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "then you lose Dan's income like years\nbefore you thought like how would you be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 626839,
+    "dDurationMs": 7641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "able to pay for the house and the and\nthe kids school with without Dan's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 631800,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "income right see how I'm like verbal\npacing that question out because what if",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 636040,
+    "dDurationMs": 4200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I said it real fast what happens if you\ndon't do anything about this and you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 638680,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lose Dan's income years before you\nthought you could how would you be able",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 641200,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to pay for the house and your kids\ntuition at that point oh I'll just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 644839,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "figure something now see if I ask a\nknee-jerk surface level question that's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 650440,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "too fast I'm going to get a surface\nlevel knee-jerk reaction back and the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 655480,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "prospect doesn't go below the surface\nyou always hear that you know people buy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 660279,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emotionally and they justify logic right\nand that's true so if they stay surface",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 664360,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "level more than likely they're not going\nto buy or they're going to give you tons",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 667320,
+    "dDurationMs": 5199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of objections you going have a hard time\nand then let's say they do buy they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 670360,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "might come back and just cancel because\nyou externally persuaded them but once",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 674440,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you left they start to change their mind\nyeah that would be an example yeah yeah",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 678760,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know you bring bring up tonality and\nthe different tonalities in the sale",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 682720,
+    "dDurationMs": 5799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what are those different types of\ntonalities that sales sales people can",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 686000,
+    "dDurationMs": 6519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "use uh in the sale and then also when\nshould they use the tones yeah so we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 690720,
+    "dDurationMs": 5359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "train there's five types of tonalities\nthat you really have to master if you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 693760,
+    "dDurationMs": 7759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want to be a top 1% salesperson now\nthere's subcategories of each of these",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 697680,
+    "dDurationMs": 9440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tones so you've got a curious tone so\nand I'll give you an example like your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 702839,
+    "dDurationMs": 7641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tone is how the prospect interprets your\nintention behind everything you're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 708959,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "asking that's how they interpret why\nyou're asking the question okay so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 712680,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there's a curious tone so like if I'm\ntrying to find out what the real",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 716440,
+    "dDurationMs": 4519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "situation is I'm going to use more of a\ncurious tone so let's say if I'm a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 719440,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "marketing agency and I'm selling to a\ncompany uh W walk me through what do you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 722760,
+    "dDurationMs": 6199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "guys do to to you know generate new\nleads and and clients so I understand",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 726680,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's just a curious tone okay there's\nother situations uh where I'm going to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 731200,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "use more of a confused tone so let's say\na prospect tells me something emotional",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 737000,
+    "dDurationMs": 7279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and they say oh you know this XYZ\nproblem has just been causing a lot of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 740440,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stress hold on stress or oh how do how\ndo you mean by stress right that's a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 746320,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "confused tone now what that does see the\nfaal Expressions as well your your face",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 750920,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is like your I always say it's your\nremote control to your tone right try",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 754399,
+    "dDurationMs": 5961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "having to confuse tone with like a\nstraight face like you can't do that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 758199,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right so what happens is when you use\nthat confused tone oh hold on how how do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 762600,
+    "dDurationMs": 7239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you mean my stress right subconsciously\ntheir brain says oh he didn't understand",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 767399,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what I meant by stress I need to explain\nthat better and so they start to expand",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 771920,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "well hell yeah the stress and they start\nto expand on the pain see what are the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 775720,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "two biggest emotional drivers that\ncauses a human being to want to change",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 779320,
+    "dDurationMs": 8600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pain or the fear of future pain so if I\ncan't help the prospect relive their",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 785160,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pain of their current situation they\ndon't feel any need to change and if a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 789920,
+    "dDurationMs": 6279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "prospect feels no need to change that's\nwhy you get lots of objections and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 793639,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's why they don't buy so that's a\nconfused tone there's other examples",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 798079,
+    "dDurationMs": 4601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that I would use a confused tone\ndepending on what I'm doing uh then",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 801040,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you've got a challenging tone now I'm\nnot I can't use a challenging tone in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 804240,
+    "dDurationMs": 4279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the first couple minutes of a\nconversations because I don't have much",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 806760,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trust and credibility but let's say I\nget 34 course of the way in and I want",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 810720,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to ask a what what if you don't do\nanything about this and this actually",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 813600,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gets worse see that's a challenging tone\nlike I'm trying to trigger them to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 818839,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "defend themselves on why they need to\nchange is that maybe good if the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 823120,
+    "dDurationMs": 4719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "prospect tells you defends their\nposition of why they have to change",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 826680,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's probably what you because all\nselling is a change and then you know we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 829920,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have the playful tone you know the the\nyou know oh I'm oh should I forgive you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 834560,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for showing up late this time you know\nlike you know just my tone and then you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 838800,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have a concern tone so let's say they're\nnot moving forward you can't overcome an",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 842279,
+    "dDurationMs": 7521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "objection you might move forward and be\nlike can I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 845759,
+    "dDurationMs": 9161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "um can I ask you something sure go ahead\num and this is off the Record you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 852560,
+    "dDurationMs": 7839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know what's really holding you back for\nmoving forward and you soft concern tone",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 858880,
+    "dDurationMs": 5079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because what if I did this what what's\nholding you back from moving",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 862240,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "forward see they're going to get\ndefensive now yeah but if I lean",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 866360,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in what's what's really holding you from\nmoving forward the other one sounds more",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 871120,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like a like a challenging tone sounds\nlike I'm going to make you defensive",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 875399,
+    "dDurationMs": 7321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right and see that that that tone that\nshows empathy that shows that I I really",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 879920,
+    "dDurationMs": 7719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "care like genuine empathy causes them to\ninternalize and open up to me so your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 885240,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tone how they now they're subcategories\nof the tone so like for a uh Curious",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 890920,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tone you know there's also underneath\nthat a familiar tone so let's say when I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 894800,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "call like cold call leads or something\nlike that and they answer uh you know XY",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 899240,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Z you know this is Brad how can I help\nyou yeah Brad it's it's Jeremy uh Jeremy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 903839,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Jeremy Miner yeah see see that's a\nfamiliar tone so what he does in his",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 908639,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "brain he's like who's Jeremy Miner who's\nhe's not dare going to say who is this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 912880,
+    "dDurationMs": 6519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because it sounds like he should already\nknow me but my tone being familiar yeah",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 917279,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's just Jeremy Jeremy Jeremy Miner and\nhe's like how do I know Jeremy Miner how",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 921040,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so he just goes with it right but I can\ncontrol him getting his guard down by",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 925800,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "simply using a familiar tone so anyways\nyeah you know that in sales just as",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 930199,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "important as it is to ask the right\nquestions know how to handle objections",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 933279,
+    "dDurationMs": 5161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you have to know how to listen listening\nis very important you were just talking",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 936199,
+    "dDurationMs": 4841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about earlier about how somebody told\nyou that one of the best conversations",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 939639,
+    "dDurationMs": 4481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that they ever had was when like you\nsaid you were only speaking for 5% of it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 942959,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because you made them feel like super\nimportant and you know you know you're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 945720,
+    "dDurationMs": 4119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going into meeting with a prospective\nclient you're not talking about the time",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 948399,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you met Jerry Jones at the Cowboys game\nbut rather how when they met Michael",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 951720,
+    "dDurationMs": 4679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Jordan or saw him play back in the '90s\nor whenever so how do you find that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 955160,
+    "dDurationMs": 4359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "balance cuz like you said you were able\nto navigate a conversation with people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 958040,
+    "dDurationMs": 5239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to make them feel like most important\nperson in the room ultimately it's a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 961040,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's a very fine balance because you\nhave to listen but you can't just let",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 965360,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "them go off on tangents and that's a\nproblem I see a lot of salese that get",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 968680,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "good at listening they'll ask a question\nthe prospect will just like like just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 972680,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dump for five minutes and it goes\nnowhere in facts it causes her brain to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 976240,
+    "dDurationMs": 4200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "get unorganized and off the subject and\nthen they come back around oh tell me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 979319,
+    "dDurationMs": 5241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about what you do now like how much is\nit going to cost like you lose control",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 982279,
+    "dDurationMs": 7161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so when you're listening you also got to\nbe able to interject at certain times to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 987880,
+    "dDurationMs": 4759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "get the conversation\nin the right direction so you know let's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 991680,
+    "dDurationMs": 4079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "say you're you're talking about\nsomething they start going off on a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 993959,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tangent I'm about be like oh and I for\nsure want to know that for sure but I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 997279,
+    "dDurationMs": 4721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wasn't understanding when you said that\nyou had pressure at work like what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1000480,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actually happened and now I'm\ninterjecting clarifying which causes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1004680,
+    "dDurationMs": 6839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "them to like I'm reframing them back on\nthe right path so I got to know how to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1009079,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "control by reframing them back to to\nwhere we were going in the conversation",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1013639,
+    "dDurationMs": 4401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "where you know there's a reason why\nwe're having this conversation we're not",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1016560,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "talking about Grandpa and what he did in\nthe Vietnam War back in 1967 that has",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1020399,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nothing to do with life insurance or\nwhatever so it's about listening but",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1023959,
+    "dDurationMs": 6761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "knowing when to interject to to get them\nback on the right path oftentimes a lot",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1029439,
+    "dDurationMs": 5961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of the most successful people in the\nworld from business people to you know",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1033319,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "professional athletes all have coaches\nand mentors around them for salespeople",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1038199,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's a skill and you had to continue\nto develop that skill what advice would",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1042000,
+    "dDurationMs": 5079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you give to someone when it comes to\nfinding you know actionable actionable",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1045199,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "re resources and coaches when it comes\nto",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1047720,
+    "dDurationMs": 5079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sales um I'm probably going to say\nsomething that might be a little",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1050640,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "controversial but as I've been around\nthis ball game here for five years I've",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1055080,
+    "dDurationMs": 7959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "met a lot of coaches and mentors that I\nfound out later were kind of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1060039,
+    "dDurationMs": 6121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "exaggerating their results so I'm not\nnow I think for the most part there's a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1064559,
+    "dDurationMs": 4961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "great coaches and mentors of course but\nyou got to be careful like which are the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1067520,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "real ones compar to the ones that are\nlike okay but exaggerate the results so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1072880,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know it's it's just you know results\nlike what what what what do they do like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1076760,
+    "dDurationMs": 4159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if you're going to be trained by a sales\ntrainer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1079360,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "well have you ever found out how\nsuccessful they were in their sales",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1082400,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "career because that might be important\nlike if you want to make if you want to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1085679,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hit a Sit income level let's say as a\nsalesperson and you're trained by a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1090400,
+    "dDurationMs": 5399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sales trainer who never hit that income\nlevel themselves what's the likelihood",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1094360,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of you going to be doing that very\nunlikely right so you want to be trained",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1097880,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "by people who have actually got the\nresults that you really want to get uh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1101440,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and when you find those people you want\nto lch on to them and and you know word",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1104720,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gets out like word gets out if somebody\ncan actually get your results or not",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1108440,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eventually so you can only fake it you\ncan't fake it till you make it too long",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1113039,
+    "dDurationMs": 3961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "without getting results yeah and it's\nalmost like you know if you're if you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1115840,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want to be an entrepreneur you don't\nwant to sit in a a business class",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1118840,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "learning entrepreneurship from someone\nthat's never started a business before",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1122559,
+    "dDurationMs": 5641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yeah and so um like with that I mean I\nbringing up business school you know a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1126799,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lot of Business Schools they actually\nmake their students teach a like take a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1130520,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "psychology course um I know your\nbackground's in kind of human psychology",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1134840,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and you work on something called neq\nwhat is what is the abbreviation npq is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1138240,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "neuro emotional persuasion questioning\nso it's a it's a methodology I developed",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1142280,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "over my close to 18e sales career you\nknow how do I get my prospects to do all",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1146840,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the work rather than me do all the work\nbecause I I always was like well why am",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1151320,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I trying to convince this prospect that\nhas all the problems that I can solve",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1155480,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like shouldn't it be the other way\naround I always thought that way I'm",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1158080,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like why why would I qualify to the\nprospect because I don't have the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1162880,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "problems I can solve the problem so I've\ngot to learn how to get the prospect to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1167400,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "qualify to me now that doesn't mean\nyou're like a douche and be like you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1170760,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know at the end of the call if if this\nis a good fit for you and we feel you're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1174039,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a good fit for our company we'll show\nyou to get started like that's just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1176960,
+    "dDurationMs": 5719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's just average salesmanship that's\nactually bad salesmanship because most",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1180799,
+    "dDurationMs": 5161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people don't believe at the end like oh\nI'm ready to pay no you don't qualify we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1184640,
+    "dDurationMs": 6039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you can't pay me I don't think you're a\ngood fit like people don't believe that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1187440,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know there consumers are smart um so\nit's it's I wanted to learn techniques",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1192280,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that would get the prospect to do all\nthe work that would get the prospect to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1195919,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sell themselves rather than me try to do\nit cuz that sounds exhaust in I want to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1199840,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "get them to overcome their own concerns\nrather than me try to do it cuz that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1203200,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sounds exhausting again I want to learn\nhow to get them to pull me in rather",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1206960,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "than me pushing pressuring chasing\nbecause you don't like I mean none of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1211000,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you guys like to do that right so um\nwhen you learn those type of techniques",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1214880,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that make selling a lot easier a lot\nmore profitable and you get to help a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1217880,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lot more people which is what selling is\nabout a lot of people in today's world",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1221760,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they struggle with closing so let's say\nand and I want to take it more from the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1224600,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "perspective of like they're they're\ngreat at opening conversations that you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1228400,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know generating leads getting people on\nthe phone but when it come when it comes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1231640,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "time to get on that second or third\nphone call or sign that dotted line the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1235120,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the other person gets scary you know\nwhat I mean where do you see most people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1238280,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "go wrong in that process right when it\nspans across two three calls and that oh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1242360,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like a multiple call close like if\nyou're in that type of Interest they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1245400,
+    "dDurationMs": 5159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just lose that client and and and and\nultimately like I think I don't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1248640,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "necessarily know if they lost them\nthroughout the conversation or if they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1252240,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "never had them from the very beginning\nbecause a lot of sales people are like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1255520,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "oh well they said that we're interested\nand we're going to go look at the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1258600,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proposal and we'll get back to you next\nweek I've got one that's interested and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1262039,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I'm like uh no they just blew you off\nand they just told you that to make you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1266559,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "feel better if you don't have a\nscheduled next call so I think a lot of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1269799,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "salese just don't realize that prospects\ndon't necessarily tell them the truth",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1275720,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and that's not necessarily the\nprospect's fault a lot of times I would",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1278600,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "say it's salespeople's fault in society\nby the way we've been taught how to sell",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1284200,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that causes the prospect to be like oh\nsalesperson something bad even though if",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1288720,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there were no salesp people selling\nthings there'd be no economy and hence",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1291760,
+    "dDurationMs": 8680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no Society so I'm like why do salese in\nsociety have a lower status if",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1298320,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everything in the world runs on the\neconomy and things being sold shouldn't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1302200,
+    "dDurationMs": 5359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "salese have a higher status in the\nprospects mine so that's what you know",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1306440,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's that's why I started seventh\nlevel I want to I want to change the way",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1308919,
+    "dDurationMs": 8161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sales is perceived in society um so yeah\nso it's it's just about you know I'm",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1315440,
+    "dDurationMs": 4719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like I I said earlier like closing is\nnot something you do at the end where",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1318960,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you ask them do you want the red one or\nthe blue one that's not when they decide",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1322159,
+    "dDurationMs": 4481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to buy if they say I want the red one\nthat means they had already decided",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1324880,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "before you asked the question right they\ndidn't buy just because of the one",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1328039,
+    "dDurationMs": 7361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "question so the sales really made in\nthat conversation or conversations where",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1333440,
+    "dDurationMs": 5239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you build a gap from where they are we\ncall that their current state to where",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1336760,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they want to be their objective State\nwhat's the Gap are all these Newfound",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1340440,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "problems you're questioning and tonality\nability allowed them to feel and see",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1344720,
+    "dDurationMs": 6199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that they had that they didn't really\nunderstand they had before you you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1348799,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mentioned you mentioned about how\nthere's a certain perception about sales",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1352880,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in society and if you ask you know a top\n1% earner they'll say that sales is one",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1357279,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of the most important skills that you\ncan learn in order to be successful in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1360200,
+    "dDurationMs": 8079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "life but if you ask to average let's say\nuh middle- class family they'll say you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1365640,
+    "dDurationMs": 5519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know sales is a kind of a grimy Shady\nindustry there's there's a there's a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1369480,
+    "dDurationMs": 6199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "negative connotation with it what do you\nthink is that difference that's because",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1374120,
+    "dDurationMs": 6039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of the way salese have been trained to\ncommunicate that when you're when you're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1377679,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "high pressure and you use manipulative\ntactics that has been going on for you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1381720,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know 150 years of course society's going\nto view salespeople in that way but if I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1386120,
+    "dDurationMs": 5559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can change that that Dynamic where\ninstead of the prospect viewing me as",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1389840,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just another salesperson trying to stuff\ntheir solution down my throat where they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1393679,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "view me more as like the expert like The\nTrusted Authority that can get them",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1397159,
+    "dDurationMs": 7321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "where they want to be I changed that\nDynamic like once you learn how to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1401400,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really sell like you your prospects\ndon't feel like they were being they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1406039,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "were sold they feel like they were\nselling you does that make sense like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1409200,
+    "dDurationMs": 5479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the best sales people in the world like\nthe the prospect never felt they were",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1412840,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "being sold they felt like you did them a\nfavor by allowing them to pay you to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1416480,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "solve their problems and get where they\nwant to be and you might not have met",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1419240,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "them you you might have just met them 20\nminutes before a complete stranger so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1422679,
+    "dDurationMs": 5801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's all how you communicate that\ndetermines how they view you yeah you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1426960,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you look at salespeople they might make\nsix figures and they might be like hey",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1429840,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's a really good year but you know\nyou see the plaques on the wall you know",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1433320,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you've\nhady re company Revenue eight eight",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1436720,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "figures nine figures you know you\nstarted out in that role where you were",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1440760,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "doing the six seven figures in\ncommission how have you been able to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1444240,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "scale up a company though in sales from\nyou know seven eight and then",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1449039,
+    "dDurationMs": 4561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "accumulating nine figures in company\nRevenue uh it's a whole different",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1452159,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Dynamic it's a whole different ball game\ngoing from being like a salesperson who",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1456039,
+    "dDurationMs": 7481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "works for a company or $ 1099 compared\nto like now you're running an",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1461120,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "organization and you know to be frank\nthe first year and a half it was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1464799,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "something I struggled with because even\nthough in a couple organizations I was I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1468600,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "became the Vice President of Sales the\nchief sales officer and I was running",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1471320,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the sales part but that's a whole\ndifferent part than like your capital is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1475480,
+    "dDurationMs": 7079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on the line you're risking everything\nright you're hiring people uh their you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1480279,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know their uh their family's livelihoods\ndepend on you and your decision so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1484360,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there's like a whole different like ball\ngame so you know it it takes a while to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1488200,
+    "dDurationMs": 4359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "learn those skills and you have to you\nhave to bring in the right people you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1491320,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know like you have to bring in the right\nCEO to run the company you have to bring",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1494559,
+    "dDurationMs": 6761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in like a revenue officer to run be over\nthe revenue you have to bring in the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1498520,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right people who have strengths in those\nareas that you have weaknesses in you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1503559,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know like I don't want to run the\nbusiness that's not my strength I want",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1507200,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to obviously train salese I'll you know\nrecruit salese those are like I want to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1511840,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "focus on my strengths and I want\nsomebody who knows how to run a business",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1516399,
+    "dDurationMs": 4801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to actually run the business side and\nfocus on their strength so it's just a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1519960,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "whole different ball game and I I don't\nthink a lot of people realize you know",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1523440,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "let's say you're a great marketer\ndoesn't mean you're going to be a great",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1526919,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "CEO in fact it could mean quite the\nopposite because you might be really",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1530360,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really creative as a marketer but as a\nCEO you just you know you can't make",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1535000,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decisions you you you you can't like you\ndon't know how to scale you don't know",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1538919,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "how to run Ops you know those type of\nthings so I think as you start you need",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1543600,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to find a business partner first that\nhas skill sets you don't have that's key",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1547120,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if you get a business partner you have\nthe exact same skill sets you're going",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1550200,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to struggle and then you got to find the\nright executive team that that are",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1554240,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stronger in operations than you are\nunless you're the one running the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1557679,
+    "dDurationMs": 6921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "offside you need to find like a a CMO or\nvice president of marketing that's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1562799,
+    "dDurationMs": 5321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "obviously extremely talented in\nmarketing so it's all about finding",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1566720,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people who have strings that you don't\nhave now I was going to ask you right",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1569640,
+    "dDurationMs": 4399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because you put a huge emphasis on team\nright and and particularly we're talking",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1572840,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "earli about investing a lot in like\nquality and culture of of like your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1575799,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "company um what are those kind of traits\nthat you do look for though in business",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1579760,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "partners Beyond just them kind of being\nstronger in the areas in which you may",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1583000,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "kind of not have those very strengths\nright like finding where you may your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1586640,
+    "dDurationMs": 4759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "weaknesses are right finding the people\nthat have those strengths what are those",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1589440,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like traits that you Noti consistently\nabout their Vision like do they have the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1592919,
+    "dDurationMs": 4601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "same vision that I do where I want to\ntake seventh level you know like we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1596159,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "don't plan on just being a sales\ntraining company that'll always be our",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1599039,
+    "dDurationMs": 5721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "core but you know in 2025 we're\nlaunching Staffing and like a staffing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1603600,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recruiting agency because we have\nmillions of sales people that follow us",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1606279,
+    "dDurationMs": 4961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we have like you know millions of people\non our email list so we already have",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1609919,
+    "dDurationMs": 5401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "these assets that our employers are\nalready coming to us now wanting to hire",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1613399,
+    "dDurationMs": 5361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "salese that are trained and certified in\nour courses we just don't have the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1617080,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "foundation to be able to to do that\nsuccessfully so we could probably double",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1620919,
+    "dDurationMs": 6441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "our revenues overnight if we started\nthat today but things are going to break",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1625480,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because we don't have the right people\nthat would know how to run that so right",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1629679,
+    "dDurationMs": 4961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "now we're looking at you know hiring the\nright people for that side of the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1632880,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business to be able to scale that out so\nwe'll purposely slow down our revenues",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1637039,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to make sure our brand is protected and\nnot just you know make a bunch of money",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1640960,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for three four five years and then you\nhave a reputation not getting results",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1644520,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and then it's over we would rather make\nless revenue and grow at the right pace",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1649080,
+    "dDurationMs": 5719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and get our clients results and scale\nthat up because we have to bring in the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1653279,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right people and Foundation to grow that\nside of the business there's there's a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1657440,
+    "dDurationMs": 5719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "big difference or sorry you came from\nmaking multiple seven figures as a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1661720,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Salesman and as a member of an\norganization and then you then switched",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1665080,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to being actually an owner and operator\nof a company and within that there's a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1669159,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lot of differences and lessons within\nyou know from being part of a company to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1673000,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "running a company what was one of the\nhardest things you had to go through as",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1676320,
+    "dDurationMs": 4719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "an entrepreneur and one of the hardest\nlessons you had to learn and what did",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1679440,
+    "dDurationMs": 5079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you how did you ultimately overcome that\nI go back to the team again because it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1682880,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bringing in the right people to do\nthings like in the beginning as we were",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1686519,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "growing so fast we were just throwing\nbodies into positions that didn't have",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1690120,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the skill level to be in those positions\nwe might be like oh that guy is a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1694200,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "salesperson on our team he's doing okay\nbut he seems analytical so why don't we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1698360,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have him run Ops and he's never run Ops\nbefore so it's like you know like what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1702840,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "were we thinking but we were so young\nand like and so inexperienced that we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1706840,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "were just throwing bodies in places and\nfor the last like year and a half we've",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1710519,
+    "dDurationMs": 6841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "been able to you know because of Revenue\ngrowth and stuff bring in people who are",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1715120,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "far more talented in those uh places\nwho've already done that for years and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1720240,
+    "dDurationMs": 7159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actually know what to do so I always go\nback to you know the the people on your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1725640,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "team I can't stress it enough like you\ncan have the greatest products and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1728679,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "services or whatever you sell in the\nworld but you ain't going to go very far",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1732360,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "without the right team backing you up\nfor sure how many people have you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1735559,
+    "dDurationMs": 8201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trained sales-wise so far I mean I don't\nknow the number for sure uh as far as",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1741679,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "clients that we have that are in like\nour our paid like courses and stuff it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1746600,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a little bit over\n63,000 uh now some of those are",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1750480,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "companies so one of those you know one\nof those 63,000 is a company but we have",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1754840,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "some companies where we have we're\ntraining like 20 or 30,000 of their reps",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1758399,
+    "dDurationMs": 6241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so I don't I've never really put a count\non like how many salespeople are we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1762080,
+    "dDurationMs": 8199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "training you know hundreds of thousands\nI don't know um how many people have",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1767039,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "seen stuff on YouTube and IG you know we\nget 30 million views a month you know I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1772600,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "don't know most of those are salespeople\nso I don't really have a number yeah of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1777159,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "course so like there's you you've\noverseen a lot of different sales people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1780440,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and train them through sales through\nthat what have you seen for maybe",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1784559,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "someone that is a beginner salesperson\nor they're in their sales and they have",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1787760,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "t Talent potential what are some of the\nwould you say are the biggest challenges",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1791320,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that takes someone that's really\nstruggling in that role as a salesperson",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1793760,
+    "dDurationMs": 5799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to becoming a rock star I I'd say the\nbiggest thing for a lot of people is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1797720,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they don't don't realize the work it\ntakes to to learn the right skills they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1801720,
+    "dDurationMs": 3920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think they can go through a training\nprogram once or read a couple books and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1804360,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they think like oh I should be great at\nsales and I'm like H dude that's not the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1807519,
+    "dDurationMs": 5121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "case like you're going to have to put in\ntime and effort to develop it's like a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1810840,
+    "dDurationMs": 5559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "neurosurgeon right like if you want to\nbe great at brain surgery that's why",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1814840,
+    "dDurationMs": 5719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they make them go to school for like 12\nyears right but sales people are like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1818679,
+    "dDurationMs": 5321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they literally think they can buy a book\nand somehow they're going to figure it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1821720,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all out and I'm like good luck I hate to\ntell you like people always ask me how",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1825320,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "did you make so much money as a\nsalesperson I always say I just out",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1827960,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "learned everybody else I I just invested\nmore money like I I paid tonality",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1832000,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "coaches a lot of money tens of thousands\nof dollars out in Hollywood that that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1836440,
+    "dDurationMs": 5479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you've watched some of their movies like\nThe the people who train actors and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1840039,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actresses like Leonardo DiCaprio or\nMatthew mccon or Julia Roberts while I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1844279,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was paying their coaches acting coaches\nteach me how to use my tone and facial",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1848360,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "expressions to communicate different\nmessages you know I was spending a lot",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1851600,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of money even in my early days of\nselling which you know now our clients",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1854880,
+    "dDurationMs": 6519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "get the you know they get all that when\nthey Jo ources and stuff but it's about",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1859760,
+    "dDurationMs": 5639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "time it's about commitment and it's\nabout like putting you know money into",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1863399,
+    "dDurationMs": 5481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like you know training and actually\ndoing something with it and rehearsing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1867360,
+    "dDurationMs": 5439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and it's like being an actor and actress\nin Hollywood you know what's the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1870480,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "difference between a Leonardo DiCaprio\nmaking $25 million of film or whatever",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1874720,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he makes compared to the guy that's\nstill a waiter 10 years later in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1877760,
+    "dDurationMs": 7159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hollywood Leo just put more time into it\nhe he practiced the craft more you know",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1882399,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they might have been born the same way\nbut one put in more time and effort to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1887120,
+    "dDurationMs": 6919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acquire those skills bills than the\nother did and that's what separates him",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1891639,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "financially one of one of the things\nthat you know is com be more and more",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1895960,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "common especially within this D digital\nage is the importance of personal",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1899440,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "branding and It ultimately comes back to\nthat saying people buy from people that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1903159,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they like as well as they trust and you\nknow you've invested a lot of money into",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1907559,
+    "dDurationMs": 4641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your own personal brand and what advice\nwould you have for others who are maybe",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1911120,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thinking about investing into their own\npersonal brand and what's the importance",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1913480,
+    "dDurationMs": 5679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of a personal brand in today's age I\nthink one thing I'm always going to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1917559,
+    "dDurationMs": 4201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "caution people is like before you just\nstart getting out there and branding",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1920559,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yourself make sure you have the skill\nlevel to back it up because you don't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1923679,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have the skill level to back it up\npeople are going to see through that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1925880,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stuff you start doing reals all the time\nyou don't really know what you're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1928320,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "talking about doesn't make any sense you\ndon't really have any like you don't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1932600,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have any credibility in your career that\nshows that you were successful you're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1935960,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just going to be like you're just going\nto get lost in the in the sea of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1938679,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "amateurs right so if you want to stand\nout you need to have the skill level to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1942519,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "back it up so even if you're like man\nI'm I'm 20 I'm 21 I want to get out",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1946919,
+    "dDurationMs": 5081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there and do it I'd be like hey you need\nto learn the skill level maybe you start",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1950440,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "doing it right now but before you try to\nblow up on on social media back it up",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1955399,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with the skill level you know to go out\nand prove yourself and then come in and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1958360,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do it because I promise you your brand\nwill last way longer if you do that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1962559,
+    "dDurationMs": 5521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because I see a lot of people and\nthey'll they'll have like start to Brand",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1965720,
+    "dDurationMs": 5439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "themselves as they're this one day and\nthen like a year and a half later now",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1969360,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they're doing this and you're like wait\na minute I thought you I thought you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1972679,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "were a sales trainer and now you're\npitching crypto or like oh he's pitching",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1977000,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "crypto now but but now he's pitching\nnfts or he was doing nfts but now he's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1982159,
+    "dDurationMs": 4681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh AI like they're all over the place so\nI don't know what their brand is like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1985399,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I'm confused by the brand you know are\nthey Fitness coach or they you know AI",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1989080,
+    "dDurationMs": 4719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "or they doing crypto like I don't know\nbecause they're doing something",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1991480,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "different every six months and and to me\nthat just lowers your status like if if",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1995679,
+    "dDurationMs": 6441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you watch me on social media you're\nprobably going to know what oh it must",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2000120,
+    "dDurationMs": 5519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "be have a sales training company right\nlike I'm not necessarily talking about",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2003639,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "my my favorite foods or whatever you\nknow I mean that's cool if people do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2007279,
+    "dDurationMs": 6041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that uh but when people watch us they're\nlike oh sales trainer you know that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2011440,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's that's how we're branded you know\nbecause that's what we are yeah you you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2015000,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "had a career in sales for 18 years and\nobviously now been running a you know",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2018919,
+    "dDurationMs": 4841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sales training company for the last five\nand a half are there any developments in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2022320,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the sales scheme over the next let's say\n5 to 10 years that you think people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2025080,
+    "dDurationMs": 4439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "should be really cautious of aware of\nanything that you're bracing for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2027960,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "preparing for over the next 5 to 10\nyears yeah I think AI is going to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2031320,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "replace lower ticket sales not higher\nticket sales when I say higher ticket",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2036000,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that doesn't mean like just coaching\nprograms I'm talking about you know I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2039760,
+    "dDurationMs": 6879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "might be selling cyber security to Banks\nright and there might be half a million",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2043480,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dollars to $2 million deals um I believe\nthat that AI is going to replace smaller",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2048399,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "type of sales like 100 bucks here 50\nbucks here 200 bucks here uh but I don't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2052679,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "believe it'll ever replace all sales\nlike a lot of people do you know why",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2055639,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there's this thing this organization\ncalled the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2058839,
+    "dDurationMs": 7721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "FTC and so I can only imagine when\nsomebody spends five grand on something",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2064240,
+    "dDurationMs": 6919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "or whatever it is and they're like they\ncall in to the attorney General like I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2068520,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "got scammed by this robot who\nmanipulated me and convinced me to buy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2073200,
+    "dDurationMs": 5879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when I didn't want to buy and the FTC is\ngoing to come in and put the hammer down",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2077800,
+    "dDurationMs": 4319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and that AI is going to get really\nreally regulated in fact I think it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2080639,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to get to a point where people\nactually prefer to talk to a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2085560,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "salesperson over AI okay because they're\ngoing to believe AI is going to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2089760,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "manipulate them into buying where they\nfeel like a salesperson they can at",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2092359,
+    "dDurationMs": 6881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "least control that buying process so\nwhat we're preparing for is you know",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2097280,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "company that that sell the smaller\nticket stuff well if they want to use AI",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2101680,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to sell it they're going to have to have\nwhat they're going to have to license a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2105760,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "methodology so we're preparing ourselves\nfor our stuff to be licensed by",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2111240,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "corporations uh that they'll follow that\nprocess any PQ uh for lower ticket stuff",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2116480,
+    "dDurationMs": 4599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but will it replace all sales people\nabsolutely not just kind of the smaller",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2119839,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ticket stuff so we're preparing for that\nAI switch over yeah what would you say",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2123119,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "are probably some of the most common\nobjections that a lot of the sales",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2126520,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people that you train that faced with\nand how can they overcome those uh I I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2131480,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "believe I believe every objection comes\nfrom a lack of certainty in the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2135359,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "prospect's mind see I I I you know I\nwant to know why why why do objections",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2140200,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "happen you know it's a lack of certainty\nnow who controls the prospect having",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2145000,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "certainty or uncertainty for the most\npart it's you the salesperson right you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2148320,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "control that by the questions you ask\nhow you use your tone did you get them",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2152280,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "surface level where they you know the\nwall resistance was up did you get them",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2155480,
+    "dDurationMs": 4280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to let their guard down and open up\nemotionally you can control whether",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2158079,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they're going to be certain or uncertain\nright so if I can control that where",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2162079,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they walk they they in that conversation\nand they have 100% certainty that they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2166079,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can feel I can get them that result I\ndrastically reduce my objections I'm",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2170119,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "getting even if I do get an objection\nit's easy for me to help them overcome",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2173599,
+    "dDurationMs": 6681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it because they have certainty if I have\nprospects that are always uncertain what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2178599,
+    "dDurationMs": 5281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "objections am I going to get I want to\nthink it over which is not an objection",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2182400,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because it's not like they go and just\nthink it over for three weeks straight",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2185720,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right write down the positives and Ne\nwhat do they about yeah that's just a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2189240,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's just them saying that they just\ndon't want to tell you what the real",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2191400,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "concern is right or let's say if you\nsell business to a consumer talk to my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2195560,
+    "dDurationMs": 5799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "spouse or I need to do more research I\nneed to get more quotes I need to keep",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2199319,
+    "dDurationMs": 7681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "looking around I need to compare prices\nlike these are all the the salesperson's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2204400,
+    "dDurationMs": 6679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fault for not understanding how to get\nthe prospect to emotionally open up and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2209160,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "go below the surface when you learn how\nto do that you know you can eliminate",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2212960,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "probably 50 60 70% of the objections you\neven get I I'm more I'm when I was in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2218240,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sal more like Hey how do I prevent\nobjections from happening in their mind",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2221720,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's called objection prevention you\nknow I'm more focused on that than",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2225400,
+    "dDurationMs": 4040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "objection handling because I'd rather\nnot have objections you know when I hear",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2227800,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sales trainers be like oh the more\nobjections you get the more interested",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2231160,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they are I'm like what does that even\nmean how does that make any sense the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2235200,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "more objections you get the more likely\nthey're interested what I don't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2239160,
+    "dDurationMs": 5199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "understand because think about all the\nlaydown sales you get you got zero",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2242640,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "objections so that doesn't make any\nsense no the more objections you get the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2246560,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "more uncertainty you triggered in their\nmind and less likely they are to buy see",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2251040,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I want to prevent the objections from\nhappening in their mind that's what I'm",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2254480,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all\nabout that's amazing and one of the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2258800,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "things that you you're you're 47 now\nyeah old guy just turned 47 you started",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2263599,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you started sales when you were 21 years\nold yeah with everything that you know",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2267880,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "now yeah you know you've made you know\neight plus figures in sales throughout",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2271640,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your career what if you could go back in\ntime and teach yourself or give yourself",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2276440,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a path that become SU successful in\nsales what would that be I think if",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2280240,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're a new person loing into sales I\nthink I think the best place for you to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2284280,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "start is either doored door sales or\ncold calling or some type of SDR",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2289200,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "position because in those positions\nwhere the let's say if you do door too",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2293359,
+    "dDurationMs": 4601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "or cold calling they don't know your\ncalling so there's a lot going on in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2296560,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "their brain very very quickly and you\nhave to learn how to react quickly you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2299599,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have to be learn how to be fast compared\nto starting like on an inbound lead",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2304319,
+    "dDurationMs": 5161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "where they book on your calendar and you\nmeet them on Zoom or in person",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2307000,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everything's slows down so if I can\nlearn let's say if I start as an SDR I'm",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2311440,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just calling random people who put in\ntheir name an email phone number and I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2314560,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "start calling those leads if I learn the\nright skills and I learn how to be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2318280,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really quick witted when they say\nsomething like oh not interested and I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2320920,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know how to like reframe that real quick\nand then go back into the next question",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2324760,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if I get really really good at that or\neven on the doors how to get them to let",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2328079,
+    "dDurationMs": 5881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "their guard down or cold calling\ncompanies and then I get into a position",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2332079,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "which is more inbound and like more\nstrategic everything slows down it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2336640,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like The Matrix cuz I went from door too\nyou know like selling to Consumers like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2341160,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everything's quick you got to be really\nfast on the doors right or you're going",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2344160,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to get the door slammed in your face to\nthen get into Enterprise where there was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2348079,
+    "dDurationMs": 5481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "these huge corporations and I'm meeting\nwith like seven or eight decision makers",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2351760,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and it was like the Matrix I swear like\nI went from like you know the scene in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2355000,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Matrix where the bullets are coming by\nbut he's like watching them he's like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2357920,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going like this when I got into B2B when\nit was more inbound I was like oh this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2361280,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is so easy like it's so slow like people\nare like you know they'll say something",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2365160,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and I have a lot of time to react and\nthink about about it to help them",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2367880,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "overcome it compared to on the doors or\ncold calling so I would always say cold",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2371800,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "calling door too or like some type of\nSDR position where you're just calling",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2376000,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "randomly it's it's the best place to\nstart yeah your last message to the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2379760,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "younger generation like you gave us that\nblueprint out front C could you give",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2383520,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "them kind of that blueprint that you\ngave you got to acquire you got to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2385880,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acquire the right skills so uh the the\nbiggest question the number one question",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2389520,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that salesp people ask me at every event\nthat I'm at I swear everybody asked me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2393200,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this they're like how do I gain more\nconfidence in sales how I gain more",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2397839,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "confidence they're like how do I get\nmore confidence I'm like I'm like huh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2402240,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like you just acquire more skills I\ndon't understand like if you want a high",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2405760,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "confidence level you got to have a high\nskill level right how could I have a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2410119,
+    "dDurationMs": 5121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "high confidence level up here when my\nskill level's here you can get pumped up",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2413920,
+    "dDurationMs": 4439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know during the day and be like Oh\nI'm going to go out you know sell all",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2416599,
+    "dDurationMs": 5201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this stuff but as you don't make that\nmany sales where does your confidence",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2420160,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "level go back down to to where your\nskill level is so you want to high",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2424000,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "higher higher confidence level you got\nto acquire a higher skill level you have",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2427640,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a higher skill level you sell more right\nand when you sell more how do you feel",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2432400,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really good more confidence more\nmotivated you sell way less you don't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2437480,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have that much confidence so to me you\nacquire a higher skill level your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2441200,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "confidence level goes where your skill\nlevel is so younger generation acquire",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2444359,
+    "dDurationMs": 5201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the right skills whatever one you do\nwhatever you want to do and you'll have",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2447440,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a higher confidence level nothing more\nnothing less that was a master class",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2451880,
+    "dDurationMs": 5479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yeah that was great that's a wrap on\ntoday's episode Jeremy thank you so much",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2455280,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for us out thanks for coming out\nScottdale man thanks for coming out",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2458760,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Scott for for everybody tuning in be\nsure to like And subscribe for amazing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2461880,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "content coming very soon click the link\nin the description below to join the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2465400,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hard KNX newsletter we're sending out\nweekly updates insights and lessons from",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2468480,
+    "dDurationMs": 4119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the world's top entrepreneurs and\nbusiness owners and Jeremy for everybody",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2471359,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tuning in right now where can everybody\nfind you uh just follow me on Instagram",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2474680,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know if you're on IG uh follow my\nverified account Jeremy Lee minor m i n",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2479680,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "r m n r um follow me there we do we do\nlike 180 reals a month you know on IG",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2486359,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Tik Tok\nyou know YouTube especially so I'd",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2489400,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "probably follow me on Instagram and\nprobably YouTube and then uh you get one",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2493920,
+    "dDurationMs": 5159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of our bestselling books Wall Street\nJournal bestseller at Barnes \u0026 noble.com",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2497160,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's called the new model of selling\nselling to an unsellable generation I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2500640,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "don't know if I have one around here but\nyou can get one of her books but I just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2503640,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "follow me on Instagram YouTube yeah\nsounds good man we'll see you guys in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2507040,
+    "dDurationMs": 2880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the next one",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

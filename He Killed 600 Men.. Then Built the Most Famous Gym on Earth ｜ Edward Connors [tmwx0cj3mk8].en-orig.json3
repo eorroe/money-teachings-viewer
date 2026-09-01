@@ -1,0 +1,6207 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 80,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "How much did you sell for? 44 million.\nWhat's it like when you see that money",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 4000,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hit your account? I write in my book,\npeople have compared it to having sex.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 8480,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "1968, you got drafted to the Vietnam\nWar. You went into war with the mindset",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 12639,
+    "dDurationMs": 4321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that I'm going to die, right? There's a\nwhole another world out there. We can't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 15440,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imagine. How many people did you\nultimately kill? Over 600 people. You",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 19920,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "discovered John Cena, right? Could you\nwalk us through that exact story of how",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 23840,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you convinced John Cena to get into\nwrestling? He was unbelievably focused",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 27760,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "or driven. He was a machine. You can\nhave the gift, the talent, you can get",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 30960,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lucky, but then you've got to execute.\nHow old are you now? 80. I think you're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 33920,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the sharpest damn 80-year-old I've ever\nseen. If you have one guiding principle",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 37280,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for the younger generation, what would\nthat be? People don't understand that.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 43360,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "What's going on everybody and welcome\nback to the School of Hard Knocks",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 46879,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podcast. I'm James and I'm here with\nJack and Josh and we've got an",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 51520,
+    "dDurationMs": 9039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "incredible guest for you guys today.\nWe're out in Los Angeles interviewing Ed",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 57199,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Connors. Ed, you've lived multiple\nlifetimes in one to say the least. I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 62000,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mean, you're one of the most fascinating\npeople that I've ever met and I've",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 64960,
+    "dDurationMs": 9280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interviewed some incredible people. You\nbought the original Gold's gym in 1979,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 72000,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "grew it to over 700 locations. You\neventually sold uh the gym franchise. Uh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 77439,
+    "dDurationMs": 5761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but before that, you were an architect\ndesigning some of the most influential",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 81040,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "buildings in Beverly Hills. You also\nmentored and helped shape the careers of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 84880,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "some of the most prominent celebrities\nin today's world.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 88080,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "But I want to go back to the very\nbeginning. 1968, you got drafted to the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 93520,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Vietnam War. What's your mindset like in\nthat very moment? Right. Because that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 98799,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was your first career was in the\nmilitary. Yes. Let's talk about that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 102240,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "real. I I had I had worked as a kid, you\nknow, uh paper route, you know,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 107439,
+    "dDurationMs": 9841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "shoveling snow, raking leaves, the usual\nactivities of people in that era. and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 113439,
+    "dDurationMs": 12720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I'd worked uh all the summers uh in from\nschool uh usually in architectural",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 120320,
+    "dDurationMs": 12639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "office in Omaha or I u uh I also uh got\ninvolved with uh a number of other small",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 129119,
+    "dDurationMs": 8561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "businesses. Uh but so it wasn't I really\nI was wanting to begin my architecture",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 134959,
+    "dDurationMs": 8161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "career but I was drafted for the army\nand I I thought I was going to die. That",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 140560,
+    "dDurationMs": 8319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was my mindset. But you live in a\ndemocracy and uh you have to go with the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 146319,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "majority of the v you know the voters at\nthe time I think believed the war in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 150560,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Vietnam was justified and I had gone to\nUC Berkeley so I was all part of that uh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 156400,
+    "dDurationMs": 7839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "anti-war movement because I I just saw\nit as a civil war and I don't think our",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 162080,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "country has really learned because we\ngot involved in Afghanistan and Iraq",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 166560,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "which are basically civil wars.\nSo, no. I I thought I was going to die.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 172640,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So, you thought you were going to die?\nYeah.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 175440,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "When you went over there? Yeah. What\nwere you doing for those that don't",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 178560,
+    "dDurationMs": 8959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know? I was uh in military intelligence\nand I was basically targeting air",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 184080,
+    "dDurationMs": 9280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "strikes, primarily B-52 air strikes. And\npeople don't understand that we talk",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 189680,
+    "dDurationMs": 9199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about nuclear war, but uh a three B-52s\nin formation and dropping their bomb",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 195840,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "loads can take out an area one by 3\nkilometers. It would turn it to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 201120,
+    "dDurationMs": 9119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "basically to turn it into dust. Yeah. So\nit's basically a a nuclear bomb without",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 207120,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "without the radioactive aspect. So you\nwent into war with the mindset that I'm",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 212080,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to die, right? But we were talking\nabout earlier that you learned something",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 216560,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "from yourself in combat that you're a\nlot tougher, right, than you realized at",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 220159,
+    "dDurationMs": 5201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the time. What was it that you realized\nand what was that turning point, right?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 223840,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Because, you know, you ended up earning\na lot of stars ultimately from, you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 227360,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know, the sacrifices that you made and\nwhat you were able to do defending your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 231040,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "country, right? What was it that you\nlearned about yourself that you took,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 234319,
+    "dDurationMs": 5761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, beyond combat into the real\nworld? I learned you don't need all the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 238159,
+    "dDurationMs": 7521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "paraphernalia that we think you have to\nhave to survive. I mean basically you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 243280,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know a sleeping bag and a duffel bag or\nwhatever you or a backpack that's it. I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 248400,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mean again the veneer of civilization is\nvery thin. Uh you know I left Berkeley",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 253680,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thinking everybody needs an lounge chair\nand all this beautiful architecture and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 258079,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "find out that you know we're we're\npretty much savages.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 261359,
+    "dDurationMs": 11041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Uh and uh you know it\nyou know it just uh it's amazing how you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 268800,
+    "dDurationMs": 7679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know basic you can you can survive\nu and get by. I don't I don't ever",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 274720,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "remember eating anything great. I was\nthere for 21 months. I I actually",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 278880,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "extended beyond the normal tour of duty\nbecause after a while you begin to think",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 283440,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're going to live forever. You think\nthis is not your time to do die. And if",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 287600,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I extended in Vietnam uh and I had five\nmonths left of service, I would be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 292720,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "discharged early. So you you'd\nunderstand this with your military",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 296320,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "background, but there were ways to get\nout earlier if you extended in in in in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 301199,
+    "dDurationMs": 5761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "country. And of course that's the\ndifference between say Vietnam war and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 304960,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's kind of fascinating that I think\nmost of the soldiers that were in uh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 310000,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Iraq or Afghanistan serve six-month tour\nof duty but that's unfortunately when",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 314880,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when it's time to go to go home that's\nwhen you actually are the most valuable",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 319360,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because you've learned so much though\nbeing in country in Vietnam and for 12",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 323520,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "months I had learned a lot and the fact\nthat I stayed on for another nine the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 327759,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "army wanted that because uh I had I had\nlearned to survive and I had learned a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 333120,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lot about local customs. Mhm. Which made\na big difference and it kind of reminds",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 337680,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me of that perspective shift that you\nknow a lot of people have when when you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 342479,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "went into war zone you know like Jack\nand I we were fortunate to be able to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 346639,
+    "dDurationMs": 4801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "see the world at an early age growing up\nin a military household. We lived in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 349759,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "South Korea. One of the countries that\nwe visited was actually Cambodia, right?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 354000,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And you it's a very poverstru country\nwhere you'd see nine-year-old kids",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 358320,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "floating around in the river in a trash\ncan like with their arm cut off. Yeah.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 362160,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Did you have that realization when you\nwere in a war zone in combat that I",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 366319,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "problems that I thought were so big were\nnothing compared to the stuff that you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 370400,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "had to see when you were over there?\nExactly. And that's that's my hope with",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 373680,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all the men that I I forget how many\nmillions of Americans that men have been",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 377600,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "through and women have been through the\nwars in Afghanistan and Iraq, but",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 381120,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they're seeing a third world country for\nthe first time. And you know, I had I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 385120,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "had been to Europe. I went I went to\nEurope when I was 18 as part of a high",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 388800,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "school tour. So I I'd seen I I was a\ntraveler. I love to travel, but I had",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 394479,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "never been to a third world country. And\nyou know, that was a shock. And I'm I'm",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 398560,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sure it was for a lot of American um uh\nmen and women that uh you know there's a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 404720,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "whole another world out there we can't\nimagine. Uh and I know it was uh it was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 410000,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "amazing. I I could never get over how\nhow clean and beautiful the Vietnamese",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 415360,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "women looked in spite of the fact that\nthey were basically in mud patties. They",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 419840,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "were wearing I think they call them\nodes. They're they're beautiful silk",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 423360,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dresses or whatever they're made of. But\nthey, you know, they they look gorgeous",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 427680,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and they survived with that. And you\nended up receiving a bronze star",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 432639,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ultimately. I got a couple of them.\nYeah. And what did you get the stars",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 435599,
+    "dDurationMs": 7841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for? I I basically got it for my\ntargeting um of this air strikes. To put",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 441840,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in perspective, how many people did you\nultimately kill? Well, one of them was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 446560,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for wiping out a North Vietnamese\nregiment. How many people? Which would",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 450160,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "be over 600 people. So you were about\nthe business over there. Well, again,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 454479,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "once you're there, it becomes a band of\nbrothers where you're um you know,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 459120,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're concerned about doing your job\nwell so that others will live. And",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 463280,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "again, these these are these are bombs\nthat you know, they're not going to they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 466400,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "couldn't be turned into food to feed the\npoor. This is this is the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 470800,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "military-industrial complex that built\nall this ammunition that's going to get",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 474800,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "spent anyway, right? You might as well\ntarget it effectively.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 479280,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going from war and being in that\nenvironment and then coming back to the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 483599,
+    "dDurationMs": 7681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "US and having to kind of integrate back\ninto society. What was that like? Well,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 488319,
+    "dDurationMs": 10160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that was a big shock because um I'm sure\nyou've seen in military when I got back",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 493199,
+    "dDurationMs": 9921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to US in in 71. Um it was like there was\nno war going on. people were I mean",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 501599,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people could have cared less that I was\nin Vietnam and they were and I was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 504639,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ashamed in a way of of even talk I\ndidn't talk about it until the movie",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 508000,
+    "dDurationMs": 7919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Platoon came out that was kind of a\ngamecher because that that movie to me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 512880,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "showed the uh what the war was really\nlike in terms of the environment the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 517919,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "rain was incred where I where I was\nstationed in Vietnam it rained it was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 522159,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "during the monsoon it rained 75 inches a\nmonth for one month for three months in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 526640,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a row and I know because there were 600\nhelicopter opters at this the base. So",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 531600,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they were very accurate weather\ninformation. So you know LA for example",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 537839,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is uh considered a desert. Any any place\nis considered a desert with less than 12",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 542160,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inches of rain a year. LA gets about\nthree I think. So um you know that that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 547760,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was the the enemy was the water and the\nthe mud was incredible. Just the filth.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 553519,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I don't think I had dry underwear or\nsocks for 21 months.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 557600,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Um, no, it was um, yeah, it's a whole,\nit was another world that I had never",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 563519,
+    "dDurationMs": 10000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imagined. Um,\nyou know, poverty. Um, yeah. And one",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 569920,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thing that I've learned is that when you\nare in military service, of course, it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 576080,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about serving your country, but it also\nbecomes even deeper than that. It's more",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 579440,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about the brotherhood amongst your your\nyour team members.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 583200,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "When you came back to the United States,\nwas there an element of brotherhood and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 588720,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that element of just com like\ncompanionism missing? Did you feel a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 593440,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "missing link there or how was that\nreturn like? I tried to stay in touch",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 597519,
+    "dDurationMs": 7121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with a few of of uh my my people I'd\nmade friends with over there, but I I I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 603040,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actually I'm still in touch with two of\nthem, but most didn't want to talk about",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 606880,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it or just went back to their own world.\nMost were from smalltown America, uh,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 613120,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the south. So So you've returned you've\nreturned back to the states, right?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 617920,
+    "dDurationMs": 4479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "What's what's next? What's the next\nchapter in the story? What did you get",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 620880,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "into next? Did you return back to your\ncareer or what happened next? I I sent a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 624720,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "letter to an architecture firm in in the\nin the east coast that who I like whose",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 629279,
+    "dDurationMs": 7361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "work I liked. So I said, you know, I\nlove your work. I want to work for you.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 633600,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And I got the job. I went back to work\nfor Kevin Roach, John Dinkaloo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 638320,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Associates and Kevin\nKevin Roach would be considered a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 642560,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "starchitech in today's world but back\nthen they didn't have that label.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 647279,
+    "dDurationMs": 8401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So I worked on some incredible buildings\nand uh got a sense of of you know what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 653120,
+    "dDurationMs": 7279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "good design is all about\nand then uh uh you know it was an",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 658959,
+    "dDurationMs": 6241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "amazing exp we worked on a lot of\nprojects which back then were were",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 662399,
+    "dDurationMs": 7361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "getting built. No, I I I worked on a lot\nof corporate headquarters.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 668240,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So,\na decade after Vietnam, 1979,",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 673279,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you saved up some money from your career\nin architecture by designing buildings",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 677120,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in Los Angeles and Beverly Hills, right?\nYou find Gold's Gym, right? It's one",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 682000,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "location at the time, right? What was\nthat conversation like going to acquire",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 686959,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "them? What did you see at the time, you\nknow, because back then like like now it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 691680,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "makes sense, right? It's a proven model,\nright? Recurring business model. What",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 696079,
+    "dDurationMs": 8081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "did you see at the time in Gold's Gym?\nWell, I remember I mean I remember going",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 701440,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "into the gym and and probably in the in\nthe late 70s, 77 maybe, and saying,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 707040,
+    "dDurationMs": 7359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\"God, it would be neat to own this.\" So,\nI I visualized it. I And the same thing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 711920,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "happened with my last house in Venice on\nthe beach. I remember uh going to it and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 718240,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and thinking, \"God, it'd be neat to own\nthis.\" And and why? just it was a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 722480,
+    "dDurationMs": 7919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fantastic space or or atmosphere and you\nknow then with my house in Venice I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 728880,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think a few you know a few weeks later I\nowned it with the gym you know several",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 732480,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "years later I ended up owning it but I\nthink part of it you know is thinking",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 735600,
+    "dDurationMs": 7679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "positive and and visualizing\num you really um you've got to stay",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 741440,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "positive and not not think of the\nnegatives and uh it was you know crazy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 746079,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know this architect look going in\ngold gym and thinking god it'd be neat",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 749519,
+    "dDurationMs": 9440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to own this and suddenly you you know, I\ndo. Um, yeah, it was magical, but all",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 755279,
+    "dDurationMs": 9201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because I I was nice to Primkowski. I I\nhelped him get to California, become Mr.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 761120,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "World, and he remembered that. So, it\nwas the these chance encounters, which",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 766399,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is what I was talking to you earlier\nabout that I think are missing with all",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 770079,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "those smart technology we have, the the\nphones. If if I'm not mistaken, Gold's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 775760,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gym was started by a gentleman named I\nknow his last name was Gold. What was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 779200,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "his name? Joe Gold. Joe Gold. And did\nyou approach him with your partners and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 783120,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have a conversation? No, actually Joe\nGold started Gold's Gym in 1965 and then",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 787680,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he sold it to someone who sold it to\nsomeone who sold it to just one",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 790880,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "location. Yeah, just one location. Was\nit struggling at the time when you Yeah,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 794160,
+    "dDurationMs": 9679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it was struggling. It was in fact uh the\nthe owner at the time, Ken Sprag, his",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 798800,
+    "dDurationMs": 9440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wife had just died and um uh he she had\nbeen running the the bit the gym and he",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 806320,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "didn't want the headaches. You he was\nlosing money. he really he was involved",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 810720,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in other things in in entertainment\nindustry. So that gets back to really an",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 816320,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "important point I I think for your\nlisteners is that when you buy a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 819839,
+    "dDurationMs": 8881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business you need to understand know why\nit's failing or why it's for sale. Um,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 825200,
+    "dDurationMs": 6879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and certainly if it's bad management,\nyou know, I mean, there really three",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 830399,
+    "dDurationMs": 7361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "three things that make up a gym.\nLocation, capital, and management. And",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 835200,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so if you if you can buy a business at\nthe right price and know that you're a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 839360,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "better manager and have access to\ncapital, then it makes sense. But he was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 844959,
+    "dDurationMs": 5761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he didn't want to pour any more money\ninto it. When we lost money the first",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 848959,
+    "dDurationMs": 6721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "year we owned it, we we grossed a\nquarter of a million and lost 15 grand",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 852959,
+    "dDurationMs": 7361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "or something. uh because we Joe Weider\npulled pulled our our ads in the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 858160,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "magazine and so that's when I became\nfriends with Joe Weider to try and help",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 862000,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "him and get our mag our ads back in the\nmagazine. So you were marketing through",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 866240,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just smart magazines, right? Those\nlittle certain size ads in the back of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 870959,
+    "dDurationMs": 5761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the magazines.\nI don't know what the counterpart is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 874160,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "today, but uh those were invaluable in\nterms of getting uh income for your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 879279,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "product. And you didn't pay to get in\nthe magazines either? No. Why not? We we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 884560,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "made a deal with Joe that we would allow\nhim to film in our gym, whereas the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 888800,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "other gyms in the area would wouldn't\nallow that. And and uh you know, he",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 894160,
+    "dDurationMs": 7359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "needed people he needed um people of\nSouthern Cal the whole look of Southern",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 899680,
+    "dDurationMs": 6399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "California to make his magazine\nsuccessful. He was selling that that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 903279,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "image that that that that\nworld of health and fitness and he",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 908000,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "needed our gym to make that sale.\nEd, when you initially bought Gold's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 913199,
+    "dDurationMs": 4561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Gym, what was that initial business plan\nlike? What were the action steps you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 916720,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "were like, \"Okay, these are the first\nthings that we need to fix to turn this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 919839,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business around.\" Well, the first thing\nI thought of was the uh again getting",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 923839,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the magazine ads back in place because\nthat was a large portion of our income.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 928959,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Um we were, you know, printing t-shirts\nwas like printing money and it still is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 934079,
+    "dDurationMs": 8481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really. I don't know why they've gotten\nso expensive. We we could buy in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 938399,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quantity a t-shirt for $2.25 silkcreen.\nWe could sell it to our gym owners for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 944240,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "$4.50 and they could sell it for $9.95.\nSo everybody made money. And nowadays",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 949600,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the t-shirt they're more available. Back\nthen it was only that you had to buy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 953040,
+    "dDurationMs": 7359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "from the southeast US. Now it's all you\nbuy from all over the world and the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 957680,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quality is just as good or better. So\nit's uh you know it was and people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 962880,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wanted to have a gold gym. more people\nhave worn the the gold gym clothing than",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 966639,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have trained in the gyms. They wanted to\nidentify with that healthy lifestyle. I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 971600,
+    "dDurationMs": 9200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think because this this is back in the\nday when AIDS was ringing its raising",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 977040,
+    "dDurationMs": 8960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "its ugly head. Uh herpes, social\ndiseases were much in discussion and um",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 984320,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I you know you people were not going to\nbars anymore. They were gyms became the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 989360,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the the new bars of the of the 80s and\n90s because that was a place where you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 994639,
+    "dDurationMs": 7281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "would go to supposedly meet healthy\npeople. And so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 999600,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when you bought that first Gold's gym in\n1979, you had those problems that you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1004000,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "had to fix. How did you sort of transfer\nthat in order to expand and start",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1008240,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "building new locations? What was that\nsecond location that you guys look to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1012399,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "expand to? Well, this goes to how much\nof life is about luck or fate because I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1018320,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was working for Charles Emmes and\nAssociates in Venice. Um, and that you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1022639,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know probably your viewers know the the\nEMS lounge chair is one of his famous uh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1027600,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "productions or the chairs you see\noutside this room. Um, and uh, there was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1033280,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a building a couple blocks down that was\nfor lease or a one bay of a 4 bay",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1037600,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "warehouse. And I saw that and I thought\nand we were having trouble in Santa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1042559,
+    "dDurationMs": 6721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Monica with the police with the landlord\nand I said, \"Why don't we move the gym",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1046640,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "back to its roots, back to Venice?\" So,\nwe moved the gym in 1981 back from 4,500",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1052799,
+    "dDurationMs": 6721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "square feet in in Santa Monica on Second\nStreet to 9100 square feet in Venice.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1057760,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And then over the next nine years, we\ngrew the gym into 26,000 square feet. So",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1062320,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "again, luck because we were able to\nexpand in place into each each bay over",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1068080,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "time. And for you know, the other the\nother tenants who thought we wouldn't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1071600,
+    "dDurationMs": 10079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "last actually failed and moved out and\nwe then took over their space. So uh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1078559,
+    "dDurationMs": 8321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that allowed us to develop a 26,000 foot\ngym which became the model for gyms all",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1084080,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "over America for two decades. that was\nthat was considered that's the kind of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1088480,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gym you do and I was telling James\nearlier then it around the the year 2000",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1093679,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it all began to split where you needed a\nlow you know a lowcost model a middle",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1098880,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "model and a high-end model like equinox\nor lifetime fitness or so again the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1104640,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business was evolving and this is what I\ndon't people understand they don't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1108000,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "understand change um is that things you\njust can't build a a 35,000 foot box",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1113200,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like lifetime or 24-hour and expect it\nto work forever. Uh the models change",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1118480,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because of of all the tech everything\naround. I mean imagine you know Kodak or",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1122960,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Xerox or think about the things that\nbecame but people thought they would",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1126240,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "probably last forever.\nAnd what what were some of those",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1130000,
+    "dDurationMs": 7679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "challenges that you faced like of course\nlike you know this market really well",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1134480,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but as especially as you all decided to\nscale outside of maybe the Southern",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1139520,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "California area, right? What were some\nof those challenges that you faced as",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1143120,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you scaled from location to location to\nlocation? We were we were we were",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1146880,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "licensing or franchising eventually. So\num it was our owners who had basically",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1151840,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "their issue was raising getting money\nand a lot of it of course was family",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1155840,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "money uh because banks you know weren't\nwere not they didn't like gyms because",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1161120,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they were they were largely a cash\nbusiness",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1164240,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh and it was basically the introduction\nof EFT which started in Germany that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1169200,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "allowed uh the whole membership the\nwhole monthly due situation to to come",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1174400,
+    "dDurationMs": 7519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "into existence. you know, without that\nwe we could never have sold because the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1179840,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "private equity people couldn't couldn't\ntrust the money. I wanted to talk about",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1184000,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you said earlier that it was like 20\nplus years of having to go back and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1187679,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "forth with banks. Yeah. What was that\nshift when you kind of went to them?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1191520,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "What did you learn about going to\nnegotiate with the banks to get access",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1194240,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to the capital? Well, they wanted our\ncash flow. um you know they we had you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1199600,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know we had membership money coming in\nand that was very attractive to them and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1204000,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh uh we we also tried to factor our\nclothing business to get access to uh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1210160,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "money in advance of orders and we could\nshow them orders. So but it was it was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1214720,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "still um every year for 10 years we had\nto change banks and then finally we we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1221120,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ended up with City National Bank and\nthey they were good they were good to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1225280,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "work with. I I insisted on monthly\nmeetings with our banker and I think",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1229760,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that that's getting back again to the\npersonal touch. Um if you know like just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1235520,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like with the gym, if you never see if\nyou never have contact with a human",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1239280,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "being in the gym behind the counter,\nyou're not going to renew your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1243200,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "membership when it comes up in a year if\nthat's the first time you're seeing that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1246240,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "person. Now, when gold's really started\nto explode going into over 30 countries,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1252159,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but even just throughout the US, right,\nlike the demand increasingly grew and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1255280,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "grew and grew, what did you and your,\nyou know, fellow owners do to ensure",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1259520,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that the standard of each location was\nbeing met? Cuz I know that you placed a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1263360,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "big emphasis on the brand of golds,\nupholding that good customer experience",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1267280,
+    "dDurationMs": 4639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and having great standards at all them.\nIs there something that you did to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1270400,
+    "dDurationMs": 3920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "instill that in all the different, you\nknow, people that were running the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1272799,
+    "dDurationMs": 7681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "different locations? We had two\nfull-time inspectors and I I myself got",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1277760,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "involved, you know, I loved to travel. I\nbeing an architect, I had looked on many",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1282480,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of their plans or marked them up and so\nuh we we would go around the country and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1286720,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in fact that was kind of a funny uh I\nremember the first board meeting I had",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1290960,
+    "dDurationMs": 9520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when we sold to Brockway Moran in 1999.\nUh they said, \"Ed, why are why are your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1297120,
+    "dDurationMs": 9520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "franchise agreements only five years?\"\nuh when you know McDonald's is 10 and 10",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1303200,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and 20 and um I said well that's that's\nthe length of the probably the likely",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1308640,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wear of the carpet in other words we\nwanted to have a sort of a hammer to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1313280,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hold over their head saying you know\nwe'll we'll renew you but you've got to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1317039,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recarpet and this is again the days\nbefore uh rubber flooring",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1322240,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I think I invented rubber flooring\nbecause when the I put down a turf",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1326320,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "initially in the gold gym in Venice and\nwhen that began to wear out. I think,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1330240,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "well, this is not going to work long\nterm. But there was no rubber flooring",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1333679,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "industry back then. So, we bought a used\nconveyor belt and glued down and that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1339120,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "worked. Do do you have a story about a\ntime where you went to go inspect a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1343039,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "location and there was just some bad\n[ __ ] going on there or you were just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1345919,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like, well, funny stuff. Uh because we\nwe we pioneered co-ed fitness and I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1351760,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "remember going to a gym in I think it\nwas Ventura",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1355360,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh and the the guy the owner said well\nwe don't have many women members and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1361840,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when I when I went into his his women's\nlocker room I saw why because they had",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1366240,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gang showers for the women and and back\nin the day gang showers for the men you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1372000,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know which I had seen in the army and\nwhich were kind of popular among private",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1375520,
+    "dDurationMs": 7279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know men's clubs back and what\nworked. But then very quickly in Venice,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1380720,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we had to put up partitions. But yeah,\nyou you can't expect to draw female",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1385120,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "members if you if you're going to give\nthem gang showers.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1389200,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And your your background is in\narchitecture. Yeah. So I'm c how did",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1392720,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that kind of play a role in the design\nand the creating of the atmosphere of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1396240,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the Gold's Gym with that background? I\nthink it played a big a big big role",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1401200,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because uh I mean it's just common sense\nstuff that you you think of the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1405600,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "architects were were so geared to\nthinking about how people use the space",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1409360,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for instance in a locker you know room\nfirst off it's typically probably the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1413919,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "only area you're going to get a restroom\nin the gym. So you want to make it so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1418159,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "somebody could go in and out quickly\nwithout going through the wet area or",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1421919,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the the locker area. And that's where\nyou get the theft. You get the dry feet",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1426159,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mixing with the wet feet. It's just\ncommon sense to lay it out so that that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1429840,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "doesn't happen. Uh but and of course it\nalways amazed me that with most building",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1434799,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "departments, we had to put in more\ntoilets, water closet, urinals than the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1440080,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "average restaurant. You know, where are\nyou more likely to need to go to the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1443760,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bathroom restroom? You know, most of\nthese, you know, so many restaurants",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1447919,
+    "dDurationMs": 7521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "even in LA, I mean, it's a it's a\noneholder. It's uh it's ridiculous. So,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1453520,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "um, yeah, common sense stuff like that.\nOr you put your leg area in the back.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1457120,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "You don't want to have people come in\nand and see, you know, that area",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1462080,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "necessarily because it'll scare them.\nUm, or, you know, I would put cardio up",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1468480,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "front in some way because people say,\n\"Well, yeah, I can ride a bike. I could",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1471360,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "join this gym.\" So, it's almost like you\ndesigned it in a way to cater towards",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1475840,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the beginners. Yeah. And it's all it's\nalways about like that you're putting",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1479440,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the customer experience first. And what\nare the things that you I guess just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1483440,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like from the initial location to\nscaling? What are the key things about",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1487600,
+    "dDurationMs": 5199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "talking to the customer and learning\nabout customer experience? What are some",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1490559,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of those things you learned about just\nde developing the best product possible?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1495039,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Again, I think I had 537 house guests\nover the last 45 years. I think uh their",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1502080,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "rea, you know, their feedback was\ninvaluable in in in getting, you know,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1506400,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what what they like or dislike about the\ngym. Like the music was a big deal. I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1510000,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "talk about this in my book. Uh people\ndon't realize it, but back then uh that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1515200,
+    "dDurationMs": 5359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that was the common vibe. And nowadays,\neverybody's got something in their head.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1518559,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I mean, it's a Walkman's and you know,\nearbuds and head headsets. Now, they're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1523120,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on their they're on their own little\nworld and that really is a a downer. I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1527760,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mean, people say, \"Why how come the why\nwas a gym so exciting when you when you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1532640,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "owned it?\" Well, it was largely the\nmusic made a big difference. Simple",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1537600,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "things like that. I mean, how many\nrestaurants or bars you go in these days",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1541120,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and you can barely talk because the\nmusic's and there's so all this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1544159,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "distraction, all this all this, you\nknow, [ __ ] on the wall. These, you know,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1548240,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "who wants to watch golf or hockey and\nyou can't even talk, you know, people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1552080,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "are on their phones, they're not engaged\nwith each other. And I think I think",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1555679,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's just a testament of why Gold was so\nsuccessful is because it's the attention",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1559279,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to those small details. Some of you\nmentioned about restaurants and a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1562080,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personal pet peeve of mine is when they\nhave the screeching loud chairs when in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1566400,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reality it's probably, you know, 25\ncents to just put a little thing on on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1570000,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the bottom of it so that the chairs\ndon't squeak very loud. You know, it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1573120,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just like Yeah, those details are\nimportant. What most people don't know,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1576320,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when we walked into this building today\nto do this podcast, we walked in and you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1580880,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "took a look at the ceiling and you took\na look at the tile on the ground and you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1584320,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "could tell very specific details about\nit. So you can tell the passion is still",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1588559,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there from an architecture standpoint.\nWhy did you want to become an",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1591679,
+    "dDurationMs": 6721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "architecture? Cuz obviously that shaped\nlater on to help impact the expansion of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1596080,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the specific Gold's gym locations. Why\ndid you want to become an architect?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1599840,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Like what what was your feeling behind\nthat? It was the earliest uh memory I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1604320,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "had of of I came to Disneyland for the\ngrand opening in 1955.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1609039,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "My grand my grandfather was vice\npresident of the Union Pacific and he",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1612720,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "had a private railroad car. So my\ngrandmother who was in my very",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1617200,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "influential in my life uh said well\nlet's go to the grand opening. So I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1621679,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "remember coming here and I still have\nthe postcard I I I sent back home uh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1626559,
+    "dDurationMs": 8081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with from the uh the hotel downtown on\nPersian Square and I said you know I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1633360,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want to live here. I want to be an\narchitect because it it was just such LA",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1637440,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was so exciting. Uh and again I think\nthat's part of again one of the one of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1642240,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the messages in my my book is that you\nneed to big move to a big city I think",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1646880,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to really develop your potential. You\ncan't unfortunately you can't do it in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1650720,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nosebleleed Iowa. You got to move to the\nbig city. You got to get to where the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1654320,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "money is. Yeah. So you know you took the\ninspiration of being an architect in to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1659919,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "help you design the gyms. I'm going to\nassume that one of the things that the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1664159,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Vietnam War taught you was brotherhood\nand camaraderie. And to me, when I think",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1668480,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of the gym business, the fitness\nindustry, I don't just think of it as",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1672080,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to work out and self-improve and\nchange your lives. I can say for the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1675760,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "three of us, we've met some of our best\nfriends in the gym. It's the community",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1679760,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aspect. How big of an emphasis as you're\ngrowing, expanding this to over 700",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1684720,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "locations? How big of an emphasis was\ncommunity and brotherhood when you were",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1688559,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "building these gyms? It was huge. And\nthen that was one reason we had an",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1692000,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "annual convention in Las Vegas because\neverybody loves going there. and we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1697200,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "could get all of our we gave our owners\nuh three free three free room nights in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1701200,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the one of the major hotels on the\nstrip. So they were all together for at",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1706240,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "least three days maybe longer and that's\nthat built that camaraderie and then",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1710399,
+    "dDurationMs": 6241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they probably learned more from re\ninteracting with each other than they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1713760,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "did from any of our seminars because\nthey were getting real life stories",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1718240,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about how to run their business. Um that\nwas huge. And one of the things I'm",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1723120,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "learning from you right now is that Ed,\nyou didn't leave any money on the table",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1727600,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in the sense of not only did you have\nthe gyms, right? You ended up buying the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1732240,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "real estate, but you have the recurring\nrevenue coming in from the subscriptions",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1735279,
+    "dDurationMs": 5361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to the gym, you had events, you had\nmerch. How important was it for you in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1739279,
+    "dDurationMs": 4161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the fitness industry to vertically\nintegrate and kind of own all the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1742080,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "different aspects of the businesses that\nyou're involved in? I think it's very",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1745760,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "important for an owner to own the real\nestate as as you know easily as or",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1749760,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quickly as possible because uh you know\nthere are so many uh bad landlords out",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1756080,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there. I mean you can see it right right\nnow in LA. I mean it was so much empty.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1760080,
+    "dDurationMs": 8319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "People are not being realistic or smart\nand lot there a lot of dumb I mean when",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1765520,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we when we bought the gym in in uh on\nthe in Santa Monica we had a we had a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1770880,
+    "dDurationMs": 7919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "horrible landlord and I could see it\ngoing nowhere with his attorneys. Um in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1776240,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fact how how horrible it was. It was\nPeter Blake who was the star of TV",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1780960,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "series eventually uh lost a case\nregarding murdering his wife. So I mean",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1785840,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that that's the kind of person you know\nwe were renting from which we had we had",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1790720,
+    "dDurationMs": 7679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inherited when we bought the gym. So\nyeah I think uh the more you can own the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1795600,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "better um because you have control over\nit. And how did you ultimately own the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1800640,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "real estate at a lot of these locations?\nWas it just from getting the money from",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1804000,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know that first gym that you had\nbought and then you're like okay when we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1807039,
+    "dDurationMs": 4561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "get this next location we're going to\nbuy the real estate or what was that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1808960,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "process? I think a part of it was uh you\nknow finding the right kind of building",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1813279,
+    "dDurationMs": 9041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "or owner or being able to see the like\nif you were if you the building well",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1818559,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there many stories there but um if you\ncould see an older owner and knowing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1823919,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that his kids would would probably\ninherit the building but they would want",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1827039,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to sell it right away that was kind of a\nno-brainer. I mean there's certain types",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1831200,
+    "dDurationMs": 7839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of so it's really important to u to get\nto know your landlord and that's the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1837440,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "most import crucial time in a business\nwhen you can walk away from the deal",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1841360,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "don't rush into we had too many gym\nowners who in the back of their mind oh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1845840,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I want to they bought the franchise they\nwant to open in three months or five",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1849520,
+    "dDurationMs": 7279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "month whatever but that that time to\nnegotiate a lease or find a building is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1853919,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is really important and so despite being\naround a ton of bodybuilders your whole",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1859279,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "life Yeah. You mentioned that you you've\nalways been the guy in the suit and tie",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1863360,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and even on the cover of your book, it's\nyou in a suit and tie with two",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1866320,
+    "dDurationMs": 7359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bodybuilders and so what brought you to\num this culture and this community",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1872159,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "despite you know coming from more of a\nbusiness architect? I think well this is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1875120,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this is my body armor. U one of my house\nguests Bob Paris wrote a wonderful book",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1880559,
+    "dDurationMs": 7761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "called Gorilla Suit. So when you see\nthese big guys I think that that muscle",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1885679,
+    "dDurationMs": 7281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is their their their blue blade. I in\nfact I wore a blue blazer almost every",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1890720,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "day. I had a half a dozen and I would\nwear one every day for for the entire",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1895200,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "time and so they call me in fact they\ncall me the blue blazer and in fact one",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1898960,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of the wrestlers even adopted that name\nin the ring was the blue blazer. Um but",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1904399,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I think part of it well I I I'm there\nI'm the businessman. I'm there to teach",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1908399,
+    "dDurationMs": 6241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you the business. Pete and Tim and who\nare bodybuilders you know would wear",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1911919,
+    "dDurationMs": 7521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "their their you know their gym clothes.\nThey're there to help you train. Pete",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1916399,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was Mr. World. Tim was Mr. Empire State.\nUm, they were passionate about fitness",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1921279,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and Tim was really into the equipment.\nUh, which is key to get somebody who has",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1926720,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a passion for fitness who loves the gym\nequipment. For the for the people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1931039,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "watching, right, you had how many house\nguests did you say? 537. Can you give",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1935120,
+    "dDurationMs": 4559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "some context to them of some of these\npeople that you brought into your house",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1938159,
+    "dDurationMs": 4161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and ultimately mentored? Give give them\nsome of these names that you used to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1940720,
+    "dDurationMs": 8319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "work with. Well, in the back of my book,\nI I summarize the the various",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1946960,
+    "dDurationMs": 9439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "where where they some of them ended up.\nI 102 were pro bodybuilders. I think 70",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1953039,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "some were gym owners. Um 23 started\nsupplement companies that that probably",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1958240,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "did a billion dollars last year in\nsales. Give us an idea of some of these",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1962159,
+    "dDurationMs": 4561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "names. Who are some of these people?\nWell, um you may not Well, I don't know",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1965120,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if people wouldn't know them. Gerard\nDente or Rich Gaspari.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1969279,
+    "dDurationMs": 11921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "um you know, Gaspari Nutrition or Gerard\nDente had um Muscle Meds and MHP.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1976240,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Um Dave Enders, uh company called You\nJay Cutler was another one. Jay Cutler",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1983200,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "now has his own supplement company. Who\nare some of the wrestlers? Oh, Jim",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1987039,
+    "dDurationMs": 8401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hellwe the Ultimate Warrior, Sting,\nRandy Orton, John Cena. John Cena. Let",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1992480,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me ask you this. among all of the people\nthat kind of came under your belt that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1996960,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you had mentored, you had, you know, had\nthe chance to really see them really",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2000720,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "come up, what is it that separated the\nones that made it and the ones that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2004480,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "didn't? They didn't believe in\nthemselves as much as I did. I tell",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2008720,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people if you look at those 537 names,\nif more of them believed in themselves",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2013679,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "as much as I did, there'd be more John\nCena or Jay Cutlers. So John Cena had",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2017840,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like an unwavering. He was he was\nunbelievably focused or driven. It was a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2022799,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "machine. Was that innate or was it with\nthe community that he had ever had? Uh,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2026240,
+    "dDurationMs": 7679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he had a goal. I mean, like when his his\nhis first wife came out to stay with him",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2031360,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in one of my homes in Venice, uh, she\ndidn't like V. Venice is kind of an",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2035279,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acquired taste. I don't know if you've\nbeen down there, but it doesn't agree",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2038960,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with everybody. And she went, she didn't\nlike it and she sent her back home to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2043919,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Boston. I said, John, if it's meant to\nbe, you'll marry her 10 years from now.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2047679,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and he ended up marrying her 12 years I\nthink later but it lasted less than two",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2052320,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "years because um he had this goal in his\nmind. I mean you know these wrestlers",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2056560,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "are on the road 25 days a month. It's\nit's a you know it's a it's a lifestyle",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2062399,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you can't you know and John I think has\ngiven up having kids because uh he",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2066639,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "realizes he couldn't raise them\nproperly. So um he's on his second",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2070960,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "marriage with a beautiful Iranian woman\nfrom Iran. Um, but no, it's uh it's all",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2077520,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about again, you can have the the gift,\nthe talent, you can get lucky, but then",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2081440,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you've got to execute. And a lot of\npeople just um they give up too early.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2087200,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So, I know we're talking about him, but\nI but I don't think enough people",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2091040,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "realize you discovered John Cena, right?\nCould you walk us through that exact",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2095440,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "story of how you convinced John Cena to\nget into wrestling?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2099839,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Well, he talks about it the forward in\nmy book, his version, and I have my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2103839,
+    "dDurationMs": 7841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "version later on in the book, but but we\nboth agree that he was he was on spring",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2108400,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "break. He was out to see a girlfriend in\nin LA and he was training at [ __ ] Venice",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2115040,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and I saw him working out. And I think I\nwas telling you earlier, I think living",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2119520,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in LA, you you begin to look look at\npeople and think, \"Oh, yeah, he looks",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2123040,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "kind of like a, you know, Matt Damon or\nMark Wahberg or whatever.\" And Mark",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2126640,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Wahlberg was Marky Mark back then. He\nwas training in the gym and I said, you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2130640,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know, he looks like a big Mark Wahberg\nor or big Matt Damon. So I approached",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2135040,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "him in the parking lot. I remember I\ntapped him on the shoulder and I said,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2138800,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\"Have you ever thought about pro\nwrestling?\" And his exact words I'll",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2142240,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "never for He said, \"It would be my\ndream.\" But he said, \"There's just no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2145760,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "way I could ever do that. I don't, you\nknow, I'm, you know, I'm going through",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2150160,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no I couldn't possibly get out here to\npursue wrestling school, whatever.\" I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2154160,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "said, \"Well, I could make that happen.\"\nSo he came out after he graduated uh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2158560,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stayed in my home I think about five\nmonths with other house guests going",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2162160,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "through and went through wrestling\nschool. And back in the day it was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2166079,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "harder because rather than going to the\ntraining center in Orlando now you have",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2170640,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to go to you know wrestling school in in\nthe city where wherever you are. So he",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2176000,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "beat out the talent. He he was\ndiscovered essentially by the WWE",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2180320,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "scouts. I mean, I may have said\nsomething to them, but um they they gave",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2184960,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "him a contract 18 months later after I\nmet him. And how what was your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2190240,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "affiliation with the WWE in in the\nwrestling world? How did you kind of get",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2193599,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "into that for those that don't know? In\nthe early 80s, uh Vince McMahon tried to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2197359,
+    "dDurationMs": 8401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "buy us. Um he was um he was\nconsolidating wrestling leagues all over",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2203200,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the US, but this is when the golden gyms\nare beginning to pop up all over the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2207280,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "country. and he he saw his wrestlers\ntraining in our gyms with there was no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2211680,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "other place to train and they would they\nwould put on a gold gym t-shirt. They",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2215440,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "would go in the ring in front of 15,000\npeople in the hometown, tear off the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2219440,
+    "dDurationMs": 9200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "shirt and then you know do uh uh do\nmaybe even a TV show out from that town.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2225440,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So our our Vince McMahon I think as a\nmarketing genius he is you know well I'm",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2230720,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "giving this gold gym all his street\npublicity I might as well own it again",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2234000,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your vertical in integration.\nSo we we met with him but we you know we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2239359,
+    "dDurationMs": 8401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we we asked in his opinion for too much\nmoney but ironically it's what we sold",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2245119,
+    "dDurationMs": 8321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for you know many years later. And how\nmuch did you sell for? 44 million. I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2250720,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "remember asking Vince for 40 million and\nhe said no at first. No. So you didn't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2255119,
+    "dDurationMs": 8801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "settle. No. I got to ask you uh you\nsell. Yeah. What's it like when you see",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2261280,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that money hit your account? Well, I I\nwrite in my book, people have compared",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2265440,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it to having sex, and I would I would\nagree. U Yeah, when it hits, you know,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2271839,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you call your bank and it hits the your\naccounts, it's pretty fantastic. I love",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2276800,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that. What did What did that day look\nlike? Did you Did you do anything to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2279839,
+    "dDurationMs": 9361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "celebrate? Well, what did that day look\nlike for you? Well, I I didn't really um",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2284800,
+    "dDurationMs": 9440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I I took stock and note and less cash\nand to do the deal to make it work. my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2291520,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "partner Pete took more. So, I didn't\nreally I had enough cash to pay off my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2296800,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "my mortgage, my beach house. So, that's\nimmediately what I did with that money.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2302320,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Four years later, five years later, when\nwe when I got the rest of my money,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2306000,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's when I I went out and had a nice\nmeal. But I was telling James that I I'd",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2311040,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "always had in the back of my mind some\nexpensive car, but I ended up buying a a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2315040,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "used Mercedes convertible for 15 grand\nbecause I'd had se several of them. and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2319760,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and one event belonged to the Albert\nWarrior, but I loved again design-wise,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2325200,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I think, you know, the the old Mercedes\nconvertibles are just a beautiful",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2329599,
+    "dDurationMs": 7361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "classic. Mhm. And so I I that's what I\nbought. But uh you know, it can't buy it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2335440,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can't buy happiness, but it buys\nfreedom. Yeah. So uh you know, Ed, we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2340320,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "talked about it earlier that Yeah. a lot\nof your mentors died when you were",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2344160,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really young. Mhm. And I wanted to kind\nof collapse time real quick for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2348800,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everybody watching right now, but then\nalso, you know, to really figure out",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2353119,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what it is that you instilled in all the\npeople that were coming up when they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2357680,
+    "dDurationMs": 5679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "were young. What are some of those\nlessons that you instilled in them that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2361119,
+    "dDurationMs": 5761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you would instill in your younger self?\nYou know, at a time when maybe you had",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2364880,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lost your mentors. Let's go to that\nyounger version of you who was aspiring",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2368960,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to be a learner and a sponge. And if he\nhad the opportunity to get mentored from",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2373119,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you, what are those the lessons that you\nwould It's so important to be positive.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2377440,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "You've got to find out what's what's\ngood in you and and and and be be very",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2383040,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "positive about it. You can't ever be\nnegative.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2386320,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "You've got a team. You need to find out\nwhat each person does well and encourage",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2390560,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that. And you can't be you can't be\nnegative at all. I mean, people would",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2394560,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "joke with me, Ed, if you told someone\nthey look small three times in a day,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2398800,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they'd probably go kill themselves. Mhm.\nSo, I had to be very careful about what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2402480,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I would I mean, I would get I would get\nresumes, you know, photographs or videos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2406800,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of people saying, \"Well, Ed, do you\nthink I could be Mr. Olympia?\" Well, I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2411200,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wouldn't lie to them, but I'm not going\nto also encourage something I don't see.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2414480,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So, I would I was kind of the, you know,\nthe guy behind the curtain like the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2418240,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Wizard of Oz for many years because I\ndidn't want to hurt people's feelings.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2421599,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yeah. And I I've I've learned from you\nand just the most successful people that",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2427040,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we've met and that we've interviewed the\npower and the importance of mentorship.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2430640,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And it's a big reason why we actually\nstarted and built one of the biggest",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2434480,
+    "dDurationMs": 5359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "communities for business owners in the\nentire world. It's called the school of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2437680,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mentors. And every single week we\nliterally give access to people all over",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2441599,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the world to come in on live calls and\nget access to the multi-millionaire and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2446400,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "billionaire entrepreneurs that we\ninterview just like yourself. And so for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2449839,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everybody watching right now, guys, if\nyou guys want the ability to get",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2453280,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mentored every week from the millionaire\nand billionaire entrepreneurs that we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2457119,
+    "dDurationMs": 5761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interview and ask your specific\nquestions to them on live calls, we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2461520,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "built the number one community for\nbusiness owners, over 4,000 members and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2465040,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "live calls every week with heavy\nhitters. So go down to the link in the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2468319,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "description of this video to join the\ncommunity. We can't wait to see you on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2471920,
+    "dDurationMs": 10000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the inside. But back to kind of another\nquestion. Who were those people or not",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2478800,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "those people, your parents? Any specific\nlessons that they taught you? You'd",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2483520,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mentioned that they were depression\nparents, right? What did you learn from",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2486960,
+    "dDurationMs": 9600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your mom and dad? I think I learned the\nvalue of work. Um, you know, we weren't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2493520,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "given anything. And you were expected,\nuh, even though my dad was a surgeon,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2499520,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh, you were expected to work from day\none. Uh, I had a paper route from the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2504480,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "earliest day I can remember. And I\nremember always, you know, raking leaves",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2508160,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "or shoveling snow for money in Omaha,\nNebraska. Uh, and every summer I worked,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2513200,
+    "dDurationMs": 6399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, there was no, it was just\nunderstood that you were going to work",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2516480,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "somewhere. My dad was a a doctor to a\nnumber of factories. So in high school I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2522640,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I worked at you know like Continental\nCan or or I got bluecollar work and saw",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2528400,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that and I think these are you know\ngreat life experiences but my parents",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2533119,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "were you know overly cautious again you\nknow they never had credit cards or",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2536640,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "debit whatever um they always would say\nwell Ed you know be careful you might",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2540560,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "get hurt but my grandparents were saying\nyou know Ed god you're you're incredible",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2544640,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you could do anything and my grandfather\nyou know I'll never forget he uh he vice",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2550560,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "president of Union Pacific. He had he\nwas in charge of operations. We see",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2554079,
+    "dDurationMs": 8321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "60,000 men under him and I was in awe of\nhim and I would I would say that quite",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2559599,
+    "dDurationMs": 7841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "often to him and he said at you know\nwhen he retired he said Ed you know the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2564720,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "smart ones left for the air airlines. So\nin other words he was saying well yeah I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2569119,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was I was successful in that but I I\ndidn't have the the foresight to know to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2574240,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "leave for the airline industry which a\nlot of I guess uh railroad people did.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2578960,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "They saw the future in that. There's\nthere's a saying that we love here at",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2583599,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the school of hard knock because I want\nto go back to scaling. Yeah. Is the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2586560,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "saying that we love is that every new\nlevel has a new devil. Mhm. And there's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2591359,
+    "dDurationMs": 6881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "different challenges because you came in\nat one location eventually scaled to 700",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2595920,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "before you left. There's different\nchallenges between scaling from 0 to 10",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2600560,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "locations and there is 50 to 100 then\n100 to 700. What were the different",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2605839,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "challenges that you faced at every step\nand is there someone that you brought in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2610079,
+    "dDurationMs": 10240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to help you scale? Well, that was an\nimportant point where um we uh we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2618000,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "brought in a uh someone who had worked\nfor McDonald's and uh McDonald's was my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2623920,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if you talk about mentor um I've read\nseveral books on McDonald's. It's an",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2627680,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "incredible story. But, you know, again,\ntheir what they offer, you know, is is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2633040,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "very much what a gym offered in terms\nof, you know, being a friendly,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2636319,
+    "dDurationMs": 8241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "well-maintained, well equipped place.\nAnd in their case, they have a product.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2641040,
+    "dDurationMs": 9440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "But, um, we hired somebody who had also\ngone to onto McKenzie, which was back",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2647200,
+    "dDurationMs": 10399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "then was a really highly regarded, uh,\num, uh, consulting company. A little",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2654319,
+    "dDurationMs": 9361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tarnish now, but still sort of good. And\num we we hired him to look at our our",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2660400,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "franchise fees because um you know we\nweren't people were beginning to charge",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2666560,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "other compet competitors were charging\nwhat I thought were high franchise fees.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2670400,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So, I wanted to know from an expert what\nwe could reasonably charge and get away",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2674319,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with. And he came up with a number. And\nthat's why I think so many of the gym",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2679680,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "franchise out there now are are\noverpriced because they're charging what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2684319,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fast food charges 7% maybe of gross\nrevenue. Well, if you're not making any",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2689520,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "money, you know, that's that's hurts.\nAnd, you know, we don't McDonald's, you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2693599,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know, you they they're they're your\nlandlord typically. And you know, we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2697359,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "don't most gym franchises don't do as\nmuch for a gym owner as what say a fast",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2702560,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "food company does. I mean, McDonald's\npretty much does it all. We we we did",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2706800,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "end up having it. We we in 1997, we\nopened a Gold Gym University.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2711760,
+    "dDurationMs": 8319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "At some point, you know, when we\nstarted, there was no manual. Uh we were",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2716880,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inventing a new business. And over time,\nwe thought we got to a manual that was,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2722400,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, ridiculous. Uh over time, we\nthought we knew enough. We had to pass",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2726720,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that knowledge on to our owners or we\nwere basically negligent or or immoral",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2731040,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "even. You know, you have to you have to\nhelp your franchises succeed and some",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2735599,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "point you've got to share as much as you\nknow. But in the beginning there was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2738880,
+    "dDurationMs": 8239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nothing. So it got more sophisticated as\nwe grew. So in the beginning it starts",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2745119,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "off it's probably just you and your\nfounders your your co-founders just you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2749520,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know scaling the franchises yourself\nwith everything. you're figuring it out",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2752640,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yourself and then you start to build a\nmanual and at what point did you start",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2756160,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to offer franchising to other other\npeople? quite a quite a few. We, you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2760319,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know, I was the first franchise in 1980,\nyou know, 45 years ago, but we didn't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2765839,
+    "dDurationMs": 8961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really start franchising entire country\nuntil uh 96, 1996. There were some",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2772720,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "states where we couldn't go into because\nlike New York State because they didn't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2777040,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they didn't recognize the difference\nbetween a license and a franchise. And",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2780480,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "then that's the difference. A franchise\nuh you have a business plan. You have a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2785920,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you have a trademark. You're charging a\nfee for the use of that. and you have a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2789599,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business plan. A license ne doesn't\nnecessarily have a business plan",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2793119,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "attached. But but at some point we\nthought we knew enough that we had to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2797599,
+    "dDurationMs": 4881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "give our owners a manual and a school.\nSomething I find really interesting",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2801040,
+    "dDurationMs": 4559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because you guys did offer franchising,\nbut there's also another model and it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2804079,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a different industry, but Chipotle, for\nexample, they own all of their stores.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2808560,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "They're privately owned. Why did you\nguys decide to ultimately go the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2812000,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "franchise route versus going privately\nowned? Because we're in a real service",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2816160,
+    "dDurationMs": 9280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business. uh not food. I I remember I\nmet with the founder of PF Chens in in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2822880,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Santa Monica many many years ago and he\nasked my advice about fr and same way",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2827200,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with Jane Fonda too uh asked my advice\nabout franchising and I said no you know",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2832480,
+    "dDurationMs": 5359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you should own them all because you're\ndealing there with a food product which",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2836400,
+    "dDurationMs": 5439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you've got like McDonald's which you've\ngot to keep consistent. I mean they've",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2839359,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "done it with franchising but it's very\nthey have a lot of company owned stores",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2843280,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "too but no we were we want people local\npeople who can build community and I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2849040,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "don't think you can do that. I mean, God\nbless the big chains in America that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2853520,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "are, you know, have hundred, but they're\nthey're all over the place now, too,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2856880,
+    "dDurationMs": 8479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because I don't think you can replicate\nthat that same quality of service with a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2862079,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "franchise in in in this industry, you\nknow, and think about it. How many how",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2867280,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "many how many businesses are there like\na gym business? It's so much about",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2870880,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people.\nUm, yeah. I wanted to talk real quick",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2876000,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about your ingredients to success. that\nyou've talked about hard work,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2879920,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "perseverance, team building, but one of\nthese that we talked about earlier was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2884160,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "luck. How big of a factor was luck for\nyou and your success? It was it was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2888800,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "huge. Uh and again, this is I've read a\nlot of biographies, autobiographies, and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2893920,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that always comes up. I just saw someone\nthe other day uh wrote a Oh, yeah. Uh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2899119,
+    "dDurationMs": 8561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Barry Diller just came out with a book\nuh and he he",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2905599,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "luckiest man alive. What was an instance\nin your career when you're growing golds",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2910079,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that was just pure luck that you can't\nattribute? Finding the building if we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2914240,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "had if we'd been trapped in Santa Monica\nand never gotten that building in Venice",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2918400,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that happened to be like an accordion\nfile where you could just expand over",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2921839,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nine years to 26 we would have been\ndead. I think there were other gyms that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2926480,
+    "dDurationMs": 7359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "came in to compete with us but they were\nsmaller and couldn't grow. So we could",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2931520,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "grow in place. That was incredible luck.\nas you were growing, I'm sure that you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2935280,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "had a lot of competitors come in. Did\nyou have a lot of copycats that were",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2938720,
+    "dDurationMs": 6879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "coming in as Yeah, people began to copy,\nyou know, that and uh but they were",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2942960,
+    "dDurationMs": 6399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "either smaller or couldn't grow and they\nalso I don't think were probably as",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2947440,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "adaptable as you. No, you were committed\nto change. Yeah. What is it at every",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2951920,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "level, at every new year, every new\ndecade? How did you keep on innovating",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2956400,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and staying on top of the trends that\nwere coming into fitness? You know, you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2959200,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you when I when Pete Tim and I bought\nthe gym in in 79, there wasn't one bike",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2963920,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in the gym. Cardio was, you know,\nunknown. And I saw people riding uh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2969599,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bikes on Venice Beach and it's one of my\nfavorite activities. And I said, well,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2974640,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, we ought to bring this inside\nfor when days it rains. So, that became",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2979520,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we, you know, initially we put the bikes\non top of the restroom in the first room",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2983280,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and the maintenance shed because it's a\nboring activity. And this way you could",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2986880,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "be kind of entertained watching people\non the gym floor. And so, you know,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2991119,
+    "dDurationMs": 7521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "later on when when big screen TVs became\nin existence, we we put a we put we put",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2996960,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it put them in a separate room with a\nbig TV. We called it bikes in front of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3000800,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the TV. Now that someone trademarked as\ncardio theater, but that's how this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3004800,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "evolved. And I remember when we put I\nactually have letters I got death",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3009599,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "threats of putting in aerobics in\nGoldstein Venice. How could the Mecca",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3013839,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have have aerobics have, you know,\nfemale members like that? And uh that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3019200,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but that was important. That was an\nimportant part of getting women into the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3022400,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gym and taking over from what Jane Fonda\nstarted.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3027040,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "There is there's there's a big change\nthere. You kind you said you pretty much",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3030880,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pioneered co-ed gyms. Yeah. Why why did\nyou decide to make that, you know, a key",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3036319,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "component of goals gym? And what were\nsome of the challenges you kind of dealt",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3039839,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with that? We knew part of the uh\nmembership back in the when we bought",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3044160,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the gym were quite a few female\nbodybuilders and the gold gym in Santa",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3048800,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Monica really didn't even have a\nrestroom for them. Uh so we we we knew",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3053680,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right from the beginning that we had to\naccommodate the women back in the day.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3058240,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Again, people almost can't imagine this,\nbut the the typical Jackalene European",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3063440,
+    "dDurationMs": 5679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Health Spa, those kind of clubs, it was\nMonday, Wednesday, Friday were men.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3067119,
+    "dDurationMs": 6881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Tuesday, Thursday was women, Saturday\nwas co-ed, and the gym was closed on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3071359,
+    "dDurationMs": 8881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sunday. So, I said, \"Well, this is nuts,\nyou know, this is America.\" And again, I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3077359,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we rode I was lucky in a way. I mean, I\nrode, you know, I was at Berkeley during",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3081680,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "free speech riots. I was at Vietnam. I,\nyou know, came out with the health food,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3086160,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I mean, health health craze, feeling\ngood about yourself. The Ronald Reagan",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3091200,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "boom years. So, all these, you know,\nwomen's lib was huge. So, these were all",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3095839,
+    "dDurationMs": 8561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "these were all, what would you call\nthem? Generational moments that that we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3101200,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "were part of and we we embraced. I mean,\nwe were we we we mandated the gyms be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3107200,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "open seven days a week and be co-ed. And\nwe had I remember gym owners had crosses",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3112000,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "burned in front of their facilities in\nthe south because we were getting you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3116400,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know people thought women were going to\nget raped in the gym. And I I don't know",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3120640,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we never we never had an issue. We never\nhad a lawsuit. How old are you now? 80.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3125599,
+    "dDurationMs": 4081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "You're one of the sharpest I think\nyou're the sharpest damn 80-year-old",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3128000,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I've ever seen. How do you stay so\nsharp, so young, and so fit at 80 years",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3131520,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "old? Uh I eat two meals a day. uh\nbreakfast and happy hour and I I try to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3137200,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "walk 12,000 steps and get exercise or\nswimming in when I can and get eight",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3142559,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hours sleep. I think most of the people\nI know don't get enough sleep. if you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3147119,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can get a power nap during the day. And\nthat was one of my reasons for my new",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3151040,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gym concept is to build facilities\nwithin these shared office like this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3155760,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "where if you're working in a shared\noffice space for 10 hours and I showed",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3159760,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it to Tony Robbins. He said, \"Ed, I\nthink people would join just to have a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3163280,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "take a shower or take a power nap. I\nwould have sleeps in in the facility",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3168240,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "besides the virtual training because I\nthink um you know you you want to make",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3173680,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh the places make sense, useful.\" We\nhad uh interviewed a guy named Brian",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3178640,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Johnson. He has he has this goal to not\ndie. The number one thing that he said",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3183200,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was uh in order like for an entrepreneur\nto take care of your health is the sleep",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3188319,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "component of that. So, I think that's\nit's really awesome. I wanted to ask you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3192079,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for, you know, anybody wanting to get\ninto the gym industry today, because you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3196559,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you've had probably the most pivotal\ncareer in the gym space over the course",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3200720,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of your career. For somebody wanting to\nget into the gym industry today, what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3204079,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "would your advice be to them? I've\nactually consulted recently with a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3207280,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "number of of people with that same goal\nthat people are passionate about",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3210960,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fitness. And actually, before co I would\nhave said don't don't do it. It's scary",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3215359,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "world. But now, actually, you can see it\nin LA. There are a lot of what I call",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3219440,
+    "dDurationMs": 8879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pop-up gyms where uh what's kind of old\nis like back to the future. What's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3225760,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what's new is what's old is new again\nwhere where the smaller gyms like the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3230000,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "original gold gym now work because the\nbig box gyms are in trouble uh because",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3234880,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they the baby boomers aren't going back\nin the same numbers. So they're trying",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3239119,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to re reposition a lot of their space.\nBut for someone, you know, like you guys",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3244160,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to, you know, to find a 10,000 square\nfoot building or smaller and open up",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3248720,
+    "dDurationMs": 8639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your own gym now makes sense. And and\nthe these are more personal training",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3253680,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "style gyms where I see owners getting as\nmuch as $780 a month. So again, what's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3260880,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "changed is the the membership pricing\nstructure, the the square footage, but",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3265440,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "um it it actually could be a very good\ntime, especially if you can go into an",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3269200,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "older facility that that closed during\nCOVID and and has all the shower",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3273359,
+    "dDurationMs": 7361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "facility, which is all the the money,\nall the cost. So I've seen that happen",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3278079,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in various places right now in the US in\nin in this era of your life. How",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3283359,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "important has God been for you? How\nimportant is faith? I'm still going to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3286559,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "church. I'm not I'm not happy with the\nCatholic church and a lot of the way",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3291440,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "things have been handled, but I think\neverybody needs I was also going to a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3296559,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "therapist most of my life. I think\neverybody needs, you know, an hour with",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3300240,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "their creator and an hour perhaps with\ntalking to somebody about the week",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3303920,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they've just lived through. So I think\nthat's whether you believe in a god or",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3308160,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not, you I think you you owe it to\nyourself to somehow, you know, an hour a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3313359,
+    "dDurationMs": 8561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "week of meditation or just uh analyzing\nwhat what your life is like and who your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3318640,
+    "dDurationMs": 7919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interactions have been with is valuable.\nAnd we like to end these podcasts off",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3324000,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with two questions.\nIf you have one guiding principle for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3328720,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the younger generation, what would that\nbe? 80 years of life of numerous",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3334240,
+    "dDurationMs": 4879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "careers. Like I I like to say numerous\nlifetimes in one. Get give them one",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3337839,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "guiding principle that they can take\nwith them for the rest of their lives.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3341040,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Be sociable\nand take risks.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3345599,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I love it.\nAnd so like you said, 80 years of life.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3351280,
+    "dDurationMs": 9279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Absolutely tremendous. How do you want\nto be remembered? Uh I want to be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3357359,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "remembered for uh improving the quality\nof of people's lives and and helping",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3362640,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "them live longer.\nYeah, I love it. Well, Ed, this was a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3368160,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pleasure for us to get get to spend the\nday with you and hang out with you. It",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3371760,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "means the world to us. Um, we're we're\nvery thankful for you and, you know, we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3376160,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "got to learn a lot from you today. Well,\nthank you. Um, you also have a new book",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3380559,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's coming out. Can you talk a little\nbit about that and the name of the book?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3383119,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Well, during co I used the opportunity\nto write a book. So now besides being",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3387839,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gym owner architect, I can also be a\nmemorist. And uh it was a really fun and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3392480,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I would encourage everyone to uh maybe\nkeep a diary. I didn't keep a diary. I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3396799,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wish I had but uh we all have a book\ninside of us and it was a great",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3401599,
+    "dDurationMs": 8321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "experience and it never really felt like\nwork. Um it was very enjoyable. I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3407040,
+    "dDurationMs": 9279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "unfortunately I I took typing in high\nschool and that that's one thing that my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3413599,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "private uh school wouldn't teach and I I\nthought well this might be valuable. I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3418400,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "went to a tech school or public school\nduring the summer to learn it but you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3422160,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know when if you can type fast uh you\nknow it's so much fun to write a book",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3425839,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because you keep re reworking it and uh\nit was a wonderful experience and I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3431280,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reconnected with a lot of uh former\nhouse guests which was great. John Cena",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3435599,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wrote a beautiful forward. So, love it.\nI designed the cover. I uh I'm proud of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3441440,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it. Hey, well, we're proud of you, Ed.\nAnd and I got to say thank you so much",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3445200,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "once again. Everybody watching, we'll\nput the links down to the description to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3449280,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "get a copy of Ed's book as well as where\nwe can find you out on social media.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3452559,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "That way, we can keep following your\njourney. Everybody watching right now,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3455920,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we appreciate you. Be sure to like and\nsubscribe for incredible content and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3460000,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interviews every week with the most\nsuccessful people in the world just like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3463680,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ed Connors. As I mentioned earlier,\nguys, we've built the number one",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3467359,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "community for business owners in the\nentire world, the school of mentors. So,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3471520,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if you want access to the minds and the\nskills of the millionaires and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3475599,
+    "dDurationMs": 5281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "billionaires we interview every week on\nlive calls, just go down to the link in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3479359,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the description of this video to join\ntoday along with the links to to tap in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3483839,
+    "dDurationMs": 5201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with Ed. We can't wait to see on the\ninside of our community. And with that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3487599,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "being said, we'll see you in the next\nepisode.",
+      "acAsrConf": 0
+    } ]
+  } ]
+}
