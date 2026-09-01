@@ -2,7 +2,7 @@
 
 ## Overview
 
-This money teaching distills the core principles Myron Golden used to go from broke to making $15 million in a single year and building an eight-figure business. It exists to teach entrepreneurs how to shift their mindset from survival to wealth creation by focusing on intention over distraction, solving expensive problems for the right people, building assets instead of chasing income, and reinvesting in mentorship and self-education. These principles are framework-agnostic and apply regardless of industry, business model, or current income level.
+This money teaching distills the core principles Myron Golden used to go from broke to making $15 million in a single year and building an eight-figure business. It exists to teach entrepreneurs how to shift their mindset from survival to wealth creation by focusing on intention over distraction, solving expensive problems for the right people, building assets instead of chasing income, and reinvesting in mentorship and self-education. These principles apply regardless of industry, business model, or current income level.
 
 ## When to Follow These Money Teachings
 
@@ -11,7 +11,7 @@ This money teaching distills the core principles Myron Golden used to go from br
 - When you feel overwhelmed by distractions and need a framework to prioritize high-leverage activities
 - When you are ready to shift from "working hard" to "building assets" that generate passive or scalable income
 - When you want to improve your sales and marketing without feeling manipulative or pushy
-- When you are considering investing in mentorship, coaching, or education and want to know how to evaluate ROI
+- When you are considering investing in mentorship, coaching, or education and want to know how to evaluate return on investment (ROI)
 - When you are entering a new economic era (such as AI) and want to position yourself for outsized wealth creation
 
 ## Steps
@@ -46,7 +46,7 @@ People need to know, like, and trust you before they will invest significant mon
 
 ### Step 8: Keep Expenses Low Even When Income Is High
 
-Myron Golden made millions, lost it all, and rebuilt. One of the biggest reasons he lost everything was upgrading his lifestyle too soon when his income increased. The scripture says, "When riches increase, so do they that consume them." To avoid this, structure your finances so that you can live on 10% or less of your revenue or income. If the bottom falls out, you can survive for at least two years. Reinvest the rest into assets, business infrastructure, and cash reserves. The saying "stay small enough long enough and you'll be big enough soon enough" captures this principle perfectly. The more money you have and the better you understand how to turn money into more money, the faster it compounds, as long as you are not constantly pulling it out to fund lifestyle inflation.
+Myron Golden made millions, lost it all, and rebuilt. One of the biggest reasons he lost everything was upgrading his lifestyle too soon when his income increased. The scripture says, "When riches increase, so do they that consume them." To avoid this, structure your finances so that you can live on 10% or less of your revenue or income. If the bottom falls out, you can survive for at least a couple of years. Reinvest the rest into assets, business infrastructure, and cash reserves. The saying "stay small enough long enough and you'll be big enough soon enough" captures this principle perfectly. The more money you have and the better you understand how to turn money into more money, the faster it compounds, as long as you are not constantly pulling it out to fund lifestyle inflation.
 
 ### Step 9: Focus on Building and Buying Assets
 
@@ -54,7 +54,7 @@ Income follows assets. Stop focusing on working hard, eight hours for eight hour
 
 ### Step 10: Invest Heavily in Mentorship and Self-Education
 
-Mentorship is the ultimate shortcut. Someone has already spent their whole life figuring out how to do something, and all they will do is charge you to teach you how to do it. Myron Golden has spent $1.7 million on mentorship, books, courses, and coaching programs, and he has made exponentially more than that in return. The investment in your own mind is the highest-ROI investment you can make. To implement this, identify mentors who have already achieved the results you want, buy their programs, join their masterminds, and do what they tell you to do even if it seems uncomfortable or counterintuitive.
+Mentorship is the ultimate shortcut. Someone has already spent their whole life figuring out how to do something, and all they will do is charge you to teach you how to do it. Myron Golden has spent $1.7 million on mentorship, books, courses, and coaching programs, and he has made exponentially more than that in return. The investment in your own mind is the highest return on investment you can make. To implement this, identify mentors who have already achieved the results you want, buy their programs, join their masterminds, and do what they tell you to do even if it seems uncomfortable or counterintuitive.
 
 ### Step 11: Set Objectives, Not Goals with Deadlines
 
@@ -80,7 +80,7 @@ Myron Golden was the brokeest person in his mastermind. Everyone there acted lik
 
 ### Example 2: Rebuilding Wealth After Losing Everything by Keeping Expenses Low
 
-Myron Golden made millions in his forties, upgraded his lifestyle, and then lost everything due to a series of tragedies. He rebuilt by keeping expenses extremely low even as his income grew again. He lived on a small percentage of his revenue and reinvested the rest into assets. Today, he has set up his finances so that even if the bottom falls out, he will be okay for years. The example shows that it is not how much you make, but how much you keep and reinvest, that determines long-term wealth.
+Myron Golden made millions in his forties, upgraded his lifestyle, and then lost everything due to a series of tragedies. He rebuilt by keeping expenses extremely low even as his income grew again. He lived on 10% of his revenue and reinvested the rest into assets. Today, he has set up his finances so that even if the bottom falls out, he will be okay for years. The example shows that it is not how much you make, but how much you keep and reinvest, that determines long-term wealth.
 
 ### Example 3: Using Mentorship to Accelerate Sales Skill
 
@@ -111,7 +111,7 @@ Every book Myron Golden writes pays him money every month for the rest of his li
 ## Keep In Mind
 
 - Myron Golden made $15 million in a single year and has built an eight-figure business, but he also went broke after making millions because he upgraded his lifestyle too fast
-- The principles are framework-agnostic and apply to any industry, business model, or income level
+- The principles apply to any industry, business model, or income level
 - "Stay small enough long enough and you'll be big enough soon enough" is a core financial survival principle
 - The people who got started in AI between 2020 and 2025 will create the wealth of the future
 - People do not lack access to abundance; they lack awareness of abundance already around them
@@ -135,7 +135,7 @@ Every book Myron Golden writes pays him money every month for the rest of his li
   **Solution:** Write down your five highest-leverage activities every morning and do them first. Delegate or eliminate everything else.
 
 - **Problem:** Upgrading lifestyle too quickly when income increases, leaving no buffer for downturns.
-  **Solution:** Commit to living on 10% or less of your revenue. Reinvest the rest into assets and reserves for at least two years before increasing personal spending.
+  **Solution:** Commit to living on 10% or less of your revenue. Reinvest the rest into assets and reserves for at least a couple of years before increasing personal spending.
 
 - **Problem:** Selling to people who need your product but cannot afford it or are not ready to buy.
   **Solution:** Position your messaging to attract the right buyer and repel the wrong one. Put your price upfront and focus on people with the means and desire to pay.
