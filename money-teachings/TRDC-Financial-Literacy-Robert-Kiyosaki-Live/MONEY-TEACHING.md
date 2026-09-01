@@ -35,7 +35,7 @@ Apply Kiyosaki's simple definition: **An asset puts money in your pocket. A liab
 
 ### Step 4: Stop Working for Money — Make Money Work for You
 
-The fundamental mistake most people make is working for money. According to Kiyosaki and Trump, some wealthy people do not work for a paycheck in the traditional sense — they work to acquire assets that generate cash flow. When you work for a paycheck, income stops when you stop working. When you own assets, income continues whether you work or not. Shift your goal from "get a high-paying job" to "acquire assets that generate passive income." Kiyosaki and Trump reference a Forbes figure of one million dollars per year in passive income as a benchmark for financial freedom.
+The fundamental mistake most people make is working for money. According to Kiyosaki and Trump, some wealthy individuals do not work for a paycheck in the traditional sense — they work to acquire assets that generate cash flow. When you work for a paycheck, income stops when you stop working. When you own assets, income continues whether you work or not. Shift your goal from "get a high-paying job" to "acquire assets that generate passive income." Kiyosaki and Trump reference a benchmark figure of one million dollars per year in passive income for financial freedom.
 
 ### Step 5: Use Debt Strategically, Not Recklessly
 
@@ -47,7 +47,7 @@ When paying down multiple debts, do not always start with the highest interest r
 
 ### Step 7: Invest in Your Financial Education First
 
-Before investing in anything, invest in your own financial education. Traditional schooling often does not teach money management — it is designed to prepare students for employment, not investing. Learn about tax law, insurance, accounting, debt, and the different asset classes (business, real estate, paper assets, commodities). The more you know, the fewer mistakes you will make with your money. Kiyosaki has stated that he learned practical finance outside of formal business education rather than at business schools such as Wharton.
+Before investing in anything, invest in your own financial education. Traditional schooling often does not teach money management — it is designed to prepare students for employment, not investing. Learn about tax law, insurance, accounting, debt, and the different asset classes (business, real estate, paper assets, commodities). The more you know, the fewer mistakes you will make with your money. Kiyosaki has stated that he learned practical finance outside of formal business education.
 
 ### Step 8: Choose Your Associates Carefully
 
@@ -55,7 +55,7 @@ Kiyosaki describes people as potential assets or liabilities. A bad financial ad
 
 ### Step 9: Build Assets That Provide for Future Obligations
 
-Plan ahead for future financial obligations such as caring for aging parents or family medical costs. Kiyosaki notes that bond markets may not provide sufficient income for these needs, so individuals must build their own asset base to cover them. Ask: "How much monthly cash flow will I need to cover these future liabilities?" and build assets that produce that income.
+Plan ahead for future financial obligations such as caring for aging parents or family medical costs. Kiyosaki notes that bond markets may not provide enough income for these needs, so individuals must build their own asset base to cover them. Ask: "How much monthly cash flow will I need to cover these future liabilities?" and build assets that produce that income.
 
 ## Examples
 
@@ -93,9 +93,9 @@ You have three credit cards: Card A ($500 at 20% APR (annual percentage rate)), 
 - A FICO score (Fair Isaac Corporation score) measures your ability to borrow money, not your ability to build wealth — Kiyosaki borrowed money.
 - The teaching says traditional school systems — particularly in the U.S. — prepare students for employment (E quadrant) rather than investing (I quadrant)
 - This teaching characterizes "live below your means" as limited advice because it focuses only on reducing spending; the teaching suggests also building assets to expand income as a complementary strategy
-- Trump says political parties (Democrat and Republican) both prioritize their own interests over the middle class
+- The teaching notes that political parties may prioritize their own interests over the middle class
 - In this framework, a personal residence is treated as a liability unless it produces positive cash flow
-- According to this teaching, some wealthy individuals prioritize building wealth through businesses, then real estate, then paper assets — though individual paths vary
+- According to this teaching, some individuals prioritize building wealth through businesses, then real estate, then paper assets — though individual paths vary
 
 ## Security & Safety Notes
 
@@ -105,7 +105,7 @@ You have three credit cards: Card A ($500 at 20% APR (annual percentage rate)), 
 - Protect your personal financial data — never share account numbers, Social Security numbers, or banking details with untrusted parties
 - Diversify across asset classes and jurisdictions; do not keep all assets in one location or currency
 - Use legal structures (LLCs (limited liability companies), corporations) to protect personal assets from business liabilities
-- Be aware that government programs and promises (Social Security, pensions, FDIC (Federal Deposit Insurance Corporation) insurance) may not provide adequate income for your retirement needs
+- Be aware that government programs and promises (Social Security, pensions, FDIC (Federal Deposit Insurance Corporation) insurance) may not provide enough income for your retirement needs
 
 ## Common Pitfalls
 

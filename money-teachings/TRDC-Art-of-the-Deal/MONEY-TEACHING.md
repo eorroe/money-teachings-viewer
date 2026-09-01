@@ -27,11 +27,11 @@ Question the advice to "live below your means." This approach can limit your gro
 
 ### Step 4: Develop Your Financial IQ (financial intelligence) Through Action and Experience
 
-Financial intelligence affects whether an investment succeeds or fails. You must learn to evaluate advice and investments through financial literacy. Read books, study markets, and make calculated investments. Even failures are valuable education if you analyze where you went wrong and rebuild smarter.
+Financial intelligence affects whether an investment succeeds or fails. You must learn to evaluate advice and investments through financial literacy. Read books, study markets, and make calculated investments. Even failures are valuable education if you analyze where you went wrong and rebuild with more knowledge.
 
 ### Step 5: Choose Investments Based on Knowledge, Not Popular Opinion
 
-Conservative "safe" investments like blue-chip stocks can still lose value. Gold, real estate, stocks, and oil can all produce gains or losses. Your financial IQ affects the outcome. Avoid investing based solely on what others say is safe; invest based on what you understand and have thoroughly analyzed.
+Conservative "safe" investments like blue-chip stocks can still lose value. Gold, real estate, stocks, and oil can all produce gains or losses. Financial literacy can affect the outcome. Avoid investing based solely on what others say is safe; invest based on what you understand and have thoroughly analyzed.
 
 ## Examples
 
@@ -45,7 +45,7 @@ If you put 20% down on a $200,000 rental property that cash flows $300 per month
 
 ### Example 3: Choosing Between a First-Class Flight and a Investment Book
 
-An acquaintance who had not yet built wealth insisted on flying first class to reinforce the identity of a high earner. While not everyone should spend beyond their means, this example illustrates how your approach can affect outcomes. The actionable lesson is to invest in the mindset and education that moves you toward your goals, as long as the foundation is financial knowledge.
+An acquaintance who had not yet built wealth insisted on flying first class to reinforce the identity of a high earner. While not everyone should spend beyond their means, this example illustrates how your approach can influence results. The actionable lesson is to invest in the mindset and education that moves you toward your goals, as long as the foundation is financial knowledge.
 
 ## Best Practices
 

@@ -19,11 +19,11 @@ Approach every business conversation, meeting, and transaction with the mindset 
 
 ### Step 2: Use Respect as a Door-Opener, Not Just Politeness
 
-Respect in this context is strategic. Kiyosaki and Trump discuss how genuine respect for another person's time, expertise, or position can differentiate you from competitors who rely solely on price or pressure. When you show respect for someone, you reduce their resistance and create space for collaboration. Practice this by asking thoughtful questions, honoring commitments before they are due, and publicly acknowledging contributions when things go well.
+Respect in this context is strategic. Kiyosaki and Trump discuss how genuine respect for another person's time, expertise, or position can differentiate you from competitors who rely solely on price or pressure. When you show respect for someone, you can reduce their resistance and create space for collaboration. Practice this by asking thoughtful questions, honoring commitments before they are due, and publicly acknowledging contributions when things go well.
 
 ### Step 3: Demand Respect from Your Circle by Setting Clear Standards
 
-The video teaches that surrounding yourself with people who respect you is important for financial growth. Trump and Kiyosaki both emphasize that tolerating disrespect from partners, employees, or associates reduces your effectiveness and can reduce your credibility. Audit your current relationships: remove or restructure any arrangement where you are undervalued. Replace those interactions with people who demonstrate commitment and integrity.
+The video teaches that surrounding yourself with people who respect you is important for financial growth. Trump and Kiyosaki both emphasize that tolerating disrespect from partners, employees, or associates reduces your effectiveness and can affect your credibility. Audit your current relationships: remove or restructure any arrangement where you are undervalued. Replace those interactions with people who demonstrate commitment and integrity.
 
 ### Step 4: Leverage Respect to Turn Problems Into Opportunities
 
@@ -61,7 +61,7 @@ You invested in a venture that underperformed. Instead of reacting with anger or
 
 ## Keep In Mind
 
-- Respect is an asset: the results come from consistent behavior
+- Respect is an asset: results come from consistent behavior
 - The way you treat people when you have no incentive to act differently reveals your true character and provides insight into how you might behave when money is at stake
 - Financial education and respect are different skills: knowledge tells you what to do, respect influences who will support you
 
