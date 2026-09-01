@@ -1,0 +1,2834 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 80,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "This is Lily, an entrepreneur who owns a\n$5,000 per month business working",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 4319,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entirely for herself. And my name is\nSimon Squib, and I've been in business",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 7600,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for over 35 years, with my most recent\nstartup being valued at over $50",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 11280,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "million. In this episode, Lily is going\nto explain the exact steps she took to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 15519,
+    "dDurationMs": 4721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quit her 9to-5 and start her dream\nbusiness. And I'm going to give her the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 18560,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "steps she needs to take this business to\n$10,000 a month. And feel free to copy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 22480,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this blueprint. This is valuable no\nmatter what stage you're at in building",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 25519,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your dream. Let's go. Right, Lily, let's\ntalk first quickly before we get into",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 30000,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what you did and how you did it. What is\nyour business about?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 32880,
+    "dDurationMs": 5519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e So, it's a wellness brand. I started out\ndoing candles and then I expanded to do",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 37760,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "workshops.\n\u003e\u003e How long has it taken you to from",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 40079,
+    "dDurationMs": 5121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "starting the business to when you first\nbecame profitable?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 42879,
+    "dDurationMs": 8721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e So, I started 2 and a half years ago in\nDecember 2022 and I probably became",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 48559,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "profitable around 7 8 months in.\n\u003e\u003e So, 7 8 months in using the formula",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 53440,
+    "dDurationMs": 4639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we're going to explain to people now.\nYeah. you became a profitable business",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 56559,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and you started with the savings you\nmade while you were working somewhere",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 59199,
+    "dDurationMs": 5121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "else. We're going to go through now the\nsix steps that you went through to make",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 62960,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this business work which people can\nlearn from. So let's start at number",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 65920,
+    "dDurationMs": 4559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "one. What did you do first to make this\nbusiness happen?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 68720,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e The first thing I ever did to even think\nof this business is I got a candle kit",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 72479,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "off Amazon. I was going through a back a\nbit of a rough time and I just wanted a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 75920,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "time like just something for myself to\nlike take my mind off things and I got a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 79920,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "candle kit and I made one and my mom was\nlike I'll buy it off you and I was like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 84720,
+    "dDurationMs": 3360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e your mom became your first customer.\n\u003e\u003e Yeah.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 86960,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yes. That's great. By the way, we all\nneed our first customer. That's it. So",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 89439,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your mom became your first customer. So\nI made a Shopify account. Literally no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 94240,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "experience, nothing. Just made a random\nwebsite and I put my candle on there for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 98880,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "$5.99 and she bought it. And\n\u003e\u003e this is genius, by the way.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 102960,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "buying it as a business. It's brilliant.\n\u003e\u003e I'm just very impulsive. And then my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 106320,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "friend was like, \"Oh, I'll buy one off\nyou.\" So then I just started I did a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 109680,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wholesale order of candle stock and I\njust started posting them and then my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 113520,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "friends are buying them and it literally\njust started from that.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 116880,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e You this straight away this first\nlesson, let me translate it. It doesn't",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 120000,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "matter what business you're starting,\nyou only need one client to get things",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 123840,
+    "dDurationMs": 5199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going. So what happened next?\n\u003e\u003e So my local gym, I messaged them and I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 127600,
+    "dDurationMs": 5999,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was like, \"Do you mind if I do a pop-up\nstore here?\" And I just messaged loads",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 130640,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of like places and they said yes. So\nthen a month later I went to my gym and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 135760,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "did a pop-up saw and I made 850 in one\nday.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 139360,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e See another great lesson in this is like\nwhen people want if you said oh I want",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 142400,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to open up a shop people's instinct is\nto go and you know raise big money on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 145920,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Dragon's Den and then go get a very high\nfixed cost location. You went and asked",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 150959,
+    "dDurationMs": 5201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people if you could just use their kind\nof space like the gym space. It's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 154560,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "brilliant. So you went did a pop-up. Oh\nmy god. You sold £850 worth of stuff.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 158400,
+    "dDurationMs": 4559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "What did you do next?\n\u003e\u003e Obviously, I did my social media at the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 160800,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "same time. I remember my dad sent me an\nInstagram DM and he'd seen like an ad on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 165680,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "his Instagram and it was like pop up in\nWestfield and he sent it to me. I was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 169040,
+    "dDurationMs": 4559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like, why would they ever accept my\nbrand? I've literally been going for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 172000,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like 6 months. And I sent them an email\nlike, \"Hi, I'm Lily. Like, here's my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 175120,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "brand. I'd love to be in Westfield.\" And\nthey replied back like, \"Yeah, we've got",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 178640,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this date available.\" Wow.\n\u003e\u003e And I remember I'm sure I've got the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 181280,
+    "dDurationMs": 3920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "video on my phone. I was in my room\ncrying.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 183680,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e You overcame what could have been a\nlimiting belief, right? you your brain",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 187519,
+    "dDurationMs": 5281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "said, \"Why would they accept you? You're\njust new.\" But you tried it. So, they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 191040,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "accepted you. Then what happened?\n\u003e\u003e And then I went to Westfield. I was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 195360,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there for a few days and I did my pop-up\nstore, gained loads of customers, gained",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 199760,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a more of a following, and I just kept\ndoing pop-up stores. That was like what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 204319,
+    "dDurationMs": 3761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I was doing until I started doing the\nworkshops. So, I was doing that for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 207360,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about a year.\n\u003e\u003e Right. So, so you, so, so you started uh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 210400,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your social media pages. You were doing\nthese pop-ups. Um, you were losing money",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 214159,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "though still at this point, right? Is\nthis four months, five months into the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 217680,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "process? And you're still losing money.\nYou're starting to make money, but",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 221680,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're still overall costwise losing\nmoney. Right.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 224400,
+    "dDurationMs": 4559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e I was buying too much stock. I was\ngetting excited.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 227040,
+    "dDurationMs": 3360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Okay. So, this £400 budget got out of\ncontrol.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 229599,
+    "dDurationMs": 3601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Way out of control.\n\u003e\u003e Right. And so, you started buying more",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 231920,
+    "dDurationMs": 3120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stock than you could sell.\n\u003e\u003e Yeah.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 233440,
+    "dDurationMs": 4879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e And that at your savings, which caused\nyou a bit of a cash flow problem, right?",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 236640,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Okay. So, then what you reduce, you\nstart to learn to reduce your amount of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 240159,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that you buy, which again, another great\nlesson because a lot of people, they do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 243360,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do that. um they do buy 10,000 t-shirts\nand then they can't sell them. If they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 247920,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "buy a thousand t-shirts and sell them\nand you work out how to sell them, then",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 250799,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you can order 5,000 and then sell those\nand learn how to sell them. But this is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 255040,
+    "dDurationMs": 4719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "where Okay. So, he's not making money,\nbut people like the product. What was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 258880,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the next thing you did?\n\u003e\u003e I kept doing my pop-up stores um until I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 263360,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "did a pop-up store once with someone and\nthey were like, \"We should do a collab.\"",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 266320,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And that would have been my first ever\ncollab. And they have a c like a cafe",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 270560,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and they said, \"You should do a candle\nmaking workshop.\" I've never done a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 274000,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "candle maker workshop before with\nanyone. So, I Googled like what I'd",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 277919,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "need. I bought all the stuff and it was\nabout seven people. It was a really",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 281520,
+    "dDurationMs": 5119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "small workshop and I loved it. I just\nlove teaching people. That literally",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 285120,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that day like changed my life and that's\nwhen I started doing my workshops.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 288160,
+    "dDurationMs": 4319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e So, again, you said yes to an\nopportunity that some people might have",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 290880,
+    "dDurationMs": 2800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "said no to or workshops. I've never done\nthat before.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 293199,
+    "dDurationMs": 4961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah.\n\u003e\u003e Most people say no then. So,",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 296160,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrepreneur-minded people don't have to\nbe entrepreneur instinct people. want to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 299840,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "remind people say I'll try it. Then what\nhappened? You realized you could charge",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 304160,
+    "dDurationMs": 4319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for these workshops and then tell us\nwhat the process for people to learn.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 307759,
+    "dDurationMs": 6241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "What happened next?\n\u003e\u003e So I realized that I'm making more",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 310880,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "profit from doing workshops. It's like\nover like 85% profit margins doing them.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 316720,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And I realized that's where my money is\ngoing to come in and I need to focus",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 320080,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "more on workshops. So yeah, I've got a\nlittle studio in the back of my garden",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 323840,
+    "dDurationMs": 4079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "which I did up.\n\u003e\u003e Okay. So people started coming to your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 326000,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "home and doing workshops. Then what? And\nthat's literally where I am now. So",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 330000,
+    "dDurationMs": 3680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people are just coming and doing\nworkshops.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 332080,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e You've just hired someone to help you,\nright? And you've just paid yourself a",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 335600,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "healthy, you know, finally a healthy\nsalary, right? So um pretty amazing. One",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 340960,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of the things you put here is you've\nbeen using social media. Was there any",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 344560,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sort of hack or anything you can teach\npeople about your social media strategy?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 348320,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Um I think just be yourself.\n\u003e\u003e Love that.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 350960,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e And I think also rejection is\nredirection. I don't mind getting like",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 354720,
+    "dDurationMs": 3199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "rejected,\n\u003e\u003e right? Oh god, great mental framework as",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 357440,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "well.\n\u003e\u003e I I'm just myself.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 359600,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Okay, so look um you know this is the\nframework you built to today and and I",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 363759,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think a lot of people can learn how to\nbuild a business with just a little bit",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 366960,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of savings and a little bit of guts and\nthe right frame of mind. You can build a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 370960,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business where your salary is replaced\nby the business you love doing and then",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 375360,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no one can fire you, right? Only you can\nfire you now, right? And you're building",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 378639,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a brand which has value. Lily started\nher dream business for £3,000 that she",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 382800,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "saved up while working at a care home.\nBut I'm going to give you the chance",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 385840,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "today to win £15,000 to make your dream\na reality and transform your business.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 391360,
+    "dDurationMs": 6399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I've partnered with Adobe Express to\ncreate the ultimate pitch deck template",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 395680,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that anyone can use to bring their idea\nto life. But first, you can pitch to me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 399759,
+    "dDurationMs": 5361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "virtually from anywhere in the UK. All\nyou need to do to be with a chance of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 403199,
+    "dDurationMs": 6241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "winning this money is submit your pitch\ndeck on helpbank.com. The competition is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 407120,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "open to anyone in the UK with a dream.\nLet me show you how to do the pitch",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 411440,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "deck. It's really simple. It's been\ndesigned to allow you to simply create",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 416800,
+    "dDurationMs": 5519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "exactly what investors want, what\npotential partners want. Luckily, with",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 420400,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the Adobe Express Ultimate Pitch deck\nthat we have designed, this is made",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 424319,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "super clear and you can remix the\ntemplate to make it relevant to you. One",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 428080,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "way you could do this is using image\ngeneration to get your point across. You",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 431440,
+    "dDurationMs": 4879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can use the generate image feature to do\nthis. On slide seven, I want you to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 435039,
+    "dDurationMs": 5361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "illustrate the size of the market\nopportunity. One way you could do this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 438080,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is using the charts and grids feature to\ncreate and customize graphs to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 442000,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "illustrate your point. On slide 11, I\nwant to hear more about you and your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 445120,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "team. I use the remove background\nfeature to edit the image to fit into my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 448720,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "style. You can enter by creating your\npitch deck using my template and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 452160,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entering by help bank Adobe lockpace\nusing the password dream of Adobe. An",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 457039,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "independent panel will judge the best\npitch deck and one of you will win",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 460720,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "£15,000 and help to fund your dream.\nFull terms and conditions can be found",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 465120,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in the help bank lock space. Good luck.\nLet's talk now about uh what you want to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 471039,
+    "dDurationMs": 5361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do next. So the three things you said\nyou need my help with. Okay. So how to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 475360,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "get partners which I'm going to go\nthrough with you. Concept scale, how to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 478319,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "scale and then community. I'm actually\ngoing to start with scale. Okay.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 481759,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Okay. Cuz I think it's very important\nfor people listening and I think for you",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 485120,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to maybe just explain what does scale\nmean. Sometimes we build businesses and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 489759,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I built I built 19 companies. Okay. And\nI have in that journey realized that I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 494000,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "don't want to personally\nbuild a big company anymore. I I think I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 499199,
+    "dDurationMs": 4241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can build a big company by having in my\ncompany I got 41 people full-time",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 502240,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "working on helping people with their\ndreams. But I have eight people that I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 505520,
+    "dDurationMs": 5119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "work with and those eight people each\nhave their own responsibility and they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 508560,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can go off and build even bigger team.\nSo I I know myself now. I'm not a very",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 512959,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "good manager. I'm visionary. I'm a\nleader but I'm not a manager. But I I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 517200,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "learned a long time ago that scale can\nbe a dangerous word because you can",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 520880,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "scale it into something you don't\npersonally want. What does scale mean to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 524080,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you? Is important to define. What does\nit mean to you?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 526080,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e So I just want to have a place or a few\nplaces where people can come and create",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 531839,
+    "dDurationMs": 4961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "their own candles. I want like a\nwellness area basically.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 535200,
+    "dDurationMs": 2480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Right. So you kind of want a wellness\ncenter.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 537360,
+    "dDurationMs": 3200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah.\n\u003e\u003e And how many do you want?",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 539680,
+    "dDurationMs": 3279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Like five.\n\u003e\u003e Why five?",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 541200,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Just like a few in the main cities. I\ndon't want to get overwhelmed with it at",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 545040,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the moment. Right. Having five wellness\ncenters will be quite an overwhelm. I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 549360,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think you want to ask yourself why.\n\u003e\u003e I tell I tell you what, five physical",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 554160,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wellness centers today, you want people\nto feel connected and and so on. You",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 560080,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "might find, ironically, the community\ncan deliver a lot of this. And these",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 563760,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wellness centers don't have to be\nmanaged by you. It could be that you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 567600,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "partner up with people that have spars\nfor example and then you do a franchise",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 571920,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "as a concept and you let each of these\nspars run this franchise which does your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 576320,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wellness centers. So then you don't have\nto run them you know you don't have to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 579040,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do rates do the rent fit it out manage\nit. Now of course you can hire a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 583040,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "manager. I would say five stores is\nmaybe a bit small. You'd need to get to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 586320,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like 10 15. Then you could hire someone\nto do all that running around a manager",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 589920,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of all the stores. Five stores might be\na bit tight, but I I kind of think is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 593600,
+    "dDurationMs": 5359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the like how you built the business to\nbegin with. I think you should carry on,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 597279,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, like can you instead work with\nevery spa in Britain to open up a uh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 602720,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "candle wellness center workshop program\nso they make money in the spa. They'll",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 607440,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know when their quiet times are. And you\ndon't have to run it. You literally send",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 610800,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "them a kit, right, with your branding\nand your structure and your training",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 615519,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "video. And then yeah, sure, maybe some\nof them you want to go along to, but you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 619120,
+    "dDurationMs": 4719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "could have hundred of these operating\nevery week.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 621600,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e I've also thought of doing at home\ncandle making kits too. So that could",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 625680,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "also be part.\n\u003e\u003e Yeah. You go back to your roots, which",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 628320,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is how you first got connected to this.\nMy suggestion on scale for anyone",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 631519,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "listening and and for you is to think\nabout like what you want to do. So you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 635920,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right and think about your working day.\nSo for me, I'm building a tech platform.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 639279,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I don't want to be building any tech. I\ndon't even want to be involved in the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 641920,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tech development. I like to meet people\nand help them for real. Yeah,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 645440,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e I like to make content that helps people\nat scale and I want to be in the streets",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 650079,
+    "dDurationMs": 4481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "meeting people and understanding what\nthey need. So maybe do this exercise for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 653200,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yourself, too,\n\u003e\u003e and figure out exactly what you want to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 656079,
+    "dDurationMs": 4241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do and then figure out, okay, if you\nwant to scale, then you're going to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 658959,
+    "dDurationMs": 3841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "probably need someone that understands\nwellness centers and they're going to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 661600,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "come in as your partner and they're\ngoing to run them. But I think much more",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 664240,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "scalable. My instinct is this kit\npartnership business with spars and then",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 669040,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "selling to consumers direct as you say\nkits. I think that'll be brilliant. So",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 672800,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this scale conversation once we\nunderstand your baseline then helps you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 676959,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "get partners. Okay? Because partners are\nlet's say um I think co-founders they're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 682640,
+    "dDurationMs": 5759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "brands and there's other influencers. Um\nso let's talk about how to get each of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 686640,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "these. Getting a co-founder I actually\nthink you're at the stage where you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 689360,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "should think about this. Every business\nI've ever had that's worked. I've had a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 691760,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "co-founder. Someone that has exactly the\nopposite skills to me. Same moral code",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 695360,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "exactly opposite skills. So personally\nI'm not very good at accounts and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 698399,
+    "dDurationMs": 4961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "finance. So I like to bring someone in\nthat can take care of that side. So",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 701839,
+    "dDurationMs": 4961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "knowing your strengths and weaknesses is\npretty important. And so at school they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 705680,
+    "dDurationMs": 4399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "teach you the opposite, right? They say,\n\"Right, you're getting a D in biology,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 708160,
+    "dDurationMs": 4239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you got to do more biology.\" No, if\nyou're getting an A in something, double",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 711200,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "down on it. If you're getting a D on\nsomething, get someone else to do it.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 713839,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "It's just not your passion. It's not\nyour interest. Right? So I think",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 716720,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "co-founder um and then write down the\nthings you like to do, the things you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 720880,
+    "dDurationMs": 5199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think you're bad at. Now, when you have\nthe things you're bad at and the things",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 724399,
+    "dDurationMs": 4801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you don't like to do, you can begin to\ndo a job description for your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 727519,
+    "dDurationMs": 4481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "co-founder. Now, how to get a\nco-founder? You can go and look on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 730480,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "LinkedIn and you'll look at people who\nare running wellness brands and you can",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 733680,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "go see who the number two is at that\ncompany. They probably don't own equity",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 737040,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and you can go to them and say, \"I'm\ngoing to build the world's most exciting",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 739920,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "candle wellness brand and I'd like you\nto join me.\" Most of the time number two",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 743839,
+    "dDurationMs": 4481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actually earn good money. They can\ninvest and they can work and hopefully",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 747040,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they can do the things you don't love to\ndo. And you've done the ground work to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 749920,
+    "dDurationMs": 4159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "kind of show a proof of concept\nworkshops at scale could make money.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 752800,
+    "dDurationMs": 3920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Selling candles at scale could make\nmoney. So you've kind of taken a little",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 755440,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bit of the risk out cuz you've got a\nlittle bit of a formula there. Now you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 758000,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just need to put a system in place to\nmake that formula scale up. Okay,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 761680,
+    "dDurationMs": 4719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "brands. Brands are actually really\nsimple to get on board. People always",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 764959,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "make it very complicated. Formula for\ngetting a brand on board is very simple.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 768560,
+    "dDurationMs": 6399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "What is the brand's objective and how\ncan you help them achieve it? So this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 773040,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "may be the wrong example. Let let's\nlet's pick Nike, right? Nike could sell",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 778000,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "candles. Nike could do a promotion with\ncandles. They could do I'm sure they've",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 781920,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "got some relaxed range coming out.\nThey're trying to compete with",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 784959,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Lululemon, I'm sure. Right. They're\nlike, \"We've got a relaxed yoga line",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 788720,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "coming out and we want everyone who buys\nuh our product to get a candle.\" So then",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 793040,
+    "dDurationMs": 4479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they'll make branded night candles with\nyou and then either sell them in the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 796240,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "shop or give them away. And if you walk\naround, you'll see advertising. You'll",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 799360,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "see what all these brands are trying to\nachieve. And then like you just said",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 802560,
+    "dDurationMs": 3760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about approaching a Westfield, you just\nmessage them.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 805760,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah.\n\u003e\u003e And you say, \"I see you're doing a yoga",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 808880,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "range. I want to help people relax while\ndoing yoga. Would you like to do a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 813200,
+    "dDurationMs": 3360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "partnership?\"\n\u003e\u003e And the worst thing is they'll say no.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 815120,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e No. But they probably won't.\ncuz they don't have the micro influence.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 818320,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "They don't have the backstory you've got\nand they're not in the candle business.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 822480,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "They don't they won't really want to do\ncandles. Now, they might get into",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 825279,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "candles and buy you later. That's a\nwhole different thing, right? But",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 828079,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "brands, it's very simple. You understand\nwhat they're trying to do and then you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 832160,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reverse engineer what you have to offer\nto those brands. Any brands jumped in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 836560,
+    "dDurationMs": 2240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your mind? We can try and do a quick\ncase study.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 838320,
+    "dDurationMs": 3920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Lululemon.\n\u003e\u003e Lululemon. Well, exactly what I just",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 840079,
+    "dDurationMs": 5281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "said. Lul Lululemon. Interestingly\nenough, Lululemon because they're doing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 843760,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yoga already, they should be doing it.\n\u003e\u003e Yeah. So that go to them. But what's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 847120,
+    "dDurationMs": 5519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interesting is if you can go to Nike who\naren't seen as yoga, right, and you can",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 851199,
+    "dDurationMs": 3921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "help them be more yoga.\n\u003e\u003e Yeah.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 853120,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e You might actually get more money out of\nand more luck with brands like Nike.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 857440,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Now, if you can't get a hold of the\nfounder, then go to their marketing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 860880,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "person. So like Gym Shark, Ben Francis\nhas found Gym Shark. Very busy guy. Try",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 866079,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reach out to him. He'll love your story,\nby the way. And then you can reach out,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 868800,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if you can't get hold of Ben, to Null,\nwho's head of marketing. So, I'm sure if",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 872480,
+    "dDurationMs": 5359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you reach Ben or Null, they'll probably\nwant to do something with you. Now, they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 876160,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "might say not today, maybe in six months\ntime, but reach out to them all and try,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 880399,
+    "dDurationMs": 4481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right? And that's how you get brand\ndeals. It's really, really simple, but",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 883440,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no one actually does it. And then\nfinally, with influencers, I mean, every",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 886959,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "influencer is different. I believe with\nall my heart that influencers are the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 891680,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "new big businesses. So, influencers can\nlaunch businesses instantly with near",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 895839,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "zero marketing cost. It's already\nhappening with Mr. beast and chocolate",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 899120,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business and all these YouTubers making\nbrands that are launching and becoming",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 902959,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "big businesses. You know, Kim Kardashian\nlaunching Skims Prime. Exactly. But I I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 907839,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think what not a lot of people are doing\nwhen they approach influencers, they're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 911040,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like, \"Well, here's here's a candle.\n\u003e\u003e I hope you like it.\" And then they may",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 914720,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "or may not do something about it. And\nthen they might say, \"Oh, I'll pay you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 916880,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "£5,000 if you promote my candle.\" And\neven then, maybe they will, maybe they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 920480,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "won't. Would you go to them and say,\n\"You're in the wellness space. I notice",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 923839,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you love to do yoga and your videos do\nreally well showing yoga poses. um would",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 927440,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you like to be a part owner in a candle\ncompany with me? Now, there's two ways",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 931120,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to do it. You can either give them\nequity in a whole range that you do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 933920,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "separately or part of your business. You\ncan actually get influencers board as",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 938000,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "partners and then they can do the\nmarketing for you and support you to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 941120,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "grow whatever your final vision is. But\nagain, I think influencers, you know,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 944480,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the model is you send them something\nthey like and they just support you.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 947440,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "That's worth a try. Then you have an\nagreement where you pay them and they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 951360,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and they promote you and that's their\njob. or and I think this is the future,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 954880,
+    "dDurationMs": 5199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you get influencers in as business\npartners. So if you give 2% to Kim",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 958560,
+    "dDurationMs": 3920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Kardashian,\nit's worth it every day of the week,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 961120,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "isn't it? And if she puts it in one\nvideo, you'll sell out every single day",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 963839,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of the week for the next 3 months.\n\u003e\u003e I've had influencers have my candles",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 967120,
+    "dDurationMs": 5519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "before as well. And she posted my candle\nand I got about like 2,000 followers",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 971040,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just from that one post.\n\u003e\u003e And so so definitely try that model. But",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 974560,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I think that's quite an exciting opening\nconversation. If you say, \"Hi, can you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 977279,
+    "dDurationMs": 4401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "please promote my candle?\" But if you\nsay, \"Look, you know, would you like to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 980160,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "launch a candle range with your brand on\nit?\" and you promote it and we we share",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 983279,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the revenue. Of course, why not? And\nthat actually brings me on to community.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 986800,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cuz community to me, there's two things\nimportant about community. Number one,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 991199,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the value you bring the community. It's\nnot what value they can bring you, it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 994480,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what value you can bring them. And the\nsecond thing is support,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 999519,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right? Accountability. Nobody makes it\non their own. Nobody. So, you started",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1004560,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "off with your mom and then your friend\nand then those friends are friends and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1009120,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "then the people at the pop-up that\nbought into you in the brand, you have",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1012160,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "built up or I'm going to guess 200\npeople there that we call true fans.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1017440,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "People that love you, you need 1,000 to\nbuild any business.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1021759,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Okay,\n\u003e\u003e I'm guessing you need 800 more. Thousand",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1025039,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "true fans that all tell 10 people about\nyou today, you can launch anything, do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1029839,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "anything. But to get 1,000 true fans,\nyou need to bring them value. So, how do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1033839,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you bring them value? Well, I mean, this\nis a form of value, you know, where we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1038400,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we don't keep the knowledge to ourselves\nof how you made it just so you're the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1042559,
+    "dDurationMs": 2721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "only one in the world that's making it.\nShare it.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1044959,
+    "dDurationMs": 3201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah.\n\u003e\u003e Right. That that's value. What What are",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1046880,
+    "dDurationMs": 4080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we asking for people in return for\nwatching this video? Nothing. In my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1049440,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "case, I make money on the YouTube video\nand I make money for my sponsor and I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1052960,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "use that money to fund people's dreams.\nSo, everything I'm trying to do all the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1055679,
+    "dDurationMs": 5281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "time is bring value to my community. And\nI'm not extracting value. I don't say to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1059360,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people, \"Oh, you can only watch this\nvideo if you pay me £10.\" It's not that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1063039,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you can't do that, but in a way, you're\ngiving and you're taking, right? So, I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1068080,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "take I I I can make money from you and\nthen I take money from you. And what you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1072000,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want to try and think about with\ncommunities is how can you give value",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1075440,
+    "dDurationMs": 3920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "without value being extracted? Cuz\nthat's how you build powerful",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1078160,
+    "dDurationMs": 3360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "communities. Now, it doesn't mean say\nyou can't charge for your candles.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1080320,
+    "dDurationMs": 4239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "That's your core business. Yeah.\n\u003e\u003e What can you bring to your community?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1083120,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "That's value. And you start basically\ndoing a mind map around this. So, what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1086799,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is the community value you can bring?\nAnd it could be events. Let's say",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1089679,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "events, right? Okay. But don't\nunderestimate behind the scenes,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1095280,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e you know, just you showing what's going\non, you know, your experience, what's",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1098480,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "happening. Yeah. You making them you\ncoming here today and you're feeling",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1101440,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about it like include people in the\njourney, right? This actually has a lot",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1105679,
+    "dDurationMs": 4641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of value. People underestimate it. They\nwhy would anyone want to know? People",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1108799,
+    "dDurationMs": 4961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want to know. They want to feel a part\nof it. Make the community feel part of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1112080,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it. Right? I think then for community\nthere's also like let the community talk",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1115200,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to the community. So it's one-on-one. So\nyou create a way of your community",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1119520,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "connecting to each other. So you can use\nplatforms like discord or WhatsApp",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1123520,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "groups you know a place where people can\nsay oh I made this candle and then they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1127200,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "share it with the community and they go\noh I made this candle you're not even",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1130240,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there right and suddenly there's a whole\n200 people that turned into a thousand",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1133679,
+    "dDurationMs": 4321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people all chatting in this community\nabout the candles they made",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1136240,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e and inspiring each other and having fun\nnow you don't have to spend any money",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1139280,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "initially you can use WhatsApp\n\u003e\u003e and any sort of free product like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1142799,
+    "dDurationMs": 4481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Discord but you want to create a place\nwhere your community can share their",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1146320,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "love of candles\n\u003e\u003e that's my goal so I want like an app",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1149039,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "where people can come together and even\ndo like Meetup so they can like meet",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1152880,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "each other\n\u003e\u003e but you don't need to build an app",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1155760,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "straight away. Literally take these 200\npeople and create a WhatsApp group.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1159840,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Saw that as my base\n\u003e\u003e and you basically say share your candles",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1163360,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and all it is is people posting in their\ncandles. Keep it moderated right",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1166559,
+    "dDurationMs": 4321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "initially. It's not people putting in\nthere how difficult a day they're having",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1169280,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that you don't want any of that yet. You\njust want to get if you can get a,000",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1172400,
+    "dDurationMs": 4399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people on a WhatsApp there isn't an\ninvestor I know that won't want to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1175280,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "invest in it. Now you got a thousand\npeople that are interested in your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1178400,
+    "dDurationMs": 3200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "products and they're willing to promote\nyou and they love you and they support",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1180960,
+    "dDurationMs": 4719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you.\n\u003e\u003e You don't need to build an app yet. So",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1183520,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what I suggest for this community piece\nis you spend time thinking about all the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1188480,
+    "dDurationMs": 4319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ways you could bring value that don't of\ncourse hopefully cost you too much. And",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1191520,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I do think things like letting the\ncommunity talk to each other behind the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1194000,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "scenes you're going to do anyway. Events\nyou're probably going to do one or two",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1196559,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "here and there because as entrepreneurs\nwe don't have bosses but communities can",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1199760,
+    "dDurationMs": 3600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "keep us accountable and make sure we\ndon't slip or get lazy.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1202960,
+    "dDurationMs": 3440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah.\n\u003e\u003e All right. So, that's my quick take on",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1205360,
+    "dDurationMs": 2960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "community. Useful.\n\u003e\u003e Very.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1206799,
+    "dDurationMs": 4801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e I hope you guys got some value from this\nvideo. If you did, please hit the",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1210160,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "subscribe button or let us know in the\ncomments if you have any questions. And",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1213679,
+    "dDurationMs": 3761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "please follow Lily if you want to be\ninspired. Thank you so much for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1216480,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "listening. We're off to have some\nchicken now. Do you eat chicken?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1218880,
+    "dDurationMs": 2880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah. Cupcake.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  } ]
+}
