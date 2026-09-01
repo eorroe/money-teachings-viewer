@@ -2,85 +2,88 @@
 
 ## Overview
 
-This money teaching distills the key financial and business principles from 'He Came To America With Nothing… Now He Funds $1 Billion Companies ｜ Mike Sherbakov' into actionable steps you can apply to build wealth and achieve financial freedom.
+This teaching distills the financial and business principles from Mike Sherbakov, who immigrated from Russia to the United States at age 5, served five years in the Marines, and now runs a portfolio that funds billion-dollar companies. The central lesson is that the desire to do things better, faster, and cheaper — cultivated through military discipline and immigrant ambition — is a transferable competitive advantage in entrepreneurship. Mike's story illustrates that the environments that reward constant efficiency are rare, which is why entrepreneurship is the logical destination for people who cannot stop improving systems.
 
 **Video:** https://www.youtube.com/watch?v=jMbuhTaS8WE
 
 ## When to Follow These Money Teachings
 
-- When you need guidance on building wealth and financial independence
-- When working on business growth and scaling strategies
-- When seeking motivation and practical advice from successful entrepreneurs
-- When the user asks about topics covered in this episode
+- When navigating a career in a rigid organization that punishes innovation
+- When looking for environments that reward initiative and systems-thinking
+- When building resilience through structured hardship
+- When deciding to pursue entrepreneurship after military or corporate service
+- When the user asks about transitioning from military to business
 
 ## Steps
 
-### Step 1: I Would Always Find Ways To Do Something More Efficient, Rig
+### Step 1: Test Yourself Through the Hardest Possible Challenge
 
-I would always find ways to do something more efficient, right?
+Deliberately put yourself in high-adversity environments to discover your true capabilities. Mike immigrated from Russia at age 5 and, at 18, chose the Marines as the hardest challenge he could imagine — not because he wanted to be a soldier, but because he needed to "pressure test" himself. You do not truly know your limits until you have been tested by something that requires everything you have. Adversity is a discovery mechanism, not just an obstacle.
 
-### Step 2: Is There A Limit To What You Can Build?
+### Step 2: Cultivate a Bias Toward Efficiency
 
-Is there a limit to what you can build?
+Develop the habit of constantly looking for ways to do things better, faster, and cheaper. Mike describes doing this naturally throughout his military service — finding operational improvements that saved time or resources. This habit is transferable to every business context. The person who is always looking for the better process will eventually outcompete the person who is just following orders.
 
-### Step 3: >> Have You Had A 100X Return On Investment Before?
+### Step 3: Recognize When Your Organization Will Not Reward Your Initiative
 
->> Have you had a 100x return on investment before?
+Learn to read the signals of whether your current environment actually values innovation. Mike brought efficiency improvements to his military and early corporate bosses, only to have them shut down because leadership did not embrace change. If you find your ideas consistently rejected without cause, the problem is the environment, not your ideas. Do not stay in places that punish the very behaviors that create value.
 
-### Step 4: Building A Company'S Hard.
+### Step 4: Move to an Environment With No Ceiling
 
-Building a company's hard.
+Transition into a context — entrepreneurship — where there is no upper limit on what you can build. Mike's realization was that he needed an environment "where there's no cap." Entrepreneurship does not guarantee success, but it does guarantee that your upside is not artificially capped by someone else's hierarchy. If you have a demonstrated ability to improve systems, a cap on your earnings is a form of punishment.
 
-### Step 5: >> If Me And You Were To Die Tomorrow And
-You Could Leave On
+### Step 5: Use Military-Grade Resilience as a Business Asset
 
->> If me and you were to die tomorrow and
-you could leave one more guiding principle with the younger generation
-right here, what would that be?
+The core skill military service teaches — the ability to keep going when things are hard — is among the most commercially valuable traits in entrepreneurship. Mike notes that military people are sought after in business specifically for their resilience. The ability to sustain effort through long, difficult periods is the single most reliable predictor of whether a founder will survive long enough to succeed.
 
 ## Examples
 
-**Example 1:** I would always find ways to do something more efficient, right?
+**Example 1: Choosing the Marines as a Pressure Test**
+At 18, Mike chose the Marines as the hardest thing he could imagine doing, not to become a soldier but to find out what he was made of. The Marine Corps provided the structured hardship that forged his work ethic and resilience.
 
-**Example 2:** Is there a limit to what you can build?
+**Example 2: The Efficiency Instinct**
+Throughout his service and early career, Mike naturally looked for better, faster, and cheaper ways to accomplish tasks. His bosses kept rejecting these improvements — not because they were bad ideas, but because the system did not want to change.
 
-**Example 3:** >> Have you had a 100x return on investment before?
+**Example 3: Betting on Founders Who Do Not Quit**
+As an investor, Mike's primary criterion is whether a founder has the resilience to keep going. He explicitly looks for people who have demonstrated the ability to endure hardship — the same trait the Marines instilled in him.
 
 ## Best Practices
 
-- ✅ Focus on consistent action rather than perfect planning
-- ✅ Build multiple income streams to diversify your wealth
-- ✅ Invest in yourself and your education first
-- ✅ Surround yourself with people who challenge and support you
-- ✅ Track your progress and adjust your strategies as needed
-- ❌ Don't rely on a single source of income
-- ❌ Don't let fear of failure prevent you from taking action
-- ❌ Don't ignore the fundamentals of financial management
+- ✅ Deliberately seek challenging environments that will test and expand your capabilities
+- ✅ Constantly look for process improvements in every context you operate in
+- ✅ Read organizational signals early — if your environment punishes initiative, plan an exit
+- ✅ Move to environments with no artificial ceiling on your potential
+- ✅ Treat military or structured-hardship experience as a transferable business asset
+- ❌ Do not stay in rigid environments that consistently reject your best ideas
+- ❌ Do not assume corporate or military experience is not relevant to entrepreneurship
+- ❌ Do not ignore the resilience signal when evaluating founders or investment targets
 
 ## Keep In Mind
 
-- Every situation is unique; adapt these principles to your context
-- Results require time and consistent effort
-- The journey to wealth is rarely linear
-- Continuous learning is essential for long-term success
+- Resilience is a skill that can be deliberately built through hardship, not just an innate trait
+- The environments that reward constant improvement are rare — seek them out or build them yourself
+- Military service produces a specific type of grit that is extremely valuable in entrepreneurship
+- Efficiency is not just about cost-cutting — it is about doing more with the same resources
+- Entrepreneurship is the ultimate no-ceiling environment for people who cannot stop improving systems
 
 ## Security & Safety Notes
 
-- This is educational content based on publicly available podcast episodes
-- Always do your own research before making financial decisions
-- Consider consulting with qualified financial advisors for personalized advice
+- This is educational content based on a publicly available podcast episode
+- Always do your own research before making investment or career decisions
+- Consider consulting with qualified career and financial advisors before major transitions
+- Military service carries physical and psychological risks
 - Never invest more than you can afford to lose
 
 ## Common Pitfalls
 
-- **Problem:** Waiting for the "perfect" time to start
-  **Solution:** Start now with what you have; perfect timing doesn't exist
+- **Problem:** Staying in rigid environments too long because they feel safe
+  **Solution:** Read the signals early — if your initiative is consistently punished, plan an exit while you still have options
 
-- **Problem:** Trying to get rich quick without putting in the work
-  **Solution:** Focus on building sustainable wealth through consistent effort
+- **Problem:** Treating efficiency improvements as trivial optimizations
+  **Solution:** The habit of constant improvement is the compound interest of career and business success
 
-- **Problem:** Comparing your progress to others
-  **Solution:** Focus on your own journey and measurable progress
+- **Problem:** Underestimating how rare uncapped environments are
+  **Solution:** Most jobs, even high-paying ones, have a ceiling. Entrepreneurship is one of the few contexts where your upside is only limited by your output
 
-- **Problem:** Giving up after initial setbacks
-  **Solution:** Treat failures as feedback and learning opportunities
+- **Problem:** Not recognizing resilience as a marketable skill
+  **Solution:** Document and communicate the specific adversities you have overcome — they are evidence of capability, not just personal history

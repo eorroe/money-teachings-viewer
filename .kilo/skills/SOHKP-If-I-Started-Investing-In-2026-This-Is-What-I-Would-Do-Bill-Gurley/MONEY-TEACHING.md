@@ -2,97 +2,84 @@
 
 ## Overview
 
-This money teaching distills the key financial and business principles from 'If I Started Investing In 2026, This Is What I Would Do! ｜ Bill Gurley' into actionable steps you can apply to build wealth and achieve financial freedom.
-
-**Video:** https://www.youtube.com/watch?v=uDfu_yKEcLA
+This money teaching distills Bill Gurley's framework for evaluating investment opportunities, building companies, and thinking about market timing as one of the most successful venture capitalists in history. The lessons cover why execution beats ideas, how to identify network effects, why adversity creates better founders, the importance of contrarian thinking, and how to use writing as a tool for clarity and deal flow.
 
 ## When to Follow These Money Teachings
 
-- When you need guidance on building wealth and financial independence
-- When working on business growth and scaling strategies
-- When seeking motivation and practical advice from successful entrepreneurs
-- When the user asks about topics covered in this episode
+- When evaluating startup investment opportunities or building a business with network potential
+- When deciding whether a market opportunity is real or overhyped
+- When you need a mental framework for assessing founder quality
+- When you want to understand how contrarian positions create the highest returns
+- When the user asks about venture capital, startup evaluation, or long-term investing strategy
 
 ## Steps
 
-### Step 1: He Says, "Chips On
-Shoulders Put Chips In Pockets." You Had 
+### Step 1: Prioritize Execution Over Ideas
 
-He says, "Chips on
-shoulders put chips in pockets." You had an opportunity to invest in
-Google when they had about 25 employees.
+Gurley's core message is that ideas are easy; execution is everything. A mediocre idea executed with extraordinary discipline will outperform a brilliant idea executed poorly. When evaluating any opportunity, ask about the team's track record of shipping, iterating, and responding to feedback. If the team cannot demonstrate relentless execution, the idea does not matter.
 
-### Step 2: When It Came Across Your Desk, Why Did
-You Make The Decision
+### Step 2: Look for Network Effects in Every Investment
 
-When it came across your desk, why did
-you make the decision to not invest into Google at that time?
+Gurley's most successful investments, including OpenTable and Uber, shared a common structure: network effects. More users attracted more suppliers, which attracted more users, creating a reinforcing loop. Before investing in any platform or marketplace business, ask whether each new user makes the product better for every other user. If the answer is yes, you may be looking at a generational opportunity.
 
-### Step 3: I'Ll Give You A Few, And The First One I Borrowed From Jeff
+### Step 3: Recognize That Adversity Creates Better Founders
 
+Gurley quotes Josh Wolfe: "Chips on shoulders put chips in pockets." The founders who have been underestimated, overlooked, or blocked by incumbents often build with a competitive fire that comfortable founders never develop. When evaluating founders, look for evidence that they have been told no, dismissed, or underestimated, and that they used those moments as fuel rather than evidence to quit.
 
-I'll give you a few, and the first one I borrowed from Jeff
-Bezos.
+### Step 4: Think Contrarian When Everyone Agrees
 
-### Step 4: So, I First Want To Say Thank You So Much For Being With Us
+The best venture returns come when you see something the consensus does not. Gurley backed Uber when most of his peers did not see the opportunity in a black car service. If everyone in the market agrees an opportunity is real, the price has already reflected that agreement, and your upside is compressed. Seek out the idea that feels slightly uncomfortable or ridiculous, and research it deeply before dismissing it.
 
+### Step 5: Write to Clarify Your Thinking and Build Your Reputation
 
-So, I first want to say thank you so much for being with us
-today, my friend.
-
-### Step 5: Where I Want To Get Things Started, And
-We'Ll Touch On A Who
-
-Where I want to get things started, and
-we'll touch on a whole bunch of things today.
+Gurley built his career partly through writing. The act of writing forces intellectual consistency because you have to explain your ideas clearly enough that someone else can understand them. Writing also creates flypaper for deal flow and network connections. Adopt a writing habit: blog posts, investment memos, or even a private journal. The clarity you gain will improve every decision you make.
 
 ## Examples
 
-**Example 1:** He says, "Chips on
-shoulders put chips in pockets." You had an opportunity to invest in
-Google when they had about 25 employees.
+### Example 1: Evaluating Execution Over Idea
 
-**Example 2:** When it came across your desk, why did
-you make the decision to not invest into Google at that time?
+A venture capitalist meets two founders with similar ride-sharing concepts. Founder A has a polished pitch deck, a beautiful prototype, and no shipped product. Founder B has a rough prototype, a small team, and a history of shipping products that reached 100,000 users in previous roles. The investor chooses Founder B because execution history is the strongest predictor of future results.
 
-**Example 3:** I'll give you a few, and the first one I borrowed from Jeff
-Bezos.
+### Example 2: Spotting Network Effects
+
+An investor evaluates a new freelance platform. The question is whether more freelancers attract more clients or just create more competition. If more freelishers mean faster matching and lower prices for clients, and more clients mean more income opportunities for freelancers, the network effect exists. If the platform is just a listing site with no reinforcing loop, the valuation should be much lower.
+
+### Example 3: Using Contrarian Thinking
+
+In 2020, when most investors fled public markets due to uncertainty, a small group of contrarian investors bought quality companies at depressed valuations. Two years later, those positions generated outsized returns. The opportunity existed precisely because consensus had decided the risk was too high.
 
 ## Best Practices
 
-- ✅ Focus on consistent action rather than perfect planning
-- ✅ Build multiple income streams to diversify your wealth
-- ✅ Invest in yourself and your education first
-- ✅ Surround yourself with people who challenge and support you
-- ✅ Track your progress and adjust your strategies as needed
-- ❌ Don't rely on a single source of income
-- ❌ Don't let fear of failure prevent you from taking action
-- ❌ Don't ignore the fundamentals of financial management
+- Evaluate teams on execution history, not idea novelty
+- Look for network effects as the structural advantage in platform businesses
+- Seek founders who have been underestimated and used that as motivation
+- Question consensus views; the best returns come from the edges
+- Write regularly to clarify thinking and attract opportunities
 
 ## Keep In Mind
 
-- Every situation is unique; adapt these principles to your context
-- Results require time and consistent effort
-- The journey to wealth is rarely linear
-- Continuous learning is essential for long-term success
+- Ideas are commodities; execution is scarce
+- Network effects create defensibility that patents cannot match
+- Adversity is a founder screening tool, not a risk factor to avoid
+- Consensus opinions are already priced into the market
 
 ## Security & Safety Notes
 
-- This is educational content based on publicly available podcast episodes
-- Always do your own research before making financial decisions
-- Consider consulting with qualified financial advisors for personalized advice
+- All advice is drawn from a publicly available podcast interview
+- Do your own due diligence before making any business or investment decisions
+- Consult qualified financial advisors before making investment decisions
 - Never invest more than you can afford to lose
 
 ## Common Pitfalls
 
-- **Problem:** Waiting for the "perfect" time to start
-  **Solution:** Start now with what you have; perfect timing doesn't exist
+- **Problem:** Falling in love with an idea and ignoring the team's execution ability
+  **Solution:** Prioritize what the founders have shipped over what they promise to ship
 
-- **Problem:** Trying to get rich quick without putting in the work
-  **Solution:** Focus on building sustainable wealth through consistent effort
+- **Problem:** Investing in companies without network effects
+  **Solution:** Ask explicitly whether each new user makes the product better for everyone else
 
-- **Problem:** Comparing your progress to others
-  **Solution:** Focus on your own journey and measurable progress
+- **Problem:** Following consensus investments
+  **Solution:** Actively seek out the idea that makes you slightly uncomfortable and research it
 
-- **Problem:** Giving up after initial setbacks
-  **Solution:** Treat failures as feedback and learning opportunities
+- **Problem:** Skipping the writing habit
+  **Solution:** Write one investment memo or blog post per month to force clarity of thought

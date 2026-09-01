@@ -2,91 +2,89 @@
 
 ## Overview
 
-This money teaching distills the key financial and business principles from 'I Lost Everything… Then Got Rich in Dubai ｜ Dariush Soudi' into actionable steps you can apply to build wealth and achieve financial freedom.
+This money teaching distills actionable principles from Dariush Soudi's journey from multi-millionaire in the UK to losing everything in a violent home invasion, then rebuilding an even bigger empire in Dubai. The content covers radical responsibility, building businesses that do not rely on your time, and leading through values rather than desperation.
 
 **Video:** https://www.youtube.com/watch?v=KCMSmQUJmhw
 
 ## When to Follow These Money Teachings
 
-- When you need guidance on building wealth and financial independence
-- When working on business growth and scaling strategies
-- When seeking motivation and practical advice from successful entrepreneurs
-- When the user asks about topics covered in this episode
+- When rebuilding after a catastrophic business or personal loss
+- When entering a new market with no network or reputation
+- When deciding between selling a business or walking away
+- When building a consulting or services company that can scale
+- When the user asks about resilience, Dubai business, or starting over
 
 ## Steps
 
-### Step 1: Daru Sudi Once
-A Multi-Millionaire But Then You Lost Everyth
+### Step 1: Take Full Responsibility for Everything
 
-Daru Sudi once
-a multi-millionaire but then you lost everything in a violent home invasion.
+Dariush does not blame the franchisee who betrayed him. He says he attracted that person because he was so focused on growth that he ignored red flags. Stop looking for someone to blame. Full responsibility gives you full power to change the outcome.
 
-### Step 2: >> You Had A Multi-Million Dollar Empire, Lost It All, And Y
+### Step 2: Build a Business That Does Not Trade Time for Money
 
->> You had a multi-million dollar empire, lost it all, and you're rebuilding it.
+For three and a half years in Dubai, Dariush worked as a one-person consultant, trading hours for cash. He realized he would never build wealth that way. Ask yourself every day: how can I build a business that does not rely on my time? If the answer is unclear, keep iterating until it is.
 
-### Step 3: What Are Those Principles When You'Re Given A Second Chance 
+### Step 3: Start With Sales and Door Knocking
 
-What are those principles when you're given a second chance at life that you
-apply to the businesses going forward?
+Dariush had no car and no office when he arrived in Dubai. He walked into clinics and beauty salons and offered to train receptionists in soft skills for 30% of the revenue increase. That door-knocking discipline built the foundation of everything that followed.
 
-### Step 4: Your
-First Member Of Staff, I Say To Every One Of Them Becau
+### Step 4: Stick to Your Values Even When You Are Desperate
 
-Your
-first member of staff, I say to every one of them because you can take this
-and I'll help you with it if you wish.
+Dariush was offered a deal that required putting things in writing in a way that felt wrong. He walked away. Later, when he had nothing, he still refused partnerships that did not align with his values. Values are your compass when money is scarce.
 
-### Step 5: >> If Me And You Died Tomorrow And You Had One More Guiding 
+### Step 5: Sell First, Deliver Later
 
->> If me and you died tomorrow and you had one more guiding principle to leave with
-the younger generation, what would that be?
+Dariush's first social media client paid before he even knew how to build a website. He Googled it, took their money, and hired a developer. Never refuse cash. If a customer wants to pay, take the money and figure out how to deliver. Revenue solves most problems.
 
 ## Examples
 
-**Example 1:** Daru Sudi once
-a multi-millionaire but then you lost everything in a violent home invasion.
+### Example 1: The Home Invasion
 
-**Example 2:** >> You had a multi-million dollar empire, lost it all, and you're rebuilding it.
+A franchisee who Dariush had trusted pinned him to a wall with a knife to his neck and demanded a quarter million pounds. Dariush realized he had ignored red flags because he was so focused on scaling. Within weeks, he lost his UK empire, his health, and his relationships.
 
-**Example 3:** What are those principles when you're given a second chance at life that you
-apply to the businesses going forward?
+### Example 2: The Dubai Comeback
+
+Dariush arrived in Dubai with $750 in his pocket. He door-knocked on streets filled with clinics and beauty salons, offering to train receptionists for a percentage of increased revenue. That model scaled into a social media company with 300 clients within one year.
+
+### Example 3: The Muhammad Ali Center Campaign
+
+Dariush sent a heartfelt letter to friends on Facebook saying he would stop chasing his dream if 50 people did not follow him. 100 followed within hours. The post went viral, gaining 50,000 followers in 10 days. Three weeks later, Muhammad Ali's wife called to say Ali wanted to support him.
 
 ## Best Practices
 
-- ✅ Focus on consistent action rather than perfect planning
-- ✅ Build multiple income streams to diversify your wealth
-- ✅ Invest in yourself and your education first
-- ✅ Surround yourself with people who challenge and support you
-- ✅ Track your progress and adjust your strategies as needed
-- ❌ Don't rely on a single source of income
-- ❌ Don't let fear of failure prevent you from taking action
-- ❌ Don't ignore the fundamentals of financial management
+- ✅ Take full responsibility for every outcome, good or bad
+- ✅ Build a business model that does not depend entirely on your time
+- ✅ Start with sales and door knocking when you have no capital
+- ✅ Stick to your values even when money is tight
+- ✅ Sell first and figure out delivery later
+- ❌ Don't ignore red flags in partnerships because you need growth
+- ❌ Don't trade time for money forever if you want to build wealth
+- ❌ Don't refuse revenue because you are not ready to deliver yet
 
 ## Keep In Mind
 
-- Every situation is unique; adapt these principles to your context
-- Results require time and consistent effort
-- The journey to wealth is rarely linear
-- Continuous learning is essential for long-term success
+- Suffering and rock bottom are often the prerequisites for massive growth
+- desperation can sharpen your focus, but do not let it compromise your values
+- Everything you need to learn is already written in a book by someone who has been there
+- Your network is built one door knock and one honest conversation at a time
 
 ## Security & Safety Notes
 
-- This is educational content based on publicly available podcast episodes
-- Always do your own research before making financial decisions
-- Consider consulting with qualified financial advisors for personalized advice
-- Never invest more than you can afford to lose
+- Do not take on personal guarantees for business debt
+- Vet partners thoroughly before entering any business relationship
+- Keep personal and business finances separate from day one
+- Have an exit plan for high-risk physical security situations
 
 ## Common Pitfalls
 
-- **Problem:** Waiting for the "perfect" time to start
-  **Solution:** Start now with what you have; perfect timing doesn't exist
+- **Problem:** Blaming others for business failure
+  **Solution:** Take full responsibility; it gives you full control over the outcome
 
-- **Problem:** Trying to get rich quick without putting in the work
-  **Solution:** Focus on building sustainable wealth through consistent effort
+- **Problem:** Working 12-hour days forever without systemizing
+  **Solution:** Build processes and hire people so the business runs without you
 
-- **Problem:** Comparing your progress to others
-  **Solution:** Focus on your own journey and measurable progress
+- **Problem:** Partnering with the wrong people because of urgency
+  **Solution:** Slow down and check values, morals, and work ethic before signing
 
-- **Problem:** Giving up after initial setbacks
-  **Solution:** Treat failures as feedback and learning opportunities
+- **Problem:** Waiting to be ready before selling
+  **Solution:** Take the money first, then figure out how to deliver

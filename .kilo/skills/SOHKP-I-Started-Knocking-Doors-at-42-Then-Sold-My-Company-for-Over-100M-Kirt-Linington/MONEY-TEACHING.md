@@ -2,95 +2,82 @@
 
 ## Overview
 
-This money teaching distills the key financial and business principles from 'I Started Knocking Doors at 42… Then Sold My Company for Over $100M ｜ Kirt Linington' into actionable steps you can apply to build wealth and achieve financial freedom.
-
-**Video:** https://www.youtube.com/watch?v=_2em2pshIgM
+This money teaching distills Kirt Linington's journey from a corporate executive who began door-knocking for a roofing business at 42 years old to selling that company for nine figures. The lessons cover why age is not a limiting factor, how to reject the myth of multiple income streams before mastering one, how personal discipline drives business performance, and why doing what others refuse to do creates permanent competitive advantages.
 
 ## When to Follow These Money Teachings
 
-- When you need guidance on building wealth and financial independence
-- When working on business growth and scaling strategies
-- When seeking motivation and practical advice from successful entrepreneurs
-- When the user asks about topics covered in this episode
+- When you believe you are too old or too young to start a business
+- When you feel pressure to diversify income streams before excelling at one thing
+- When entering an industry where competitors avoid direct, effort-intensive activities
+- When your personal habits and relationships are affecting business performance
+- When the user asks about starting late, door-to-door sales, or roofing and construction businesses
 
 ## Steps
 
-### Step 1: You Started Door Knockocking At 42
-[Music] Years Old.
+### Step 1: Reject the "Start Young" Narrative
 
-You started door knockocking at 42
-[music] years old.
+Linington was 42 when he began door-knocking, and he argues that limitations are self-imposed. Age, background, and starting capital matter far less than willingness to do the work that others will not. If you have been telling yourself it is too late, reframe that belief as a signal that you have accumulated enough experience to execute better than someone starting earlier.
 
-### Step 2: And You Could Create A Lane For
-Yourself.
+### Step 2: Master One Business Before Diversifying
 
-and you could create a lane for
-yourself.
+The seven-streams-of-income myth is one of the most destructive ideas in modern entrepreneurship. Linington emphasizes that you cannot become great at one thing if you are simultaneously mediocre at seven. Build real expertise in a single business, extract meaningful profit from it, and only then consider allocating capital to other assets. Diversification before mastery is not investing; it is distraction.
 
-### Step 3: And What'S Happening Is Who You Really Are Is Starting To Bl
+### Step 3: Do What Others Refuse to Do
 
-And what's happening is who you really are is starting to bleed into the
-business.
+Door-knocking is physically and emotionally demanding. Most people will not do it, which is exactly why it creates a defensible lane. When an industry or market has established players who have grown lazy or complacent, the person willing to do the unscalable, unsexy work wins. Look for activities competitors avoid and make those your competitive edge.
 
-### Step 4: >> If Me And You Died Tomorrow And [Music]
-You Had One More 
+### Step 4: Solve Personal Problems First, Because They Become Business Problems
 
->> If me and you died tomorrow and [music]
-you had one more guiding principle to be with the younger generation, what would
-that be?
+Linington states plainly that there is no such thing as a business problem that is not first a personal problem. If your discipline, relationships, or health are suffering, that dysfunction will show up in the business. Take radical ownership of your personal life because the business is an extension of who you are. Integrity in one area creates leverage in every other area.
 
-### Step 5: >> Good To Be >> Well, Where I Want To Get Things Started
-To
+### Step 5: Build a Culture Around Personal Excellence
 
->> Good to be >> Well, where I want to get things started
-today is first of all, where are you from?
+The strongest businesses are built by people who take care of themselves first. Linington's company culture centered on fitness and discipline because those habits produced better employees and better customer service. Design your business environment to reward people who show up fully, and hire only those who are willing to do the same.
 
 ## Examples
 
-**Example 1:** You started door knockocking at 42
-[music] years old.
+### Example 1: Starting a Business Later in Life
 
-**Example 2:** and you could create a lane for
-yourself.
+A 45-year-old teacher with no construction experience decides to start a residential painting company. Within three years, the focus on communication, reliability, and clean work attracts commercial contracts, and the business sells to a private equity firm for eight figures.
 
-**Example 3:** And what's happening is who you really are is starting to bleed into the
-business.
+### Example 2: Ignoring Shiny Object Syndrome
+
+An entrepreneur runs a profitable consulting practice but feels pressure to invest in cryptocurrency, real estate, and SaaS products simultaneously. They choose to put all surplus capital back into the consulting business for two more years, doubling revenue, before making one focused real estate investment.
+
+### Example 3: Creating a Lane Through Unwanted Work
+
+A pest control company competes on emergency response times rather than price. While competitors avoid after-hours calls, the brand builds a reputation for showing up at any time. Word of mouth from that reliability eventually outsells advertising.
 
 ## Best Practices
 
-- ✅ Focus on consistent action rather than perfect planning
-- ✅ Build multiple income streams to diversify your wealth
-- ✅ Invest in yourself and your education first
-- ✅ Surround yourself with people who challenge and support you
-- ✅ Track your progress and adjust your strategies as needed
-- ❌ Don't rely on a single source of income
-- ❌ Don't let fear of failure prevent you from taking action
-- ❌ Don't ignore the fundamentals of financial management
+- Reframe perceived disadvantages as sources of motivation and clarity
+- Master one business completely before diversifying
+- Seek out activities competitors avoid and build systems around them
+- Take full responsibility for personal habits and their business impact
+- Build culture around discipline, not just output
 
 ## Keep In Mind
 
-- Every situation is unique; adapt these principles to your context
-- Results require time and consistent effort
-- The journey to wealth is rarely linear
-- Continuous learning is essential for long-term success
+- Age and starting capital are rarely the real constraints; willingness to execute is
+- The first income stream is the hardest; the second is easier once the first is solid
+- Culture is set by what you tolerate, not what you say
 
 ## Security & Safety Notes
 
-- This is educational content based on publicly available podcast episodes
-- Always do your own research before making financial decisions
-- Consider consulting with qualified financial advisors for personalized advice
-- Never invest more than you can afford to lose
+- All advice is drawn from a publicly available podcast interview
+- Do your own due diligence before making any business or investment decisions
+- Consult qualified legal and financial advisors when structuring deals or exits
 
 ## Common Pitfalls
 
-- **Problem:** Waiting for the "perfect" time to start
-  **Solution:** Start now with what you have; perfect timing doesn't exist
+- **Problem:** Believing you are too old or too inexperienced to start
+  **Solution:** Focus on what you can control: effort, discipline, and execution
 
-- **Problem:** Trying to get rich quick without putting in the work
-  **Solution:** Focus on building sustainable wealth through consistent effort
+- **Problem:** Chasing multiple income streams before excelling at one
+  **Solution:** Master one business and extract real profit before expanding
 
-- **Problem:** Comparing your progress to others
-  **Solution:** Focus on your own journey and measurable progress
+- **Problem:** Copying what everyone else is doing
+  **Solution:** Find the activity competitors avoid and make it your advantage
 
-- **Problem:** Giving up after initial setbacks
-  **Solution:** Treat failures as feedback and learning opportunities
+- **Problem:** Letting personal dysfunction harm business performance
+  **Solution:** Audit personal habits and relationships with the same rigor you apply to the business

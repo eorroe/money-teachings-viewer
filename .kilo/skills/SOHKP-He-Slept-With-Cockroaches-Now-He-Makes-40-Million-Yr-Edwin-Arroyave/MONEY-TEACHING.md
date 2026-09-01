@@ -1,91 +1,93 @@
-# He Slept With Cockroaches... Now He Makes $40 Million⧸Yr ｜ Edwin Arroyave
+# He Slept With Cockroaches... Now He Makes $40 Million/Yr | Edwin Arroyave
 
 ## Overview
 
-This money teaching distills the key financial and business principles from 'He Slept With Cockroaches... Now He Makes $40 Million⧸Yr ｜ Edwin Arroyave' into actionable steps you can apply to build wealth and achieve financial freedom.
-
-**Video:** https://www.youtube.com/watch?v=ho7PrUY3EeA
+This money teaching captures the journey of Edwin Arroyave, who became head of household at 15, slept among cockroaches, and built a nine-figure company by mastering sales psychology and relentless consistency. The central insight is that pain avoidance, when redirected, becomes the fuel for extraordinary achievement. You should use these teachings when you need to overcome timidity, build unshakable belief, or maintain consistency over years rather than weeks.
 
 ## When to Follow These Money Teachings
 
-- When you need guidance on building wealth and financial independence
-- When working on business growth and scaling strategies
-- When seeking motivation and practical advice from successful entrepreneurs
-- When the user asks about topics covered in this episode
+- When you are starting from a place of scarcity, trauma, or low confidence
+- When you need to build belief in yourself fast
+- When facing repeated rejection in sales or business development
+- When you struggle with consistency and long-term follow-through
+- When the user asks about sales mastery, self-belief, or building from nothing
 
 ## Steps
 
-### Step 1: If You Want To Be Very Very Successful, You Need Two Things.
+### Step 1: Convert Pain into Purpose
 
-If you want to be very very successful, you need two things.
+Identify the specific pains you are tired of experiencing—hunger, fear, embarrassment, powerlessness. Write them down and use them as the reason you show up when others quit. Pain that is not reframed will keep you stuck; pain that is channeled will drive you to do things you never thought possible.
 
-### Step 2: I'M
-Curious For You If You Could Share A Story About Maybe O
+### Step 2: Set Targets That Build Belief Incrementally
 
-I'm
-curious for you if you could share a story about maybe one of the obstacles
-or failures that you dealt with.
+Big dreams are necessary, but they can also be paralyzing if they feel too far away. Set intermediate targets that force you to grow just enough to reach them. Every small win rewires your identity and increases your belief in what is possible.
 
-### Step 3: I Had To Become The Head Of Household At 15 Years Old And No
+### Step 3: Model the Best Person in the Room
 
-I had to become the head of household at 15 years old and now you
-know I've been able to build a pretty successful company.
+Find the top performer in your organization or industry and study them obsessively. Record their pitch, mimic their tonality, copy their body language, and adopt their mindset. You do not need to be original; you need to be effective. Model success until you internalize it.
 
-### Step 4: And At The Time, You Know, I Think It Was In 25 Years, Your 
+### Step 4: Master Non-Verbal Communication
 
-And at the time, you know, I think it was in 25 years, your businesses have
-done over $600 million.
+Sales is 10% what you say and 90% how you say it. Slow down your speech, smile genuinely, and nod as the customer speaks. These small actions release dopamine in both you and the buyer, build trust, and move the conversation toward yes without force.
 
-### Step 5: Now You Have 5 Million.
+### Step 5: Show Up When No One Else Does
 
-Now you have 5 million.
+The gap between average and exceptional is showing up on the days when it is easy to stay home. Volunteer for the role-play sessions, attend the optional training classes, and do the boring work that top performers skip. Consistency compounds into competence faster than talent alone.
+
+### Step 6: Find a "Why" Bigger Than Your Fear
+
+Your why must be strong enough to override your mind when it says the task is too big and your body when it says it is too tired. Anchor your purpose in love for others, faith, or a mission greater than yourself. When your why is big enough, your spirit will carry you through what your mind and body resist.
 
 ## Examples
 
-**Example 1:** If you want to be very very successful, you need two things.
+### Example 1: From Call Center Timid to Youngest Manager
 
-**Example 2:** I'm
-curious for you if you could share a story about maybe one of the obstacles
-or failures that you dealt with.
+A shy 15-year-old immigrant took a call-center job out of desperation. While top salespeople skipped training, he attended every role-play session, recorded the top performer's pitch, and studied it until he could deliver it verbatim. He became the youngest manager in company history at 18, proving that modeling and consistency can outrun natural talent.
 
-**Example 3:** I had to become the head of household at 15 years old and now you
-know I've been able to build a pretty successful company.
+### Example 2: The Nine-Figure CEO Who Stuttered
+
+A nervous, stuttering child who became head of household at 15 eventually built a company that did over $600 million in 25 years. He learned that confidence is transferred through energy and belief, not just words. By obsessing over the best salesperson's delivery, he made his belief so strong that customers naturally wanted to follow him.
+
+### Example 3: Pain as Fuel
+
+Someone who was tired of running out of food stamps, sleeping with roaches, and living in a windowless room used that avoidance of pain as the catalyst to become obsessed with making $100,000 by age 21. That obsession led them to master sales, launch a company, and build an empire that now generates nine figures annually.
 
 ## Best Practices
 
-- ✅ Focus on consistent action rather than perfect planning
-- ✅ Build multiple income streams to diversify your wealth
-- ✅ Invest in yourself and your education first
-- ✅ Surround yourself with people who challenge and support you
-- ✅ Track your progress and adjust your strategies as needed
-- ❌ Don't rely on a single source of income
-- ❌ Don't let fear of failure prevent you from taking action
-- ❌ Don't ignore the fundamentals of financial management
+- ✅ Channel pain into relentless action instead of staying stuck in it
+- ✅ Set small targets that build belief step by step
+- ✅ Model the best performer in your field until their habits become yours
+- ✅ Master body language and tonality before worrying about scripts
+- ✅ Show up every day, especially on the days you do not feel like it
+- ✅ Find a purpose bigger than your fear
+- ❌ Do not let fear of looking stupid prevent you from asking for help
+- ❌ Do not quit when rejection happens; expect it as part of the process
+- ❌ Do not let your environment define your ceiling
 
 ## Keep In Mind
 
-- Every situation is unique; adapt these principles to your context
-- Results require time and consistent effort
-- The journey to wealth is rarely linear
-- Continuous learning is essential for long-term success
+- Your belief level determines what you can achieve; every small win raises it
+- People care more about how you make them feel than what you say
+- The pursuit of greatness is not a destination; it is continuous expansion of what you believe is possible
+- Consistency over years beats intensity for weeks
 
 ## Security & Safety Notes
 
-- This is educational content based on publicly available podcast episodes
-- Always do your own research before making financial decisions
-- Consider consulting with qualified financial advisors for personalized advice
-- Never invest more than you can afford to lose
+- Do not let desperation drive you into illegal or unethical sales tactics
+- Protect your personal information when cold calling or knocking doors
+- Set boundaries around work hours to avoid burnout, even when driven by pain
+- Consult a therapist or mentor if past trauma is still controlling your decisions
 
 ## Common Pitfalls
 
-- **Problem:** Waiting for the "perfect" time to start
-  **Solution:** Start now with what you have; perfect timing doesn't exist
+- **Problem:** Focusing only on the big dream and getting discouraged when it feels unreachable
+  **Solution:** Break the dream into 12-month targets and celebrate every milestone
 
-- **Problem:** Trying to get rich quick without putting in the work
-  **Solution:** Focus on building sustainable wealth through consistent effort
+- **Problem:** Letting timidity or past bullying prevent you from selling or leading
+  **Solution:** Reframe rejection as data, not personal attack; every no moves you closer to a yes
 
-- **Problem:** Comparing your progress to others
-  **Solution:** Focus on your own journey and measurable progress
+- **Problem:** Trying to be original instead of effective
+  **Solution:** Copy the best until you understand why it works, then adapt it to your style
 
-- **Problem:** Giving up after initial setbacks
-  **Solution:** Treat failures as feedback and learning opportunities
+- **Problem:** Burning out by trying to maintain intensity forever
+  **Solution:** Build sustainable routines; macro patience with micro urgency wins the long game
