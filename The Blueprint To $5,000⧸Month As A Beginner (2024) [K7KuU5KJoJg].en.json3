@@ -1,0 +1,5524 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 1000,
+    "dDurationMs": 6279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and it's live I just launched a business\nwhich is going to earn $5,000 a month",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 5920,
+    "dDurationMs": 5759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and I'm going to show you my exact\n10-step blueprint so you can do the same",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 9440,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with any business in my 35 years of\nbusiness I built 19 companies and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 13519,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "invested in 79 startups and I've made\nmore money than I'll ever need I've been",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 17480,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "offered tens of thousands of dollars to\nshare this knowledge but instead of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 21359,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "charging I'm going to give it to you for\nfree so sit down grab a pen and a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 25920,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "notepad and take the next 5 minutes to\nlearn what I'm about to teacher because",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 29679,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if you you can't I've got some news for\nyou you're probably not going to make it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 33760,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and thanks to Shopify for sponsoring\nthis video this video will cover 10",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 37040,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "steps in total taking from idea to\nrevenue to reinvestment and growth so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 42399,
+    "dDurationMs": 6601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "let's get started by coming up with an\nidea so the first part of building any",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 46680,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business of course starts with what we\nprobably would call an idea but I prefer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 50840,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to call it a concept an idea can be a\nbit flaky and actually have no Direction",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 54840,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a concept is an actual physical thing so\nin this particular example we're going",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 59199,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to make a close Ming brand as our first\nstep into building a business to be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 62840,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "honest the process I'm about to give you\nyou can learn to use this process for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 67479,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "any business absolutely anything but\ntoday I'm going to Anchor it in a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 71479,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "clothing brand product it's one of the\ntop things that people ask me they want",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 75600,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to launch a clothing brand business so\nlet's launch one today for real I'm",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 79360,
+    "dDurationMs": 5759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to actually launch this business\ntoday using this blueprint to try and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 83000,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "help you not just hear what I'm saying\nbut see how to do it so we've decided",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 88159,
+    "dDurationMs": 5081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we're going to do a clothing brand first\nthing we need to decide is what are we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 91240,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to call it now naming a business\nis really tricky and I sometimes say to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 95200,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people there's two Frameworks for naming\na business the first is something",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 98960,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "abstract so think like Google a brand\nnew word a brand new thing that doesn't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 104280,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "exist that makes it very easy to trade\nmark and hopefully means things like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 107680,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "website addresses are available the\nother way to go is something that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 111360,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "matters to you it can literally be what\nwe call what's written on the tin bake",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 115360,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "beans so if you're selling baked beans\nit's bake beans written on the tin and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 120119,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's the brand right you can keep it\nreally simple for this particular",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 123719,
+    "dDurationMs": 5801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "example I'm going to run with something\ncalled what's your dream because that's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 127880,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "my tagline most of you probably know\nthat for new viewers here maybe you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 131239,
+    "dDurationMs": 5241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "don't I go into the street and I ask\npeople what's their dream I've even got",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 134680,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a book with the title what's your dream\nin it so why not anchor your business in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 140480,
+    "dDurationMs": 4839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "something that matters to you now I've\nseen businesses get launched with",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 143200,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people's personal names so David Oggy\nlaunched one of the largest agency",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 147200,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "businesses in the world he named it\nafter his surname name David ogy so now",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 151319,
+    "dDurationMs": 5361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ogy if you ask anybody the word ogy they\nthink of the agency but of course that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 154680,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was once his name so you can anchor it\nin something personal like your name you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 158280,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can anchor it in a word you can just\nmake up to give it a meaning or you can",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 161760,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do what I'm going to suggest that we do\nfor this particular exercise anchor it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 165120,
+    "dDurationMs": 5399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in something I asked people every single\nday good news is and we're going to come",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 168840,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on to this stuff a bit later I already\nown the trademark for what's your dream",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 172519,
+    "dDurationMs": 5481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trademarks a very important part in this\nfirst stage you can have an idea I've",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 176519,
+    "dDurationMs": 4521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "seen many people launch a business on\nthe back of an idea but because they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 179480,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "didn't do a a concept they only did an\nidea they've gone to Market it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 182640,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "launched and then they find out it's\nactually owned by someone else so right",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 186599,
+    "dDurationMs": 4280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we decided we're going to do a clothing\nbrand we' picked a name what's your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 189239,
+    "dDurationMs": 5801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dream we've made sure we own the\ntrademark so now why are we launching",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 193080,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this business it's very important to\nmake sure that any business you do has a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 197440,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "purpose in my opinion that's how new\nbusinesses are going to beat existing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 201720,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "incumbents if you think about big Brands\ntoday that are out there and I could",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 205280,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "name many of them Nike Umbro whatever it\nis your company comptition what is their",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 210799,
+    "dDurationMs": 7321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "meaning why are they there so I think\nthe future of any big business is to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 215959,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actually decide what you're going to do\nof your profit what are you going to do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 219840,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you going to invest in your people are\nyou going to make sure that you back",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 223480,
+    "dDurationMs": 5399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sports are you going to ensure that you\nback going into the gym you're going to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 226599,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "back people eating healthy what is the\nreason your product exists now for my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 230920,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "real life example that we're going to\nlaunch today this clothing brand I'm",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 234760,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "doing it to fix the education system I\nwant every time we sell a hoodie or sell",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 239319,
+    "dDurationMs": 5161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a t-sh shirt whatever we decide to do\nand I'll go through that in a minute",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 242319,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when we sell them the profit that we\nmake after all our costs is going to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 246560,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fund people's dreams just like yours so\nI've anchored it to a purpose now",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 250879,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there's a couple of reasons why that's\nreally powerful one it will allow people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 254720,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "who work with you to get excited about\nthe business Beyond just making profit",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 258199,
+    "dDurationMs": 5161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we need to make profit so we can pay\npeople well we're not a charity we don't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 261560,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want to be I think a charity model can\nactually leave you in a hole that won't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 264639,
+    "dDurationMs": 4921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "allow you to scale so we're a for-profit\nbusiness that does good now your staff",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 268240,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "will want to work there the second thing\nis is people will probably want to buy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 271520,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "from you so if you're listening to this\nvideo right now and you have a dream by",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 276000,
+    "dDurationMs": 5639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "buying our hoodies buying our tops you\ncan fund your dream or you can fund",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 279960,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "someone else's dream and won't the world\nbe a better place if we're helping",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 283520,
+    "dDurationMs": 5119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people do what they love if we're\nfunding dreamers right think of the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 287479,
+    "dDurationMs": 6601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "problems in the world that can get\nsolved if we actually fund dreamers so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 291720,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in this first stage this concept stage\nit's also important to start securing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 296320,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all the URLs and website addresses\nbecause again you don't want to have a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 300000,
+    "dDurationMs": 4479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "brand even if you have the trademark\nwhere you can't control the messaging on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 303160,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it so you want to make sure you own the\nX handle the YouTube handle the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 307039,
+    "dDurationMs": 6521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Instagram handle the Tik Tok handle it's\nall free you have to secure all these",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 311680,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "things to make sure that your business\nhas the longevity and the ability to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 315400,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Market in all levels for free now we\nhave a concept we have an idea we have a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 319680,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "product we have our why we have our\npurpose so now we move on to stage two",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 323560,
+    "dDurationMs": 6199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of the blueprint so stage two of the\nblueprint is in the case of a garment",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 327319,
+    "dDurationMs": 5401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business is find a supplier right but\nany business you need to find Partners",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 331639,
+    "dDurationMs": 5361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "doesn't matter what you launch I\nlaunched a creative agency so I needed",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 334800,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to find people that were good at\nCreative Design I even partnered up with",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 339560,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "brands that had too much work and could\ngive it to us I also partnered up with",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 344000,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "software companies who gave us the\nsoftware so you might need to find",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 347039,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Partners in the case of a product\ncompany we need to find the supplier",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 351039,
+    "dDurationMs": 6521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "who's going to make the product now a\nlot of people will tell me it's really",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 354600,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hard to find a supplier it's not it's\nreally not now the truth is to find",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 359280,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "anything to do anybody to do anything in\nthis day and age is hard in general",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 363880,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because people are busy the good people\nare doing their own businesses the good",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 367199,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people are busy you have to really do a\nmethodical process to get a supplier so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 371120,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for example first of all list out\nexactly what it is you need from your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 374479,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "partner or your supplier be as detailed\nas you can so let's say in the case of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 378720,
+    "dDurationMs": 5879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "our particular product launch we want\nhigh quality hoodies I'm going to get on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 382639,
+    "dDurationMs": 5201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to why high quality is important in\nanything you do doesn't matter if it's a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 386240,
+    "dDurationMs": 4040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "product business or not high quality in\nmy opinion is where you should always",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 388880,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "start if you look at any successful\nbusiness they start high quality and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 392120,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they go down the food chain you look at\nApple they start with an expensive",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 395319,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "product and they get cheaper you look at\nTesla they start the most expensive car",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 398840,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and then they start to do cheaper cars I\nthink it's an Untold hack if you want to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 403639,
+    "dDurationMs": 6361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "build a really successful big company\nstart highend and come down you very",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 407919,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hard to go low end and come up some\nbrands have tried to do it and fail it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 411800,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "much harder now in the case of say a\nmanufacturer there are loads of portals",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 415919,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "out there that actually allow you to\norder goods Alibaba for example example",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 420240,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of course online and Google you can find\na million suppliers and different",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 423560,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "platforms that will allow you to order\nproduct in the particular case for my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 427400,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "example today this genuinely happened\nI'm not just saying this for the video",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 431199,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but I literally said right I'm going to\nmake hoodies and t-shirts did a post on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 435400,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "LinkedIn I did a post on Twitter I did\nloads of emails to people I know I said",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 440759,
+    "dDurationMs": 6361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do you know someone and literally while\nI was waiting for all of that to happen",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 444919,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I went to the local coffee shop near me\nI was having a coffee and I was talking",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 448800,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to the guy who serves me coffein I said\nI'm looking to make really high quality",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 452440,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hoodies that I can perhaps sell to show\npeople in a video how to start a garment",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 456599,
+    "dDurationMs": 4761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business the guy behind the counter said\nthat guy over there who's drinking",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 459680,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "coffee that's what he does he has a\nmassive manufacturing plant he can help",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 463280,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you so that's it I went over to him and\nsaid look hi my name is Simon squib I'd",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 467039,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like to make some hoodies how much you\ncharge how does it work this guy then",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 470319,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stepped me through the whole process he\nwent back home came back to the coffee",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 473520,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "shop with samples to show me there and\nthen he didn't know me so it wasn't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 477199,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because I'm famous he helped me he just\nhelped me right and of course he was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 481120,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hoping for an order it is easy to find\nwhat you're looking for if you're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 484479,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "looking for it you will never hit a\nTarget unless you know the target you're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 487680,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going for and then started to get into\nnegotiations with the supplier now this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 490759,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is where I want to make it useful to you\nright I'm assuming you've got no money",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 497000,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but if you've got a little bit of money\nit does make it easier so if you've got",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 500680,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "$4,000 then under the model I was\noriginally doing you can go bu 200",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 506319,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hoodies or you can go buy the computer\nyou can go buy the soft W whatever it is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 510240,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you need to make your business work if\nyou've got a little bit of money in my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 513080,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "opinion is $4,000 gets you mostly what\nyou need to start any business but I'm",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 517080,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to assume you don't have any money\nso what you can do and I didn't need to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 521200,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do it in my case because I've got $4,000\nbut what you can do and I did discuss",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 525880,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this with my supplier is it possible\nthat you give me the merchandise and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 530640,
+    "dDurationMs": 6879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "then I sell it and I'll pay you even\nmore than the asking price you're asking",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 535200,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for right now for your product now my\nsupplier said yes to me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 540000,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "now I know when you hear that you might\nthink well it's okay for you Simon maybe",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 544079,
+    "dDurationMs": 5241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they trust you maybe they can do a\ncredit check on you you'll be surprised",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 547200,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if you don't ask you don't get but you\ncan ask the supplier to back you and you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 550920,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can ask the supplier to be your investor\ninvest $4,000 in you have an equity",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 555399,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stake in your business that's another\nway to go now ideally you have the money",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 559519,
+    "dDurationMs": 5361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to do it and I always love the story of\nBrands like Airbnb when they launched",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 563240,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "their product they didn't have the money\nto do the tech development so they went",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 566760,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and sold seral boxes Obama reels at\nconventions where Barack Obama was at",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 572079,
+    "dDurationMs": 4721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and they made money from those serial\nboxes to pay for their Tech development",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 575560,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of course they also rented out their\nspare room the irony right at the end of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 578959,
+    "dDurationMs": 5801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the day how can you get the money to pay\nfor the product that's going to make you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 582399,
+    "dDurationMs": 7281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "money you got to be inventive about it\nyou got to wake up not be lazy maybe",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 587160,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "even go and clean some cars go clean\nsome windows do someone's Garden get",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 591800,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that $4,000 and stop making excuses now\nif you can get $4,000 and you've got the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 596640,
+    "dDurationMs": 4879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "first stage right you know exactly why\nyou're doing it you know exactly what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 599760,
+    "dDurationMs": 5079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the product is you know exactly who\nyou're targeting now you can make a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 603519,
+    "dDurationMs": 4081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sample now a lot of people when they\nlaunch a business they go too big too",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 606519,
+    "dDurationMs": 3841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quick I launched one of the most\nsuccessful marketing agencies in the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 609040,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "world in the end I had a couple hundred\npeople working for me but at the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 611720,
+    "dDurationMs": 5679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "beginning I just had one person working\nwith me and I paid them based on the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 615440,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "project that I'd won right so I think\nwith the Garment business this is how",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 618720,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I'm doing it I've ordered 200 pieces and\nthen I'm going to sell 200 pieces for a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 624200,
+    "dDurationMs": 5759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "profit and then I'm going to take that\nprofit and I'm going to buy 400 next",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 628040,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "time instead of 200 and once I've sold\n400 and with that profit I'm going to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 631959,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "buy 800 I'm going to show you how to\nsell in a minute I'm going to show you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 636440,
+    "dDurationMs": 5639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "how to Market and brand a business in a\nminute but I want you first of all to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 640279,
+    "dDurationMs": 6761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "understand the economics the first few\nsteps do not have to be big steps if you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 645000,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "make them too big you won't climb up the\nladder right so I'm making 200 units I'm",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 650519,
+    "dDurationMs": 4281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to allocate the $4,000 which is\nall we're going to spend in this whole",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 653639,
+    "dDurationMs": 4801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "process this whole blueprint I'm going\nto give you today we're only going to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 655760,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "spend $4,000 now we have a product\nsupplier now have a minimum order",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 661000,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quantity we now have the money to make\nthat order now it might seem strange",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 665880,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that I'm inserting this particular point\na little bit late in the process but now",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 671200,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you need to be really clear on your\ndemographic who's going to buy this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 676120,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "product and why you know if it's a\nservice business what companies are",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 679839,
+    "dDurationMs": 4321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to work with you and why why do\nyou want to not work with certain",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 683120,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "companies like for example when I\nlaunched my agency business I didn't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 686079,
+    "dDurationMs": 5121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want to work with tobacco companies I\ndidn't want to work with sin Rel",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 689600,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "businesses my decision I'm not making\nany judgment on other people and what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 692880,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they want to do I didn't want to work\nwith those businesses I actually wrote",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 695480,
+    "dDurationMs": 5799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "down who was not my customer and that\nhelped me Define who my actual customer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 699959,
+    "dDurationMs": 4521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is because most people when they launch\na business they don't actually know who",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 703040,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "their customer is and they definitely\ntry to be too broad they'll say I want",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 706320,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "anyone who's between the age of 18 and\n60 to buy my product or services or I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 710880,
+    "dDurationMs": 5759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want any company to use my product and\nservices no I said I wanted Fortune 500",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 715120,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "companies to use my agency and in the\nGarment business I'm going to pick a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 718399,
+    "dDurationMs": 5481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dreamer demographic graphic which in my\nopinion is people before University just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 722120,
+    "dDurationMs": 6279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "before they go into University up to the\nage of 30 now that doesn't mean to say",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 726360,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that people over the age of 30 don't\nhave dreams they definitely do I meet",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 730320,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thousands of people every month that\nhave dreams and they're over 30 but for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 733480,
+    "dDurationMs": 6359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this particular exercise for this\nparticular business for this particular",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 736440,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "product I have decided to pick the 18 to\n30y Old bracket because it helps me to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 741880,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "find in the fashion case what is\nfashionable to that age demographic",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 745720,
+    "dDurationMs": 5799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what's important to that age demographic\nand if I design something that's for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 749199,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everyone then no one will buy it I can\nalways end up designing something later",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 753440,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for the older demographic and again this\napplies to any business you do so being",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 758480,
+    "dDurationMs": 9560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really specific somewhat selective and\nvery very careful in your demographic",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 764639,
+    "dDurationMs": 9440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "breakdown will help you ensure success\nso we're now together launching a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 770639,
+    "dDurationMs": 8161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fashion brand called what's your dream\nthat's going to service the 18 to 30y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 776519,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Old dreamers and the profit we make\nafter our costs is going to fund those",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 781800,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dreamers got it because the next step is\ngoing to get complicated and I want you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 785399,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to understand the foundation you need\nfor any business we understand what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 788839,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we're doing why we're doing it how we're\ngoing to do it and we've got our",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 792600,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "partners lined up so the next step is\ndesigning the product now for some",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 796720,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people this stage is really easy perhaps\nyou're a designer you know exactly what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 801519,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you want and what I probably say is I'm\nsaying design the product because we're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 805240,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "launching a fashion brand but maybe I'm\nalso if you're talking about a service",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 808800,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business or a product business in\ngeneral I would say you're also",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 812279,
+    "dDurationMs": 7961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "designing a brand right you're designing\nthe meaning of the business just by",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 817399,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "visually seeing your imagery people\nshould be able to associate with what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 822440,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you do so we're really not just\ndesigning a product we're designing a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 827440,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "brand now I have a little bit of an\nadvantage in this particular case",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 830959,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because my wife is a graphic designer so\nto keep my cost down she's helping plus",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 836120,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I work with penguin on this book they\nactually designed what your so I already",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 839800,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have a general image that I like and I\nknow works for my brand but I think that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 844120,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you'll be surprised how many people can\nhelp you with this stage if you don't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 847199,
+    "dDurationMs": 6841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have the talent yourself and if it's\nreally important to get deep into this a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 851199,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "couple of hacks in the fashion business\nyou can actually go to an existing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 856480,
+    "dDurationMs": 7159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fashion designer and say would they like\nto do a collaboration right so example",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 861000,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is kanyon West worked with Adidas right\nand they did a collaboration so he was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 865639,
+    "dDurationMs": 6721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the designer they were the distribution\npartner it went pearshaped and maybe",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 870399,
+    "dDurationMs": 5401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that sounds too highbrow to give you as\nan example but you'll be surprised how",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 874320,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "many designers might collaborate with\nyou they might do the design with the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 878000,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "promise that they can get 10% of the\nprofit you make so you can get yourself",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 882680,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a designer and help you with your\nbusiness so again I'm lucky I have a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 886399,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "graphic designer as my wife so she can\nhelp me with it but the people who made",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 890040,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "my hoodies the high quality\nmanufacturing partner I had for this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 893560,
+    "dDurationMs": 4719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they also offered to do the designs to\nhelp us right so there's loads of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 897160,
+    "dDurationMs": 4119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "different ways to get the product\ndesigned and it's important to get that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 899920,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right now because you have the\ndemographic in mind you know exactly who",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 903639,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're targeting you should remember to\ndesign for them and I'll tell you what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 907560,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we did to make sure we designed for them\nand by the way I don't think we've got",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 912199,
+    "dDurationMs": 6041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it right at the time of making this\nvideo I don't think it's perfect yet it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 915519,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "will still make $5,000 a month profit\neasy and we haven't even got it right",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 919680,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yet so you don't need to get this\nperfect from day one and sometimes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 923480,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "shipping something that's 80% good is\nbetter than never shipping it at all",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 927720,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I'll show you what we've made so that\nyou can see the evolution literally in a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 932079,
+    "dDurationMs": 6521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "week from the first idea to the second\nidea so this is the first designs we did",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 936440,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "very simple in fact in this particular\ncase printing one side not the back side",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 941319,
+    "dDurationMs": 4921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh actually reduced cost in this\nparticular example I think for version",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 944240,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "one this is what we thought would be\npopular and matches the brand we already",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 950000,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have and this this is therefore what\nwhat we what we initially created and we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 954800,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "made 200 of them now I'm going to go\ninto Marketing in a minute but very",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 959720,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quickly while we're on the design when\nwe put these units into the market and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 963399,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "shared them with different people we got\nquite negative feedback quite quickly",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 967279,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people saying that they didn't really\nlike it now what was interesting is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 970800,
+    "dDurationMs": 6039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "anybody in my community who saw the top\nloved it because they know our mission",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 975440,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and they feel align to it and they want\nto ask people what their dreams are and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 978240,
+    "dDurationMs": 7279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "help people with their dreams but as a\nfashion product outside of our core fan",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 982880,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "base people didn't like it and they'd\nmake comments like it it doesn't look",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 987440,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nice they don't like the the the\nsentence it doesn't resonate with them",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 991399,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it feels a bit corporate merchandise so\nwe took that feedback which was instant",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 997639,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "as soon as we made the tops and put them\nout in the market and we redesigned it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1001279,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and we made new ones and these are the\nnew ones we made we went from this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1004560,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "product which by the way once you've\nmade one you can feel the quality and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1008399,
+    "dDurationMs": 5481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you can see if it's good enough matches\nwhat you want the demographic to feel",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1012319,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when they hold the product this is what\nwe had right so one-sided printed",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1016920,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quality was good but people didn't NE\nneily like this so we switched to a more",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1022480,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "subtle branding give about take now it\nmight seem now like we've switched the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1027079,
+    "dDurationMs": 5641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "name of the product but we haven't we\nwent deeper when we actually gave the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1030640,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "first product to people we asked what is\nthe mission of this product and they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1034240,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "said well it's to ask people their dream\nwe're like no it's to fund people's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1040120,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dreams and we do it without any\nexpectation of anything in return so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1044520,
+    "dDurationMs": 4200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "then when talking to people from the\nfirst product what they thought of it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1047120,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was like well what does that mean I'm\nlike what it means give without take we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1050600,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "learn very quickly to iterate and change\nthe messaging now we still own what's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1056080,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your dream it's still part of the book\nbut this is the essence of what the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1059520,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "brand is about it's about helping people\nwe always said in marketing it's sell",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1063840,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the sizzle not the steak this is the\nsizzle right and it feels less like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1069120,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "merchandise and on the back we want\neverybody to become a Founder so we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1073039,
+    "dDurationMs": 8961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decided to put founder on the back now\nthis time when we showed this product to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1079080,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people they loved it now some people\nstill didn't like it in the 18 to 30y",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1083960,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Old bracket for different reasons\neveryone's got different fashion tastes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1087080,
+    "dDurationMs": 6839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but the concept that people buy this and\nthey fund Founders and they can be part",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1091159,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of a Founder community and the messaging\nis give about taken it subtle meant that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1096559,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people wanted this top so now we have\nwhat we call product Market fit we have",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1101480,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "an idea of a product and the market\nwants that product so number four on the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1105440,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "blueprint is build the store we have to\nbuild a platform think about it almost",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1109760,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like a physical location where people\ncan go and buy the product and it has to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1113280,
+    "dDurationMs": 7879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "be frictionless so what I'm going to do\nis I'm part of a Shopify and I'm going",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1118840,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to build a Shopify store right now and\nI'm going to show you how to do it if",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1122600,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "somehow you don't know what Shopify is\nit's a Commerce platform that allows you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1126600,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to start grow and manage a business\nShopify is really really easy and the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1131480,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "setup can look so professional um it\nreally is a simple drag and drop",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1135320,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "features so it means no coding so don't\nlet anyone sell you that this is really",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1139640,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hard to build it's not um if I can do it\nanyone can do it in this section you can",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1144360,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "list your products look how beautiful\nlooks it's just so simple you need to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1148919,
+    "dDurationMs": 5361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "come up with a good description for your\nproduct so in my case I'm going to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1152120,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "introduce the give without take hoodie\nby influencer Simon squib A Perfect",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1156400,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Blend of comfort style and purpose\ncrafted from 100% organic cotton this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1161039,
+    "dDurationMs": 6601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hoodie is as soft on your skin as it is\non the environment every purchase",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1164880,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "supports Simon's mission to give back we\nproceeds going Direct direct ly towards",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1169520,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "funding dreams and helping aspiring\nentrepreneurs achieve their goals it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1173559,
+    "dDurationMs": 7321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "important that you really emphasize why\npeople should buy right so in this now",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1178480,
+    "dDurationMs": 6199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we've made the mission clear the quality\nclear and the purpose of the business oh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1183320,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I really like this theme this is really\ncool now you can pay but I'm I'm going",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1187559,
+    "dDurationMs": 4201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for this free one for now got to keep\nyour cost down when you're first",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1190559,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "starting a business you can see it\nalready looks like a store it's so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1193559,
+    "dDurationMs": 5561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "simple I'm not techsavvy at all so if I\ncan do it you can do it I'm just going",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1197039,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to change the text here and add the\nofficial give without take",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1201120,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "logo so I'm just going to upload that\nlooking good A lot of people think you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1205159,
+    "dDurationMs": 6281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "need to do fancy product shots I don't\nthink it's really that hard these days",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1208919,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to take pictures but anyway any business\nthat's selling a product I tell people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1214159,
+    "dDurationMs": 6361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "don't overthink it too much right better\nto get it live 80% perfect and update it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1218840,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "over time and make it perfect from day\none and never launch now this is really",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1222280,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "important you keep an eye on this and\nlook it's laid out super simple right",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1226120,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "here are your analytics you need to be\nconsist stantly checking these as this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1230080,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is what will let you know what's working\nand what doesn't work use these tools so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1234320,
+    "dDurationMs": 5719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I managed to get shopified to give you a\nfree trial as well if you go to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1237960,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "shopify.com\nyou can have a free trial of this it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1243120,
+    "dDurationMs": 9320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "easy go do\nit now number five is actually planning",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1249520,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "distribution now in of course a garment\nbusiness that means retail shops that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1254960,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "means online stores and we're lucky\nenough in this particular video to be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1258799,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sponsored by Shopify that's a great\nplatform to get your product out there",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1262159,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in the world now I actually ask Shopify\nto sponsor this video to show you that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1266679,
+    "dDurationMs": 5641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you could also get these Partners to\nsponsor you sometimes your distribution",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1270400,
+    "dDurationMs": 6399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Partners can be your sponsors they can\nhelp you fund your partnership with them",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1274720,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can be a part of sponsorship and can\nhelp you get your product out there now",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1278520,
+    "dDurationMs": 4039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "distribution can come in many forms I'm\ngoing to talk through different ways",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1281279,
+    "dDurationMs": 5481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that you can get your business out there\nif you've got a Service Company",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1284480,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "distribution is super simple you just\nget one happy customer and you ask them",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1289080,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to recommend you right that is a\ndistribution model I love it when people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1292600,
+    "dDurationMs": 5199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "build up email lists around their\npersonal brand because you can email",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1295960,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people to buy your product buy your\nservice it's low cost it's a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1300000,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "distribution model I always think the\nlwh hanging fruit with any business is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1304159,
+    "dDurationMs": 4921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "always getting your friends and family\nto buy your product of course in the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1307039,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hoodie case I can literally get my wife\nto buy a hoodie I can get my team to all",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1311039,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "buy a hoodie I can get all their friends\nto buy a hoodie right I've got a team of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1315120,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "15 that help me make these videos if\nthey all sell three we've sold 60 70",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1319720,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hoodies just in our small Network within\nour company portfolio now if you've got",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1323480,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "product Market fit you can of course\nscale this up now but distribution can",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1327919,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "start small everybody thinks\ndistribution has to be from day one",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1331120,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're in all the waitr or you're in all\nthe tesos or you know whatever you don't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1335240,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "need it to be big straight away moving\nit forward with a small group of people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1339080,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "first can create a community which I\nthink is a power up in any marketing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1343120,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "having a community that then promote you\nis more powerful than you promoting you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1347320,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I'll quickly show you behind the scenes\nof what we're doing right now we're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1351000,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "packing 100 hoodies to 100 people we're\nincluding a book we're including some",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1356120,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sweets you can see how we get these\nhoodies out to influencers to Partners",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1361320,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and distribution can come from their\nawareness of the product we also managed",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1364520,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to secure some free spots at carfest and\nother festivals around to distribute and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1370000,
+    "dDurationMs": 6919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sell our product now a lot of these\nlocations if you ask them will have",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1374080,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "spare spots most Sunday markets have a\nspare spot sometimes you can do Revenue",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1379159,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "shares sometimes there's an amount of\nmoney to put down to actually have those",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1382559,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Market stalls but it's worth asking\nsometimes for small businesses a lot of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1386760,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "these places will let you start for free\nyou never know one of my favorite",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1390440,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "distributions of course is social media\nbut we're going to get more into that in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1393559,
+    "dDurationMs": 5761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a minute when we talk about marketing\nnow an interesting thing when we're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1396760,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "doing a market test at carfest about how\nmuch people pay for our hoodies we we're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1401480,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "looking to sell them for\n85 our cost of goods is around £35 so of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1406520,
+    "dDurationMs": 6759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "course we have marketing management\ndistri R bution so we have to sell them",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1410159,
+    "dDurationMs": 7801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for £85 to make a profit and when we\nwere asking people at the event what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1415559,
+    "dDurationMs": 7521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they would pay they were saying around\n5055 which sounds absolutely reasonable",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1420679,
+    "dDurationMs": 6041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we analyzed why people were saying that\nit's one at a festival some of the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1425120,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "demographic were not in love with our\nmission they didn't know our mission so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1428320,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when we ask them how much they pay they\npay a certain amount they'd never tried",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1431799,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on the hoodie they' never checked the\nquality and they didn't know our mission",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1434559,
+    "dDurationMs": 6681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so we failed to prove value but once we\nexplain the value",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1439039,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quality and why we were doing it then\npeople were starting to say no problem",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1442720,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with £85 so as soon as I tried it on for\nexample no one no one question the £85",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1447480,
+    "dDurationMs": 5559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when we actually did the display of all\nthe goods initially we put it all piled",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1451000,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "up and there were too many tops around\nit didn't look like a premium product",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1455000,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuz it was all jumbled together like a\nsecondhand shop so we tied up the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1459200,
+    "dDurationMs": 5359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "display we made it look cleaner we made\nthe product look nicer we put the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1463000,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "product on wooden hangers and by the way\nthis is true for every single business",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1466120,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if you've got a service business and\npeople go on your website which is often",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1469320,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the distribution Network and you put\nyour low-end client work on your website",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1474320,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "then your pricing will instantly be seen\nas low-end so on my agency platform we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1478559,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "used to always put CNN estate order all\nthe big products where we pay big money",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1482919,
+    "dDurationMs": 4921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "will always front and center so value\nwas obvious from day one you want to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1486480,
+    "dDurationMs": 4439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "work with the people that help CNN\nbecome famous then we're not going to be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1489120,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cheap are we and I think sometimes\npeople decide pricing based on what the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1493399,
+    "dDurationMs": 6361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "customer said instead of making sure you\nbring the customer up to the value of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1497720,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your product Apple are brilliant at this\neverybody said no one's going to pay",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1501080,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": ",000 plus for a phone nobody all the\nother companies no Kia were going down",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1505360,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in price they thought people wanted to\npay less it's not true you add value you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1510720,
+    "dDurationMs": 6199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can add on the price if you bring people\nmore they will pay more if you wear this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1515080,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hoodie and it doesn't fall apart in two\nmonths people are happy to pay more for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1518880,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it because it lasts longer so you have\nto make sure that your Communications",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1523679,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and your distribution partners are\nappropriate for your brand if you're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1527760,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "putting this hoodie in tesos then it's\nprobably not going to sell for £85 but",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1532200,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if you put it in a premium location with\nthe mission clearly stated with the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1537080,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ability for people to try on the product\nand realize the quality you'll get the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1541279,
+    "dDurationMs": 4801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "price you want now maybe you don't want\nto price your product High that's fine",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1544799,
+    "dDurationMs": 5641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there is a whole different economic\nmodel around doing things cheap and mass",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1548240,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "totally get that personally again My\nPhilosophy is always have a premium",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1552880,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "product and you can always come down in\nprice over time and distribution",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1556880,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Partners will determ\nwhether or not your product is seen as",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1560880,
+    "dDurationMs": 4080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "valuable or not so in marketing there\nare a lot of different methods to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1563320,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "promote a business I've done a video on\nmarketing that's got a million views on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1566399,
+    "dDurationMs": 5801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "YouTube already that goes really deep on\nthis subject okay but I'm going to tell",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1570399,
+    "dDurationMs": 4801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you two important things to launch any\nbusiness there are some things I think",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1573440,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you should avoid and in my opinion when\nyou're first launching a business and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1576720,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not everyone will agree with me on this\nbut try to avoid paid ads why because",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1581559,
+    "dDurationMs": 6881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's very competitive it can get really\nexpensive and even if you manage to find",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1585760,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a niche initially if there's a niche it\nwill make you money I drive sales to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1590679,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your site it will just become a bidding\nwar and it will become very difficult",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1595080,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and there's not much of a learning curve\nin mastering it I think the better way",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1598760,
+    "dDurationMs": 7799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to Market any business is learn to make\ncontent and maybe initially if you don't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1604600,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know how to make content which is Bloody\neasy I'm sure you're consuming a lot of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1607960,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it you just need to look at what's\npopular and some respects replicate it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1612600,
+    "dDurationMs": 5439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like Street content right now is really\npopular that's what I'm doing it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1616200,
+    "dDurationMs": 4599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hugely popular you know sometimes you\njust need to innovate on what's already",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1619520,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "out there you don't need to reinvent the\nwheel but there are two methods in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1622279,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "marketing that I think everybody should\nknow in and out and it's really simple",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1626360,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "influencer marketing and you can be an\nintrovert or an extrovert and do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1630279,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "influencer marketing create a list of\ninfluencers that you want to work with",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1634000,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and even the big ones that you think I\ncan't afford them the way to work with",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1637919,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "influences is one align with their\npurpose so if you came to me with a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1642080,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business and you said Simon this\nbusiness will help fix the education",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1645159,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "system Simon this business will help\npeople's dream beam happen I'd be really",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1649520,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interested in helping you make it happen\nand if you're a small business I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1652480,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wouldn't charge you now I do charge big\nBrands because they' got the money but I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1657520,
+    "dDurationMs": 6279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do not as a rule charge people who are\nstarting a business money to help them",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1662399,
+    "dDurationMs": 4721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Market their business and you'll be\nsurprised how many influencers are the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1665440,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "same now if there are some influencers\nout there that still need to be paid and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1668600,
+    "dDurationMs": 5439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everyone needs to earn a living so\nthat's perfectly normal you can link",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1672159,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sales to income so in other words if\nthey sell a hoodie you can give them a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1676039,
+    "dDurationMs": 7081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "percentage of the profit so make a list\nbe bold the strongest people ask for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1681159,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "help tell these people why you need\ntheir help you'll be shocked how many",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1684919,
+    "dDurationMs": 4961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people will help you now you can also\nbuild an economic model in there that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1688600,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "will also increase your chances of\nhaving even more influencers but",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1691480,
+    "dDurationMs": 5319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "influencer marketing is the most\nunderpriced attention in the market",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1694840,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "today and despite everybody knowing\nabout it it's shocking to me how many",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1698360,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people don't actually try and do it the\nsecond thing in marketing if you don't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1702399,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want to go watch my very long video on\nmarketing is strategic marketing so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1706080,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "strategic Partnerships are one of the\nmost under underrated ways of getting",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1709640,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your business out there so an example I\nwork with Tide banking right now if you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1714399,
+    "dDurationMs": 6681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sign up with Tide and you get £50 when\nyou spend £100 and I put the link down",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1719440,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "below now I've mentioned it you can even\nget your company registered for free",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1722440,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "through them so I work with brands that\ncreate a win-win for my audience TI",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1726159,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "banking have a huge Client List and I\nsay to them would you mind promoting",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1731320,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "these dream hoodies to your audience who\nmight like to buy one to be a part of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1734760,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the founder community be mind we got\nfound on the back of the tops but also",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1737640,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "at the same time the money these hoodies\ngenerate will allow people to open up a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1741640,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business which allows them to open up a\nbank account so it creates a win-win for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1745080,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Brands like that people don't realize\nthat these Brands need Innovation and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1749279,
+    "dDurationMs": 7841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "need Partnerships quite often the way to\nthink about it is okay which partner out",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1754279,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there has a database for exactly the\ndemographic that we discussed earlier so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1759200,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "who has the demographic for the people\nyou want to work with already and if you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1763080,
+    "dDurationMs": 4719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have a product that doesn't conflict\nwith them then they will be happy to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1766480,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "team up with you especially if there a\nshare revenue and certainly if there's a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1769799,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mission alignment I call this 1+ 1al 11\nand I will never stop telling people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1774000,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about this because I see so many people\nspending money on ads and not enough",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1777360,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "money spent building relationships with\ncompanies that already have all your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1781000,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "clients in their email list there is one\nother strategic partnership that you can",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1784880,
+    "dDurationMs": 8159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have and that's with your existing\ncustomers so we've now sold 80 hoodies",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1789919,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in the last 8 hours those people we can\nnow say to them if you sell the hoodies",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1795360,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we can give you a commission this is\ncalled affiliate income so make making",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1798240,
+    "dDurationMs": 4919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your community benefit from selling your\nproduct is another thing a lot of people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1801799,
+    "dDurationMs": 4401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "don't do they're willing to give the\nmoney to Mark Zuckerberg a billionaire",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1804760,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "already at Facebook but they're not\nwilling to give profit or and income to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1808480,
+    "dDurationMs": 6199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "their Community don't make the same\nmistake I see so many small companies",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1812360,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "make every single day learn to reward\nyour community for helping you number",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1816480,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "seven on the blueprint is product launch\nnow in many respects a product launch",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1821320,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "isn't a final thing a lot of people\nthink they've launched their product",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1824679,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's it it's worked or it hasn't\nworked Airbnb launched website eight",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1828960,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "times before it worked so a product\nlaunch is it's very important to think",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1832279,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about timing so for example we're doing\nhoodies it's just coming into Autumn now",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1836600,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in England where we're initially\nlaunching our product hoodies make sense",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1840200,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actually at the festival we were at it\nwas sunny so we sold less hoodies",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1844039,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because we were off slightly we were a\nlittle bit early just before the Autumn",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1848159,
+    "dDurationMs": 4561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "season began so timing is everything\nyou'll see a lot of hit songs for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1851640,
+    "dDurationMs": 5159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "example if you're a singer and you\nrelease a song a lot of hit songs",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1854559,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "initially weren't hits and then they\nwere released a little bit later at a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1858559,
+    "dDurationMs": 7161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "different moment in time and they were\nhits t-shirt weather by Circle waves for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1863039,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "example go Google it the point is that\ntiming is everything and a lot of the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1867399,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "time people will decide whether a\nproduct is a failure simply by product",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1870840,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "launch without actually realizing that\nit might be timing okay so make sure",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1875880,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your timing is right of course in our\ncase we're launching hoodies no one's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1878919,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to wear them in the summer then be\ncreative in your launch I always am",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1882720,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "shocked when people launch a business\nand it's just like a crappy event and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1887559,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they don't don't really do anything fun\nI think business and fun need to work",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1892000,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hand inand so what can you do when you\nlaunch your business that's fun that's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1897000,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on brand for you that's going to be\nengaging so in our case we go into the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1901559,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "street and we say how much would you pay\nfor this hoodie if you can guess the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1905120,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "price you get it free do something that\nrelates to your personal brand and that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1909080,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can be enjoyable for you and of course\nmatches the purpose of your business I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1913200,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "still really like things like flash mobs\nyou know like just getting attention I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1917919,
+    "dDurationMs": 5561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bought a staircase that was went up for\nsale the first ever staircase in London",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1921279,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that went up for sale and it was in all\nthe news the next day because why did",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1925159,
+    "dDurationMs": 6441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this millionaire buy a staircase in the\nmiddle of London right so you know Le",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1929960,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "leveraging whatever you can whatever\nassets you've got to do something unique",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1933639,
+    "dDurationMs": 5201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to get you PR which is press relations\nand doing whatever you can to get",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1937480,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "communities involved in what you're\ndoing and make a noise I mean we went on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1941320,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the London Underground and put up fake\nads when we launched our help bank.com",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1946360,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "platform and we took empty spaces on the\nUnderground and we put ads in that said",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1950880,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we didn't pay for this space so you\ndon't need to pay for help and that got",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1954240,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a lot of noise a lot of controversy some\npeople didn't like us for it some people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1957960,
+    "dDurationMs": 6199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thought it was brilliant it doesn't\nmatter we were doing it for a purpose",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1961840,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we're doing it to help people and it got\nus lots and lots of media coverage the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1965880,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "staircase I bought got us2 million with\na free media coverage I didn't need it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1970679,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "as a millionaire go spend 22 million\npound to get media coverage I got it for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1973279,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "free and you can do the same now in a\ncase of something like a hoodie I I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1977919,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think people wearing it naturally is a\nreally good thing to do there was this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1982159,
+    "dDurationMs": 5161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "whole thing where Samsung paid the\nKardashians and other people to do a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1986080,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tweet about how much they love their\nSamsung and it turned out the Tweet said",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1989440,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "came from their iPhone so you don't want\nto get caught out like that you don't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1993600,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want to have someone say they like your\nproduct but they don't genuinely like it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1997559,
+    "dDurationMs": 5801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so the thing to do is what we call\nsocial listening once you've done this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2000679,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "initial launch you want to understand\nwhat person may actually love your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2005279,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mission and your product and then try to\nget them naturally engaging with it I'm",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2009480,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not even wearing my own top today right\nlike what does that say about me I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2012760,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "should be wearing it today yeah and I\nthink that's important people naturally",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2015880,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "need to be wearing it and I will wear it\nin a minute just to prove I do love it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2019440,
+    "dDurationMs": 5199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but I don't want to be too commercial in\nthis video right the point is people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2023120,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "will wear it naturally if they like it\nand they're the people to really double",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2025919,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "down on when it comes to product launch\npeople that genuinely believe in your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2028919,
+    "dDurationMs": 4921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business genuinely believe in your\nservice and genuinely believe what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2032320,
+    "dDurationMs": 5479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're doing is important and they want\nto help you do it back those people work",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2036159,
+    "dDurationMs": 5561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with them on the launch stage all right\nnow I'm going to live the brand because",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2039399,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in my case I'm a key person of influence\nright but you you you need to live the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2043399,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "brand and you want to work with people\nthat live the brand and so I will be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2047159,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wearing this everywhere I go that's\nanother reason I wanted to make it super",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2050320,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "high quality it's why it's got furry\nlining cuz I want it to be a good",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2054040,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "product because I'm going to wear it\nnext is building infrastructure now I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2057879,
+    "dDurationMs": 4441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have a strange way of building a\nbusiness I don't think it's strange but",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2060639,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "some people think it's strange my idea\nis always get out to the market see the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2064879,
+    "dDurationMs": 6601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "demand and then build infrastructure\naround it now I've got the resources to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2069800,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "buy a warehouse right now I mean I\nbought a bloody staircase I have the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2073359,
+    "dDurationMs": 6921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "resources to go and build out trucks and\ndelivery folks and all the stuff that is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2078960,
+    "dDurationMs": 5119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "needed for a business like this in the\nlong run we're going to have our own",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2081760,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stores in the long run but you don't\nneed to do it at the beginning and I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2085200,
+    "dDurationMs": 4159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "don't do it at the beginning even though\nI've got the resources to do it why",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2087760,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because you want to find out demand\nfirst you want to find out the market",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2091280,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fit is perfect you want to find out what\npeople are willing to pay for the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2095720,
+    "dDurationMs": 3600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "product long term or what other products\nthey want so you don't want to start",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2098240,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "building all this expensive\ninfrastructure even if you've got the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2100560,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "money until the time is right so what is\nthe infrastructure for this early stage",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2104280,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in my opinion it's good product right\nBaseline second is delivery right so if",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2110880,
+    "dDurationMs": 4080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "someone goes into the link in the\ncomments down below buys one of these",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2113520,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hoodies right now which you feel free to\ndo I want it getting delivered to you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2116440,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quickly promptly and professionally so\ninfrastructure for me in the early days",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2119920,
+    "dDurationMs": 8199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is a way of getting your order into my\nsystem and then that order getting",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2125079,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "translated into a delivery in between my\npersonal opinion is you want to package",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2130079,
+    "dDurationMs": 4641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it up so it's nice so in a hoodie's case\nthat's obvious you put it in a nice box",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2133079,
+    "dDurationMs": 5081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you wrap it you put a note in there\nthat's personalized you try to make it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2136240,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "as unique as possible and as nice as\npossible in a service business that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2139440,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "might simply be telling people clearly\nwhen you're going to deliver the service",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2142560,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when you're actually going to bring them\nthe results that they're after whatever",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2145839,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it is that you're doing whatever is a\nproduct business or a service business",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2149119,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in this stage infrastructure is about\ndelivering on expectation of what you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2153760,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have launched right make sure you have\nbuilt enough but not too much that it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2158800,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cost you a lot of money to maintain it\nwhen you're not totally sure it's going",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2161680,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to scale yet so what have I done in our\ncase and and this is why I wanted to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2165599,
+    "dDurationMs": 4921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actually launch a business today and not\njust tell you how to do it because even",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2169119,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "as a multi-millionaire with all the\nresources I've got to hand all the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2172359,
+    "dDurationMs": 4321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "knowledge I have I still wouldn't go out\nthere and build massive infrastructure",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2175280,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so what have I done I figured out what\nit cost to post a hoodie with the Royal",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2178800,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Mail I went on the Royal Mail website\nand they're not the best brand in the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2181640,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "well but I went on their website and\nfigured out what will it cost to post",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2185400,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "one hoodie two hoodies two hoodies with\na letter two hoodies with paper wrap two",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2190040,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hoodies with ribbon what does it cost to\nsend these out and I've worked out the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2193839,
+    "dDurationMs": 4280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "most cost effective way to do it\nactually sending two hoodies cost the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2196560,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "same as one hoodie so I could do\nshipping free if you order two right by",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2200480,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "understanding the infrastructure it's\nalready out there I haven't had to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2203040,
+    "dDurationMs": 7279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recreate the wheel and build a a\nlogistics system I can literally right",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2207960,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "now put your hoodie in a bag write a\nnote to you personally which I want to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2211800,
+    "dDurationMs": 5799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do for now that might not be scalable\nand then literally have the post office",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2215520,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "come and pick it up when it's ready for\ndelivery that's all the infrastructure",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2218920,
+    "dDurationMs": 3960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I've built for this business and I don't\nneed anything else if I've done all the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2221640,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "other things I've just told you about\nthe influencer marketing the the the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2225079,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "product launch correctly you've got the\nwhy right you got the brand right then",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2228920,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all I need is that now of course if I\nsuddenly get 10,000 orders a day I need",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2233920,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to also think about what is my limits\nactually initially I only have now 120",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2238880,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hoodies left I will sell those hoodies\nbefore I order more but what I have done",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2242880,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "infrastructure wise is I've checked with\nmy supplier how long do they need me to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2246839,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "order more top for them tops to arrive\nso it's basically 3 days so I can put up",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2252119,
+    "dDurationMs": 7641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "more and I can get more to people if I\nwant without having huge stock on my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2257920,
+    "dDurationMs": 4919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "system and huge cost to buy that stock\nin advance that's all the infrastructure",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2261319,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I need at the beginning and and and\nhonestly like any business this supplies",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2265040,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the same like when I built my creative\nagency business we had hundreds of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2268560,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people working for us towards the end\nbut when I first started I just had one",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2271960,
+    "dDurationMs": 7359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "designer who was a contractor they\nweren't even on fulltime and I got a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2276400,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "client who needed service I would then\nhire that contractor to do the work and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2281200,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "then that contractor became a partner in\na business and then I married that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2284720,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "partner and then we had a baby together\nwhich sounds a bit weird doesn't it but",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2287839,
+    "dDurationMs": 4921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's kind of sometimes building a\nbusiness becomes personal I'm joking a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2290960,
+    "dDurationMs": 5639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "little bit I did marry my first ever\ngraphic design higher in the agency but",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2295079,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "joking aside you don't need to marry\npeople to make this work the point I'm",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2298280,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trying to make here that that businesses\nstart step by step you can get one",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2302960,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "person initially as a contractor you can\nget one product and then sell that one",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2308480,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "product you don't need to overthink it I\ncan ship thousands of products if I want",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2314079,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but I don't need to at the beginning\nlet's see what the demand is and I'll",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2317599,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "scale up based on demand you should do\nthe same now number nine on the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2322079,
+    "dDurationMs": 7481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "blueprint is sales I I put this as a\nseparate subject from marketing and even",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2326720,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "product launch because sales is an\nongoing process in any business a lot of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2332240,
+    "dDurationMs": 6119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people don't spend enough time building\na system for sales and I don't care what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2336480,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business it is I love Building Sales\nSystems and anyone can build a sales",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2340280,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "system everyone should know how to sell\nin fact I would argue today every",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2343359,
+    "dDurationMs": 4841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business is built on the back of sales\nif you can sale you can build any",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2346319,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business and anyone can learn sales now\nI've done a very long video on sales",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2350240,
+    "dDurationMs": 5079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "which again you can go watch if you want\nbut I'm going to give you the most",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2353000,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "important highlights with any launch\nbusiness right now the first is what is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2357319,
+    "dDurationMs": 7241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your sales strategy let's take the\nGarment industry again if we sell one",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2361200,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hoodie and we've sold 80 hoodies then we\nneed a system a sales system to ask that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2367720,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "person if they'd also like a t-shirt or\nthey'd like a different color hoodie",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2370680,
+    "dDurationMs": 6399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sales doesn't have to just come from an\nexternal Source marketing is better at",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2374760,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generating external source of sales\nsales comes from internal processes so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2379200,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "now those 80 people we ask them if they\nwant to buy a different color right we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2383200,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ask them if they want to buy a T-shirt\nand then we also understand them maybe",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2386520,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we do a survey and then we ask them if\nthey wouldn't mind telling their friends",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2390079,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about us and maybe we give them a\nreferral code or a free something",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2393359,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "whatever that is and so sales is a\nprocess that people just don't flush out",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2397560,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "enough and that's why I put it in here\nas a separate thing it it's not part of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2401280,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "marketing okay marketing will create\ninbound reactive sales is outbound",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2406920,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proactive right you need to make sure\nthat if for example in our merchandising",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2411599,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "range maybe we'll get brand sponsors\nright so we need someone that's going to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2415920,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "go out and talk to Brands and say hey\npipe drive would you like to sponsor",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2421119,
+    "dDurationMs": 6361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "some T-shirts and we need to speak to 30\nBrands to get six meetings to get one",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2425880,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "client saying yes now I really like love\nsales and I get really excited about it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2428920,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's a very deep subject but I want you\nto really think about your sales system",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2433040,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "now you've launched a product it's out\nthere in the world you can be thinking",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2436960,
+    "dDurationMs": 6359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about this now because now you can start\nto understand who your clients are and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2441359,
+    "dDurationMs": 5521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "who you can sell to at scale once you've\ngot that so for example maybe in the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2444640,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hoodie business we'll go Target all the\npeople that have sold a company and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2448640,
+    "dDurationMs": 4479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we'll ask them please buy these hoodies\nto support other people that one day",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2451640,
+    "dDurationMs": 4439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want to sell a company and there's lots\nof people that have sold a company and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2454400,
+    "dDurationMs": 4040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "then maybe they will also promote it\nbecause a lot of these people have sold",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2457040,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "compan comp become quite successful on\nsocial media themselves so maybe that's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2460079,
+    "dDurationMs": 8401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "our our sales strategy to go to existing\nsuccessful Founders that got lucky had",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2466000,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "help were successful have a great life\nand they now want to give back and help",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2469920,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "other people do it maybe they even buy a\nload of hoodies and give it to people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2473520,
+    "dDurationMs": 5079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that they're investing in give it to\npeople they want to help make their",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2476359,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dreams happen so having a sales strategy\nwhatever it is for you I mean my agency",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2480480,
+    "dDurationMs": 6119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business my service business my sales\nstrategy is I wanted to work with a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2483839,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Fortune 500 companies all the top most\nsuccessful business business is I wanted",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2488200,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to work with those companies because I\nknew they had money I knew they had",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2490880,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "power to do cool things and I knew that\nif I got through to the right person I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2495119,
+    "dDurationMs": 5401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can make a difference in their business\nwhat's your sales strategy be very",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2498599,
+    "dDurationMs": 6121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "careful about this don't overlook it\nlast but not least is the financial",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2501880,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "management and potential growth of your\nbusiness now I would say one of my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2506359,
+    "dDurationMs": 3960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personal weaknesses in business is I\ndon't really care about money and I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2509240,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "don't really care about the finance\ndepartment generally speaking but you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2511760,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cannot Overlook the financial mechanism\nin which your business will grow what I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2516160,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "suggest and this is what I did for the\nfirst six years of fluid I didn't take",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2520200,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "any money out all the profit we made and\nwe made profit every single year I put",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2524440,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it back in to Growing the company I\nhired people got a bigger office made",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2528319,
+    "dDurationMs": 5641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the world better for my team by having\ngood equipment good software I think",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2532640,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people take money off the table too\nquickly and the reason I made so much",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2535800,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "money is because I took no money off the\ntable for such a long time every time",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2539760,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you take money off the table I literally\nthink you're you're Haring the value of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2543359,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your business a year from now right so\nunderstand your numbers",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2547760,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and and and and actually it's very\nsimple what does it cost you to deliver",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2551240,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the product to the customer and what's\nyour profit margin I've seen many",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2553960,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "restaurants go bus that are full up\nabsolutely packed and they gone bust why",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2558760,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because they filled up based on what\nclients said they would pay but they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2562880,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "didn't actually work out what it was\ncosting them to run that business so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2566880,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they had a full restaurant but no profit\nyou have to be disciplined about this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2572520,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and so what are your cost of goods what\ndoes it cost you be very clear even",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2577359,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "electricity that you're using at home\nwhen you're working on your idea costs",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2582680,
+    "dDurationMs": 7159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "money work it out even if you don't like\nnumbers and you don't like accounts this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2586559,
+    "dDurationMs": 6601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stuff is Common Sense learn it\nfigure out exactly what it cost you to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2591559,
+    "dDurationMs": 5241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "make that product exactly what it cost\nto deliver that service write it down",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2595200,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stick it on the wall and make sure you\nnever sell below it now cash flow wise",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2600280,
+    "dDurationMs": 4559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the business that I'm launching here\nwith you today sure there's a little bit",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2603359,
+    "dDurationMs": 5401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of a cash flow problem in this business\nbecause I have to make the product and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2606640,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "then I have to pay to ship it to you and\nthere is a you know in general like it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2610359,
+    "dDurationMs": 4841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sits in escro different companies do\ndifferent things credit cards hold the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2613319,
+    "dDurationMs": 4961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "money but there can actually be a cash\nflow delay before I get payment right I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2617200,
+    "dDurationMs": 4159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have to sell all the product before I\nget all my money back too every business",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2619760,
+    "dDurationMs": 4319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is different in the service business I\nalways recommend to people got the best",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2622839,
+    "dDurationMs": 5121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cash flow business ever because what you\nshould do is charge 50% deposit in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2626119,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "advance soon as you sign an agreement to\ndo any sort of service business and that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2629680,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "50% should be your cost and the final\n50% payment is your profit but not",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2634079,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "enough people Implement that now in\nproduct businesses a little bit",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2636839,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "different but again we made hoodies we\ntook them to a festival people gave us",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2641440,
+    "dDurationMs": 5679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cash we got the money back quite quick\nright some people pay by credit card the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2645240,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "credit card takes 30 days or so to pay\nus yes and we lose 3% depending on which",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2649520,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "credit card that is all cost you need to\nput into your financial system you need",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2652960,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to know exactly if someone pays my\ncredit card what's the cost if someone",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2656160,
+    "dDurationMs": 4080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pays cash what's the cost because\nactually you still got to take the cash",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2658559,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to the bank right what's the cost of\ngetting in the car to the bank to put",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2662000,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the cash in the bank right understand\nevery single element don't be lazy be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2666760,
+    "dDurationMs": 5359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "clear because this part of the business\nif you don't manage it well will not",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2670559,
+    "dDurationMs": 4280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "allow you to grow because you don't know\nexactly what you're making you may have",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2673480,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "money coming in and not even realizing\nyou're losing money and I see that time",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2677079,
+    "dDurationMs": 5201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and time again sounds like my god really\npeople are losing money and don't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2680400,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "realize it yes because they don't spend\nthe time figuring out exactly what their",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2683920,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cost is and being very clear targets are\nthe final thing I'll say if you want to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2688720,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "grow you need to set yourself ambitious\ntargets now maybe you don't want to grow",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2693960,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "maybe you want a lifestyle business\nwhich is absolutely fine I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2697720,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "believe a big business is easier to\nmanage than a small business and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2701960,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "honestly you want to plan for growth and\nto plan for growth you need to set",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2705720,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "targets and it makes everyone feel\nexcited if you reach those targets if",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2709280,
+    "dDurationMs": 5319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you don't set a Target you won't hit it\nI've said it before I say it again set",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2712680,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "targets so that you can grow so what is\nit you want to do maybe that's the thing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2715880,
+    "dDurationMs": 5719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for you to go away and do now and figure\nout what is it you want to do I hope you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2719280,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "enjoyed today's video and let me know\nwhere you're going to set up I really",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2722520,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "love to hear it I'm have to have some\nchicken now so I'll see you later",
+      "acAsrConf": 0
+    } ]
+  } ]
+}
