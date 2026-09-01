@@ -19,15 +19,15 @@ Understand that a house is not automatically an asset. When you cannot make your
 
 ### Step 2: Use Debt Strategically, Not Recklessly
 
-Debt is a two-edged sword. It can be used to build wealth or wipe you out. Use debt to acquire income-producing assets like real estate, but only if you have the financial education to manage it properly. As you increase debt, you must increase your financial knowledge.
+Debt can build wealth or cause losses depending on how you use it. It can be used to build wealth or wipe you out. Use debt to acquire income-producing assets like real estate, but only if you have the financial education to manage it properly. As you increase debt, you must increase your financial knowledge.
 
 ### Step 3: Expand Your Means Through Financial Education
 
-Reject the advice to live below your means without pursuing growth. Instead, get financially educated so you can expand your means — meaning increase your earning capacity and income streams — without taking on debt beyond what you can manage. Read books, study investments, and study financial principles daily so you can increase your earning capacity and make informed financial decisions.
+Reject the advice to live below your means without pursuing growth. Instead, get financially educated so you can expand your means — meaning increase your earning capacity and income streams — without taking on debt beyond your ability to repay. Read books, study investments, and study financial principles daily so you can increase your earning capacity and make informed financial decisions.
 
 ### Step 4: Adopt a Success-Driven Mindset
 
-Continuously improve your financial decisions. Let the desire to improve yourself drive your actions rather than fear or scarcity. Material possessions can be rewards for success, but they are not required for achievement. Focus on achievement first, then decide what role possessions will play in your life.
+Continuously improve your financial decisions. Let the desire to improve yourself drive your actions rather than fear or scarcity. Material possessions can be rewards for success, but they are not required for achievement. Focus on building income first, then decide what role possessions will play in your life.
 
 ### Step 5: Distinguish Good Investment Choices from Poor Ones
 
@@ -56,17 +56,17 @@ You want to buy a rental property but need financing. Before taking on debt, stu
 
 ## Keep In Mind
 
-- Debt is a tool, not a trap; it amplifies whatever financial skills you already have
+- Debt is a tool when used with knowledge, and a risk when used without it; it can amplify the results of your financial decisions
 - Living below your means restricts growth, while financial education expands your opportunities
 - Material rewards are optional; the real satisfaction comes from the growth and achievement itself
-- Historical averages do not guarantee future results; always assess risk based on current conditions
+- Historical averages do not guarantee future results; always assess risk based on present conditions
 
 ## Security & Safety Notes
 
-- Never take on debt for investments you do not fully understand
+- Avoid taking on debt for investments you do not understand
 - Diversify across asset classes to mitigate the risk of any single investment turning into a loss
-- Maintain emergency reserves so debt payments do not force you to sell assets at a loss
-- Consult financial advisors before making large real estate or investment decisions
+- Maintain cash reserves for emergencies so debt payments do not force you to sell assets at a loss
+- Consult financial advisors before making real estate or investment decisions that could suffer losses
 
 ## Common Pitfalls
 

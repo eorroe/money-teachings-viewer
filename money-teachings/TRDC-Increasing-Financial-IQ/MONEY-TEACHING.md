@@ -19,7 +19,7 @@ Understand that, in the framework presented, your primary residence is not an as
 
 ### Step 2: Use Debt Strategically, Not Blindly
 
-Debt used without financial education can result in losses; good debt (debt used to acquire income-producing assets) can increase wealth. The key difference is financial education. Do not follow the blanket advice to "get out of debt"—instead, evaluate whether the debt you carry finances assets that generate income exceeding its cost. The more debt you use, the more rigorously you must evaluate deals, interest rates, and cash flow.
+Debt used without financial education can result in losses; good debt (debt used to acquire income-producing assets) can increase wealth. The key difference is financial education. Do not follow the blanket advice to "get out of debt"—instead, evaluate whether the debt you carry finances assets that generate income exceeding the cost of that debt. The more debt you use, the more rigorously you must evaluate deals, interest rates, and cash flow.
 
 ### Step 3: Expand Your Means Instead of Living Below Them
 
@@ -27,7 +27,7 @@ Debt used without financial education can result in losses; good debt (debt used
 
 ### Step 4: Achieve Goals First, Then Decide If You Still Want Them
 
-Build the capability to acquire the things you want—luxury homes, investments, experiences—then decide if you still want them. The pain is not in having; the pain is in wanting something you cannot afford. Achieve it, and you can take it or leave it from a position of strength.
+Build the capability to acquire the things you want—luxury homes, investments, experiences—then decide if you still want them. The pain is not in having; the pain is in wanting something you cannot afford. Achieve that capability, and you can take it or leave it from a position of strength.
 
 ### Step 5: Develop Your Financial IQ to Evaluate Investments
 
@@ -45,12 +45,12 @@ When conservative stocks drop 50% in value, do not assume the asset class itself
 
 ## Best Practices
 
-- ✅ Study financial statements (income statement, balance sheet, cash flow) periodically
+- ✅ Study financial statements (income statement, balance sheet, cash flow) regularly
 - ✅ Study financial principles daily through books, mentors, and real deal analysis
 - ✅ Use good debt to acquire cash-flowing assets like income-producing real estate
 - ✅ Treat financial literacy as a skill—learn to speak it fluently through practice and experience
 - ❌ Do not accept "live below your means" as a permanent strategy without building financial intelligence first
-- ❌ Do not assume your house is automatically a good investment just because home prices have risen over the past several decades in some markets
+- ❌ Do not assume your house is automatically a good investment just because home prices have risen over the past 20 years in certain markets
 - ❌ Do not take investment advice from people who lack direct experience in the asset class they are recommending
 
 ## Keep In Mind
@@ -59,14 +59,14 @@ When conservative stocks drop 50% in value, do not assume the asset class itself
 - According to this teaching, debt applied with financial education can build wealth, while debt applied without that education can increase financial burdens
 - Learning to build wealth requires the same commitment as learning any complex skill—it takes time, practice, and dedication
 - Your knowledge is a powerful financial asset—choose teachers wisely and continue learning throughout your life
-- Achieve it first, then decide if you still want it. A constraint-focused approach may limit potential; purposeful ambition may expand it.
+- Achieve that capability first, then decide if you still want those things. A constraint-focused approach may limit potential; purposeful ambition may expand it.
 
 ## Security & Safety Notes
 
-- Never invest based on hot tips from unqualified sources, especially those within the employee quadrant who lack real investing experience
+- Never invest based on hot tips from unqualified sources, especially those within the employee quadrant (the E quadrant in the cash flow quadrant framework (a model categorizing income sources as Employee, Self-Employed, Business Owner, or Investor)) who lack real investing experience
 - Verify the track record of anyone giving financial advice—look for someone who has successfully done what they are teaching
 - Be aware that some financial advisors operate on a "sell" model rather than a "teach" model; prioritize education over product recommendations
-- Understand the tax implications and legal structure of any investment before committing significant capital
+- Understand the tax implications and legal structure of any investment before committing substantial capital
 
 ## Common Pitfalls
 

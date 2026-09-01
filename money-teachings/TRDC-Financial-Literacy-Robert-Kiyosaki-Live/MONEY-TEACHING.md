@@ -17,25 +17,25 @@ This Money Teaching distills financial literacy principles from Robert Kiyosaki'
 
 ### Step 1: Master the Five Words of Financial Literacy
 
-Understand and internalize the five fundamental words of financial literacy: **Income, Expense, Asset, Liability, and Cash Flow**. These are the building blocks of all financial intelligence. Financial literacy is not about your FICO score (Fair Isaac Corporation score) or credit rating — it is about your ability to read and understand a financial statement (income statement, balance sheet, statement of cash flow). If you cannot manage cash flow, you cannot build wealth, regardless of your income level.
+Understand and internalize the five fundamental words of financial literacy: **Income, Expense, Asset, Liability, and Cash Flow**. These are the building blocks of all financial intelligence. Financial literacy is not about your FICO score (Fair Isaac Corporation score) or credit rating — it is about your ability to read and understand a financial statement (income statement, balance sheet, statement of cash flow). Kiyosaki teaches that if you cannot manage cash flow, you may struggle to build wealth, regardless of your income level.
 
 ### Step 2: Know the E-S-B-I Quadrant
 
 Understand the four types of people in business and identify where you currently stand:
-- **E (Employee)** — Works for a paycheck, benefits, and a 401(k) retirement account. The school system primarily prepares you for this quadrant.
+- **E (Employee)** — Works for a paycheck, benefits, and a 401(k) retirement account. In Kiyosaki's view, traditional school systems — particularly in the U.S. — primarily prepare students for this quadrant.
 - **S (Small Business / Specialist)** — Self-employed, cannot stop working without income stopping.
 - **B (Big Business Owner)** — Owns a system that generates income without their direct labor.
 - **I (Investor)** — Makes money from investments, passively, whether working or not.
 
-Your goal is to move from the left side (E and S) to the right side (B and I). Kiyosaki says the richest people are B's and I's, not E's.
+The goal is to move from the left side (E and S) to the right side (B and I). Kiyosaki says the richest people are B's and I's, not E's.
 
 ### Step 3: Apply the Asset and Liability Test Correctly
 
-Apply Kiyosaki's simple definition: **An asset puts money in your pocket. A liability takes money out of your pocket.** Do not rely on accounting labels. For example, a personal residence that you live in takes money out through mortgage payments, taxes, insurance, and upkeep — it is a liability. A rental property that generates monthly income after expenses is an asset. A car that you use for personal use is a liability. A car that you rent out is an asset. Ask yourself for every purchase: "Is this going to put money in my pocket or take money out?"
+Apply Kiyosaki's simple definition: **An asset puts money in your pocket. A liability takes money out of your pocket.** Kiyosaki cautions against relying solely on accounting labels when applying this framework. For example, a personal residence that you live in takes money out through mortgage payments, taxes, insurance, and upkeep — in Kiyosaki's framework, it is a liability. A rental property that generates monthly income after expenses is an asset. A car that you use for personal use is a liability. A car that you rent out is an asset. Ask yourself for every purchase: "Is this going to put money in my pocket or take money out?"
 
 ### Step 4: Stop Working for Money — Make Money Work for You
 
-The fundamental mistake most people make is working for money. The rich do not work for money — they work to acquire assets that generate cash flow. When you work for a paycheck, income stops when you stop working. When you own assets, income continues whether you work or not. Shift your goal from "get a high-paying job" to "acquire assets that generate passive income." Kiyosaki and Trump mention a Forbes definition of financial freedom as a million dollars a year in passive income, whether you work or not.
+The fundamental mistake most people make is working for money. According to Kiyosaki and Trump, some wealthy people do not work for a paycheck in the traditional sense — they work to acquire assets that generate cash flow. When you work for a paycheck, income stops when you stop working. When you own assets, income continues whether you work or not. Shift your goal from "get a high-paying job" to "acquire assets that generate passive income." Kiyosaki and Trump reference a Forbes figure of one million dollars per year in passive income as a benchmark for financial freedom.
 
 ### Step 5: Use Debt Strategically, Not Recklessly
 
@@ -47,15 +47,15 @@ When paying down multiple debts, do not always start with the highest interest r
 
 ### Step 7: Invest in Your Financial Education First
 
-Before investing in anything, invest in your own financial education. Traditional schooling often does not teach money management — it is designed to prepare students for employment, not investing. Learn about tax law, insurance, accounting, debt, and the different asset classes (business, real estate, paper assets, commodities). The more you know, the fewer mistakes you will make with your money. Kiyosaki learned practical finance outside of formal education, including not at Wharton, and he credits that education with building his wealth.
+Before investing in anything, invest in your own financial education. Traditional schooling often does not teach money management — it is designed to prepare students for employment, not investing. Learn about tax law, insurance, accounting, debt, and the different asset classes (business, real estate, paper assets, commodities). The more you know, the fewer mistakes you will make with your money. Kiyosaki has stated that he learned practical finance outside of formal business education rather than at business schools such as Wharton.
 
 ### Step 8: Choose Your Associates Carefully
 
-Kiyosaki describes people as potential assets or liabilities. A bad financial advisor, a crook, or a partner who steals from you is a human liability that can drain your wealth. Surround yourself with people who have expertise in areas where you have less knowledge. The people you spend time with directly influence your financial outcomes. Be selective about who you take advice from and who you partner with.
+Kiyosaki describes people as potential assets or liabilities. A bad financial advisor, a crook, or a partner who steals from you is a human liability that can drain your wealth. Surround yourself with people who have expertise in areas where you have less knowledge. According to Kiyosaki, the people you spend time with can shape your financial decisions and outcomes over time. Be selective about who you take advice from and who you partner with.
 
 ### Step 9: Build Assets That Provide for Future Obligations
 
-Plan ahead for future financial obligations such as caring for aging parents or family medical costs. Kiyosaki notes that bond markets may not provide sufficient income for these needs, meaning individuals must build their own asset base to cover them. Ask: "How much monthly cash flow will I need to cover these future liabilities?" and build assets that produce that income.
+Plan ahead for future financial obligations such as caring for aging parents or family medical costs. Kiyosaki notes that bond markets may not provide sufficient income for these needs, so individuals must build their own asset base to cover them. Ask: "How much monthly cash flow will I need to cover these future liabilities?" and build assets that produce that income.
 
 ## Examples
 
@@ -65,11 +65,11 @@ You are considering buying a $400,000 home with a $320,000 mortgage. Before buyi
 
 ### Example 2: Escaping the Paycheck Trap
 
-You earn $80,000/year as an employee. After taxes, you take home about $60,000 ($5,000/month). You have $2,000/month in expenses, leaving $3,000 for savings. Instead of saving this in a 401k or savings account (where returns are low and taxes apply), you use the $3,000/month as a down payment on a small rental property. The property costs $150,000, with a $30,000 down payment. After a tenant moves in, rent is $1,800/month and the mortgage (including taxes and insurance) is $1,200/month. The property puts $600/month in your pocket. You have created an asset. As you repeat this process, your monthly passive income grows. After five properties, you have $3,000/month in passive income — equal to your job income. You have the option to quit your job.
+You earn $80,000/year as an employee. After taxes, you take home $60,000 ($5,000/month). You have $2,000/month in expenses, leaving $3,000 for savings. Instead of saving this in a 401k or savings account (where returns are low and taxes apply), you use the $3,000/month as a down payment on a small rental property. The property costs $150,000, with a $30,000 down payment. After a tenant moves in, rent is $1,800/month and the mortgage (including taxes and insurance) is $1,200/month. The property puts $600/month in your pocket. You have created an asset. As you repeat this process, your monthly passive income grows. After five properties, you have $3,000/month in passive income — equal to your job income. You have the option to quit your job.
 
 ### Example 3: Paying Off Multiple Debts
 
-You have three credit cards: Card A ($500 at 20% APR (annual percentage rate)), Card B ($3,000 at 15% APR (annual percentage rate)), Card C ($8,000 at 25% APR (annual percentage rate)). Financially, you should pay Card C first (highest rate). But using the momentum approach: start with Card A ($500) because you can eliminate it in one or two payments. The psychological win of crossing it off keeps you motivated to attack Card B, then Card C. The result is the same — all cards get paid — but the momentum approach is more likely to be completed.
+You have three credit cards: Card A ($500 at 20% APR (annual percentage rate)), Card B ($3,000 at 15% APR (annual percentage rate)), Card C ($8,000 at 25% APR (annual percentage rate)). Financially, you should pay Card C first (highest rate). But using the momentum approach: start with Card A ($500) because you can eliminate it in a handful of payments. The sense of progress from completing it keeps you motivated to attack Card B, then Card C. The result is the same — all cards get paid — but the momentum approach is more likely to be completed.
 
 ## Best Practices
 
@@ -81,21 +81,21 @@ You have three credit cards: Card A ($500 at 20% APR (annual percentage rate)), 
 - ✅ Focus on building passive income as your primary wealth metric
 - ✅ Choose the right quadrant — aim for B (Big Business) and I (Investor)
 - ✅ Surround yourself with people who are financially smarter than you
-- ❌ Kiyosaki and Trump advise against relying on the government or your employer to take care of your financial future
+- ❌ Kiyosaki and Trump each advise against relying on the government or your employer to take care of your financial future
 - ❌ Do not let your house, car, or spouse be your primary retirement plan
-- ❌ Kiyosaki teaches not to rely on a 401k, IRA (individual retirement account), or pension as a secure retirement
+- ❌ Kiyosaki teaches not to depend on a 401(k) retirement account, IRA (individual retirement account), or pension as your sole retirement strategy
 - ❌ Do not let your emotions (fear, greed) drive investment decisions
 - ❌ Do not trust a financial advisor who has never achieved what you want to achieve
 
 ## Keep In Mind
 
-- The teaching notes that the middle class faces challenges because tax laws may favor business owners and investors over wage earners
+- The teaching notes that the middle class faces challenges because tax laws favor business owners and investors over wage earners
 - A FICO score (Fair Isaac Corporation score) measures your ability to borrow money, not your ability to build wealth — Kiyosaki borrowed money.
-- The teaching says the school system prepares students for employment (E quadrant) rather than investing (I quadrant)
-- This teaching views "live below your means" as incomplete advice; they suggest finding ways to expand your means through assets
-- Trump says political parties (Democrat and Republican) both serve special interests, not the middle class
-- Kiyosaki teaches that a personal residence is a liability unless it generates income
-- According to this teaching, wealthy individuals build wealth through businesses first, then real estate, then paper assets
+- The teaching says traditional school systems — particularly in the U.S. — prepare students for employment (E quadrant) rather than investing (I quadrant)
+- This teaching characterizes "live below your means" as limited advice because it focuses only on reducing spending; the teaching suggests also building assets to expand income as a complementary strategy
+- Trump says political parties (Democrat and Republican) both prioritize their own interests over the middle class
+- In this framework, a personal residence is treated as a liability unless it produces positive cash flow
+- According to this teaching, some wealthy individuals prioritize building wealth through businesses, then real estate, then paper assets — though individual paths vary
 
 ## Security & Safety Notes
 
@@ -105,7 +105,7 @@ You have three credit cards: Card A ($500 at 20% APR (annual percentage rate)), 
 - Protect your personal financial data — never share account numbers, Social Security numbers, or banking details with untrusted parties
 - Diversify across asset classes and jurisdictions; do not keep all assets in one location or currency
 - Use legal structures (LLCs (limited liability companies), corporations) to protect personal assets from business liabilities
-- Be aware that government programs and promises (Social Security, pensions, FDIC (Federal Deposit Insurance Corporation) insurance) may not be sufficient or sustainable for your retirement needs
+- Be aware that government programs and promises (Social Security, pensions, FDIC (Federal Deposit Insurance Corporation) insurance) may not provide adequate income for your retirement needs
 
 ## Common Pitfalls
 
@@ -115,8 +115,8 @@ You have three credit cards: Card A ($500 at 20% APR (annual percentage rate)), 
 - **Problem:** Getting a high-paying job and saving money as a wealth strategy
   **Solution:** Save to invest in assets, not to accumulate cash. Cash loses value to inflation. Assets generate cash flow.
 
-- **Problem:** Letting your 401k or IRA (individual retirement account) be your primary retirement plan
-  **Solution:** These are tax-deferred vehicles that often produce insufficient income. Build a separate portfolio of income-producing assets (real estate, businesses, commodities).
+- **Problem:** Letting your 401(k) retirement account be your primary retirement plan
+  **Solution:** Kiyosaki teaches that these tax-deferred vehicles typically produce insufficient retirement income on their own. Build a separate portfolio of income-producing assets (real estate, businesses, commodities) to supplement them.
 
 - **Problem:** Paying off high-interest debt slowly because it "feels safer"
   **Solution:** Use the momentum method: eliminate the smallest debt first, then tackle the next. The psychological win keeps you motivated.
@@ -125,7 +125,7 @@ You have three credit cards: Card A ($500 at 20% APR (annual percentage rate)), 
   **Solution:** Invest in financial education first. The knowledge compounds faster than money and prevents costly mistakes.
 
 - **Problem:** Listening to financial advice from people who are not where you want to be
-  **Solution:** Only take advice from people who have achieved the results you are seeking. A broke financial advisor cannot make you rich.
+  **Solution:** Only take advice from people who have achieved the results you want. Kiyosaki cautions that an advisor who has not built substantial wealth themselves may not be positioned to guide you to do so.
 
 - **Problem:** Assuming the government or your employer will provide for your retirement
   **Solution:** Government policy is generally not designed to make individuals wealthy. Build your own asset base that generates income independent of any government program.

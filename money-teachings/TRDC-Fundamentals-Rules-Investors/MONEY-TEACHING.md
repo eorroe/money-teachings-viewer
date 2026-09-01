@@ -16,7 +16,7 @@ This Money Teaching distills the core financial principles shared by Donald Trum
 
 ### Step 1: Redefine Assets and Liabilities
 
-Challenge the common belief that your primary residence is an asset. Robert Kiyosaki asserts that your house is your biggest liability, especially when you cannot make payments. Evaluate every holding by asking: "Does this put money in my pocket or take money out?" Apply this test to real estate, stocks, and other investments.
+Challenge the common belief that your primary residence is an asset. Robert Kiyosaki asserts that your house is a liability, especially when you cannot make payments. Evaluate every holding by asking: "Does this put money in my pocket or take money out?" Apply this test to real estate, stocks, and other investments.
 
 ### Step 2: Master Real Estate as Your Primary Investment Vehicle
 
@@ -24,13 +24,13 @@ Treat real estate as a vehicle for wealth building when used with financial know
 
 ### Step 3: Use Debt Intelligently, Not Avoid It
 
-Reject the blanket advice to "get out of all debt." Understand that debt can build wealth or cause financial ruin, depending on how you use it. The key is financial education. Learn to use "good debt" (debt that acquires cash-flowing assets) while avoiding "bad debt" (debt for consumption). The more debt you use, the greater your financial knowledge must be.
+Reject the blanket advice to "get out of all debt." Understand that debt can build wealth or cause financial ruin, depending on how you use it. The key is financial education. Learn to use "good debt" (debt that acquires cash-flowing assets) while avoiding "bad debt" (debt for consumption). Increasing debt requires increasing your financial knowledge.
 
 ### Step 4: Expand Your Means Instead of Living Below Them
 
 Dismiss the concept of "living below your means"; some view the concept as problematic, according to Trump and Kiyosaki. Instead, focus on expanding your means through financial education and increased earning capacity. Prioritize learning and continuous education as your most valuable asset. Use specific goals and mental framing to build the confidence needed to increase your income.
 
-### Step 5: Develop Your Financial IQ (financial intelligence) Above All Else
+### Step 5: Develop Your Financial IQ (financial intelligence) Most Importantly
 
 Prioritize financial education as your most important investment. Your financial intelligence determines whether an investment is valuable or worthless. Commit to learning how to evaluate investments and advice through financial literacy. Study successful investors, read extensively, and continuously upgrade your financial knowledge.
 
@@ -67,7 +67,7 @@ Instead of cutting expenses and feeling deprived, invest in courses, books, and 
 
 - Your house is a liability, not an asset
 - Debt is not inherently bad - it is a tool that requires skill to use properly
-- "Living below your means" can undermine motivation and limit growth potential, according to Trump and Kiyosaki
+- "Living below your means" may reduce motivation and limit growth potential, according to Trump and Kiyosaki
 - Financial education is the foundation of all successful investing
 - The same investment vehicle can be good or bad depending on your knowledge and execution
 - Financial literacy is a key factor in investment outcomes

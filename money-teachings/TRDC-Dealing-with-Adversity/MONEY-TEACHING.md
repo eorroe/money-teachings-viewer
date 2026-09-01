@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Money Teaching distills the core financial resilience principles shared by Donald Trump and Robert Kiyosaki in their discussion on "Dealing with Adversity." It focuses on how to reframe setbacks, leverage financial intelligence, and use adversity as a catalyst for wealth building rather than a reason to retreat. The teaching emphasizes that financial education—not frugality or traditional saving—is the primary tool for navigating economic hardship and emerging stronger.
+This Money Teaching distills the core financial resilience principles shared by Donald Trump and Robert Kiyosaki in their discussion on "Dealing with Adversity." It focuses on how to reframe setbacks, leverage financial intelligence, and use adversity as a catalyst for wealth building rather than a reason to retreat. The teaching emphasizes that Financial education is presented as a tool for navigating economic hardship and emerging stronger.
 
 ## When to Follow These Money Teachings
 
@@ -20,7 +20,7 @@ Reframe setbacks as temporary "blips" rather than permanent catastrophes. Donald
 
 ### Step 2: Commit to Continuous Financial Education
 
-Make reading and learning a core part of your financial strategy to expand your financial means rather than shrinking your lifestyle. Study financial statements, understand the difference between assets and liabilities, and learn how money works. Financial literacy is the foundation that allows you to make smart decisions when others are making emotional ones.
+Make reading and learning a core part of your financial strategy to expand your financial means rather than shrinking your lifestyle. Study financial statements, understand the difference between assets and liabilities, and learn how money works. Financial literacy provides a basis for making informed decisions when others may be making emotional ones.
 
 ### Step 3: Distinguish Between Good Debt and Bad Debt
 
@@ -36,13 +36,13 @@ Real estate is advocated as a wealth-building vehicle because it allows you to u
 
 ### Step 6: Reject "Live Below Your Means" Mentality
 
-Challenge the conventional wisdom that tells you to live below your means. Instead, focus on expanding your means through financial education and smart investing. This doesn't mean reckless spending—it means building the skills and assets to afford the life you want without guilt or financial strain.
+Challenge the conventional wisdom that tells you to live below your means. Instead, focus on expanding your means through financial education and smart investing. This doesn't mean reckless spending—it means building the skills and assets to afford the life you want.
 
 ## Examples
 
 ### Example 1: Real Estate Investment During a Market Downturn
 
-During the 2008 financial crisis, while some investors panicked and sold properties at a loss, Trump and Kiyosaki's approach would be to look for opportunities. Use seller financing to acquire undervalued properties The key is having the financial education to evaluate deals accurately and the resilience to hold through the cycle. As Trump notes, "This is a great time for a person to go out, make a deal, get a house bigger and better than the one you're living in now, except the bank will give you virtually 100 percent financing."
+During the 2008 financial crisis, while some investors panicked and sold properties at a loss, Trump and Kiyosaki's approach would be to look for opportunities. Use seller financing to acquire properties. The key is having the financial education to recognize opportunities. As Trump notes, "This is a great time for a person to go out, make a deal, get a house bigger and better than the one you're living in now, except the bank will give you 100 percent financing."
 
 ### Example 2: Using Debt to Build Wealth
 
@@ -50,14 +50,14 @@ Kiyosaki shares the principle of using debt to purchase assets that generate cas
 
 ### Example 3: Overcoming Personal Adversity
 
-When Kiyosaki and his wife Kim were homeless and sleeping in a car, they chose not to take "safe" jobs. Instead, they kept their purpose front and center—financial freedom—and built their business from scratch. They celebrated small wins (affording a motel room and KFC for dinner) and used optimism to stay focused. Their resilience came from knowing their "why" and refusing to let temporary circumstances define their future.
+When Kiyosaki and his wife Kim were homeless and sleeping in a car, they chose not to take "safe" jobs. Instead, they kept their purpose front and center—financial freedom—and built their business from scratch. They acknowledged progress (affording a motel room and KFC for dinner) and used optimism to stay focused. Their resilience came from knowing their "why" and refusing to let temporary circumstances define their future.
 
 ## Best Practices
 
 - ✅ Read financial books and educate yourself daily—treat financial knowledge as a core resource
 - ✅ Use debt to buy income-producing assets, not consumer goods
 - ✅ Focus on acquiring assets rather than chasing higher salaries
-- ✅ View every setback as a learning opportunity, not a permanent defeat
+- ✅ Treat setbacks as chances to improve your financial knowledge, not a permanent defeat
 - ✅ Invest in real estate to leverage financing and gain tax advantages
 - ✅ Maintain optimism and celebrate small wins during difficult periods
 - ✅ Build more than one stream of passive income to diversify risk
@@ -70,7 +70,7 @@ When Kiyosaki and his wife Kim were homeless and sleeping in a car, they chose n
 ## Keep In Mind
 
 - According to Kiyosaki's framework, a house is not an asset if it takes money out of your pocket each month—it is categorized as a liability in that framework
-- Some argue that the middle class faces challenges because they follow financial formulas such as save money, get a good job, and invest in mutual funds
+- The teaching notes that some people encounter difficulties with conventional approaches such as save money, get a good job, and invest in mutual funds
 - There are three types of income discussed in this teaching: earned income, portfolio income, and passive income (cash flow)
 - Financial literacy is presented as a key factor in whether an investment is valuable or a mistake
 - Adversity can reveal character; how you respond to tough times may influence long-term outcomes
@@ -80,7 +80,7 @@ When Kiyosaki and his wife Kim were homeless and sleeping in a car, they chose n
 - Never invest in assets you don't understand, even if someone successful recommends them
 - Always verify investment advice against your own financial education—don't blindly follow "experts"
 - Good debt requires cash flow coverage—ensure your assets can service the debt before borrowing
-- Beware of conventional financial advisors who promote mutual funds and 401(k)s as the sole retirement path, and consider diversifying your financial education
+- Beware of financial advisors who promote mutual funds and 401(k)s as the sole retirement path
 - Understand that financial institutions may collect fees regardless of account performance
 
 ## Common Pitfalls
@@ -98,4 +98,4 @@ When Kiyosaki and his wife Kim were homeless and sleeping in a car, they chose n
   **Solution:** Study financial statements, learn to read cash flow statements, and understand the tax implications of any investment before committing capital.
 
 - **Problem:** Living paycheck to paycheck despite working hard and following conventional wisdom
-  **Solution:** Recognize that the school system teaches you to be an employee, not an investor. Take responsibility for your financial education and stop expecting employers or the government to secure your future.
+  **Solution:** The teaching notes that schools prepare students for employment, not investing. Take responsibility for your financial education and stop expecting employers or the government to secure your future.

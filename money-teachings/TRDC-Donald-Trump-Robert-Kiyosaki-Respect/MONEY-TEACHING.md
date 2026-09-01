@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Money Teaching distills key lessons from Donald Trump and Robert Kiyosaki's discussion on the role of respect in financial success. The video emphasizes that respect is not just a social virtue but a strategic asset that can help access opportunities, partnerships, and deals that might otherwise be harder to obtain. It exists to remind you that treating people with genuine respect—and demanding respect in return—can influence your ability to build wealth, negotiate effectively, and sustain long-term business relationships.
+This Money Teaching distills key lessons from Donald Trump and Robert Kiyosaki's discussion on the role of respect in financial success. The video emphasizes that respect is not just a social virtue but a strategic asset that can help access opportunities, partnerships, and deals that might otherwise be harder to obtain. This teaching exists to remind you that treating people with genuine respect—and demanding respect in return—can influence your ability to build wealth, negotiate effectively, and sustain long-term business relationships.
 
 ## When to Follow These Money Teachings
 
@@ -23,15 +23,15 @@ Respect in this context is strategic. Kiyosaki and Trump discuss how genuine res
 
 ### Step 3: Demand Respect from Your Circle by Setting Clear Standards
 
-The video teaches that surrounding yourself with people who respect you is important for financial growth. Trump and Kiyosaki both emphasize that tolerating disrespect from partners, employees, or associates drains energy and can reduce your credibility. Audit your current relationships: remove or restructure any arrangement where you are undervalued. Replace those interactions with people who demonstrate commitment and integrity.
+The video teaches that surrounding yourself with people who respect you is important for financial growth. Trump and Kiyosaki both emphasize that tolerating disrespect from partners, employees, or associates reduces your effectiveness and can reduce your credibility. Audit your current relationships: remove or restructure any arrangement where you are undervalued. Replace those interactions with people who demonstrate commitment and integrity.
 
 ### Step 4: Leverage Respect to Turn Problems Into Opportunities
 
-Kiyosaki states that in a world with financial challenges, challenges are opportunities to get smarter and solve problems rather than run away from them. When a deal falls through or a partner underperforms, respond with composure and a solutions-oriented mindset. This posture of resilient respect—for yourself, for the process, and even for the failure—can help you identify lessons that others may overlook, and leads to better deals on the other side of adversity.
+Kiyosaki states that in a world with financial challenges, challenges are opportunities to get smarter and solve problems rather than run away from them. When a deal falls through or a partner underperforms, respond with composure and a solutions-oriented mindset. This posture of consistent respect—for yourself, for the process, and even for the failure—can help you identify lessons that others may overlook, and leads to better deals on the other side of adversity.
 
 ### Step 5: Build Financial Education on the Foundation of Respectful Relationships
 
-Both speakers argue that financial education alone is insufficient without the relational skills to apply it. They encourage listeners to study not only markets and assets but also communication, emotional intelligence, and conflict resolution. Schedule check-ins with mentors, join mastermind groups where mutual respect is enforced, and practice role-playing difficult conversations so that when consequential interactions arise, you can remain calm, clear, and respected.
+Both speakers argue that financial education alone is insufficient without the relational skills to apply it. They encourage listeners to study not only markets and assets but also communication, emotional intelligence, and conflict resolution. Schedule check-ins with mentors, join mastermind groups where mutual respect is enforced, and practice role-playing difficult conversations so that when important interactions arise, you can remain calm, clear, and respected.
 
 ## Examples
 
@@ -53,17 +53,17 @@ You invested in a venture that underperformed. Instead of reacting with anger or
 - ✅ Honor every commitment, no matter how small, to build a track record of reliability
 - ✅ Publicly acknowledge the contributions of partners, team members, and mentors
 - ✅ Listen more than you speak, especially in negotiations and high-stakes conversations
-- ✅ Set firm boundaries with people who repeatedly disregard your time or expertise
+- ✅ Set clear boundaries with people who disregard your time or expertise
 - ❌ Do not confuse people-pleasing with respect—genuine respect is honest and direct, not submissive
 - ❌ Avoid discussing deals or sensitive financial details in environments where privacy cannot be guaranteed
-- ❌ Do not tolerate repeated disrespect from business associates, employees, or joint venture partners
+- ❌ Do not tolerate disrespect from business associates, employees, or joint venture partners
 - ❌ Avoid letting ego override the strategic advantage of showing respect to a competitor or adversary
 
 ## Keep In Mind
 
-- Respect is an asset: the returns build over behavior
-- The way you treat people when you have nothing to gain from them reveals your genuine character and provides insight into how you might behave when money is at stake
-- Financial education and respect are complementary skills: knowledge tells you what to do, respect influences who will let you do it
+- Respect is an asset: the results come from consistent behavior
+- The way you treat people when you have no incentive to act differently reveals your true character and provides insight into how you might behave when money is at stake
+- Financial education and respect are different skills: knowledge tells you what to do, respect influences who will support you
 
 ## Security & Safety Notes
 
@@ -73,9 +73,9 @@ You invested in a venture that underperformed. Instead of reacting with anger or
 
 ## Common Pitfalls
 
-- **Problem:** You confuse being "nice" with being respectful, leading others to take advantage of your accommodating nature.
-  **Solution:** Distinguish kindness from boundaries: be polite and considerate, but clearly articulate your standards and walk away from arrangements that violate them.
+- **Problem:** You confuse being "nice" with being respectful, leading others to take advantage of your cooperative approach.
+  **Solution:** Distinguish kindness from boundaries: be polite and considerate, but state your standards and walk away from arrangements that violate them.
 - **Problem:** You treat respect as a one-way street, expecting it from others while failing to extend it consistently.
   **Solution:** Audit your own behavior: ask whether you honored people's time, kept promises, and listened actively. Correct course when you fall short.
 - **Problem:** You assume respect alone will close a deal, neglecting the need for solid financial analysis and preparation.
-  **Solution:** Pair respectful relationship-building with rigorous due diligence. Respect opens the door; preparation and numbers determine whether you walk through it profitably.
+  **Solution:** Pair respectful relationship-building with rigorous due diligence. Respect opens the door; preparation and numbers determine whether you walk through it successfully.
