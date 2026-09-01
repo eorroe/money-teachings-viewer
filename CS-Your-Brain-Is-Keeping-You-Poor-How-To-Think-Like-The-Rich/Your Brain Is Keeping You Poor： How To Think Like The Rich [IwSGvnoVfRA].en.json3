@@ -1,0 +1,1429 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 240,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "This represents your brain. And if each\ngrain is $1,000, this is how much money",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 5520,
+    "dDurationMs": 9600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it generates you as an average American.\nAnd this is a millionaire's brain.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 12800,
+    "dDurationMs": 8639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And this is a billionaire's brain. And\nthis is how much their brain generates.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 19359,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Same biology, completely different\nprogramming.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 23039,
+    "dDurationMs": 5761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "You've been trained to think one way\nabout money. They were trained to think",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 26480,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "another. This isn't about IQ. It's not\nabout hustle. It's not even about luck.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 31439,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "It's about the software running in your\nhead. You wake up early. You go to work.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 35120,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "You follow the rules. You do everything\nright. And still, your bank account",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 39200,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "barely gets above zero. Your dreams feel\nlike a joke. And that little voice",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 42640,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "whispers, \"You'll never make it.\" Yet,\nwhile you slept last night, someone else",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 47680,
+    "dDurationMs": 8559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "made your 5-year salary without lifting\na finger. Why is this? You've been lied",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 53760,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to. Not by evil people, not by some\ngrand conspiracy, but something far more",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 58559,
+    "dDurationMs": 7121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "insidious. A script so old, so deep you\ndon't even know it's running. But what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 63520,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if I told you that everything you\nbelieve about money, everything you were",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 67680,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "taught about wealth was designed to keep\nyou broke? What if the very thoughts in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 72880,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your head about being good with money\nare the chains keeping you poor? What if",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 77520,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there is a way of seeing the invisible\nprogramming that's been sabotaging you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 81040,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "since childhood?\nBy the end of this, you'll see the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 84880,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "matrix. You'll understand why you think\nwhat you think. And more importantly,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 89360,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you'll finally have the tools to debug,\ndelete, and download a new way of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 93600,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thinking. One that builds wealth instead\nof blocks it. The script that's been",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 98720,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "running your life. From the moment you\ncould speak, they started programming",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 102960,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you. Money doesn't grow on trees. Rich\npeople are greedy. Money is the root of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 106880,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all evil. Sound familiar? We all know\nthese phrases. But can you even remember",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 110799,
+    "dDurationMs": 7841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "who or when you heard them? I can't. But\nI think it's ingrained within us. These",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 116159,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aren't just sayings. They're software\ninstalled in your mind before you could",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 120479,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "defend yourself. And like any old\nsoftware, it runs in the background,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 124399,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "silently controlling everything until\nyou replace it with something better.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 128959,
+    "dDurationMs": 5201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "You didn't choose those beliefs, but\nthey impact the choices of your life.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 132480,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Every time you hesitate to charge what\nyou're worth, that's the program. Every",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 136160,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "time you feel guilty about wanting more,\nthat's the program. Every time you think",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 140400,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wealthy people are somehow bad, that's\nthe program. So, where did this come",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 144720,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "from? Let me take you back way back to\nthe 1600s. Here's a 60-second history",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 150080,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lesson. The Puritans taught that wealth\nwas a sign of God's favor. But, and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 153840,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "here's the trap, you had to suffer for\nit. Work yourself to death for it. Never",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 158160,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "enjoy it. That would be sinful. As the\ninfluential Puritan minister Richard",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 162560,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Baxter in his widely read work, A\nChristian Directory wrote, \"Be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 166239,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "suspicious of ease. God tries us more\nwith riches than with poverty.\" Sounds a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 171360,
+    "dDurationMs": 6879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lot like he's saying, \"Rich people are\ngreedy.\" Right?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 175200,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Fast forward. Horatio Alger, an\ninfluential 19th century author, writes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 180879,
+    "dDurationMs": 6241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stories about the boys who get rich\nthrough pure moral character, through",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 184800,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "patience, through being good. He\nfamously said, \"The love of money is the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 189280,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "root of all evil.\" Starting to get the\npicture? While his books were fiction,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 192959,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they felt true. And he sold over 25\nmillion copies, mostly to working-class",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 197920,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "families dreaming of something better.\nBut these were the first layers of the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 201760,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "script. Morality, patience, obedience,\nthe real roll out, the scaled",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 206959,
+    "dDurationMs": 7121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "distribution of this mindset. Well, it\ncame a bit later. Not by a teacher, not",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 210959,
+    "dDurationMs": 7121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "by a politician, but by a billionaire,\nJohn D. Rockefeller. Rockefeller didn't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 216159,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just build an oil empire. He built a\nmindset factory and it's still impacting",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 220480,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you today. Through his general education\nboard, he reshaped the US school system.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 224239,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "He didn't want innovation. He wanted\norder. He once said, and this is real, I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 227920,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "don't want a nation of thinkers. I want\na nation of workers. This wasn't just an",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 231920,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "opinion. It became national\ninfrastructure. From homework to hall",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 235200,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "passes, the whole system was built to\ncreate perfect employees, not free",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 238879,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "minds. So, by the time you were old\nenough to question it, you didn't. But",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 242560,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Rockefeller only built the system. He\nlaid the tracks. Someone else ran the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 246560,
+    "dDurationMs": 6399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trains.\nDuring the war, the US needed unity,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 250480,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sacrifice, and mass compliance. That's\nwhere Elmer Davis comes in. President",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 254799,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Roosevelt appointed him to lead the\nOffice of War Information.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 258479,
+    "dDurationMs": 7841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e 8:55 Eastern time. And Colombia and its\naffiliated stations bring you Elmer",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 263759,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Davis and the news.\n\u003e\u003e With a $25 million budget and 30,000",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 269520,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "staff, Davis didn't just report on the\nnews. He shaped belief. While he helped",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 273440,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to counter enemy propaganda and maintain\nmorale on the home front, he also made",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 276880,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sure every American believed in the safe\npath. The path: college, job, mortgage,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 282000,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "retirement.\nGeneration after generation, the message",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 286240,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "got clearer. Work hard. Don't ask\nquestions. Be grateful for what you get.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 290560,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And here you are still following that\nscript, still playing their game. Well,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 294320,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they play a completely different one.\nIt's the reason I know you'll relate to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 298320,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "at least one of these. Loss aversion.\nYou fear losing $100 more than you want",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 302800,
+    "dDurationMs": 7679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to make $100. In fact, this famous study\nin the 1970s actually shows losses feel",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 308160,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about twice as painful as gains feel\ngood. So, it's no surprise you sit on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 312800,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cash while inflation eats it alive. Your\nbrain is prioritizing safety, not",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 317680,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "strategy. But what got you here will not\nget you financially free. Or how about",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 322160,
+    "dDurationMs": 6879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cognitive ease? You trust what feels\nfamiliar. You'll panic about good debt,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 326720,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but drop $1,200 on a phone without\nthinking. relate? Well, you're not",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 330720,
+    "dDurationMs": 7919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "alone. It's why 60% of Americans\ncouldn't cover a $1,000 emergency bill",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 336160,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "without borrowing or going into debt.\nYet, the average iPhone user in America",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 341280,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "upgrades every 2 to 3 years, often\npaying $1,000 plus upfront or through a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 345680,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "monthly plan. Or how about the fact that\nscarcity actually shrinks your IQ. When",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 350000,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're stressed about money, your\ndecision-m it gets worse. So much so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 354160,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that research shows financial stress can\ndrop your IQ points by 13 points. It's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 360080,
+    "dDurationMs": 5119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like financial fight or flight. You're\nnot bad with money. You're making",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 363520,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decisions with the nervous system on\nfire. And every failure, every",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 367280,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "disappointment, every time you tried and\ndidn't make it, well, your brain learns",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 371039,
+    "dDurationMs": 7361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to stop trying, to stop believing, to\nstop hoping. Not because you're weak,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 375600,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because hope hurts when it dies. The\nwealth think differently. Here's how.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 380800,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So, what makes someone like Elon Musk\ndifferent from you? Is it his IQ, his",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 385680,
+    "dDurationMs": 8639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "work ethic, his lucky breaks? No, it's\nsimpler than that and more profound. He",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 392000,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "simply thinks different about money,\nabout time, about problems. Let me show",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 396800,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you the difference. You see money as\nsomething you earn. They see money as",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 400880,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "something you build. You think, \"How can\nI make more per hour?\" Billionaires",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 405039,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think, \"How can I make money while I\nsleep?\" You see your time as something",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 409199,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to sell. The rich see their time as\nsomething to multiply. That's not greed.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 414000,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "That's not luck. That's just different\nsoftware. And here's the thing about",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 417919,
+    "dDurationMs": 8321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "software. It can be learned, installed,\nupgraded. So, what does their software",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 424240,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actually look like? First thing, they do\nnot chase money. They chase leverage.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 428560,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "What's leverage? It's doing something\nonce that pays you continuously. They",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 433120,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "film one video and it pays them for\nyears. They build one online product and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 437759,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "strangers buy it while they sleep. Your\ncurrent job, it's trading time for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 441919,
+    "dDurationMs": 9041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "money. One hour equals one payment. Stop\nworking, well, you stop earning. Their",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 447840,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "approach, one effort equals infinite or\nasymmetric returns. Jeff Bezos wasn't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 453840,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "chasing money when he started Amazon. He\nwas chasing leverage. He didn't open a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 458160,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bookstore and sit behind the register.\nHe built an online platform that sold",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 462160,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "books while he slept. The initial\nwebsite was crude. The system was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 466800,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "simple, but it scaled. That's not\nworking harder, that's working",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 470560,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "differently. That's the exact reason I\ncreated Main Street Accelerator. It's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 474000,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "where I teach you the exact step-by-step\nplaybook to buy a small business that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 478080,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cash flows starting on day one. I think\nthere's never been a better time to buy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 482720,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a business, one that you buy and can pay\nyou forever. The ultimate leverage. The",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 487680,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "second thing, they understand that broke\nthinking keeps you broke. You think, \"I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 491520,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can't afford it.\" They think, \"How can I\nafford it?\" You see, that's too",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 496240,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "expensive. They see what's the return on\ninvestment. You worry, what if I lose",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 500800,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "money? They ask, \"What if I don't try?\"\nSame situation, different questions,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 504879,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "different outcomes. And here's what's\nwild. Most of them started exactly where",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 508879,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you are. Broke, confused, following the\nsame script you're following until they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 513760,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "realized the script was the problem. So,\nthey wrote a new one. It didn't happen",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 517919,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "overnight. It started with outliers.\nPeople who got rich not by working more,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 521519,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but by thinking differently.\nentrepreneurs, investors, technologists,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 525279,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people who questioned everything they've\nbeen taught about time, money, and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 529360,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "value. They looked around and asked,\n\"What if school was wrong? What if",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 533120,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "saving isn't actually that safe? What if\nworking harder isn't the only answer?\"",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 537040,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And instead of playing by the old rules,\nthey created their own. The new script",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 540640,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wasn't about security. It was about\nleverage and ownership. Building once,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 544240,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "getting paid continuously. And once they\ncracked it, they never went back. As",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 547760,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Naval Ravocant said, to get rich, you\nneed leverage. Leverage comes from",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 551600,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "labor, capital, or products.\nNow what? Here's your new operating",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 555920,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "system. You can't unsee what you've just\nseen. The programming, the lies, the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 560560,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "different game they're playing.\nSo now the question becomes, what are",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 564640,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you going to do about it? You have two\nchoices. Choice one, you go back to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 567760,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sleep. Pretend this conversation never\nhappened. Keep following the old script.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 571680,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Choice two, wake up. Install the new\nsoftware. If you choose option two, and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 576240,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I hope you do, here's where you start.\nWealthy people's brains literally",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 581920,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "process risk and opportunity\ndifferently. Poor brain asks, \"What if I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 586000,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lose money?\" Rich brain asks, \"What if I\ndon't invest?\" Framework number one, the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 590480,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "$4 test. Let me show you exactly what I\nmean. This is the $4 test, and it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 595040,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reveals just about everything. When you\nsee a $4 coffee, your poor brain",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 599120,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "calculates that's $1,460 bucks per year.\nYour rich brain calculates that's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 604000,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "$146,000\nin 30 years if invested. But here's the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 607920,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thing. I'm not saying skip the coffee.\nI'm saying think like an owner. Stop",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 611360,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "obsessing on the $4. Focus on creating\nsystems that generate the 400. Framework",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 616160,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "number two, the 321 rule. This is the\nsystem that finally could break you out",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 620079,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of employee thinking. The 321 rule is\nthree problems you can solve for others.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 624880,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Two ways to monetize each problem. One\nsystem to automate the delivery.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 629440,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Problem. People hate meal planning.\nSolution one, meal prep service, 200",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 633920,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bucks a week. Solution two, digital meal\nplans, 20 bucks a month. When Bezos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 638000,
+    "dDurationMs": 5519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "started Amazon, he wasn't thinking about\nhis $40,000 salary. He was building a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 641920,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "system that could generate revenue while\nhe slept. But here's where most people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 645120,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "get stuck, and it's costing them\nmillions. Framework three, the 72-hour",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 649440,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "rule. I call this the 72-hour rule, and\nit's why most people stay broke. Poor",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 653600,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "brain, I need to research this for 6\nmonths. Rich brain, I need to test this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 657600,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in 72 hours. Too many people think\nperfect is the enemy of good. The rich",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 661760,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know perfect is the enemy of rich. The\nintegration, here's how all this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 665360,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "connects. The $4 test changes your\nspending. The 321 rule builds your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 670480,
+    "dDurationMs": 7359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "income systems. The 72-hour rule ensures\nyou actually start. Let's start rewiring",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 675760,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your brain. Month one, install new\nthinking patterns. Month three, first",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 680480,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "automated income stream. Month six,\nmultiple revenue sources. Right now, you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 685279,
+    "dDurationMs": 4641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have a choice. Keep running the same\nmental software and get the same",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 688160,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "financial results, or upgrade your\nprogramming and join the 3% who think",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 691839,
+    "dDurationMs": 4401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "differently. But I'm going to be honest\nwith you. Most of you won't do this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 694800,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because change is hard. Because it's\nscary. Because it's easier to stay where",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 698079,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you are than to become who you could be.\nBut for those of you who are different.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 701920,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "For those of you who are tired of\nplaying small, for those of you who are",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 704800,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ready to rewrite your story, this is\nyour moment. This is your chance. Stop",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 709120,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "chasing money. Start building systems.\nAutomate your savings. Use calendar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 713680,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "blocks to batch your tasks. Create\nroutines so that meals, workouts,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 718160,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "budgeting don't waste your willpower.\nThat's how you save time, energy, money,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 722399,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and stress and free up the bandwidth to\nearn. You need to stop thinking like a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 726560,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "worker and start thinking like an owner.\nAn owner stops waiting for perfect,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 730720,
+    "dDurationMs": 5679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "starts moving with imperfection because\nthe wealthy aren't superhumans. They",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 734720,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just think differently. And then they\nact differently. And now you can do the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 738720,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "same. The script has been rewritten. The\nsoftware has been upgraded. The game has",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 742320,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "been revealed. What happens next? That's\nup to you. But remember, your current",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 746880,
+    "dDurationMs": 5519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "life is the result of your brain. If you\nwant a different life, you need",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 750560,
+    "dDurationMs": 8079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "different thoughts, different actions,\ndifferent choices. The power and the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 755040,
+    "dDurationMs": 3599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "responsibility, it's yours.",
+      "acAsrConf": 0
+    } ]
+  } ]
+}
