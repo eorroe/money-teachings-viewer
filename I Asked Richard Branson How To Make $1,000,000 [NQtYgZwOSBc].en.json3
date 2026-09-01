@@ -1,0 +1,932 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 120,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "oh my God guys Richard Branson has just\nstepped me through the five steps to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 4640,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "build any business so Richard Branson is\nthe billionaire founder of Virgin group",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 9000,
+    "dDurationMs": 5679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "one of the most recognizable and diverse\nbrands in the world from",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 12559,
+    "dDurationMs": 5361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "telecommunications to transport Richard\nhas done it all and taken plenty of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 16240,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "risks along the way building more than\n40 companies in over 35 countries",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 20439,
+    "dDurationMs": 5641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "globally so the five steps that we\ndiscussed are identifying a problem",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 24199,
+    "dDurationMs": 5281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "getting Revenue in advance working with\nthe right people who believe in you the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 27880,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "importance of building a brand and\nlearning to take risk guys you're not",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 31560,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to want to miss this\none so people are always asking me how",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 35960,
+    "dDurationMs": 5119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to start a business if you were starting\na business again today what what steps",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 39320,
+    "dDurationMs": 10440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "would you take what things would you do\nI would uh wait until I saw something",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 45719,
+    "dDurationMs": 9520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that frustrated me um and uh and then\njump in and and um yeah try to correct",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 52879,
+    "dDurationMs": 8241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it and and and do it better than it's\nbeing done or or um uh or do it from",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 58320,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "scratch and um and that's basically what\na business is is it's just creating",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 63120,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "something that makes it makes a positive\ndifference to other people's lives yeah",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 67680,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and that's how anyway that's how I've\nsaid about it at virgin i' I've never",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 70960,
+    "dDurationMs": 5479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really been I never really thought of\nbeing myself as being a businessman I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 75119,
+    "dDurationMs": 5161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just look at\num uh you know I hated flying on other",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 79040,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people's Airlines so I started an\nairline I wanted to get a piece of music",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 83920,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "out and record companies wouldn't put it\nout so I started a record company so I'm",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 88799,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just trying to um\nto uh yeah do something for that sort of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 94040,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reason is often I think the best way of\ncreating a business I was personally 15",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 98200,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "years old when I first found out about\nyou and and listened to your journey of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 101920,
+    "dDurationMs": 3960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "starting these incredible businesses\nwhen I was younger I always wondered",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 104680,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what are the first few steps do you\nthink okay you've identified a problem",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 107399,
+    "dDurationMs": 4161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "which I think is brilliant I I by the\nway think that's the way they should",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 110159,
+    "dDurationMs": 3881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reframe school it shouldn't be what will\nyou do when you grow up but what problem",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 112759,
+    "dDurationMs": 5241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do you want to solve in the world that\nshould be reframed I think but people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 116159,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "listening you know they maybe don't have\nthe resources uh to start what what do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 120079,
+    "dDurationMs": 7801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you think are the ways that you can get\na business going if you're say short on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 123119,
+    "dDurationMs": 11081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "resource well uh when I started my first\nbusiness I didn't have any money so um",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 130879,
+    "dDurationMs": 7761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so I had to sell advertising in advance\num uh for the magazine that I put out so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 136760,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "then when I started um a mail order\nrecord company I would um uh get the get",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 142160,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the money in uh and then I'd go and buy\nthe records and then I'd send you know",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 145680,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "send them out to people so you know so\nthat it's not easy but sometimes you can",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 149920,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can actually start a business uh getting\nthe cash up front and then and then uh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 155879,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and then pay the bills with that cash\nthere five steps I think to start a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 159319,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business so the first I I really believe\nwhat you just said is so true like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 161959,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "identify a problem that causes you pain\nand then try to solve that problem the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 165640,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "second one is and I think this is really\ninteresting get Revenue ahead of time so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 170440,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I I used to charge 50% deposit before I\neven done I did the work for the client",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 174400,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I had a service business that's how I\nstarted I did a gardening company and I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 178080,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "charged 50% in advance and that paid for\nme to do the work and then the other 50%",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 182360,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was my profit so that kind of cash flow\nmanagement side do you think the third",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 185519,
+    "dDurationMs": 7241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "step do you see in your path um then\njust you find people that believe in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 189920,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your idea and and come and come you know\nwho who are as excited about what you're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 194400,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "doing and if you got a good you know\nsmall team it could maybe just two or",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 197480,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "three of you you know then um anything's\npossible I mean it's you know so I think",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 202720,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "um surrounding yourself with the right\npeople is key do you remember your first",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 206120,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "employee first person you convinced a\nguy called Johnny Holland gems who was a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 210720,
+    "dDurationMs": 7799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "um I was a 15 he was 15 at school and uh\nhe was wasn't as dyslexic as me and if",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 217159,
+    "dDurationMs": 4080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're going to start a magazine you\nneed somebody who can actually write",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 220319,
+    "dDurationMs": 3601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yeah well that's the interesting thing\nyou're dyslexic you start start a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 222439,
+    "dDurationMs": 4681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "magazine people don't always connect the\ndots you need great people to come in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 225560,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and help you do these Visionary things\nright I think dyslexic people are",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 229840,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "brilliant in some ways but they they've\nobviously got some issues and and those",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 233840,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "issues was why I left school early and\nstarted you know went you started",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 237959,
+    "dDurationMs": 5761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creating things rather than learning\nconventional schooling um which was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 242040,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "doing nothing for me to be honest my\nthird step was get a co-founder I I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 245480,
+    "dDurationMs": 4039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "didn't feel confident enough to hire\nsomeone at the beginning so I got",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 248079,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "someone to come in and have Equity with\nme and every business I've ever started",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 251200,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "had a co-founder I've enjoyed it more\nit's been more successful so you know",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 254680,
+    "dDurationMs": 4279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personally I've really enjoyed that but\nI think the first employee also brings",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 257079,
+    "dDurationMs": 5521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you some discipline right because then\nyou can't just not do it now if you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 260239,
+    "dDurationMs": 7881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "brought someone in right yeah I think I\nmean I think having",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 264440,
+    "dDurationMs": 6199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "partners is great um and making a real\neffort to get on with your partner",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 269720,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "partners\nand like a marriage there's going to be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 272960,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lots of give and take but but um uh but\nand you may have to give give a bit more",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 278199,
+    "dDurationMs": 5121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "than you take in order in order to make\nthe partnership work yeah I actually use",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 281919,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a slogan um we should move away from\ngive and take to give without take if",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 285160,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you help someone be successful without\nany expectation of anything return it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 288280,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comes back to you like Karma right of\ncourse do you think there's a fourth",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 291160,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "step jumps in your mind that's I mean I\nbuild a brand for example not a business",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 295360,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is something I really believe in and I\nthink I've got that from you yeah I mean",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 299240,
+    "dDurationMs": 10360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "obviously Market you know marketing um\nyour brand is important I mean I had to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 306759,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh you know how did I get a one plane\nAirline um to be as well known as",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 312479,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "British Airways I had to stick my neck\nout and you know jump on boats and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 316120,
+    "dDurationMs": 6199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "balloons and things to to get it on the\nmap nowadays you've got the internet so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 320960,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there are other way other ways of\nmarketing things but um in those days we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 325240,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "had to try to get on the front page of\nthe newspapers and not be a little",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 329080,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Cornerstone in the back and and I take\nrisk would probably be my fifth like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 333319,
+    "dDurationMs": 4361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "learn to love risk it's something again\nI think I've learned from you but",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 336039,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "risk-taking how do you build up that\nrisk muscle how did how do you get",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 339319,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comfortable with risk I think it it's\ntaking risk but protecting the downside",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 344360,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so every move you make you must make be\nsure that if it goes wrong um it's not",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 350199,
+    "dDurationMs": 6241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to bring the whole pack of cards\ncrashing down and and just occasionally",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 354639,
+    "dDurationMs": 6361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you you might stick your neck out and\ntake a risk that will bring the whole",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 358880,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pack of cards down because it's you know\nthe upside is really worthwhile but but",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 363479,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "by and large protecting the downside is\ncritical so you know with in my own life",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 368599,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I've had to protect the downside when I\ndo my adventuring which is my life is on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 372440,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the line and then protecting the\ndownside in business to make sure that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 376560,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "um you know nearly 60 years later we're\nstill we're still um U ver Atlantic is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 381759,
+    "dDurationMs": 3880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "still going strong and the other\ncompanies are still going strong what do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 384440,
+    "dDurationMs": 6759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you think the biggest risk is you've\never taken in your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 387880,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "career oh I think\num yeah trying to fly around the world",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 393360,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in a hot air balloon was maybe the\nbiggest risk I remember that like that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 396599,
+    "dDurationMs": 8081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was yesterday no I really remember that\nlike it how long ago was that uh that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 400360,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was uh in the in the uh in the 90 in the\n'90s yeah so I was leaving school at the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 406560,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "time maybe that's why it's stuck in my\nmind so much that's such a crazy moment",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 410400,
+    "dDurationMs": 5239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yeah if you went back to your uh\n20-year-old self and gave some advice",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 413800,
+    "dDurationMs": 6519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "anything you'd say don't change the\nthing and I've had I've had an absolute",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 417960,
+    "dDurationMs": 7919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "blast and um\nuh and an element of you have there has",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 423759,
+    "dDurationMs": 8601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to be an element of good luck in in in\nbuilding businesses and uh and a lot of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 428720,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really real hard work and um uh and you\nand you really have got to throw",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 434120,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yourself in Day Day and Night you know\num to to um uh you to to be successful",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 440680,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "um but you can yeah you can have fine\ntime to party as well I think you you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 445360,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you personify this concept I think of\njust enjoying your work and then you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 448599,
+    "dDurationMs": 6681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "don't mind throwing yourself into I\nthink work slightly a negative for some",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 452720,
+    "dDurationMs": 8479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I've I've never I've never ever seen\nwhat I do as work I've just enjoy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 458360,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creating things and um and I create\nthings with the groups of other people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 463000,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and if I've created something I'm proud\nof um that I get a real you know real",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 468560,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "kick from it I just want to say for the\nrecord you've been an inspiration to me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 472120,
+    "dDurationMs": 4639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "since I was 15 years old be am to than\nvery much",
+      "acAsrConf": 0
+    } ]
+  } ]
+}
