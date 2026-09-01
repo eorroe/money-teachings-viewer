@@ -1,0 +1,1369 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 0,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I just asked a millionaire how to\nrebuild his business [music] in 2026"
+    } ]
+  }, {
+    "tStartMs": 3880,
+    "dDurationMs": 5290,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "using AI. And in this video, we're going\nto give you the seven ways you can use"
+    } ]
+  }, {
+    "tStartMs": 7520,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "AI to make money and stay ahead of your\n[music] competition. This is Dan Murray."
+    } ]
+  }, {
+    "tStartMs": 10720,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "He grew Heights to 30 million US\ndollars, and today he's using AI to"
+    } ]
+  }, {
+    "tStartMs": 14840,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "compress years of work into days. So,\nhere are the seven things we do now in"
+    } ]
+  }, {
+    "tStartMs": 18600,
+    "dDurationMs": 3680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "2026 [music] if we were building a\nbusiness from scratch."
+    } ]
+  }, {
+    "tStartMs": 21680,
+    "dDurationMs": 3800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e What's the first one?\n\u003e\u003e You have to start with a why. That is",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 23840,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not something that you're just going to\nreplace with AI. There is, however, a"
+    } ]
+  }, {
+    "tStartMs": 28080,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "way that AI can help you define the\nsystem. So, when I started Heights, it"
+    } ]
+  }, {
+    "tStartMs": 32480,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "came from a personal experience. I\nsuffered from insomnia, and I discovered"
+    } ]
+  }, {
+    "tStartMs": 37320,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "psychological problems and solutions\nwere not the way that solved my problem."
+    } ]
+  }, {
+    "tStartMs": 41080,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "It ended up being nutrition. That was my\nwhy, but I still had to figure out, you"
+    } ]
+  }, {
+    "tStartMs": 44720,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know, are people interested in this? And\nwith AI,"
+    } ]
+  }, {
+    "tStartMs": 48080,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a couple of very quick prompts into\nGemini or ChatGPT, which will say, \"Hey,"
+    } ]
+  }, {
+    "tStartMs": 53160,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "be my research partner. I'd like to know\nhow many people, generally speaking,"
+    } ]
+  }, {
+    "tStartMs": 57040,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "suffer from this problem? How many\nsearch results a month in the UK or"
+    } ]
+  }, {
+    "tStartMs": 60760,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "across Europe or the world are there on\nthis topic?\" You will immediately get"
+    } ]
+  }, {
+    "tStartMs": 65040,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "answers, and that stuff took me weeks.\nIt took me weeks and weeks. So, what"
+    } ]
+  }, {
+    "tStartMs": 68720,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what sort of prompt is Give people an\nexample. If you were trying to do market"
+    } ]
+  }, {
+    "tStartMs": 71400,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "research for your business today, give\nme an example prompt. So, you are a"
+    } ]
+  }, {
+    "tStartMs": 75440,
+    "dDurationMs": 10360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "market researcher who's spent 10 years\nat McKinsey and 3 years at Mintel, and I"
+    } ]
+  }, {
+    "tStartMs": 83520,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I need you to evaluate how many\npotential buyers there are in Europe."
+    } ]
+  }, {
+    "tStartMs": 88920,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And then, can you show me\nany market trends, any Google search"
+    } ]
+  }, {
+    "tStartMs": 94320,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "data results that demonstrate that this\nis a growing market, that there are more"
+    } ]
+  }, {
+    "tStartMs": 99200,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people year-on-year who want this thing?\nThe next question is, what? The what"
+    } ]
+  }, {
+    "tStartMs": 103800,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really matters because you should have a\nbroad idea of the things you want to do."
+    } ]
+  }, {
+    "tStartMs": 108400,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And then you go through a process of\nvalidating it. For Heights, we knew that"
+    } ]
+  }, {
+    "tStartMs": 113000,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "or we we believed that who we would be\ntargeting is people who had to use their"
+    } ]
+  }, {
+    "tStartMs": 116080,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "brains a lot, people who were exhausted\nlike us. So, we're like, \"Okay, who are"
+    } ]
+  }, {
+    "tStartMs": 118760,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people like us?\" Lawyers, accountants,\nbankers. And we did 200 interviews. It"
+    } ]
+  }, {
+    "tStartMs": 123240,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "took forever. Right now, instead of\nthat, there are so many different"
+    } ]
+  }, {
+    "tStartMs": 127440,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "services you could use that actually\ngave people personas. So, you can"
+    } ]
+  }, {
+    "tStartMs": 131400,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "literally say, \"I want you to take on\nthe persona of 200 busy office workers."
+    } ]
+  }, {
+    "tStartMs": 137280,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I need 100 of them to be women. I need\n100 of them to be men. I need, you know,"
+    } ]
+  }, {
+    "tStartMs": 141240,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "20% of them to be 20 to 45.\" And\nbasically, you'll start to give like a"
+    } ]
+  }, {
+    "tStartMs": 145120,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really uh detailed idea of who these\ncustomer groups are. And actually prompt"
+    } ]
+  }, {
+    "tStartMs": 150880,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it to give you generalized data insights\nof the responses that people might give"
+    } ]
+  }, {
+    "tStartMs": 154280,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you. There's enough data going into\nChatGPT and Gemini, obviously, and Grok"
+    } ]
+  }, {
+    "tStartMs": 159040,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and all of these tools for it to be able\nto spit back out to you with quite"
+    } ]
+  }, {
+    "tStartMs": 162640,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "alarming accuracy what represents the\nthoughts of groups like that. The"
+    } ]
+  }, {
+    "tStartMs": 166120,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cynical side is everyone's giving their\ndata to ChatGPT, etc. And that's really"
+    } ]
+  }, {
+    "tStartMs": 169280,
+    "dDurationMs": 5679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bad. And then the other side of it is,\nas a market researcher, you can tap into"
+    } ]
+  }, {
+    "tStartMs": 173040,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the data that exists there and get these\n200 interviews done in minutes. So,"
+    } ]
+  }, {
+    "tStartMs": 177840,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "next,\nwhere? If you've got a loads of"
+    } ]
+  }, {
+    "tStartMs": 181040,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proliferation, lots of different\nchannels everywhere, you find yourself"
+    } ]
+  }, {
+    "tStartMs": 184560,
+    "dDurationMs": 6679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "too too uh thinly spread across all of\nthem. So, not enough coverage and"
+    } ]
+  }, {
+    "tStartMs": 188640,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "distribution. Whereas, at Heights, the\nwhat is, what channel are you going to"
+    } ]
+  }, {
+    "tStartMs": 194239,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "try and win at first and foremost? We're\ntalking about starting a business,"
+    } ]
+  }, {
+    "tStartMs": 197600,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right? When Heights started, we started\nas a newsletter. And we got to 20,000"
+    } ]
+  }, {
+    "tStartMs": 202040,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "subscribers on a newsletter, and I\ndidn't do social media. So, now, how"
+    } ]
+  }, {
+    "tStartMs": 206280,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "would you choose your channel today uh\nin 2026 using AI? Yes, I actually still"
+    } ]
+  }, {
+    "tStartMs": 210920,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think that um email is amazing. We use\nKlaviyo. I always use kit.com. You might"
+    } ]
+  }, {
+    "tStartMs": 215800,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "use Beehiiv. Like, there's so many\ndifferent platforms. But, I think with"
+    } ]
+  }, {
+    "tStartMs": 218959,
+    "dDurationMs": 8081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the AI distribution angle in mind,\nright? There's some very simple prompts"
+    } ]
+  }, {
+    "tStartMs": 224200,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that you could use on GPT. \"I'm starting\nthis product. I'm looking for the right"
+    } ]
+  }, {
+    "tStartMs": 229440,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "kind of customers. My insight on this\nis, you know, insert the information"
+    } ]
+  }, {
+    "tStartMs": 233160,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that you've already got from the\nprevious steps. What channels"
+    } ]
+  }, {
+    "tStartMs": 236280,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "would provide me with the simplest,\nclearest opportunity in year one, in"
+    } ]
+  }, {
+    "tStartMs": 240640,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "year two, and why? Please break them\ndown for me. So, then you actually get"
+    } ]
+  }, {
+    "tStartMs": 244960,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like a\nan array. You know, it'll probably say"
+    } ]
+  }, {
+    "tStartMs": 247720,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "things like, you know, there's there's\nthere's retail, there's TikTok, there's,"
+    } ]
+  }, {
+    "tStartMs": 251640,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, physical shop, there's all of\nthese things. And then, when you get the"
+    } ]
+  }, {
+    "tStartMs": 255920,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "list, you can actually ask a follow-up\nquestion, which is, can you share rough"
+    } ]
+  }, {
+    "tStartMs": 260040,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "costs of starting each channel? And what\nare, most importantly, the opportunities"
+    } ]
+  }, {
+    "tStartMs": 265560,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and challenges with going for each of\nthese? So, the next step, thing you're"
+    } ]
+  }, {
+    "tStartMs": 269800,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really good at, marketing. It's all very\nwell and good to have done all of this"
+    } ]
+  }, {
+    "tStartMs": 272960,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stuff, but one big mistake people make,\nand I see this a lot from people who get"
+    } ]
+  }, {
+    "tStartMs": 277600,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really obsessed with product, is they\nget cringe about selling, pushing, or"
+    } ]
+  }, {
+    "tStartMs": 282240,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "marketing your product. Our product\nlaunched This product, Vitals, launched"
+    } ]
+  }, {
+    "tStartMs": 286560,
+    "dDurationMs": 10680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in 2020, January 2020. And\nwe had a newsletter from October 2018."
+    } ]
+  }, {
+    "tStartMs": 294360,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So, I was communicating with and\nbuilding an audience up for over a year"
+    } ]
+  }, {
+    "tStartMs": 299880,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to pre-launch this product. And so, by\nthe time we launched it, the £30,000 in"
+    } ]
+  }, {
+    "tStartMs": 304440,
+    "dDurationMs": 5479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "our first month because I hadn't just\nbeen sitting on my hands making a"
+    } ]
+  }, {
+    "tStartMs": 307720,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "product and waiting for it to exist\nbefore I could start telling people."
+    } ]
+  }, {
+    "tStartMs": 311480,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Back in the day, that was definitely\njust a good way of doing it was building"
+    } ]
+  }, {
+    "tStartMs": 314600,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a newsletter and then, you know, trying\nto like drop stuff in. And I think"
+    } ]
+  }, {
+    "tStartMs": 317800,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's one of the areas where AI today\nis absolutely incredible. There are"
+    } ]
+  }, {
+    "tStartMs": 323520,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "zillions of tools that will make sure\nthat when you're doing the marketing,"
+    } ]
+  }, {
+    "tStartMs": 328160,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you are capturing intrigue and interest,\nright? Any potential customer that has"
+    } ]
+  }, {
+    "tStartMs": 332760,
+    "dDurationMs": 3880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "shown interest in you, you need to\ncapture that data, you need to bring"
+    } ]
+  }, {
+    "tStartMs": 335240,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "them into your world, and you need to\nsomehow nurture them to communicate"
+    } ]
+  }, {
+    "tStartMs": 338840,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "later. And that's the one thing that an\nemail list will give you that's much"
+    } ]
+  }, {
+    "tStartMs": 341960,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "harder to do on social. The other side\nof marketing though, is obviously"
+    } ]
+  }, {
+    "tStartMs": 346840,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "back in the day, even in 2020, you know,\nif you want to do social, you know, yes,"
+    } ]
+  }, {
+    "tStartMs": 350560,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you have to like hire a team, you get\nfancy cameras, you do all of these"
+    } ]
+  }, {
+    "tStartMs": 353400,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "things. But today now, get your phone\nlatest phone out, just start shooting,"
+    } ]
+  }, {
+    "tStartMs": 357920,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "use Opus clip for editing, like whatever\nlike there's a You can do"
+    } ]
+  }, {
+    "tStartMs": 361880,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Gemini AI prompts. You can literally\ncome up with AI ads."
+    } ]
+  }, {
+    "tStartMs": 365400,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e 100% They are getting millions of views.\nAs a content creator, people think I",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 369640,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "should be threatened by this. I'm not.\nIt's just one more way of getting the"
+    } ]
+  }, {
+    "tStartMs": 372200,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "message out. Absolutely. For founders to\nleverage. And and Totally makes sense."
+    } ]
+  }, {
+    "tStartMs": 375760,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Here's the other thing. Like so Heights\nspends millions of pounds a year on on"
+    } ]
+  }, {
+    "tStartMs": 380320,
+    "dDurationMs": 8920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on on paid ads, right? So across all the\nsocial channels. Now"
+    } ]
+  }, {
+    "tStartMs": 385560,
+    "dDurationMs": 8600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that is thousands and thousands of ads\nevery single year. So the content engine"
+    } ]
+  }, {
+    "tStartMs": 392160,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "system that we know a few years ago when\nI was starting, that's one of the"
+    } ]
+  }, {
+    "tStartMs": 395520,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reasons why we like grew slower anyway,\ncuz you only have so much resource, so"
+    } ]
+  }, {
+    "tStartMs": 398400,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "many people to come up with ideas, to\nwrite your scripts, to do the shooting,"
+    } ]
+  }, {
+    "tStartMs": 401720,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you upload it, and no one likes it. Uh,\nthat's annoying. Well, guess what? You"
+    } ]
+  }, {
+    "tStartMs": 406800,
+    "dDurationMs": 3720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "were supposed to do 20 versions of that.\nThey all needed a different hooks, they"
+    } ]
+  }, {
+    "tStartMs": 409440,
+    "dDurationMs": 3160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "needed a different soundtracks, they\nneeded a different starts, they needed a"
+    } ]
+  }, {
+    "tStartMs": 411680,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "different beginning, they needed a\ndifferent ending. All of that now can be"
+    } ]
+  }, {
+    "tStartMs": 414560,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "prompted through Gemini or GPT. Hey, I'm\nstarting a product about a product about"
+    } ]
+  }, {
+    "tStartMs": 419840,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in this area and I think it's for these\ntypes of people. Please suggest to me"
+    } ]
+  }, {
+    "tStartMs": 423520,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "three different ideas that I can make uh\nfor a social video. Okay, next prompt."
+    } ]
+  }, {
+    "tStartMs": 428520,
+    "dDurationMs": 4040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Now turn that into 10 different\nvariations."
+    } ]
+  }, {
+    "tStartMs": 431240,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Once you start marketing your business\nusing AI, all that attention needs",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 435080,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "somewhere to go. But something that has\nnot changed, no matter how much AI"
+    } ]
+  }, {
+    "tStartMs": 438800,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "evolves, is the need for a strong domain\nname. Social platforms are great for"
+    } ]
+  }, {
+    "tStartMs": 442800,
+    "dDurationMs": 6119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "discovery, but your website is where\ntrust and transactions actually happen."
+    } ]
+  }, {
+    "tStartMs": 447160,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And the first thing people judge is your\ndomain name. The challenge is most good"
+    } ]
+  }, {
+    "tStartMs": 450960,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dot com domain names are already taken.\nSo founders either overpay for one or"
+    } ]
+  }, {
+    "tStartMs": 454840,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "settle for something that just does not\nfeel premium. So instead, you could own"
+    } ]
+  }, {
+    "tStartMs": 458440,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "something clean by using a dot online\ndomain. Over 3.5 million businesses have"
+    } ]
+  }, {
+    "tStartMs": 463600,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "already registered a dot online domain\nname across industries, especially those"
+    } ]
+  }, {
+    "tStartMs": 467600,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "focused on AI. And because the word\nonline appears in over 500 million"
+    } ]
+  }, {
+    "tStartMs": 472320,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "searches every month, it can even help\nwith visibility, giving your AI venture"
+    } ]
+  }, {
+    "tStartMs": 476600,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a serious edge. You can get a dot online\ndomain name through platforms like"
+    } ]
+  }, {
+    "tStartMs": 480200,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "GoDaddy, Squarespace, or Namecheap. But,\nif you go to"
+    } ]
+  }, {
+    "tStartMs": 484040,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and use the code Simon, you can get your\nfirst year for 99"
+    } ]
+  }, {
+    "tStartMs": 490760,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cents, which, if you're starting from\nzero, is a pretty smart first step. Hit"
+    } ]
+  }, {
+    "tStartMs": 494760,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the link in the description to claim\nyour domain name today. Now, let's get"
+    } ]
+  }, {
+    "tStartMs": 498160,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "back to these AI hacks. Okay, so here's\none that you don't generally hear people"
+    } ]
+  }, {
+    "tStartMs": 502440,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "talk about, and that is quality and\nhaving real passion and care for the"
+    } ]
+  }, {
+    "tStartMs": 507360,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "end-to-end customer experience. My\nbusiness partner Joel and I, we went"
+    } ]
+  }, {
+    "tStartMs": 510840,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "down to Selfridges, and we went to the\nperfume department. And we're like,"
+    } ]
+  }, {
+    "tStartMs": 514520,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\"Okay, here is a space that really,\nreally understands the importance of"
+    } ]
+  }, {
+    "tStartMs": 519520,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "design.\" So, the packaging, the bottles\nthat they use are the way that they"
+    } ]
+  }, {
+    "tStartMs": 523039,
+    "dDurationMs": 5241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "attract customers to feel like this\none's for me. So, all of this to us was"
+    } ]
+  }, {
+    "tStartMs": 526760,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a really interesting psychological\napproach. And so, we took the approach"
+    } ]
+  }, {
+    "tStartMs": 530720,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to design the world's most beautiful\npackaging. Now,"
+    } ]
+  }, {
+    "tStartMs": 535600,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in today's age, you could literally\nprompt like this came from 200 customer"
+    } ]
+  }, {
+    "tStartMs": 539720,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interviews and like going to their house\nand stuff. You could obviously just go"
+    } ]
+  }, {
+    "tStartMs": 542560,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on like Nano Banana and say, \"Hey,\ndesign me really unique packaging for"
+    } ]
+  }, {
+    "tStartMs": 546800,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this, you know?\" And you could put this\npackaging in there. People do that. And"
+    } ]
+  }, {
+    "tStartMs": 550680,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we we had an original idea anyway.\nPeople can see what's been successful in"
+    } ]
+  }, {
+    "tStartMs": 554160,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the market in their whatever chosen\ncategory, put it into these AI tools"
+    } ]
+  }, {
+    "tStartMs": 558560,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "now, and say, \"Make me this, but for\nwhatever you're making.\" And also, just"
+    } ]
+  }, {
+    "tStartMs": 563640,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "give me 10 design ideas of how we could\ndo this differently, how we can stand"
+    } ]
+  }, {
+    "tStartMs": 567880,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "out in our category. And now, give me 10\nideas of how we can connect with a"
+    } ]
+  }, {
+    "tStartMs": 572200,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "better customer experience than the top\n10 brands in the space. I think what's"
+    } ]
+  }, {
+    "tStartMs": 575839,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really important now is who AI can\nreally help you elevate how you think of"
+    } ]
+  }, {
+    "tStartMs": 580120,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "who. So, let's break that down. When you\nstart a company, the heart and soul and"
+    } ]
+  }, {
+    "tStartMs": 584080,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "brain of that company basically comes\nfrom you. So, if you are inauthentic"
+    } ]
+  }, {
+    "tStartMs": 587440,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about who you really are and start off\npretending that it's something else,"
+    } ]
+  }, {
+    "tStartMs": 590920,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're going to really struggle to scale\nthat. When I was doing things like going"
+    } ]
+  }, {
+    "tStartMs": 594120,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to leadership psychologists and paying\nmoney to like literally sit and do this"
+    } ]
+  }, {
+    "tStartMs": 597280,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuz that's how important I think this\nis, now you would literally give it a"
+    } ]
+  }, {
+    "tStartMs": 601480,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "framework. A really great prompt would\nbe give me five suggestions of"
+    } ]
+  }, {
+    "tStartMs": 606520,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "psychological\nvalues framework test that I can take"
+    } ]
+  }, {
+    "tStartMs": 611000,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and explain what they are and why\nthey're different. And then just see"
+    } ]
+  }, {
+    "tStartMs": 614040,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "which one sounds like your bag. Cuz\neveryone is going to choose something"
+    } ]
+  }, {
+    "tStartMs": 616840,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "else. You do you and then take the test\nand then literally you can next prompt"
+    } ]
+  }, {
+    "tStartMs": 620200,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "be, \"Okay, now ask me all the relevant\nquestions that help me find out what my"
+    } ]
+  }, {
+    "tStartMs": 623600,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "values are.\" And then with GPT now, so\nlike back in the day it's a much harder"
+    } ]
+  }, {
+    "tStartMs": 627440,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "process. We had to work out all these\ninterview questions ourselves. We had to"
+    } ]
+  }, {
+    "tStartMs": 630160,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really figure out how we're going to get\nit right. Now, I would just put into"
+    } ]
+  }, {
+    "tStartMs": 633880,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ChatGPT after having done my profile, so\nsay I've got my enneagram types, like"
+    } ]
+  }, {
+    "tStartMs": 638400,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "these are, you know, the values of the\ncompany. Write me a list of five to 10"
+    } ]
+  }, {
+    "tStartMs": 642680,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interview questions that will really\ntest someone when they come in for an"
+    } ]
+  }, {
+    "tStartMs": 645720,
+    "dDurationMs": 5119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interview. Let's talk about the final\nthing we're going to talk about today."
+    } ]
+  }, {
+    "tStartMs": 648000,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Innovate or die is how I frame it. You\nin general"
+    } ]
+  }, {
+    "tStartMs": 652200,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh when you're starting a company will\nuh get a great feedback loop up until a"
+    } ]
+  }, {
+    "tStartMs": 656839,
+    "dDurationMs": 4521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "certain point. It's a very common\nproblem. And at Heights we had the same"
+    } ]
+  }, {
+    "tStartMs": 659560,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thing. We went from zero to 5 million\nquite comfortably. We did that inside a"
+    } ]
+  }, {
+    "tStartMs": 662760,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "couple of years. And then we could not\nmove from 5 million onwards for 2 years."
+    } ]
+  }, {
+    "tStartMs": 667960,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "We stuck at 5 million pounds. And there\nwere so many reasons for it, but one of"
+    } ]
+  }, {
+    "tStartMs": 671720,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "them was our messaging. We were really,\nreally focused on messaging on this"
+    } ]
+  }, {
+    "tStartMs": 676440,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "product being everything for the brain.\nNow, the thing is this product is"
+    } ]
+  }, {
+    "tStartMs": 680280,
+    "dDurationMs": 4040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everything for the brain, but it's also\neverything for the body. It's a"
+    } ]
+  }, {
+    "tStartMs": 682200,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "multivitamin injected inside omega-3s,\netc. So, we had to adapt our entire"
+    } ]
+  }, {
+    "tStartMs": 686680,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "messaging strategy. This product was\ncalled the smart supplement. It's now"
+    } ]
+  }, {
+    "tStartMs": 689720,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "called Vitals. As soon as we called it\nVitals, suddenly people started buying."
+    } ]
+  }, {
+    "tStartMs": 693760,
+    "dDurationMs": 3760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Super interesting. So, like this was\nlike cold audiences who didn't know who"
+    } ]
+  }, {
+    "tStartMs": 697200,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the person\n\u003e\u003e change it to Vitals? We went through a"
+    } ]
+  }, {
+    "tStartMs": 699800,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "very slow process of messaging tests.\nSo, literally landing pages on our"
+    } ]
+  }, {
+    "tStartMs": 704200,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "website with a different name on the\nproduct and until we landed on Vitals"
+    } ]
+  }, {
+    "tStartMs": 707960,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and saw that the click rates were going\nup, the purchase rates were going up."
+    } ]
+  }, {
+    "tStartMs": 711120,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "You start to get the data. Now, the\nthing is with Meta Andromeda and some of"
+    } ]
+  }, {
+    "tStartMs": 715480,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like the new systems, you can run these\ntests super quickly. Like a few years"
+    } ]
+  }, {
+    "tStartMs": 719360,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ago, we were doing these all manually.\nNow with AI, you can literally A, you"
+    } ]
+  }, {
+    "tStartMs": 723480,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can ask ChatGPT to give me\n10 or 20 compliant, you know, new names"
+    } ]
+  }, {
+    "tStartMs": 728720,
+    "dDurationMs": 3680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for product like this that there's an\nopportunity or whatever. I mean, I do"
+    } ]
+  }, {
+    "tStartMs": 731240,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this all the time with naming, I'm sure\nyou do, too. And then, you would"
+    } ]
+  }, {
+    "tStartMs": 733880,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "literally run those tests on landing\npages through Meta Andromeda and send,"
+    } ]
+  }, {
+    "tStartMs": 738400,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, 100 lb maybe to each page and\nstuff and just see which ones were"
+    } ]
+  }, {
+    "tStartMs": 741800,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "getting the best traffic, the best\nuplift, the best actual conversion. So,"
+    } ]
+  }, {
+    "tStartMs": 745480,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hopefully you've gained a lot of\nknowledge today. The only way you're"
+    } ]
+  }, {
+    "tStartMs": 747920,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really going to learn this is by doing\nsomething."
+    } ]
+  }, {
+    "tStartMs": 750800,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Not by buying a book, by doing\nsomething. And let me know in the",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 753440,
+    "dDurationMs": 3960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comments what business you might learn\nand I might be able to get Dan to invest"
+    } ]
+  }, {
+    "tStartMs": 756360,
+    "dDurationMs": 3440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in you. I'm going to have some chicken\nnow, bye."
+    } ]
+  } ]
+}
