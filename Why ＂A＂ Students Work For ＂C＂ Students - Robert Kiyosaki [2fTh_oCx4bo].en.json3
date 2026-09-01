@@ -1,0 +1,4055 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 30,
+    "dDurationMs": 14069,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a question",
+      "acAsrConf": 252
+    }, {
+      "utf8": " I",
+      "acAsrConf": 227
+    }, {
+      "utf8": " want to",
+      "acAsrConf": 252
+    }, {
+      "utf8": " know",
+      "acAsrConf": 202
+    }, {
+      "utf8": " is how do I\nbeat the a",
+      "acAsrConf": 252
+    }, {
+      "utf8": " students",
+      "acAsrConf": 236
+    }, {
+      "utf8": " because",
+      "acAsrConf": 219
+    }, {
+      "utf8": " in",
+      "acAsrConf": 252
+    }, {
+      "utf8": " school",
+      "acAsrConf": 209
+    }, {
+      "utf8": " no",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 10740,
+    "dDurationMs": 8820,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "matter",
+      "acAsrConf": 207
+    }, {
+      "utf8": " what",
+      "acAsrConf": 252
+    }, {
+      "utf8": " class",
+      "acAsrConf": 207
+    }, {
+      "utf8": " I",
+      "acAsrConf": 252
+    }, {
+      "utf8": " was",
+      "acAsrConf": 208
+    }, {
+      "utf8": " in",
+      "acAsrConf": 144
+    }, {
+      "utf8": " I",
+      "acAsrConf": 224
+    }, {
+      "utf8": " was",
+      "acAsrConf": 204
+    }, {
+      "utf8": " always",
+      "acAsrConf": 252
+    }, {
+      "utf8": "\na",
+      "acAsrConf": 217
+    }, {
+      "utf8": " C",
+      "acAsrConf": 226
+    }, {
+      "utf8": " student",
+      "acAsrConf": 252
+    }, {
+      "utf8": " no",
+      "acAsrConf": 202
+    }, {
+      "utf8": " matter",
+      "acAsrConf": 252
+    }, {
+      "utf8": " what",
+      "acAsrConf": 200
+    }, {
+      "utf8": " happened",
+      "acAsrConf": 246
+    }, {
+      "utf8": " how",
+      "acAsrConf": 245
+    } ]
+  }, {
+    "tStartMs": 17160,
+    "dDurationMs": 7949,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "come",
+      "acAsrConf": 245
+    }, {
+      "utf8": " I'm",
+      "acAsrConf": 252
+    }, {
+      "utf8": " always",
+      "acAsrConf": 207
+    }, {
+      "utf8": " a",
+      "acAsrConf": 250
+    }, {
+      "utf8": " C",
+      "acAsrConf": 222
+    }, {
+      "utf8": " student",
+      "acAsrConf": 252
+    }, {
+      "utf8": " and",
+      "acAsrConf": 223
+    }, {
+      "utf8": " I",
+      "acAsrConf": 245
+    }, {
+      "utf8": " never",
+      "acAsrConf": 218
+    }, {
+      "utf8": "\nreally",
+      "acAsrConf": 248
+    }, {
+      "utf8": " understood",
+      "acAsrConf": 252
+    }, {
+      "utf8": " why",
+      "acAsrConf": 138
+    }, {
+      "utf8": " so",
+      "acAsrConf": 200
+    }, {
+      "utf8": " though",
+      "acAsrConf": 244
+    }, {
+      "utf8": " that's",
+      "acAsrConf": 215
+    } ]
+  }, {
+    "tStartMs": 22529,
+    "dDurationMs": 7111,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "why after",
+      "acAsrConf": 252
+    }, {
+      "utf8": " I",
+      "acAsrConf": 231
+    }, {
+      "utf8": " was",
+      "acAsrConf": 252
+    }, {
+      "utf8": " about",
+      "acAsrConf": 204
+    }, {
+      "utf8": " 27",
+      "acAsrConf": 241
+    }, {
+      "utf8": " years",
+      "acAsrConf": 140
+    }, {
+      "utf8": " old",
+      "acAsrConf": 201
+    }, {
+      "utf8": " as",
+      "acAsrConf": 252
+    }, {
+      "utf8": "\nher",
+      "acAsrConf": 227
+    }, {
+      "utf8": " researching",
+      "acAsrConf": 250
+    }, {
+      "utf8": " education",
+      "acAsrConf": 238
+    }, {
+      "utf8": " the system and",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 28080,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all this",
+      "acAsrConf": 252
+    }, {
+      "utf8": " then",
+      "acAsrConf": 221
+    }, {
+      "utf8": " I",
+      "acAsrConf": 232
+    }, {
+      "utf8": " realized",
+      "acAsrConf": 141
+    }, {
+      "utf8": " the",
+      "acAsrConf": 252
+    }, {
+      "utf8": " whole",
+      "acAsrConf": 121
+    }, {
+      "utf8": "\nsystem was",
+      "acAsrConf": 252
+    }, {
+      "utf8": " set",
+      "acAsrConf": 217
+    }, {
+      "utf8": " up",
+      "acAsrConf": 252
+    }, {
+      "utf8": " for",
+      "acAsrConf": 236
+    }, {
+      "utf8": " people",
+      "acAsrConf": 252
+    }, {
+      "utf8": " like",
+      "acAsrConf": 154
+    }, {
+      "utf8": " me to",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 32430,
+    "dDurationMs": 6090,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "be",
+      "acAsrConf": 147
+    }, {
+      "utf8": " in",
+      "acAsrConf": 201
+    }, {
+      "utf8": " the middle",
+      "acAsrConf": 252
+    }, {
+      "utf8": " you",
+      "acAsrConf": 219
+    }, {
+      "utf8": " know",
+      "acAsrConf": 201
+    }, {
+      "utf8": " because",
+      "acAsrConf": 247
+    }, {
+      "utf8": " what",
+      "acAsrConf": 255
+    }, {
+      "utf8": "\nthey found",
+      "acAsrConf": 252
+    }, {
+      "utf8": " out",
+      "acAsrConf": 226
+    }, {
+      "utf8": " in",
+      "acAsrConf": 210
+    }, {
+      "utf8": " 83",
+      "acAsrConf": 215
+    }, {
+      "utf8": " was",
+      "acAsrConf": 252
+    }, {
+      "utf8": " that",
+      "acAsrConf": 248
+    }, {
+      "utf8": " there",
+      "acAsrConf": 252
+    }, {
+      "utf8": " was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 36930,
+    "dDurationMs": 6629,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "seven",
+      "acAsrConf": 239
+    }, {
+      "utf8": " different",
+      "acAsrConf": 252
+    }, {
+      "utf8": " intelligences",
+      "acAsrConf": 201
+    }, {
+      "utf8": " Guy\nGardner",
+      "acAsrConf": 236
+    }, {
+      "utf8": " and",
+      "acAsrConf": 207
+    }, {
+      "utf8": " I'm",
+      "acAsrConf": 233
+    }, {
+      "utf8": " not",
+      "acAsrConf": 245
+    }, {
+      "utf8": " strong",
+      "acAsrConf": 217
+    }, {
+      "utf8": " in",
+      "acAsrConf": 241
+    }, {
+      "utf8": " the",
+      "acAsrConf": 252
+    }, {
+      "utf8": " top",
+      "acAsrConf": 243
+    } ]
+  }, {
+    "tStartMs": 41730,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "two",
+      "acAsrConf": 225
+    }, {
+      "utf8": " intelligence",
+      "acAsrConf": 252
+    }, {
+      "utf8": " which",
+      "acAsrConf": 240
+    }, {
+      "utf8": " is",
+      "acAsrConf": 252
+    }, {
+      "utf8": " reading",
+      "acAsrConf": 200
+    }, {
+      "utf8": " and\nmath",
+      "acAsrConf": 252
+    }, {
+      "utf8": " I'm",
+      "acAsrConf": 237
+    }, {
+      "utf8": " horrible",
+      "acAsrConf": 239
+    }, {
+      "utf8": " reader",
+      "acAsrConf": 188
+    }, {
+      "utf8": " I'm",
+      "acAsrConf": 248
+    }, {
+      "utf8": " a",
+      "acAsrConf": 247
+    }, {
+      "utf8": " horrible",
+      "acAsrConf": 228
+    } ]
+  }, {
+    "tStartMs": 45719,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "writer",
+      "acAsrConf": 236
+    }, {
+      "utf8": " and",
+      "acAsrConf": 246
+    }, {
+      "utf8": " very slow at math",
+      "acAsrConf": 252
+    }, {
+      "utf8": " but",
+      "acAsrConf": 246
+    }, {
+      "utf8": " I'm",
+      "acAsrConf": 226
+    }, {
+      "utf8": "\nvery",
+      "acAsrConf": 244
+    }, {
+      "utf8": " good",
+      "acAsrConf": 226
+    }, {
+      "utf8": " with",
+      "acAsrConf": 165
+    }, {
+      "utf8": " my",
+      "acAsrConf": 202
+    }, {
+      "utf8": " hands",
+      "acAsrConf": 252
+    }, {
+      "utf8": " and",
+      "acAsrConf": 126
+    }, {
+      "utf8": " I'm also",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 51090,
+    "dDurationMs": 6270,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pretty",
+      "acAsrConf": 252
+    }, {
+      "utf8": " good",
+      "acAsrConf": 172
+    }, {
+      "utf8": " with what they call",
+      "acAsrConf": 252
+    }, {
+      "utf8": "\nintrapersonal",
+      "acAsrConf": 244
+    }, {
+      "utf8": " communication",
+      "acAsrConf": 252
+    }, {
+      "utf8": " this",
+      "acAsrConf": 208
+    } ]
+  }, {
+    "tStartMs": 55320,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interpersonal",
+      "acAsrConf": 233
+    }, {
+      "utf8": " which is communicating",
+      "acAsrConf": 252
+    }, {
+      "utf8": "\nanother",
+      "acAsrConf": 255
+    }, {
+      "utf8": " person",
+      "acAsrConf": 252
+    }, {
+      "utf8": " but",
+      "acAsrConf": 249
+    }, {
+      "utf8": " interpersonal",
+      "acAsrConf": 237
+    }, {
+      "utf8": " is",
+      "acAsrConf": 226
+    }, {
+      "utf8": " that",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 60480,
+    "dDurationMs": 7410,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "communication",
+      "acAsrConf": 190
+    }, {
+      "utf8": " with",
+      "acAsrConf": 252
+    }, {
+      "utf8": " yourself",
+      "acAsrConf": 251
+    }, {
+      "utf8": " and",
+      "acAsrConf": 232
+    }, {
+      "utf8": " if",
+      "acAsrConf": 236
+    }, {
+      "utf8": " a",
+      "acAsrConf": 252
+    }, {
+      "utf8": "\nperson's",
+      "acAsrConf": 166
+    }, {
+      "utf8": " very",
+      "acAsrConf": 207
+    }, {
+      "utf8": " good",
+      "acAsrConf": 227
+    }, {
+      "utf8": " with",
+      "acAsrConf": 252
+    }, {
+      "utf8": " communication",
+      "acAsrConf": 250
+    } ]
+  }, {
+    "tStartMs": 65489,
+    "dDurationMs": 6781,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was self",
+      "acAsrConf": 252
+    }, {
+      "utf8": " you have",
+      "acAsrConf": 217
+    }, {
+      "utf8": " a",
+      "acAsrConf": 252
+    }, {
+      "utf8": " better",
+      "acAsrConf": 227
+    }, {
+      "utf8": " chance",
+      "acAsrConf": 252
+    }, {
+      "utf8": " of",
+      "acAsrConf": 157
+    }, {
+      "utf8": "\nsuccess",
+      "acAsrConf": 201
+    }, {
+      "utf8": " so",
+      "acAsrConf": 205
+    }, {
+      "utf8": " the way",
+      "acAsrConf": 252
+    }, {
+      "utf8": " I",
+      "acAsrConf": 156
+    }, {
+      "utf8": " chunked",
+      "acAsrConf": 218
+    }, {
+      "utf8": " it down",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 70830,
+    "dDurationMs": 6090,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this",
+      "acAsrConf": 252
+    }, {
+      "utf8": " has",
+      "acAsrConf": 225
+    }, {
+      "utf8": " been",
+      "acAsrConf": 204
+    }, {
+      "utf8": " thirty",
+      "acAsrConf": 125
+    }, {
+      "utf8": " years",
+      "acAsrConf": 141
+    }, {
+      "utf8": " and",
+      "acAsrConf": 252
+    }, {
+      "utf8": " again",
+      "acAsrConf": 209
+    }, {
+      "utf8": " I'm",
+      "acAsrConf": 188
+    }, {
+      "utf8": "\nnot",
+      "acAsrConf": 252
+    }, {
+      "utf8": " a",
+      "acAsrConf": 122
+    }, {
+      "utf8": " rocket",
+      "acAsrConf": 206
+    }, {
+      "utf8": " scientist",
+      "acAsrConf": 252
+    }, {
+      "utf8": " or",
+      "acAsrConf": 166
+    }, {
+      "utf8": " brain",
+      "acAsrConf": 226
+    }, {
+      "utf8": " surgeon",
+      "acAsrConf": 227
+    } ]
+  }, {
+    "tStartMs": 74220,
+    "dDurationMs": 8750,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is that the way you beat an",
+      "acAsrConf": 252
+    }, {
+      "utf8": " A",
+      "acAsrConf": 227
+    }, {
+      "utf8": " student",
+      "acAsrConf": 139
+    }, {
+      "utf8": "\nwas",
+      "acAsrConf": 172
+    }, {
+      "utf8": " I",
+      "acAsrConf": 255
+    }, {
+      "utf8": " finally",
+      "acAsrConf": 252
+    }, {
+      "utf8": " figured",
+      "acAsrConf": 202
+    }, {
+      "utf8": " it",
+      "acAsrConf": 252
+    }, {
+      "utf8": " out",
+      "acAsrConf": 248
+    }, {
+      "utf8": " was",
+      "acAsrConf": 234
+    }, {
+      "utf8": " that",
+      "acAsrConf": 252
+    }, {
+      "utf8": " we",
+      "acAsrConf": 203
+    } ]
+  }, {
+    "tStartMs": 80100,
+    "dDurationMs": 10769,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "had",
+      "acAsrConf": 155
+    }, {
+      "utf8": " three parts",
+      "acAsrConf": 252
+    }, {
+      "utf8": " to",
+      "acAsrConf": 247
+    }, {
+      "utf8": " a brain",
+      "acAsrConf": 252
+    }, {
+      "utf8": " we",
+      "acAsrConf": 201
+    }, {
+      "utf8": " had the",
+      "acAsrConf": 252
+    }, {
+      "utf8": "\nthe",
+      "acAsrConf": 249
+    }, {
+      "utf8": " left",
+      "acAsrConf": 252
+    }, {
+      "utf8": " brain",
+      "acAsrConf": 239
+    }, {
+      "utf8": " the",
+      "acAsrConf": 240
+    }, {
+      "utf8": " right",
+      "acAsrConf": 201
+    }, {
+      "utf8": " brain",
+      "acAsrConf": 248
+    }, {
+      "utf8": " and",
+      "acAsrConf": 240
+    }, {
+      "utf8": " what",
+      "acAsrConf": 225
+    } ]
+  }, {
+    "tStartMs": 87390,
+    "dDurationMs": 7860,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I",
+      "acAsrConf": 252
+    }, {
+      "utf8": " call",
+      "acAsrConf": 222
+    }, {
+      "utf8": " the",
+      "acAsrConf": 206
+    }, {
+      "utf8": " subconscious",
+      "acAsrConf": 252
+    }, {
+      "utf8": " brain",
+      "acAsrConf": 131
+    }, {
+      "utf8": " generally",
+      "acAsrConf": 207
+    }, {
+      "utf8": "\nwhen",
+      "acAsrConf": 251
+    }, {
+      "utf8": " when",
+      "acAsrConf": 255
+    }, {
+      "utf8": " we say",
+      "acAsrConf": 252
+    }, {
+      "utf8": " somebody's",
+      "acAsrConf": 73
+    }, {
+      "utf8": " good",
+      "acAsrConf": 236
+    }, {
+      "utf8": " at",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 93060,
+    "dDurationMs": 7290,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reading",
+      "acAsrConf": 181
+    }, {
+      "utf8": " and",
+      "acAsrConf": 252
+    }, {
+      "utf8": " writing",
+      "acAsrConf": 216
+    }, {
+      "utf8": " and",
+      "acAsrConf": 227
+    }, {
+      "utf8": " math",
+      "acAsrConf": 183
+    }, {
+      "utf8": " they're",
+      "acAsrConf": 231
+    }, {
+      "utf8": "\ngenerally",
+      "acAsrConf": 236
+    }, {
+      "utf8": " left",
+      "acAsrConf": 207
+    }, {
+      "utf8": " brains",
+      "acAsrConf": 220
+    }, {
+      "utf8": " so",
+      "acAsrConf": 228
+    }, {
+      "utf8": " these are the",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 98040,
+    "dDurationMs": 6869,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "guys",
+      "acAsrConf": 252
+    }, {
+      "utf8": " that",
+      "acAsrConf": 142
+    }, {
+      "utf8": " do",
+      "acAsrConf": 201
+    }, {
+      "utf8": " well",
+      "acAsrConf": 252
+    }, {
+      "utf8": " in",
+      "acAsrConf": 187
+    }, {
+      "utf8": " school",
+      "acAsrConf": 252
+    }, {
+      "utf8": " there's",
+      "acAsrConf": 200
+    }, {
+      "utf8": " not",
+      "acAsrConf": 236
+    }, {
+      "utf8": "\nme",
+      "acAsrConf": 252
+    }, {
+      "utf8": " I",
+      "acAsrConf": 165
+    }, {
+      "utf8": " can remake",
+      "acAsrConf": 252
+    }, {
+      "utf8": " and",
+      "acAsrConf": 228
+    }, {
+      "utf8": " write",
+      "acAsrConf": 233
+    }, {
+      "utf8": " but",
+      "acAsrConf": 252
+    }, {
+      "utf8": " I",
+      "acAsrConf": 167
+    }, {
+      "utf8": " read",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 102420,
+    "dDurationMs": 7170,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "very",
+      "acAsrConf": 107
+    }, {
+      "utf8": " slowly",
+      "acAsrConf": 252
+    }, {
+      "utf8": " and",
+      "acAsrConf": 201
+    }, {
+      "utf8": " I",
+      "acAsrConf": 246
+    }, {
+      "utf8": " can count",
+      "acAsrConf": 252
+    }, {
+      "utf8": " as",
+      "acAsrConf": 203
+    }, {
+      "utf8": " fast as\nmy fingers can cheat",
+      "acAsrConf": 252
+    }, {
+      "utf8": " on",
+      "acAsrConf": 255
+    }, {
+      "utf8": " this",
+      "acAsrConf": 64
+    }, {
+      "utf8": " thing",
+      "acAsrConf": 216
+    }, {
+      "utf8": " of",
+      "acAsrConf": 236
+    }, {
+      "utf8": " it",
+      "acAsrConf": 233
+    } ]
+  }, {
+    "tStartMs": 106970,
+    "dDurationMs": 8350,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and",
+      "acAsrConf": 249
+    }, {
+      "utf8": " the right",
+      "acAsrConf": 252
+    }, {
+      "utf8": " brain",
+      "acAsrConf": 206
+    }, {
+      "utf8": " is",
+      "acAsrConf": 252
+    }, {
+      "utf8": " the",
+      "acAsrConf": 207
+    }, {
+      "utf8": " creative",
+      "acAsrConf": 255
+    }, {
+      "utf8": " side",
+      "acAsrConf": 242
+    }, {
+      "utf8": "\nso",
+      "acAsrConf": 248
+    }, {
+      "utf8": " this",
+      "acAsrConf": 252
+    }, {
+      "utf8": " so",
+      "acAsrConf": 218
+    }, {
+      "utf8": " this",
+      "acAsrConf": 252
+    }, {
+      "utf8": " is",
+      "acAsrConf": 203
+    }, {
+      "utf8": " analytical",
+      "acAsrConf": 228
+    }, {
+      "utf8": " and",
+      "acAsrConf": 248
+    }, {
+      "utf8": " this",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 111960,
+    "dDurationMs": 8850,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is creative",
+      "acAsrConf": 252
+    }, {
+      "utf8": " so",
+      "acAsrConf": 232
+    }, {
+      "utf8": " the way",
+      "acAsrConf": 252
+    }, {
+      "utf8": " I",
+      "acAsrConf": 243
+    }, {
+      "utf8": " solve problems",
+      "acAsrConf": 252
+    }, {
+      "utf8": "\nis",
+      "acAsrConf": 142
+    }, {
+      "utf8": " very",
+      "acAsrConf": 252
+    }, {
+      "utf8": " simple",
+      "acAsrConf": 143
+    }, {
+      "utf8": " away",
+      "acAsrConf": 216
+    }, {
+      "utf8": " a",
+      "acAsrConf": 237
+    }, {
+      "utf8": " beat",
+      "acAsrConf": 201
+    }, {
+      "utf8": " and",
+      "acAsrConf": 217
+    }, {
+      "utf8": " a",
+      "acAsrConf": 216
+    }, {
+      "utf8": " student",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 117960,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is",
+      "acAsrConf": 220
+    }, {
+      "utf8": " if",
+      "acAsrConf": 226
+    }, {
+      "utf8": " I",
+      "acAsrConf": 252
+    }, {
+      "utf8": " run",
+      "acAsrConf": 251
+    }, {
+      "utf8": " into",
+      "acAsrConf": 207
+    }, {
+      "utf8": " a",
+      "acAsrConf": 252
+    }, {
+      "utf8": " pollen",
+      "acAsrConf": 201
+    }, {
+      "utf8": " sling",
+      "acAsrConf": 186
+    }, {
+      "utf8": " I",
+      "acAsrConf": 217
+    }, {
+      "utf8": " don't",
+      "acAsrConf": 221
+    }, {
+      "utf8": "\nhave",
+      "acAsrConf": 217
+    }, {
+      "utf8": " enough",
+      "acAsrConf": 243
+    }, {
+      "utf8": " money",
+      "acAsrConf": 249
+    }, {
+      "utf8": " or",
+      "acAsrConf": 227
+    }, {
+      "utf8": " how",
+      "acAsrConf": 150
+    }, {
+      "utf8": " do",
+      "acAsrConf": 252
+    }, {
+      "utf8": " I",
+      "acAsrConf": 247
+    }, {
+      "utf8": " put",
+      "acAsrConf": 248
+    }, {
+      "utf8": " this",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 123240,
+    "dDurationMs": 9450,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "deal",
+      "acAsrConf": 201
+    }, {
+      "utf8": " together",
+      "acAsrConf": 252
+    }, {
+      "utf8": " or",
+      "acAsrConf": 201
+    }, {
+      "utf8": " how do",
+      "acAsrConf": 252
+    }, {
+      "utf8": " I",
+      "acAsrConf": 250
+    }, {
+      "utf8": " get",
+      "acAsrConf": 252
+    }, {
+      "utf8": " to",
+      "acAsrConf": 180
+    }, {
+      "utf8": " do this",
+      "acAsrConf": 252
+    }, {
+      "utf8": "\nit's",
+      "acAsrConf": 242
+    }, {
+      "utf8": " not",
+      "acAsrConf": 205
+    }, {
+      "utf8": " left",
+      "acAsrConf": 215
+    }, {
+      "utf8": " brain",
+      "acAsrConf": 237
+    }, {
+      "utf8": " it's",
+      "acAsrConf": 201
+    }, {
+      "utf8": " creative I go",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 129720,
+    "dDurationMs": 4980,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "spatial",
+      "acAsrConf": 246
+    }, {
+      "utf8": " so",
+      "acAsrConf": 231
+    }, {
+      "utf8": " people",
+      "acAsrConf": 238
+    }, {
+      "utf8": " who",
+      "acAsrConf": 252
+    }, {
+      "utf8": " are",
+      "acAsrConf": 206
+    }, {
+      "utf8": " artists",
+      "acAsrConf": 252
+    }, {
+      "utf8": " and",
+      "acAsrConf": 201
+    }, {
+      "utf8": "\nmusic",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 133110,
+    "dDurationMs": 8340,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Shen's",
+      "acAsrConf": 246
+    }, {
+      "utf8": " and things like this",
+      "acAsrConf": 252
+    }, {
+      "utf8": " they're",
+      "acAsrConf": 217
+    }, {
+      "utf8": " more",
+      "acAsrConf": 252
+    }, {
+      "utf8": "\nright-brain",
+      "acAsrConf": 74
+    }, {
+      "utf8": " they",
+      "acAsrConf": 217
+    }, {
+      "utf8": " get hammered in school",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 137180,
+    "dDurationMs": 8260,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "USA",
+      "acAsrConf": 207
+    }, {
+      "utf8": " and",
+      "acAsrConf": 217
+    }, {
+      "utf8": " then the subconscious mind",
+      "acAsrConf": 252
+    }, {
+      "utf8": " this",
+      "acAsrConf": 176
+    }, {
+      "utf8": "\nis",
+      "acAsrConf": 227
+    }, {
+      "utf8": " what they",
+      "acAsrConf": 252
+    }, {
+      "utf8": " call",
+      "acAsrConf": 225
+    }, {
+      "utf8": " the",
+      "acAsrConf": 246
+    }, {
+      "utf8": " reactive",
+      "acAsrConf": 240
+    }, {
+      "utf8": " mine",
+      "acAsrConf": 103
+    }, {
+      "utf8": " also",
+      "acAsrConf": 165
+    } ]
+  }, {
+    "tStartMs": 143880,
+    "dDurationMs": 4530,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "as a thing called reptilian brain in\nhere",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 145950,
+    "dDurationMs": 8190,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this is primal this is",
+      "acAsrConf": 252
+    }, {
+      "utf8": " fight-or-flight",
+      "acAsrConf": 79
+    }, {
+      "utf8": "\nit",
+      "acAsrConf": 197
+    }, {
+      "utf8": " doesn't",
+      "acAsrConf": 252
+    }, {
+      "utf8": " think",
+      "acAsrConf": 216
+    }, {
+      "utf8": " it",
+      "acAsrConf": 236
+    }, {
+      "utf8": " reacts",
+      "acAsrConf": 252
+    }, {
+      "utf8": " so",
+      "acAsrConf": 231
+    }, {
+      "utf8": " when",
+      "acAsrConf": 252
+    }, {
+      "utf8": " I",
+      "acAsrConf": 212
+    }, {
+      "utf8": " say",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 151860,
+    "dDurationMs": 6420,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that",
+      "acAsrConf": 252
+    }, {
+      "utf8": " most",
+      "acAsrConf": 158
+    }, {
+      "utf8": " people",
+      "acAsrConf": 203
+    }, {
+      "utf8": " quit your job",
+      "acAsrConf": 252
+    }, {
+      "utf8": " and",
+      "acAsrConf": 236
+    }, {
+      "utf8": " they",
+      "acAsrConf": 237
+    }, {
+      "utf8": "\ngo",
+      "acAsrConf": 252
+    }, {
+      "utf8": " it",
+      "acAsrConf": 242
+    }, {
+      "utf8": " logically",
+      "acAsrConf": 252
+    }, {
+      "utf8": " the",
+      "acAsrConf": 238
+    }, {
+      "utf8": " left brain goes",
+      "acAsrConf": 252
+    }, {
+      "utf8": " oh",
+      "acAsrConf": 241
+    } ]
+  }, {
+    "tStartMs": 155940,
+    "dDurationMs": 6870,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yeah",
+      "acAsrConf": 252
+    }, {
+      "utf8": " I",
+      "acAsrConf": 167
+    }, {
+      "utf8": " could",
+      "acAsrConf": 216
+    }, {
+      "utf8": " make a lot",
+      "acAsrConf": 252
+    }, {
+      "utf8": " of",
+      "acAsrConf": 200
+    }, {
+      "utf8": " money",
+      "acAsrConf": 252
+    }, {
+      "utf8": " as",
+      "acAsrConf": 225
+    }, {
+      "utf8": " an",
+      "acAsrConf": 252
+    }, {
+      "utf8": "\nentrepreneur",
+      "acAsrConf": 236
+    }, {
+      "utf8": " and",
+      "acAsrConf": 216
+    }, {
+      "utf8": " the right",
+      "acAsrConf": 252
+    }, {
+      "utf8": " brain",
+      "acAsrConf": 207
+    }, {
+      "utf8": " goes",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 161010,
+    "dDurationMs": 6300,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yeah",
+      "acAsrConf": 236
+    }, {
+      "utf8": " then",
+      "acAsrConf": 237
+    }, {
+      "utf8": " that",
+      "acAsrConf": 252
+    }, {
+      "utf8": " could",
+      "acAsrConf": 226
+    }, {
+      "utf8": " have",
+      "acAsrConf": 252
+    }, {
+      "utf8": " my new",
+      "acAsrConf": 245
+    }, {
+      "utf8": " cookies\ncome",
+      "acAsrConf": 252
+    }, {
+      "utf8": " out",
+      "acAsrConf": 217
+    }, {
+      "utf8": " in the market",
+      "acAsrConf": 252
+    }, {
+      "utf8": " and",
+      "acAsrConf": 200
+    }, {
+      "utf8": " that",
+      "acAsrConf": 240
+    }, {
+      "utf8": " get",
+      "acAsrConf": 216
+    }, {
+      "utf8": " rich",
+      "acAsrConf": 247
+    } ]
+  }, {
+    "tStartMs": 164430,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and",
+      "acAsrConf": 232
+    }, {
+      "utf8": " the",
+      "acAsrConf": 252
+    }, {
+      "utf8": " subconscious",
+      "acAsrConf": 217
+    }, {
+      "utf8": " mind kicks",
+      "acAsrConf": 252
+    }, {
+      "utf8": " it",
+      "acAsrConf": 241
+    }, {
+      "utf8": " and",
+      "acAsrConf": 255
+    }, {
+      "utf8": "\ngoes",
+      "acAsrConf": 252
+    }, {
+      "utf8": " not",
+      "acAsrConf": 213
+    }, {
+      "utf8": " you",
+      "acAsrConf": 252
+    }, {
+      "utf8": " you",
+      "acAsrConf": 211
+    }, {
+      "utf8": " know the fear kicks in",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 170820,
+    "dDurationMs": 8700,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and",
+      "acAsrConf": 252
+    }, {
+      "utf8": " all",
+      "acAsrConf": 207
+    }, {
+      "utf8": " this",
+      "acAsrConf": 252
+    }, {
+      "utf8": " now",
+      "acAsrConf": 250
+    }, {
+      "utf8": " moment",
+      "acAsrConf": 227
+    }, {
+      "utf8": " that",
+      "acAsrConf": 174
+    }, {
+      "utf8": " fear kicks\nin",
+      "acAsrConf": 252
+    }, {
+      "utf8": " or",
+      "acAsrConf": 218
+    }, {
+      "utf8": " greed",
+      "acAsrConf": 252
+    }, {
+      "utf8": " this",
+      "acAsrConf": 240
+    }, {
+      "utf8": " is",
+      "acAsrConf": 187
+    }, {
+      "utf8": " making",
+      "acAsrConf": 194
+    }, {
+      "utf8": " a",
+      "acAsrConf": 252
+    }, {
+      "utf8": " difference",
+      "acAsrConf": 205
+    } ]
+  }, {
+    "tStartMs": 175800,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the",
+      "acAsrConf": 212
+    }, {
+      "utf8": " brain",
+      "acAsrConf": 252
+    }, {
+      "utf8": " drops",
+      "acAsrConf": 186
+    }, {
+      "utf8": " the",
+      "acAsrConf": 213
+    }, {
+      "utf8": " blood",
+      "acAsrConf": 218
+    }, {
+      "utf8": " drops out goes\nhere",
+      "acAsrConf": 252
+    }, {
+      "utf8": " the",
+      "acAsrConf": 221
+    }, {
+      "utf8": " moment",
+      "acAsrConf": 226
+    }, {
+      "utf8": " the blood drains out of",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 182310,
+    "dDurationMs": 7470,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "here",
+      "acAsrConf": 200
+    }, {
+      "utf8": " from",
+      "acAsrConf": 227
+    }, {
+      "utf8": " the",
+      "acAsrConf": 232
+    }, {
+      "utf8": " two",
+      "acAsrConf": 233
+    }, {
+      "utf8": " things",
+      "acAsrConf": 237
+    }, {
+      "utf8": " called",
+      "acAsrConf": 249
+    }, {
+      "utf8": " the",
+      "acAsrConf": 252
+    }, {
+      "utf8": "\ncarotid",
+      "acAsrConf": 206
+    }, {
+      "utf8": " arteries",
+      "acAsrConf": 227
+    }, {
+      "utf8": " it pulls down",
+      "acAsrConf": 252
+    }, {
+      "utf8": " it",
+      "acAsrConf": 231
+    }, {
+      "utf8": " goes",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 187620,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reptilian",
+      "acAsrConf": 225
+    }, {
+      "utf8": " you turn",
+      "acAsrConf": 252
+    }, {
+      "utf8": " it",
+      "acAsrConf": 239
+    }, {
+      "utf8": " into",
+      "acAsrConf": 252
+    }, {
+      "utf8": " this",
+      "acAsrConf": 126
+    }, {
+      "utf8": " little",
+      "acAsrConf": 201
+    }, {
+      "utf8": "\nreptile",
+      "acAsrConf": 227
+    }, {
+      "utf8": " and",
+      "acAsrConf": 205
+    }, {
+      "utf8": " cannot",
+      "acAsrConf": 252
+    }, {
+      "utf8": " think",
+      "acAsrConf": 206
+    }, {
+      "utf8": " anymore",
+      "acAsrConf": 236
+    }, {
+      "utf8": " so",
+      "acAsrConf": 200
+    } ]
+  }, {
+    "tStartMs": 193880,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's",
+      "acAsrConf": 247
+    }, {
+      "utf8": " for",
+      "acAsrConf": 206
+    }, {
+      "utf8": " the",
+      "acAsrConf": 252
+    }, {
+      "utf8": " last",
+      "acAsrConf": 208
+    }, {
+      "utf8": " 30",
+      "acAsrConf": 224
+    }, {
+      "utf8": " years I've",
+      "acAsrConf": 252
+    }, {
+      "utf8": " been",
+      "acAsrConf": 139
+    }, {
+      "utf8": "\nwatching",
+      "acAsrConf": 214
+    }, {
+      "utf8": " that",
+      "acAsrConf": 126
+    }, {
+      "utf8": " so when",
+      "acAsrConf": 249
+    }, {
+      "utf8": " I",
+      "acAsrConf": 236
+    }, {
+      "utf8": " talk",
+      "acAsrConf": 225
+    }, {
+      "utf8": " to",
+      "acAsrConf": 188
+    }, {
+      "utf8": " certain",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 198150,
+    "dDurationMs": 7589,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people",
+      "acAsrConf": 226
+    }, {
+      "utf8": " no",
+      "acAsrConf": 200
+    }, {
+      "utf8": " mention",
+      "acAsrConf": 213
+    }, {
+      "utf8": " who",
+      "acAsrConf": 239
+    }, {
+      "utf8": " I",
+      "acAsrConf": 252
+    }, {
+      "utf8": " talked",
+      "acAsrConf": 249
+    }, {
+      "utf8": " to",
+      "acAsrConf": 201
+    }, {
+      "utf8": " them",
+      "acAsrConf": 229
+    }, {
+      "utf8": "\nthey",
+      "acAsrConf": 250
+    }, {
+      "utf8": " go",
+      "acAsrConf": 252
+    }, {
+      "utf8": " reptilian",
+      "acAsrConf": 226
+    }, {
+      "utf8": " on",
+      "acAsrConf": 227
+    }, {
+      "utf8": " me so",
+      "acAsrConf": 252
+    }, {
+      "utf8": " fast",
+      "acAsrConf": 202
+    } ]
+  }, {
+    "tStartMs": 201870,
+    "dDurationMs": 10050,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I",
+      "acAsrConf": 252
+    }, {
+      "utf8": " can't",
+      "acAsrConf": 217
+    }, {
+      "utf8": " believe it",
+      "acAsrConf": 252
+    }, {
+      "utf8": " but",
+      "acAsrConf": 203
+    }, {
+      "utf8": " what if I",
+      "acAsrConf": 252
+    }, {
+      "utf8": " fail",
+      "acAsrConf": 166
+    }, {
+      "utf8": " I",
+      "acAsrConf": 236
+    }, {
+      "utf8": "\nmake",
+      "acAsrConf": 255
+    }, {
+      "utf8": " a",
+      "acAsrConf": 252
+    }, {
+      "utf8": " mistake",
+      "acAsrConf": 196
+    }, {
+      "utf8": " you",
+      "acAsrConf": 188
+    }, {
+      "utf8": " know",
+      "acAsrConf": 207
+    }, {
+      "utf8": " it's",
+      "acAsrConf": 226
+    }, {
+      "utf8": " totally",
+      "acAsrConf": 207
+    }, {
+      "utf8": " out",
+      "acAsrConf": 248
+    } ]
+  }, {
+    "tStartMs": 208170,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there",
+      "acAsrConf": 252
+    }, {
+      "utf8": " or",
+      "acAsrConf": 232
+    }, {
+      "utf8": " that's",
+      "acAsrConf": 233
+    }, {
+      "utf8": " fear",
+      "acAsrConf": 227
+    }, {
+      "utf8": " and other ones",
+      "acAsrConf": 232
+    }, {
+      "utf8": "\ngreed",
+      "acAsrConf": 248
+    }, {
+      "utf8": " you",
+      "acAsrConf": 233
+    }, {
+      "utf8": " know",
+      "acAsrConf": 252
+    }, {
+      "utf8": " the",
+      "acAsrConf": 87
+    }, {
+      "utf8": " when the",
+      "acAsrConf": 226
+    }, {
+      "utf8": " real",
+      "acAsrConf": 252
+    }, {
+      "utf8": " estate",
+      "acAsrConf": 146
+    } ]
+  }, {
+    "tStartMs": 214049,
+    "dDurationMs": 7051,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "market",
+      "acAsrConf": 238
+    }, {
+      "utf8": " was",
+      "acAsrConf": 124
+    }, {
+      "utf8": " climbing",
+      "acAsrConf": 252
+    }, {
+      "utf8": " all",
+      "acAsrConf": 204
+    }, {
+      "utf8": " of these",
+      "acAsrConf": 252
+    }, {
+      "utf8": " guys",
+      "acAsrConf": 243
+    }, {
+      "utf8": "\nwho had no business",
+      "acAsrConf": 252
+    }, {
+      "utf8": " in",
+      "acAsrConf": 211
+    }, {
+      "utf8": " real",
+      "acAsrConf": 251
+    }, {
+      "utf8": " estate",
+      "acAsrConf": 187
+    } ]
+  }, {
+    "tStartMs": 217350,
+    "dDurationMs": 9180,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "jumped",
+      "acAsrConf": 236
+    }, {
+      "utf8": " in",
+      "acAsrConf": 252
+    }, {
+      "utf8": " huh",
+      "acAsrConf": 239
+    }, {
+      "utf8": " you",
+      "acAsrConf": 250
+    }, {
+      "utf8": " know",
+      "acAsrConf": 239
+    }, {
+      "utf8": " and",
+      "acAsrConf": 235
+    }, {
+      "utf8": " the market\ncrashes",
+      "acAsrConf": 252
+    }, {
+      "utf8": " yeah",
+      "acAsrConf": 214
+    }, {
+      "utf8": " the",
+      "acAsrConf": 252
+    }, {
+      "utf8": " old",
+      "acAsrConf": 250
+    }, {
+      "utf8": " jump out",
+      "acAsrConf": 252
+    }, {
+      "utf8": " so",
+      "acAsrConf": 224
+    }, {
+      "utf8": " in",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 224610,
+    "dDurationMs": 8490,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "other",
+      "acAsrConf": 252
+    }, {
+      "utf8": " words",
+      "acAsrConf": 201
+    }, {
+      "utf8": " they call reptilian",
+      "acAsrConf": 252
+    }, {
+      "utf8": " doesn't",
+      "acAsrConf": 203
+    }, {
+      "utf8": "\nmake sense again",
+      "acAsrConf": 242
+    }, {
+      "utf8": " I",
+      "acAsrConf": 206
+    }, {
+      "utf8": " call it the lizard",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 228330,
+    "dDurationMs": 10890,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and",
+      "acAsrConf": 130
+    }, {
+      "utf8": " when",
+      "acAsrConf": 0
+    }, {
+      "utf8": " the",
+      "acAsrConf": 252
+    }, {
+      "utf8": " sun's hot the",
+      "acAsrConf": 249
+    }, {
+      "utf8": " cold",
+      "acAsrConf": 241
+    }, {
+      "utf8": " they",
+      "acAsrConf": 216
+    }, {
+      "utf8": "\ngoing",
+      "acAsrConf": 213
+    }, {
+      "utf8": " to",
+      "acAsrConf": 217
+    }, {
+      "utf8": " say",
+      "acAsrConf": 252
+    }, {
+      "utf8": " and",
+      "acAsrConf": 224
+    }, {
+      "utf8": " it",
+      "acAsrConf": 237
+    }, {
+      "utf8": " can't think",
+      "acAsrConf": 252
+    }, {
+      "utf8": " because",
+      "acAsrConf": 237
+    } ]
+  }, {
+    "tStartMs": 236670,
+    "dDurationMs": 9810,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this",
+      "acAsrConf": 243
+    }, {
+      "utf8": " was",
+      "acAsrConf": 252
+    }, {
+      "utf8": " thinking",
+      "acAsrConf": 235
+    }, {
+      "utf8": " that",
+      "acAsrConf": 138
+    }, {
+      "utf8": " make",
+      "acAsrConf": 160
+    }, {
+      "utf8": " sense",
+      "acAsrConf": 240
+    }, {
+      "utf8": " of",
+      "acAsrConf": 219
+    }, {
+      "utf8": "\nguys",
+      "acAsrConf": 236
+    }, {
+      "utf8": " so",
+      "acAsrConf": 205
+    }, {
+      "utf8": " the",
+      "acAsrConf": 255
+    }, {
+      "utf8": " other",
+      "acAsrConf": 252
+    }, {
+      "utf8": " side",
+      "acAsrConf": 227
+    }, {
+      "utf8": " of",
+      "acAsrConf": 252
+    }, {
+      "utf8": " it",
+      "acAsrConf": 228
+    }, {
+      "utf8": " is",
+      "acAsrConf": 158
+    }, {
+      "utf8": " with",
+      "acAsrConf": 246
+    }, {
+      "utf8": " me",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 242640,
+    "dDurationMs": 10530,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personally",
+      "acAsrConf": 252
+    }, {
+      "utf8": " there",
+      "acAsrConf": 134
+    }, {
+      "utf8": " is the",
+      "acAsrConf": 252
+    }, {
+      "utf8": " battle",
+      "acAsrConf": 201
+    }, {
+      "utf8": " between",
+      "acAsrConf": 252
+    }, {
+      "utf8": "\nthe",
+      "acAsrConf": 204
+    }, {
+      "utf8": " fat boy",
+      "acAsrConf": 242
+    }, {
+      "utf8": " and",
+      "acAsrConf": 251
+    }, {
+      "utf8": " the stud",
+      "acAsrConf": 252
+    }, {
+      "utf8": " I",
+      "acAsrConf": 132
+    }, {
+      "utf8": " mean",
+      "acAsrConf": 252
+    }, {
+      "utf8": " every",
+      "acAsrConf": 239
+    } ]
+  }, {
+    "tStartMs": 249510,
+    "dDurationMs": 10680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "single",
+      "acAsrConf": 167
+    }, {
+      "utf8": " morning",
+      "acAsrConf": 207
+    }, {
+      "utf8": " I",
+      "acAsrConf": 219
+    }, {
+      "utf8": " wake up",
+      "acAsrConf": 252
+    }, {
+      "utf8": " and",
+      "acAsrConf": 217
+    }, {
+      "utf8": " the stud\nsays",
+      "acAsrConf": 252
+    }, {
+      "utf8": " okay",
+      "acAsrConf": 209
+    }, {
+      "utf8": " time",
+      "acAsrConf": 235
+    }, {
+      "utf8": " to",
+      "acAsrConf": 252
+    }, {
+      "utf8": " go",
+      "acAsrConf": 207
+    }, {
+      "utf8": " to",
+      "acAsrConf": 252
+    }, {
+      "utf8": " the",
+      "acAsrConf": 200
+    }, {
+      "utf8": " gym",
+      "acAsrConf": 252
+    }, {
+      "utf8": " a",
+      "acAsrConf": 139
+    }, {
+      "utf8": " fat",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 256829,
+    "dDurationMs": 6991,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "boy goes",
+      "acAsrConf": 252
+    }, {
+      "utf8": " NAT",
+      "acAsrConf": 103
+    }, {
+      "utf8": " this",
+      "acAsrConf": 228
+    }, {
+      "utf8": " morning",
+      "acAsrConf": 233
+    }, {
+      "utf8": " I",
+      "acAsrConf": 221
+    }, {
+      "utf8": " don't",
+      "acAsrConf": 218
+    }, {
+      "utf8": " think",
+      "acAsrConf": 203
+    }, {
+      "utf8": "\nso",
+      "acAsrConf": 248
+    }, {
+      "utf8": " you",
+      "acAsrConf": 246
+    }, {
+      "utf8": " know",
+      "acAsrConf": 166
+    }, {
+      "utf8": " I",
+      "acAsrConf": 255
+    }, {
+      "utf8": " think",
+      "acAsrConf": 252
+    }, {
+      "utf8": " I'll",
+      "acAsrConf": 249
+    }, {
+      "utf8": " have a",
+      "acAsrConf": 252
+    }, {
+      "utf8": " little",
+      "acAsrConf": 216
+    } ]
+  }, {
+    "tStartMs": 262260,
+    "dDurationMs": 7350,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "chocolate",
+      "acAsrConf": 252
+    }, {
+      "utf8": " latte",
+      "acAsrConf": 228
+    }, {
+      "utf8": " and",
+      "acAsrConf": 252
+    }, {
+      "utf8": " roll",
+      "acAsrConf": 202
+    }, {
+      "utf8": "\na",
+      "acAsrConf": 240
+    }, {
+      "utf8": " little",
+      "acAsrConf": 247
+    }, {
+      "utf8": " bit",
+      "acAsrConf": 252
+    }, {
+      "utf8": " or",
+      "acAsrConf": 237
+    }, {
+      "utf8": " when",
+      "acAsrConf": 252
+    }, {
+      "utf8": " I",
+      "acAsrConf": 238
+    }, {
+      "utf8": " said",
+      "acAsrConf": 252
+    }, {
+      "utf8": " I'm",
+      "acAsrConf": 227
+    }, {
+      "utf8": " gonna",
+      "acAsrConf": 215
+    }, {
+      "utf8": " be",
+      "acAsrConf": 203
+    } ]
+  }, {
+    "tStartMs": 266730,
+    "dDurationMs": 8610,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "rich",
+      "acAsrConf": 252
+    }, {
+      "utf8": " and",
+      "acAsrConf": 166
+    }, {
+      "utf8": " the",
+      "acAsrConf": 252
+    }, {
+      "utf8": " subconscious",
+      "acAsrConf": 222
+    }, {
+      "utf8": " goes",
+      "acAsrConf": 226
+    }, {
+      "utf8": " not",
+      "acAsrConf": 216
+    }, {
+      "utf8": " you\nyou're a loser",
+      "acAsrConf": 252
+    }, {
+      "utf8": " you",
+      "acAsrConf": 201
+    }, {
+      "utf8": " know",
+      "acAsrConf": 221
+    }, {
+      "utf8": " you",
+      "acAsrConf": 236
+    }, {
+      "utf8": " know",
+      "acAsrConf": 247
+    }, {
+      "utf8": " talking",
+      "acAsrConf": 232
+    } ]
+  }, {
+    "tStartMs": 273030,
+    "dDurationMs": 6570,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about",
+      "acAsrConf": 252
+    }, {
+      "utf8": " yeah",
+      "acAsrConf": 142
+    }, {
+      "utf8": " it's",
+      "acAsrConf": 236
+    }, {
+      "utf8": " the battle it is the\nbattle",
+      "acAsrConf": 252
+    }, {
+      "utf8": " constant",
+      "acAsrConf": 209
+    }, {
+      "utf8": " and",
+      "acAsrConf": 222
+    }, {
+      "utf8": " so the",
+      "acAsrConf": 252
+    }, {
+      "utf8": " battle",
+      "acAsrConf": 202
+    }, {
+      "utf8": " is",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 278520,
+    "dDurationMs": 4500,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "between",
+      "acAsrConf": 133
+    }, {
+      "utf8": " the left",
+      "acAsrConf": 252
+    }, {
+      "utf8": " brain",
+      "acAsrConf": 232
+    }, {
+      "utf8": " and the right\nbrain and",
+      "acAsrConf": 252
+    }, {
+      "utf8": " subconscious",
+      "acAsrConf": 213
+    }, {
+      "utf8": " and",
+      "acAsrConf": 252
+    }, {
+      "utf8": " for",
+      "acAsrConf": 235
+    }, {
+      "utf8": " those",
+      "acAsrConf": 208
+    } ]
+  }, {
+    "tStartMs": 281970,
+    "dDurationMs": 5460,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that",
+      "acAsrConf": 234
+    }, {
+      "utf8": " know",
+      "acAsrConf": 226
+    }, {
+      "utf8": " me",
+      "acAsrConf": 252
+    }, {
+      "utf8": " on",
+      "acAsrConf": 199
+    }, {
+      "utf8": " the",
+      "acAsrConf": 207
+    }, {
+      "utf8": " last",
+      "acAsrConf": 252
+    }, {
+      "utf8": " thirty",
+      "acAsrConf": 0
+    }, {
+      "utf8": " years",
+      "acAsrConf": 252
+    }, {
+      "utf8": "\nthat's",
+      "acAsrConf": 227
+    }, {
+      "utf8": " all",
+      "acAsrConf": 252
+    }, {
+      "utf8": " I've",
+      "acAsrConf": 227
+    }, {
+      "utf8": " been",
+      "acAsrConf": 252
+    }, {
+      "utf8": " talking",
+      "acAsrConf": 165
+    }, {
+      "utf8": " about",
+      "acAsrConf": 252
+    }, {
+      "utf8": " so",
+      "acAsrConf": 227
+    }, {
+      "utf8": " I",
+      "acAsrConf": 243
+    } ]
+  }, {
+    "tStartMs": 284940,
+    "dDurationMs": 7620,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can",
+      "acAsrConf": 201
+    }, {
+      "utf8": " educate",
+      "acAsrConf": 252
+    }, {
+      "utf8": " this",
+      "acAsrConf": 220
+    }, {
+      "utf8": " but",
+      "acAsrConf": 227
+    }, {
+      "utf8": " I",
+      "acAsrConf": 244
+    }, {
+      "utf8": " found",
+      "acAsrConf": 252
+    }, {
+      "utf8": " out",
+      "acAsrConf": 237
+    }, {
+      "utf8": " this",
+      "acAsrConf": 205
+    }, {
+      "utf8": "\nwas",
+      "acAsrConf": 252
+    }, {
+      "utf8": " the",
+      "acAsrConf": 130
+    }, {
+      "utf8": " most",
+      "acAsrConf": 225
+    }, {
+      "utf8": " powerful",
+      "acAsrConf": 252
+    }, {
+      "utf8": " it's",
+      "acAsrConf": 105
+    }, {
+      "utf8": " called",
+      "acAsrConf": 252
+    }, {
+      "utf8": " the",
+      "acAsrConf": 247
+    } ]
+  }, {
+    "tStartMs": 289710,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reaction",
+      "acAsrConf": 252
+    }, {
+      "utf8": " is",
+      "acAsrConf": 187
+    }, {
+      "utf8": " the",
+      "acAsrConf": 216
+    }, {
+      "utf8": " reptilian",
+      "acAsrConf": 252
+    }, {
+      "utf8": " so",
+      "acAsrConf": 214
+    }, {
+      "utf8": " when",
+      "acAsrConf": 252
+    }, {
+      "utf8": " I",
+      "acAsrConf": 247
+    }, {
+      "utf8": " say",
+      "acAsrConf": 252
+    }, {
+      "utf8": "\nI'm",
+      "acAsrConf": 245
+    }, {
+      "utf8": " gonna",
+      "acAsrConf": 252
+    }, {
+      "utf8": " go",
+      "acAsrConf": 238
+    }, {
+      "utf8": " make",
+      "acAsrConf": 217
+    }, {
+      "utf8": " money",
+      "acAsrConf": 216
+    }, {
+      "utf8": " no",
+      "acAsrConf": 243
+    }, {
+      "utf8": " problem",
+      "acAsrConf": 197
+    }, {
+      "utf8": " all",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 295980,
+    "dDurationMs": 7470,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "three brains",
+      "acAsrConf": 252
+    }, {
+      "utf8": " line up",
+      "acAsrConf": 240
+    }, {
+      "utf8": "\nit's",
+      "acAsrConf": 210
+    }, {
+      "utf8": " crystal",
+      "acAsrConf": 236
+    }, {
+      "utf8": " I",
+      "acAsrConf": 165
+    }, {
+      "utf8": " don't",
+      "acAsrConf": 252
+    }, {
+      "utf8": " have",
+      "acAsrConf": 236
+    }, {
+      "utf8": " any fear",
+      "acAsrConf": 252
+    }, {
+      "utf8": " there",
+      "acAsrConf": 239
+    } ]
+  }, {
+    "tStartMs": 301380,
+    "dDurationMs": 5010,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but",
+      "acAsrConf": 230
+    }, {
+      "utf8": " I",
+      "acAsrConf": 249
+    }, {
+      "utf8": " learned",
+      "acAsrConf": 252
+    }, {
+      "utf8": " that",
+      "acAsrConf": 207
+    }, {
+      "utf8": " I",
+      "acAsrConf": 201
+    }, {
+      "utf8": " also learned",
+      "acAsrConf": 252
+    }, {
+      "utf8": " this",
+      "acAsrConf": 236
+    }, {
+      "utf8": "\nin",
+      "acAsrConf": 243
+    }, {
+      "utf8": " Vietnam",
+      "acAsrConf": 251
+    }, {
+      "utf8": " you",
+      "acAsrConf": 186
+    }, {
+      "utf8": " know",
+      "acAsrConf": 227
+    }, {
+      "utf8": " this",
+      "acAsrConf": 255
+    }, {
+      "utf8": " it",
+      "acAsrConf": 250
+    }, {
+      "utf8": " does a",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 304980,
+    "dDurationMs": 7190,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "machine",
+      "acAsrConf": 252
+    }, {
+      "utf8": " gun",
+      "acAsrConf": 186
+    }, {
+      "utf8": " over",
+      "acAsrConf": 252
+    }, {
+      "utf8": " there you",
+      "acAsrConf": 146
+    }, {
+      "utf8": " go",
+      "acAsrConf": 252
+    }, {
+      "utf8": "\nroger-dodger",
+      "acAsrConf": 255
+    }, {
+      "utf8": " you",
+      "acAsrConf": 200
+    }, {
+      "utf8": " know",
+      "acAsrConf": 252
+    }, {
+      "utf8": " he",
+      "acAsrConf": 239
+    }, {
+      "utf8": " goes",
+      "acAsrConf": 251
+    }, {
+      "utf8": " left",
+      "acAsrConf": 223
+    }, {
+      "utf8": " brain",
+      "acAsrConf": 242
+    } ]
+  }, {
+    "tStartMs": 309360,
+    "dDurationMs": 6270,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right",
+      "acAsrConf": 146
+    }, {
+      "utf8": " people",
+      "acAsrConf": 248
+    }, {
+      "utf8": " I'll",
+      "acAsrConf": 216
+    }, {
+      "utf8": " take",
+      "acAsrConf": 246
+    }, {
+      "utf8": " that",
+      "acAsrConf": 237
+    }, {
+      "utf8": " bastard",
+      "acAsrConf": 242
+    }, {
+      "utf8": " oh",
+      "acAsrConf": 200
+    }, {
+      "utf8": "\nit's",
+      "acAsrConf": 203
+    }, {
+      "utf8": " only",
+      "acAsrConf": 252
+    }, {
+      "utf8": " one",
+      "acAsrConf": 216
+    }, {
+      "utf8": " of",
+      "acAsrConf": 252
+    }, {
+      "utf8": " us",
+      "acAsrConf": 149
+    }, {
+      "utf8": " is",
+      "acAsrConf": 201
+    }, {
+      "utf8": " gonna go",
+      "acAsrConf": 252
+    }, {
+      "utf8": " home",
+      "acAsrConf": 179
+    } ]
+  }, {
+    "tStartMs": 314310,
+    "dDurationMs": 6570,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "today",
+      "acAsrConf": 241
+    }, {
+      "utf8": " and",
+      "acAsrConf": 227
+    }, {
+      "utf8": " it's",
+      "acAsrConf": 164
+    }, {
+      "utf8": " gonna",
+      "acAsrConf": 205
+    }, {
+      "utf8": " be me I'm gonna",
+      "acAsrConf": 252
+    }, {
+      "utf8": "\nkill",
+      "acAsrConf": 218
+    }, {
+      "utf8": " them",
+      "acAsrConf": 209
+    }, {
+      "utf8": " well",
+      "acAsrConf": 160
+    }, {
+      "utf8": " you",
+      "acAsrConf": 252
+    }, {
+      "utf8": " talk",
+      "acAsrConf": 228
+    }, {
+      "utf8": " to other",
+      "acAsrConf": 252
+    }, {
+      "utf8": " people",
+      "acAsrConf": 155
+    } ]
+  }, {
+    "tStartMs": 318240,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what",
+      "acAsrConf": 245
+    }, {
+      "utf8": " if",
+      "acAsrConf": 208
+    }, {
+      "utf8": " I",
+      "acAsrConf": 249
+    }, {
+      "utf8": " die",
+      "acAsrConf": 188
+    }, {
+      "utf8": " you",
+      "acAsrConf": 193
+    }, {
+      "utf8": " better",
+      "acAsrConf": 252
+    }, {
+      "utf8": " not",
+      "acAsrConf": 201
+    }, {
+      "utf8": " fly",
+      "acAsrConf": 252
+    }, {
+      "utf8": " with",
+      "acAsrConf": 237
+    }, {
+      "utf8": " me",
+      "acAsrConf": 200
+    }, {
+      "utf8": "\nbecause",
+      "acAsrConf": 217
+    }, {
+      "utf8": " I",
+      "acAsrConf": 249
+    }, {
+      "utf8": " don't",
+      "acAsrConf": 204
+    }, {
+      "utf8": " want you in my",
+      "acAsrConf": 252
+    }, {
+      "utf8": " aircraft",
+      "acAsrConf": 163
+    } ]
+  }, {
+    "tStartMs": 322230,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if",
+      "acAsrConf": 201
+    }, {
+      "utf8": " a person cannot control their\nsubconscious",
+      "acAsrConf": 252
+    }, {
+      "utf8": " mind",
+      "acAsrConf": 201
+    }, {
+      "utf8": " I",
+      "acAsrConf": 188
+    }, {
+      "utf8": " don't",
+      "acAsrConf": 227
+    }, {
+      "utf8": " want them on",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 327570,
+    "dDurationMs": 7260,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "my",
+      "acAsrConf": 206
+    }, {
+      "utf8": " team",
+      "acAsrConf": 106
+    }, {
+      "utf8": " because",
+      "acAsrConf": 218
+    }, {
+      "utf8": " they'll",
+      "acAsrConf": 201
+    }, {
+      "utf8": " panic",
+      "acAsrConf": 252
+    }, {
+      "utf8": " they'll",
+      "acAsrConf": 219
+    }, {
+      "utf8": "\nblow",
+      "acAsrConf": 252
+    }, {
+      "utf8": " it",
+      "acAsrConf": 77
+    }, {
+      "utf8": " they",
+      "acAsrConf": 241
+    }, {
+      "utf8": " won't",
+      "acAsrConf": 252
+    }, {
+      "utf8": " shoot",
+      "acAsrConf": 216
+    }, {
+      "utf8": " when they have",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 332670,
+    "dDurationMs": 5970,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to",
+      "acAsrConf": 252
+    }, {
+      "utf8": " shoot",
+      "acAsrConf": 223
+    }, {
+      "utf8": " they'll",
+      "acAsrConf": 197
+    }, {
+      "utf8": " run",
+      "acAsrConf": 236
+    }, {
+      "utf8": " when",
+      "acAsrConf": 252
+    }, {
+      "utf8": " they",
+      "acAsrConf": 200
+    }, {
+      "utf8": " should",
+      "acAsrConf": 252
+    }, {
+      "utf8": " be",
+      "acAsrConf": 200
+    }, {
+      "utf8": "\ngoing",
+      "acAsrConf": 236
+    }, {
+      "utf8": " forward",
+      "acAsrConf": 206
+    }, {
+      "utf8": " that",
+      "acAsrConf": 185
+    }, {
+      "utf8": " you",
+      "acAsrConf": 163
+    }, {
+      "utf8": " know the",
+      "acAsrConf": 252
+    }, {
+      "utf8": " backup",
+      "acAsrConf": 147
+    } ]
+  }, {
+    "tStartMs": 336900,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and",
+      "acAsrConf": 216
+    }, {
+      "utf8": " things like",
+      "acAsrConf": 252
+    }, {
+      "utf8": " this",
+      "acAsrConf": 224
+    }, {
+      "utf8": " so",
+      "acAsrConf": 147
+    }, {
+      "utf8": " these",
+      "acAsrConf": 111
+    }, {
+      "utf8": " are the\nwhole thing",
+      "acAsrConf": 252
+    }, {
+      "utf8": " say",
+      "acAsrConf": 0
+    }, {
+      "utf8": " in",
+      "acAsrConf": 252
+    }, {
+      "utf8": " the",
+      "acAsrConf": 216
+    }, {
+      "utf8": " battle",
+      "acAsrConf": 103
+    }, {
+      "utf8": " of",
+      "acAsrConf": 207
+    }, {
+      "utf8": " the",
+      "acAsrConf": 217
+    } ]
+  }, {
+    "tStartMs": 340350,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "human mind",
+      "acAsrConf": 252
+    }, {
+      "utf8": " it's",
+      "acAsrConf": 221
+    }, {
+      "utf8": " all",
+      "acAsrConf": 252
+    }, {
+      "utf8": " inside",
+      "acAsrConf": 232
+    }, {
+      "utf8": " of",
+      "acAsrConf": 205
+    }, {
+      "utf8": " here",
+      "acAsrConf": 187
+    }, {
+      "utf8": "\nthat's",
+      "acAsrConf": 197
+    }, {
+      "utf8": " best",
+      "acAsrConf": 252
+    }, {
+      "utf8": " I",
+      "acAsrConf": 207
+    }, {
+      "utf8": " can",
+      "acAsrConf": 200
+    }, {
+      "utf8": " see",
+      "acAsrConf": 246
+    }, {
+      "utf8": " so",
+      "acAsrConf": 244
+    }, {
+      "utf8": " making",
+      "acAsrConf": 227
+    }, {
+      "utf8": " money",
+      "acAsrConf": 245
+    }, {
+      "utf8": " is",
+      "acAsrConf": 249
+    } ]
+  }, {
+    "tStartMs": 346200,
+    "dDurationMs": 8580,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not",
+      "acAsrConf": 207
+    }, {
+      "utf8": " an issue",
+      "acAsrConf": 252
+    }, {
+      "utf8": " you",
+      "acAsrConf": 101
+    }, {
+      "utf8": " know",
+      "acAsrConf": 99
+    }, {
+      "utf8": " going",
+      "acAsrConf": 252
+    }, {
+      "utf8": " to",
+      "acAsrConf": 233
+    }, {
+      "utf8": " the",
+      "acAsrConf": 207
+    }, {
+      "utf8": " gym",
+      "acAsrConf": 252
+    }, {
+      "utf8": "\nbig",
+      "acAsrConf": 223
+    }, {
+      "utf8": " issue",
+      "acAsrConf": 252
+    }, {
+      "utf8": " eating",
+      "acAsrConf": 215
+    }, {
+      "utf8": " is an issue for",
+      "acAsrConf": 252
+    }, {
+      "utf8": " me",
+      "acAsrConf": 201
+    }, {
+      "utf8": " I'm",
+      "acAsrConf": 188
+    } ]
+  }, {
+    "tStartMs": 351900,
+    "dDurationMs": 11160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not",
+      "acAsrConf": 252
+    }, {
+      "utf8": " addicted",
+      "acAsrConf": 196
+    }, {
+      "utf8": " to",
+      "acAsrConf": 213
+    }, {
+      "utf8": " a",
+      "acAsrConf": 180
+    }, {
+      "utf8": " mace",
+      "acAsrConf": 105
+    }, {
+      "utf8": " of",
+      "acAsrConf": 243
+    }, {
+      "utf8": " smoke",
+      "acAsrConf": 170
+    }, {
+      "utf8": " for",
+      "acAsrConf": 231
+    }, {
+      "utf8": " two",
+      "acAsrConf": 204
+    }, {
+      "utf8": "\nyears",
+      "acAsrConf": 252
+    }, {
+      "utf8": " when",
+      "acAsrConf": 214
+    }, {
+      "utf8": " it's",
+      "acAsrConf": 204
+    }, {
+      "utf8": " not",
+      "acAsrConf": 209
+    }, {
+      "utf8": " gonna",
+      "acAsrConf": 206
+    }, {
+      "utf8": " smoke",
+      "acAsrConf": 252
+    }, {
+      "utf8": " stop",
+      "acAsrConf": 217
+    }, {
+      "utf8": " I",
+      "acAsrConf": 144
+    } ]
+  }, {
+    "tStartMs": 358790,
+    "dDurationMs": 11370,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "drink",
+      "acAsrConf": 252
+    }, {
+      "utf8": " a",
+      "acAsrConf": 242
+    }, {
+      "utf8": " lot",
+      "acAsrConf": 252
+    }, {
+      "utf8": " I",
+      "acAsrConf": 244
+    }, {
+      "utf8": " can",
+      "acAsrConf": 248
+    }, {
+      "utf8": " stop",
+      "acAsrConf": 238
+    }, {
+      "utf8": " I",
+      "acAsrConf": 227
+    }, {
+      "utf8": " like coffee",
+      "acAsrConf": 252
+    }, {
+      "utf8": "\nI",
+      "acAsrConf": 73
+    }, {
+      "utf8": " can",
+      "acAsrConf": 252
+    }, {
+      "utf8": " stop",
+      "acAsrConf": 249
+    }, {
+      "utf8": " all this",
+      "acAsrConf": 252
+    }, {
+      "utf8": " but",
+      "acAsrConf": 235
+    }, {
+      "utf8": " the",
+      "acAsrConf": 197
+    }, {
+      "utf8": " one",
+      "acAsrConf": 236
+    }, {
+      "utf8": " thing",
+      "acAsrConf": 244
+    }, {
+      "utf8": " is",
+      "acAsrConf": 249
+    } ]
+  }, {
+    "tStartMs": 366960,
+    "dDurationMs": 3200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I",
+      "acAsrConf": 255
+    }, {
+      "utf8": " go",
+      "acAsrConf": 252
+    }, {
+      "utf8": " pass",
+      "acAsrConf": 72
+    }, {
+      "utf8": " a",
+      "acAsrConf": 202
+    }, {
+      "utf8": " Chinese",
+      "acAsrConf": 203
+    }, {
+      "utf8": " restaurant",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 376310,
+    "dDurationMs": 7540,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know I'd be driving",
+      "acAsrConf": 252
+    }, {
+      "utf8": " past",
+      "acAsrConf": 207
+    }, {
+      "utf8": " the",
+      "acAsrConf": 226
+    }, {
+      "utf8": "\nImperial",
+      "acAsrConf": 210
+    }, {
+      "utf8": " Peking",
+      "acAsrConf": 255
+    }, {
+      "utf8": " Chinese",
+      "acAsrConf": 252
+    }, {
+      "utf8": " cafe",
+      "acAsrConf": 226
+    }, {
+      "utf8": " and",
+      "acAsrConf": 255
+    }, {
+      "utf8": " finally",
+      "acAsrConf": 85
+    } ]
+  }, {
+    "tStartMs": 382080,
+    "dDurationMs": 11399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the",
+      "acAsrConf": 211
+    }, {
+      "utf8": " car",
+      "acAsrConf": 252
+    }, {
+      "utf8": " would",
+      "acAsrConf": 227
+    }, {
+      "utf8": " turn",
+      "acAsrConf": 249
+    }, {
+      "utf8": " right",
+      "acAsrConf": 216
+    }, {
+      "utf8": " and",
+      "acAsrConf": 241
+    }, {
+      "utf8": " I'd",
+      "acAsrConf": 148
+    }, {
+      "utf8": " be",
+      "acAsrConf": 215
+    }, {
+      "utf8": " in",
+      "acAsrConf": 252
+    }, {
+      "utf8": "\nthere",
+      "acAsrConf": 248
+    }, {
+      "utf8": " an",
+      "acAsrConf": 227
+    }, {
+      "utf8": " hour",
+      "acAsrConf": 241
+    }, {
+      "utf8": " and",
+      "acAsrConf": 212
+    }, {
+      "utf8": " my",
+      "acAsrConf": 239
+    }, {
+      "utf8": " left",
+      "acAsrConf": 242
+    }, {
+      "utf8": " brain",
+      "acAsrConf": 252
+    }, {
+      "utf8": " we're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 386910,
+    "dDurationMs": 11700,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going",
+      "acAsrConf": 207
+    }, {
+      "utf8": " don't",
+      "acAsrConf": 241
+    }, {
+      "utf8": " make",
+      "acAsrConf": 206
+    }, {
+      "utf8": " sense",
+      "acAsrConf": 242
+    }, {
+      "utf8": " of",
+      "acAsrConf": 240
+    }, {
+      "utf8": " guys",
+      "acAsrConf": 252
+    }, {
+      "utf8": " here",
+      "acAsrConf": 238
+    }, {
+      "utf8": " so",
+      "acAsrConf": 231
+    }, {
+      "utf8": "\nthe",
+      "acAsrConf": 252
+    }, {
+      "utf8": " discussion",
+      "acAsrConf": 220
+    }, {
+      "utf8": " today",
+      "acAsrConf": 187
+    }, {
+      "utf8": " is can somebody be",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 395850,
+    "dDurationMs": 7379,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "addicted",
+      "acAsrConf": 255
+    }, {
+      "utf8": " to",
+      "acAsrConf": 165
+    }, {
+      "utf8": " being",
+      "acAsrConf": 252
+    }, {
+      "utf8": " poor",
+      "acAsrConf": 226
+    }, {
+      "utf8": " and",
+      "acAsrConf": 248
+    }, {
+      "utf8": " I",
+      "acAsrConf": 213
+    }, {
+      "utf8": " think",
+      "acAsrConf": 236
+    }, {
+      "utf8": " it's",
+      "acAsrConf": 252
+    }, {
+      "utf8": "\npossible",
+      "acAsrConf": 208
+    }, {
+      "utf8": " and",
+      "acAsrConf": 186
+    }, {
+      "utf8": " I",
+      "acAsrConf": 241
+    }, {
+      "utf8": " don't",
+      "acAsrConf": 255
+    }, {
+      "utf8": " know",
+      "acAsrConf": 219
+    }, {
+      "utf8": " what it is",
+      "acAsrConf": 252
+    }, {
+      "utf8": " and",
+      "acAsrConf": 156
+    } ]
+  }, {
+    "tStartMs": 401220,
+    "dDurationMs": 7050,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can",
+      "acAsrConf": 226
+    }, {
+      "utf8": " somebody be addicted to",
+      "acAsrConf": 252
+    }, {
+      "utf8": " being",
+      "acAsrConf": 204
+    }, {
+      "utf8": "\npoverty",
+      "acAsrConf": 242
+    }, {
+      "utf8": " absolutely",
+      "acAsrConf": 241
+    }, {
+      "utf8": " you",
+      "acAsrConf": 205
+    }, {
+      "utf8": " know can't",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 406470,
+    "dDurationMs": 6330,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "somebody be addicted to",
+      "acAsrConf": 252
+    }, {
+      "utf8": " being",
+      "acAsrConf": 201
+    }, {
+      "utf8": " an",
+      "acAsrConf": 224
+    }, {
+      "utf8": "\nemployee",
+      "acAsrConf": 252
+    }, {
+      "utf8": " even",
+      "acAsrConf": 171
+    }, {
+      "utf8": " though they hate",
+      "acAsrConf": 252
+    }, {
+      "utf8": " their",
+      "acAsrConf": 236
+    }, {
+      "utf8": " job",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 409889,
+    "dDurationMs": 6900,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I",
+      "acAsrConf": 166
+    }, {
+      "utf8": " think",
+      "acAsrConf": 252
+    }, {
+      "utf8": " possibly",
+      "acAsrConf": 185
+    }, {
+      "utf8": " that",
+      "acAsrConf": 217
+    }, {
+      "utf8": " makes",
+      "acAsrConf": 85
+    }, {
+      "utf8": " sense",
+      "acAsrConf": 252
+    }, {
+      "utf8": " guys",
+      "acAsrConf": 216
+    }, {
+      "utf8": "\nhere",
+      "acAsrConf": 233
+    }, {
+      "utf8": " this",
+      "acAsrConf": 240
+    }, {
+      "utf8": " is",
+      "acAsrConf": 252
+    }, {
+      "utf8": " different",
+      "acAsrConf": 242
+    }, {
+      "utf8": " kind",
+      "acAsrConf": 249
+    }, {
+      "utf8": " of",
+      "acAsrConf": 252
+    }, {
+      "utf8": " addiction",
+      "acAsrConf": 236
+    } ]
+  }, {
+    "tStartMs": 414780,
+    "dDurationMs": 7770,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so",
+      "acAsrConf": 250
+    }, {
+      "utf8": " it's really",
+      "acAsrConf": 252
+    }, {
+      "utf8": " about",
+      "acAsrConf": 167
+    }, {
+      "utf8": " the",
+      "acAsrConf": 202
+    }, {
+      "utf8": " battle",
+      "acAsrConf": 252
+    }, {
+      "utf8": " between",
+      "acAsrConf": 187
+    }, {
+      "utf8": "\nall of us",
+      "acAsrConf": 252
+    }, {
+      "utf8": " and",
+      "acAsrConf": 212
+    }, {
+      "utf8": " the way",
+      "acAsrConf": 252
+    }, {
+      "utf8": " I",
+      "acAsrConf": 244
+    }, {
+      "utf8": " decided",
+      "acAsrConf": 252
+    }, {
+      "utf8": " I",
+      "acAsrConf": 228
+    }, {
+      "utf8": " could",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 419580,
+    "dDurationMs": 7530,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "win",
+      "acAsrConf": 252
+    }, {
+      "utf8": " in",
+      "acAsrConf": 236
+    }, {
+      "utf8": " the real",
+      "acAsrConf": 252
+    }, {
+      "utf8": " world",
+      "acAsrConf": 231
+    }, {
+      "utf8": " since",
+      "acAsrConf": 232
+    }, {
+      "utf8": " I",
+      "acAsrConf": 250
+    }, {
+      "utf8": " couldn't\nrent",
+      "acAsrConf": 252
+    }, {
+      "utf8": " win",
+      "acAsrConf": 216
+    }, {
+      "utf8": " here I would never",
+      "acAsrConf": 252
+    }, {
+      "utf8": " win",
+      "acAsrConf": 200
+    }, {
+      "utf8": " in",
+      "acAsrConf": 228
+    }, {
+      "utf8": " the",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 424560,
+    "dDurationMs": 6389,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "classroom",
+      "acAsrConf": 236
+    }, {
+      "utf8": " here",
+      "acAsrConf": 252
+    }, {
+      "utf8": " never",
+      "acAsrConf": 221
+    }, {
+      "utf8": " there",
+      "acAsrConf": 205
+    }, {
+      "utf8": " is",
+      "acAsrConf": 213
+    }, {
+      "utf8": " not",
+      "acAsrConf": 249
+    }, {
+      "utf8": " a",
+      "acAsrConf": 252
+    }, {
+      "utf8": "\nclass",
+      "acAsrConf": 236
+    }, {
+      "utf8": " I",
+      "acAsrConf": 227
+    }, {
+      "utf8": " would",
+      "acAsrConf": 252
+    }, {
+      "utf8": " win",
+      "acAsrConf": 201
+    }, {
+      "utf8": " it",
+      "acAsrConf": 252
+    }, {
+      "utf8": " because",
+      "acAsrConf": 209
+    }, {
+      "utf8": " I",
+      "acAsrConf": 252
+    }, {
+      "utf8": " don't",
+      "acAsrConf": 200
+    } ]
+  }, {
+    "tStartMs": 428760,
+    "dDurationMs": 6689,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "read and",
+      "acAsrConf": 252
+    }, {
+      "utf8": " I'll",
+      "acAsrConf": 219
+    }, {
+      "utf8": " write",
+      "acAsrConf": 248
+    }, {
+      "utf8": " terrible",
+      "acAsrConf": 235
+    }, {
+      "utf8": " I",
+      "acAsrConf": 166
+    }, {
+      "utf8": " mean",
+      "acAsrConf": 252
+    }, {
+      "utf8": " I",
+      "acAsrConf": 69
+    }, {
+      "utf8": "\nread very",
+      "acAsrConf": 252
+    }, {
+      "utf8": " slowly",
+      "acAsrConf": 206
+    }, {
+      "utf8": " and",
+      "acAsrConf": 202
+    }, {
+      "utf8": " I",
+      "acAsrConf": 231
+    }, {
+      "utf8": " like",
+      "acAsrConf": 235
+    }, {
+      "utf8": " to",
+      "acAsrConf": 236
+    }, {
+      "utf8": " cheat",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 433889,
+    "dDurationMs": 8191,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's",
+      "acAsrConf": 229
+    }, {
+      "utf8": " called",
+      "acAsrConf": 252
+    }, {
+      "utf8": " a",
+      "acAsrConf": 59
+    }, {
+      "utf8": " discus",
+      "acAsrConf": 106
+    }, {
+      "utf8": " but",
+      "acAsrConf": 239
+    }, {
+      "utf8": " you're not",
+      "acAsrConf": 252
+    }, {
+      "utf8": "\nallowed",
+      "acAsrConf": 199
+    }, {
+      "utf8": " to",
+      "acAsrConf": 158
+    }, {
+      "utf8": " do that",
+      "acAsrConf": 252
+    }, {
+      "utf8": " in",
+      "acAsrConf": 158
+    }, {
+      "utf8": " school",
+      "acAsrConf": 252
+    }, {
+      "utf8": " but",
+      "acAsrConf": 227
+    }, {
+      "utf8": " I'm",
+      "acAsrConf": 248
+    } ]
+  }, {
+    "tStartMs": 438270,
+    "dDurationMs": 8220,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "very",
+      "acAsrConf": 248
+    }, {
+      "utf8": " creative",
+      "acAsrConf": 234
+    }, {
+      "utf8": " I",
+      "acAsrConf": 165
+    }, {
+      "utf8": " like to draw",
+      "acAsrConf": 252
+    }, {
+      "utf8": " paint",
+      "acAsrConf": 206
+    }, {
+      "utf8": " you",
+      "acAsrConf": 231
+    }, {
+      "utf8": "\nknow",
+      "acAsrConf": 252
+    }, {
+      "utf8": " I",
+      "acAsrConf": 249
+    }, {
+      "utf8": " do play the",
+      "acAsrConf": 252
+    }, {
+      "utf8": " ukulele",
+      "acAsrConf": 227
+    }, {
+      "utf8": " know",
+      "acAsrConf": 167
+    }, {
+      "utf8": " but this",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 445260,
+    "dDurationMs": 8600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is",
+      "acAsrConf": 165
+    }, {
+      "utf8": " my",
+      "acAsrConf": 252
+    }, {
+      "utf8": " strongest",
+      "acAsrConf": 154
+    }, {
+      "utf8": " one",
+      "acAsrConf": 247
+    }, {
+      "utf8": "\nit is my",
+      "acAsrConf": 252
+    }, {
+      "utf8": " in",
+      "acAsrConf": 234
+    }, {
+      "utf8": " draw",
+      "acAsrConf": 223
+    }, {
+      "utf8": " personal",
+      "acAsrConf": 238
+    }, {
+      "utf8": " skill",
+      "acAsrConf": 242
+    }, {
+      "utf8": " is",
+      "acAsrConf": 245
+    }, {
+      "utf8": " a",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 450750,
+    "dDurationMs": 9419,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "handling",
+      "acAsrConf": 252
+    }, {
+      "utf8": " of",
+      "acAsrConf": 227
+    }, {
+      "utf8": " fear",
+      "acAsrConf": 252
+    }, {
+      "utf8": " and",
+      "acAsrConf": 249
+    }, {
+      "utf8": " a",
+      "acAsrConf": 235
+    }, {
+      "utf8": " handling",
+      "acAsrConf": 252
+    }, {
+      "utf8": " of",
+      "acAsrConf": 219
+    }, {
+      "utf8": " greed",
+      "acAsrConf": 252
+    }, {
+      "utf8": "\nthat",
+      "acAsrConf": 162
+    }, {
+      "utf8": " is what",
+      "acAsrConf": 252
+    }, {
+      "utf8": " makes",
+      "acAsrConf": 244
+    }, {
+      "utf8": " me",
+      "acAsrConf": 226
+    }, {
+      "utf8": " an",
+      "acAsrConf": 239
+    }, {
+      "utf8": " entrepreneur",
+      "acAsrConf": 232
+    }, {
+      "utf8": " I",
+      "acAsrConf": 165
+    } ]
+  }, {
+    "tStartMs": 456840,
+    "dDurationMs": 9150,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can",
+      "acAsrConf": 252
+    }, {
+      "utf8": " handle",
+      "acAsrConf": 227
+    }, {
+      "utf8": " that",
+      "acAsrConf": 252
+    }, {
+      "utf8": " yeah",
+      "acAsrConf": 243
+    }, {
+      "utf8": " when",
+      "acAsrConf": 252
+    }, {
+      "utf8": " when",
+      "acAsrConf": 247
+    }, {
+      "utf8": " things",
+      "acAsrConf": 252
+    }, {
+      "utf8": "\nget",
+      "acAsrConf": 238
+    }, {
+      "utf8": " frightening",
+      "acAsrConf": 252
+    }, {
+      "utf8": " I",
+      "acAsrConf": 0
+    }, {
+      "utf8": " just",
+      "acAsrConf": 251
+    }, {
+      "utf8": " turn",
+      "acAsrConf": 239
+    }, {
+      "utf8": " it",
+      "acAsrConf": 255
+    }, {
+      "utf8": " around",
+      "acAsrConf": 216
+    } ]
+  }, {
+    "tStartMs": 463050,
+    "dDurationMs": 7140,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "crank it",
+      "acAsrConf": 252
+    }, {
+      "utf8": " up",
+      "acAsrConf": 207
+    }, {
+      "utf8": " okay",
+      "acAsrConf": 213
+    }, {
+      "utf8": " when",
+      "acAsrConf": 252
+    }, {
+      "utf8": " the",
+      "acAsrConf": 213
+    }, {
+      "utf8": " economy is",
+      "acAsrConf": 249
+    }, {
+      "utf8": " bad",
+      "acAsrConf": 159
+    }, {
+      "utf8": "\nthat's",
+      "acAsrConf": 219
+    }, {
+      "utf8": " a",
+      "acAsrConf": 201
+    }, {
+      "utf8": " yes",
+      "acAsrConf": 242
+    }, {
+      "utf8": " baby",
+      "acAsrConf": 241
+    }, {
+      "utf8": " I'm",
+      "acAsrConf": 186
+    }, {
+      "utf8": " gonna",
+      "acAsrConf": 252
+    }, {
+      "utf8": " kick",
+      "acAsrConf": 238
+    }, {
+      "utf8": " butt",
+      "acAsrConf": 226
+    } ]
+  }, {
+    "tStartMs": 467970,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "now",
+      "acAsrConf": 243
+    }, {
+      "utf8": " the",
+      "acAsrConf": 202
+    }, {
+      "utf8": " reason",
+      "acAsrConf": 252
+    }, {
+      "utf8": " I'm",
+      "acAsrConf": 255
+    }, {
+      "utf8": " gonna",
+      "acAsrConf": 252
+    }, {
+      "utf8": " kick",
+      "acAsrConf": 223
+    }, {
+      "utf8": " butt is",
+      "acAsrConf": 252
+    }, {
+      "utf8": "\ncuz",
+      "acAsrConf": 241
+    }, {
+      "utf8": " these",
+      "acAsrConf": 218
+    }, {
+      "utf8": " guys",
+      "acAsrConf": 158
+    }, {
+      "utf8": " have",
+      "acAsrConf": 244
+    }, {
+      "utf8": " lost",
+      "acAsrConf": 207
+    }, {
+      "utf8": " their",
+      "acAsrConf": 252
+    }, {
+      "utf8": " nerve",
+      "acAsrConf": 207
+    } ]
+  }, {
+    "tStartMs": 472400,
+    "dDurationMs": 8980,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that",
+      "acAsrConf": 240
+    }, {
+      "utf8": " make",
+      "acAsrConf": 163
+    }, {
+      "utf8": " sense",
+      "acAsrConf": 200
+    }, {
+      "utf8": " so",
+      "acAsrConf": 72
+    }, {
+      "utf8": " right",
+      "acAsrConf": 0
+    }, {
+      "utf8": " now",
+      "acAsrConf": 252
+    }, {
+      "utf8": " as",
+      "acAsrConf": 236
+    }, {
+      "utf8": " the",
+      "acAsrConf": 252
+    }, {
+      "utf8": "\neconomy",
+      "acAsrConf": 241
+    }, {
+      "utf8": " starts to",
+      "acAsrConf": 252
+    }, {
+      "utf8": " go",
+      "acAsrConf": 224
+    }, {
+      "utf8": " into",
+      "acAsrConf": 216
+    }, {
+      "utf8": " a",
+      "acAsrConf": 252
+    }, {
+      "utf8": " recession",
+      "acAsrConf": 200
+    } ]
+  }, {
+    "tStartMs": 479070,
+    "dDurationMs": 7260,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people",
+      "acAsrConf": 173
+    }, {
+      "utf8": " are",
+      "acAsrConf": 252
+    }, {
+      "utf8": " starting",
+      "acAsrConf": 237
+    }, {
+      "utf8": " to",
+      "acAsrConf": 252
+    }, {
+      "utf8": " panic",
+      "acAsrConf": 199
+    }, {
+      "utf8": " this",
+      "acAsrConf": 200
+    }, {
+      "utf8": " is",
+      "acAsrConf": 163
+    }, {
+      "utf8": " the",
+      "acAsrConf": 142
+    }, {
+      "utf8": "\ntime to",
+      "acAsrConf": 252
+    }, {
+      "utf8": " get",
+      "acAsrConf": 202
+    }, {
+      "utf8": " rich",
+      "acAsrConf": 252
+    }, {
+      "utf8": " but",
+      "acAsrConf": 235
+    }, {
+      "utf8": " when",
+      "acAsrConf": 252
+    }, {
+      "utf8": " I",
+      "acAsrConf": 243
+    }, {
+      "utf8": " talk",
+      "acAsrConf": 227
+    }, {
+      "utf8": " to",
+      "acAsrConf": 231
+    }, {
+      "utf8": " most",
+      "acAsrConf": 144
+    } ]
+  }, {
+    "tStartMs": 483660,
+    "dDurationMs": 9330,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people",
+      "acAsrConf": 252
+    }, {
+      "utf8": " about",
+      "acAsrConf": 194
+    }, {
+      "utf8": " a",
+      "acAsrConf": 248
+    }, {
+      "utf8": " declining",
+      "acAsrConf": 252
+    }, {
+      "utf8": " economy",
+      "acAsrConf": 204
+    }, {
+      "utf8": " you",
+      "acAsrConf": 200
+    }, {
+      "utf8": "\nknow",
+      "acAsrConf": 252
+    }, {
+      "utf8": " they",
+      "acAsrConf": 151
+    }, {
+      "utf8": " and",
+      "acAsrConf": 233
+    }, {
+      "utf8": " it can't think anymore",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 490139,
+    "dDurationMs": 6991,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they go",
+      "acAsrConf": 252
+    }, {
+      "utf8": " reptilian am",
+      "acAsrConf": 248
+    }, {
+      "utf8": " I",
+      "acAsrConf": 200
+    }, {
+      "utf8": " making",
+      "acAsrConf": 252
+    }, {
+      "utf8": " sense",
+      "acAsrConf": 216
+    }, {
+      "utf8": " here",
+      "acAsrConf": 228
+    }, {
+      "utf8": "\nso the way",
+      "acAsrConf": 252
+    }, {
+      "utf8": " to",
+      "acAsrConf": 208
+    }, {
+      "utf8": " when in",
+      "acAsrConf": 252
+    }, {
+      "utf8": " the",
+      "acAsrConf": 206
+    }, {
+      "utf8": " world is",
+      "acAsrConf": 227
+    } ]
+  }, {
+    "tStartMs": 495660,
+    "dDurationMs": 7340,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "buying this",
+      "acAsrConf": 252
+    }, {
+      "utf8": " the",
+      "acAsrConf": 228
+    }, {
+      "utf8": " book coming out",
+      "acAsrConf": 252
+    }, {
+      "utf8": " next",
+      "acAsrConf": 145
+    }, {
+      "utf8": "\nspring",
+      "acAsrConf": 252
+    }, {
+      "utf8": " in",
+      "acAsrConf": 219
+    }, {
+      "utf8": " 2008",
+      "acAsrConf": 252
+    }, {
+      "utf8": " is",
+      "acAsrConf": 241
+    }, {
+      "utf8": " you",
+      "acAsrConf": 252
+    }, {
+      "utf8": " get",
+      "acAsrConf": 242
+    }, {
+      "utf8": " your",
+      "acAsrConf": 214
+    }, {
+      "utf8": " financial",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 500400,
+    "dDurationMs": 6129,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "IQ",
+      "acAsrConf": 202
+    }, {
+      "utf8": " up",
+      "acAsrConf": 251
+    }, {
+      "utf8": " you",
+      "acAsrConf": 237
+    }, {
+      "utf8": " need",
+      "acAsrConf": 228
+    }, {
+      "utf8": " three",
+      "acAsrConf": 237
+    }, {
+      "utf8": " parts your brain\n[Music]",
+      "acAsrConf": 252
+    } ]
+  }, {
+    "tStartMs": 516620,
+    "dDurationMs": 2060,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you",
+      "acAsrConf": 239
+    } ]
+  }, {
+    "tStartMs": 520070,
+    "dDurationMs": 5858,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[Music]"
+    } ]
+  } ]
+}
