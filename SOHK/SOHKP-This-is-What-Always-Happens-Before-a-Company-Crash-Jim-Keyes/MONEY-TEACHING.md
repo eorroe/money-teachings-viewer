@@ -41,7 +41,7 @@ In a corporate environment where 90% of people are coasting, the ones who rise a
 
 ### Step 7: Practice Radical Optimism as a Leader
 
-A CEO's emotional state sets the ceiling for the entire organization. If you stand in front of your team and say, "I don't feel good about what's going on," they will reflect that anxiety. If you face a crisis with radical optimism — "We are going to be all right, and here is how we are handling it" — the team will follow. This is not blind positivity. It is the belief that problems are solvable and that the organization has the capacity to solve them. Without it, startups die and divisions get shut down.
+A CEO's emotional state sets the ceiling for the entire organization. If you stand in front of your team and express uncertainty or anxiety about the situation, they will reflect that anxiety. If you face a crisis with radical optimism — "We are going to be all right, and here is how we are handling it" — the team will follow. This is not blind positivity. It is the belief that problems are solvable and that the organization has the capacity to solve them. Without it, startups die and divisions get shut down.
 
 ### Step 8: Understand That No Company Is Too Big to Fail
 
