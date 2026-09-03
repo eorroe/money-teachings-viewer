@@ -14,7 +14,7 @@ This money teaching distills the wisdom of Peter Tuchman, the longest-standing t
 
 ## Steps
 
-### Step 1: Separate Your P&L From Your Client's P&L
+### Step 1: Separate Your Profit and Loss (P&L) From Your Client's P&L
 
 If your profit and loss is tied to the same portfolio you are trading for clients, you will make emotional decisions. Structure your finances so that your personal wealth is not directly affected by daily market moves. Your only job is to execute correctly for the client; the market's direction is not your responsibility.
 

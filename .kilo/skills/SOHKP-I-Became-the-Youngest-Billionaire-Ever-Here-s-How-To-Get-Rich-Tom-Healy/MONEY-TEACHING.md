@@ -66,7 +66,7 @@ The founder hired a teammate with a similar background to handle growth and digi
 - Taking on capital means taking on risk and commitment to deliver results
 - Non-dilutive capital significantly reduces ownership erosion early on
 - The best time to raise money is when you don't need it
-- A convertible note or SAFE can delay valuation discussions until you have more leverage
+- A convertible note or Simple Agreement for Future Equity (SAFE) can delay valuation discussions until you have more leverage
 
 ## Security & Safety Notes
 

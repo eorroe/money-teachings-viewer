@@ -34,7 +34,7 @@ Solid Core refused to open a new market unless it could open five studios within
 
 ### Step 5: Use Momentum to Build Unstoppable Flywheels
 
-Once the flywheel started, Anne opened 32 locations in one year. Work backward from the goal: determine how many leases, LOIs, and permits you need, then frontload the critical path. Move faster than competitors by starting drawings and permit processes before leases are signed.
+Once the flywheel started, Anne opened 32 locations in one year. Work backward from the goal: determine how many leases, Letters of Intent (LOIs), and permits you need, then frontload the critical path. Move faster than competitors by starting drawings and permit processes before leases are signed.
 
 ## Examples
 

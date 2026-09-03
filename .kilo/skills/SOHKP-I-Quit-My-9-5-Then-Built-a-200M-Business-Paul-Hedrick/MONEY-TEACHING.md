@@ -65,7 +65,7 @@ Paul made his first $100,000 in sales before hiring anyone. He sold boots out of
 
 - Direct-to-consumer is a channel, not a business model. Brands win through connection, not distribution alone
 - A great product gets you in the game; a great brand keeps you there
-- The fundamentals of business do not change: P&L is P&L
+- The fundamentals of business do not change: Profit and Loss (P&L) is P&L
 - Markets go down and up; what never changes is a fundamentally healthy business
 
 ## Security & Safety Notes
@@ -86,5 +86,5 @@ Paul made his first $100,000 in sales before hiring anyone. He sold boots out of
 - **Problem:** Trying to do everything yourself
   **Solution:** Hire specialists and make yourself redundant in every area except vision
 
-- **Problem:** Ignoring the fundamentals of P&L and unit economics
+- **Problem:** Ignoring the fundamentals of Profit and Loss (P&L) and unit economics
   **Solution:** Understand your numbers cold before you talk to any investor
