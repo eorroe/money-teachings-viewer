@@ -27,7 +27,7 @@ Necessity is a more powerful catalyst than preparation. Many successful entrepre
 
 ### Step 3: Treat Entrepreneurship as a Muscle That Wakes Up Under Pressure
 
-Entrepreneurial ability is not an innate trait reserved for a select few. It is a response that activates when necessity demands it — similar to how the body finds hidden strength in an emergency. Schools teach in a way that dulls this instinct by rewarding compliance and individual performance on exams. Real business, by contrast, requires the same adaptive urgency that surfaces when survival is at stake. Reframe entrepreneurship not as a talent but as a capacity that awakens when the need is real enough.
+Entrepreneurial ability is not an innate trait reserved for an exclusive group. It is a response that activates when necessity demands it — similar to how the body finds hidden strength in an emergency. Schools teach in a way that dulls this instinct by rewarding compliance and individual performance on exams. Real business, by contrast, requires the same adaptive urgency that surfaces when survival is at stake. Reframe entrepreneurship not as a talent but as a capacity that awakens when the need is real enough.
 
 ### Step 4: Convert Failure Into Compounding Learning
 
@@ -51,7 +51,7 @@ Success is never a solo pursuit. Academic environments reward individual perform
 
 ### Step 9: Prioritize Follow-Through Over Idea Generation
 
-Most people generate ideas but very few execute on them when results are delayed. The differentiator between those who build wealth and those who remain stagnant is not the quality of their ideas — it is their willingness to continue when progress is invisible. Set a standard for yourself: commit to a minimum period of consistent execution before evaluating whether to continue or pivot. Quitting early is the most common and most costly mistake.
+Most people generate ideas but most people do not execute on them when results are delayed. The differentiator between those who build wealth and those who remain stagnant is not the quality of their ideas — it is their willingness to continue when progress is invisible. Set a standard for yourself: commit to a minimum period of consistent execution before evaluating whether to continue or pivot. Quitting early is the most common and most costly mistake.
 
 ### Step 10: Take Action Before You Feel Prepared to Plan
 
@@ -82,7 +82,7 @@ A first business failed because the founder did not account for seasonal demand 
 - ❌ Do not wait for motivation to act — let necessity drive your decisions
 - ❌ Do not over-plan as a substitute for starting
 - ❌ Do not believe that wealth eliminates the need for ongoing work and decision-making
-- ❌ Do not attempt to build significant wealth alone — collaboration is non-negotiable at scale
+- ❌ Do not attempt to build wealth alone — collaboration is non-negotiable at scale
 - ❌ Do not let a single failure define the limits of what you can build next
 
 ## Keep In Mind
@@ -97,7 +97,7 @@ A first business failed because the founder did not account for seasonal demand 
 ## Security & Safety Notes
 
 - This content is educational and based on publicly available video material; it does not constitute personalized financial advice
-- Always conduct independent research before making significant financial or business decisions
+- Always conduct independent research before making financial or business decisions
 - Consider consulting a qualified financial advisor for guidance tailored to your specific circumstances
 - Never allocate capital to a venture that would cause catastrophic harm to your wellbeing or obligations if it fails
 - Be cautious of content that promises wealth without sustained effort — consistent execution, not inspiration, drives results
@@ -116,7 +116,7 @@ A first business failed because the founder did not account for seasonal demand 
 - **Problem:** Attempting to build and scale a business entirely alone
   **Solution:** Actively recruit and invest in a team early; delegate outcomes and build systems that others can operate
 
-- **Problem:** Believing that reaching a certain income level eliminates the need for ongoing work
+- **Problem:** Believing that hitting a target income level eliminates the need for ongoing work
   **Solution:** Maintain the discipline of continuous execution regardless of current financial status; wealth maintenance is an active skill
 
 - **Problem:** Using detailed planning as an excuse to delay starting

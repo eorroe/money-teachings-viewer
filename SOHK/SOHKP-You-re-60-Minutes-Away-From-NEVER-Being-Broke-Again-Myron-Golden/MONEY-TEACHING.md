@@ -38,15 +38,15 @@ You become the average of the people you spend the most time with. If you want t
 
 ### Step 6: Prioritize Focus Over Balance in Your Early Seasons
 
-Focus and balance are not simultaneous states — they are opposite seasons. Young entrepreneurs and those in rapid growth phases should prioritize extreme focus on a single offer, skill, or channel rather than trying to maintain balance across every area of life. This does not mean neglecting health or relationships indefinitely, but it does mean accepting that breakthrough seasons require asymmetry. Spread your energy across too many priorities and you will spread your results thin; concentrate your energy and momentum builds faster.
+Focus and balance are not simultaneous states — they are opposite seasons. Young entrepreneurs and those in rapid growth phases should prioritize extreme focus on a single offer, skill, or channel rather than trying to maintain balance across every area of life. This does not mean neglecting health or relationships indefinitely, but it does mean accepting that breakthrough seasons require asymmetry. Spread your energy across every area of life and you will spread your results thin; concentrate your energy and momentum builds faster.
 
 ### Step 7: Practice Gratitude to Shift Your Perspective
 
-All good things are gifts, and recognizing this changes how you relate to money, opportunity, and success. Gratitude is not merely a mindset exercise — it is a strategic tool that reduces scarcity thinking and opens you to abundance. When you acknowledge that control is an illusion and that many factors outside your hands have contributed to your wins, you become less anxious about outcomes and more capable of taking intelligent risks. Gratitude also makes you more enjoyable to work with, which strengthens the relationships that drive business growth.
+All good things are gifts, and recognizing this changes how you relate to money, opportunity, and success. Gratitude is not merely a mindset exercise — it is a strategic tool that reduces scarcity thinking and opens you to abundance. When you acknowledge that control is an illusion and that factors outside your hands have contributed to your wins, you become less anxious about outcomes and more capable of taking intelligent risks. Gratitude also makes you more enjoyable to work with, which strengthens the relationships that drive business growth.
 
 ### Step 8: Use Content Creation as a Business Tool, Not Just an Audience Game
 
-You do not need a massive audience to build a real business. Even a channel with nine thousand engaged subscribers can generate significant revenue if the content is tied directly to a clear offer. Content should serve as a demonstration of expertise, a trust-building mechanism, and a lead-generation system — not just a popularity contest. Create content that answers specific questions, solves specific problems, and naturally leads viewers to the next step in your funnel. Quality of attention matters more than quantity.
+You do not need a massive audience to build a real business. Even a channel with nine thousand engaged subscribers can generate revenue if the content is tied directly to a clear offer. Content should serve as a demonstration of expertise, a trust-building mechanism, and a lead-generation system — not just a popularity contest. Create content that answers specific questions, solves specific problems, and naturally leads viewers to the next step in your funnel. Quality of attention matters more than quantity.
 
 ### Step 9: Price Based on Value, Not Cost
 
@@ -64,11 +64,11 @@ A freelance graphic designer was earning six figures but working sixty-hour week
 
 ### Example 2: The Small Creator Who Built a Real Business
 
-A fitness coach started a YouTube channel and reached nine thousand subscribers in eighteen months. Although the channel was not large enough for significant ad revenue, they used the content to demonstrate expertise and build trust. They launched a low-ticket workout guide tied to a higher-ticket coaching program. Within six months, the channel generated more revenue per month than most creators with one hundred thousand subscribers, because every piece of content was designed to lead to a specific offer rather than to maximize views.
+A fitness coach started a YouTube channel and reached nine thousand subscribers in eighteen months. Although the channel was not large enough for ad revenue, they used the content to demonstrate expertise and build trust. They launched a low-ticket workout guide tied to a higher-ticket coaching program. Within six months, the channel generated more revenue per month than most creators with one hundred thousand subscribers, because every piece of content was designed to lead to a specific offer rather than to maximize views.
 
 ### Example 3: The Entrepreneur Who Refused to Let Circumstances Define Them
 
-An entrepreneur grew up in a neighborhood with limited economic opportunity and attended a school where few students went to college. Instead of adopting the narrative that their zip code determined their outcome, they studied the patterns of wealthy individuals in their industry, sought out a mentor who had overcome a similar background, and rebuilt their identity around growth and contribution. Within five years, they built a company that employed people from their original community, proving that environment influences but does not dictate identity.
+An entrepreneur grew up in a neighborhood with limited economic opportunity and attended a school where students went to college. Instead of adopting the narrative that their zip code determined their outcome, they studied the patterns of wealthy individuals in their industry, sought out a mentor who had overcome a similar background, and rebuilt their identity around growth and contribution. Within five years, they built a company that employed people from their original community, proving that environment influences but does not dictate identity.
 
 ## Best Practices
 
@@ -108,7 +108,7 @@ An entrepreneur grew up in a neighborhood with limited economic opportunity and 
 - When seeking mentorship, verify that the person has real, trackable results in the area you want to grow
 - Be cautious of offers or programs that promise wealth without offering a clear, understandable path to results
 - Protect your personal data and financial information when sharing details online or with new business contacts
-- Consult qualified professionals before making significant financial, legal, or tax decisions
+- Consult qualified professionals before making major financial, legal, or tax decisions
 
 ## Common Pitfalls
 
@@ -127,5 +127,5 @@ An entrepreneur grew up in a neighborhood with limited economic opportunity and 
 - **Problem:** Competing on price because you are uncertain about the value of your offer
   **Solution:** Clarify the specific outcomes your customer receives, document results, and communicate transformation before ever quoting a price
 
-- **Problem:** Spreading attention across too many projects, offers, or platforms simultaneously
+- **Problem:** Spreading attention across projects, offers, or platforms simultaneously
   **Solution:** Choose one primary channel or offer to dominate, protect it ruthlessly, and expand only after it is proven and systematized

@@ -9,7 +9,7 @@ This money teaching distills the leadership and life principles demonstrated by 
 - When building a career or business from a place of adversity or disadvantage
 - When seeking to create systemic change rather than merely treating symptoms
 - When managing a large team, budget, or organization and need to delegate effectively
-- When developing emotional intelligence and people skills as a competitive advantage
+- When developing emotional intelligence and people skills as an advantage in leadership and influence
 - When facing pressure at scale and need systems to maintain clarity and performance
 - When the user asks about resilience, leadership, dyslexia, or turning hardship into purpose
 
