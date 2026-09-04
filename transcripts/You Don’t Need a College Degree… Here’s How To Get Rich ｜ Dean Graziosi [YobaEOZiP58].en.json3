@@ -1,0 +1,6356 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 80,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what's going on everybody and welcome\nback to the School of Hard Knocks",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2960,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podcast I'm James and I'm here with my\nbrother Jack and we've got a very",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 6399,
+    "dDurationMs": 8001,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "special guest for you guys today we were\nout in Scottdale Arizona with business",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 11080,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Legend Dean graziosi who's you know ran\nand operated over 13 businesses done",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 16320,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "over a billion dollars of business\nthroughout his career we're super happy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 19359,
+    "dDurationMs": 4321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to be out here in Scottdale with you\ntoday good to be here with you guys man",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 22199,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for those who are tuning in right now\nmaybe they haven't seen you before could",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 25199,
+    "dDurationMs": 3601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you give a little bit of a background on\nyourself how you got to where you are",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 27519,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "today just to let them know you know who\nwe're talking to right now yeah you know",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 30880,
+    "dDurationMs": 6839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I I I will end in a frame of reference\nthat allows you to see that um my story",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 36399,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is only going to be shared I'll do it\nquick to see wherever you are struggling",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 40960,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "been trying not hitting it you got a\nlittle momentum but not sure if you can",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 45120,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "go to the next stuck or on fire I've\nbeen at every one of those phases and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 49920,
+    "dDurationMs": 6119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "before I get started I just want to\ncommend you guys you to 23 and 21 23 and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 54480,
+    "dDurationMs": 4559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "21 you guys are doing amazing things and\nwhat I what's really great about what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 57800,
+    "dDurationMs": 4200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're doing is not only you bringing\nentrepreneurs to the world world so they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 60440,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "could see through the lens when I was a\nkid when I was your age there was no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 63359,
+    "dDurationMs": 5521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "internet so you didn't have this access\nwhere did you do it you had to read",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 66720,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "books or hopefully find an old video\nfrom Earl Nightingale or something right",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 70640,
+    "dDurationMs": 5799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so it's so cool because there's so much\ninformation online there's so much",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 75200,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people say we're in the information age\nwe're in the overwhelm of Information",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 78880,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Age people are overwhelmed with\ninformation but they're starving for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 83040,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wisdom and I love what you guys are\ndoing because you get to interview",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 86240,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people whove had success and they open\nup to you and they share the road and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 89240,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "other people get to see hey it's not\nquick it's not easy I might fall down",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 93399,
+    "dDurationMs": 5961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but simultaneously it's freaking worth\nit and to be at your age and do this and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 96759,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and I hope and I know you are I hope\nthese interviews I know you want to get",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 100880,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "views and I I want you to keep growing\nand I want your business to grow but I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 104360,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hope you really understand the power of\nwhat you guys have you you have what I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 108520,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "believe is one of the greatest gifts\nthat exist today is the fastest way and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 113520,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you should hear this the fastest way to\ngain success in your life is to model",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 117240,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proven practices and you are getting\nproven practices every time you guys do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 121960,
+    "dDurationMs": 5519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "an interview and I hope you're really\nstopping like on your plane ride home",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 125600,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's like what is another Common Thread\nthat I shared that the past guy and the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 129599,
+    "dDurationMs": 5881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "person before that or the girl before\nthat there's common threads Jim ran an",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 133640,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "old school personal development guy used\nto say success leaves Clues you guys",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 138800,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have the opportunity to get Clues every\nday others are watching your interviews",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 142080,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're here when the camera goes off\nyou're still asking questions be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 145080,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "obsessed with that because what you'll\nrealize the more you inter what you guys",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 148560,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "will realize at home\nsuccess isn't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 152440,
+    "dDurationMs": 6519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "magical there is a formula for it and\nyou're going to see that Common Thread",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 157200,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's those that are willing to stay in\nthe game long enough to fail forward to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 161840,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not look for Pie in the Sky not look to\nget rich for doing nothing not look for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 165239,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the hack not make their first 10 grand\nand go buy a $10,000 watch like there",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 170080,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "are subtle little shifts that you'll see\nin successful people that'll say I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 175640,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "promise there'll be a day if it's not\nalready happened where you go oh my god",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 178280,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there it is like it's right there and um\nso it's really awesome what you're doing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 182920,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for for me listen I'll go quick as a kid\nI watched my Mom struggle my parents",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 188040,
+    "dDurationMs": 5759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "split when I was three I watched my mom\nwork three jobs to make",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 191080,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nothing and watching her come home every\nnight at 9:00 at night tired with her",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 195440,
+    "dDurationMs": 7359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hands she cut hair she painted houses\nand she cleaned houses and uh and uh my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 201519,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dad's a great guy and I'm dear friends\nwith him now but at the time he didn't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 203920,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "help my mom so she had to pay for\neverything and watching her come home",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 208200,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "exhausted and pass out on the couch as\none of the most amazing women on the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 211760,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "planet I remember being 12 13 I don't\nknow we all have our story and something",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 215640,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just snapped me I'm like money would\nsolve this like money would I don't care",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 220120,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when people say money doesn't solve\nproblems BS money solves problems when",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 224760,
+    "dDurationMs": 5759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people say that I also\nsay if you don't think money solves",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 228480,
+    "dDurationMs": 5679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "problems you haven't given enough away\nright I I've been blessed to provide 30",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 232159,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "million meals through feeding America we\nwere able to help 30 million meals of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 235840,
+    "dDurationMs": 5759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "somebody that was hungry that night\nwe've helped save thousands of people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 239319,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "from SL slavy we've built churches in\nAfrica and I'm not bragging I'm just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 243079,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "saying don't tell me that doesn't solve\na problem",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 247120,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right so money can solve problems and I\nremember at 13 14 years old just going",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 252720,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "or maybe maybe I was 10 I don't know\njust going I'm fixing this like I don't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 256919,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know how I I wasn't the smartest kid I\nhad dyslexia school was rough for me I I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 261639,
+    "dDurationMs": 5641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "barely got out of 12th grade I didn't\neven think of going to college it wasn't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 265000,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "even on my radar but being successful\nwas um and on that journey journey some",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 270880,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of the things you learn and and I'm\nhoping you can resonate you don't have",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 274800,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to have a horrific past to be successful\nso please know that I'm telling my story",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 279440,
+    "dDurationMs": 5319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if you're just driven I don't care if\nyou have the perfect parents my my kids",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 283240,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I believe were raising them in such a\nbeautiful state they've never wanted for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 286479,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "anything I I hope they still have that\nsame drive so it doesn't I'm just teing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 290160,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sharing my story I also know that I got\nsome momentum in a car business I had a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 295600,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "collision shop I had Auto Sales I ended\nup buying some tow trucks I had",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 298560,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Apartments I that buying raw land and\nflipping houses and then something",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 303280,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "shifted for me just for me I bought Tony\nRobbins course 27 years ago was called",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 308160,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personal power and I listened to it it\njust freaked my mind out I realized that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 314039,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all the things that happened wrong in my\nlife were actually meant for me so I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 316919,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "could be stronger I realized I could\nfocus on Solutions I could change my own",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 320880,
+    "dDurationMs": 5759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "story I could change my state of mind I\ncould enhance my confidence all this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 324639,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cool stuff and I was like this is\neverything like I wanted everybody to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 328319,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "see this right in fact I bought 10\ndifferent courses and sent them to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 332039,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everybody in my family and everybody I\ncared about and not one person listened",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 335120,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to them they should have yeah I I wanted\nto ask you right you know somebody",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 340400,
+    "dDurationMs": 3720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they're coming out of school you know\nmaybe they don't come from a family that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 343080,
+    "dDurationMs": 4200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "has a lot of money they don't have those\nmentors one of the most important",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 345440,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decisions that somebody will make is\nultimately choosing that right",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 348400,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "money-making vehic who they follow and\nwho they follow right and but that right",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 351680,
+    "dDurationMs": 4200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "money-making vehicle in the sense of\nlike we talked about earlier that you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 354360,
+    "dDurationMs": 3800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "got to be rowing the the correct boat\nbecause you can be the hardest worker in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 357039,
+    "dDurationMs": 4081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the room but if you're in the wrong\nindustry for you you're you're going to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 360000,
+    "dDurationMs": 4199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're not really going to go anywhere\nwhere you need to be so any advice to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 362919,
+    "dDurationMs": 3881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "someone they're trying to find that\nNiche for them they're trying to find",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 365759,
+    "dDurationMs": 4321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know what their hearts calling them\nto do but still being in the same",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 368280,
+    "dDurationMs": 4919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vehicle so kind of finding that balance\nI totally get it so I'll just end that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 371919,
+    "dDurationMs": 4280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really quick by saying when I bought\nTony's course not only did it shift my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 374720,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "life it made me realize I want to go in\nhis industry I want to sell information",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 378880,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I want to find a way to create proven\npractices for other people to and I was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 382479,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "doing well in real estate so I created\ncourses on real estate and things like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 385199,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that and along that journey I just want\nto say wherever you are I know what it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 390080,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like to want to get ahead to do more and\nI also know what it's like to look in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 394479,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the mirror and go what if we never do it\nlike what if I never get wealthy what if",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 398160,
+    "dDurationMs": 5159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I never take care of my family what if I\ndon't retire my mom or whatever your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 400880,
+    "dDurationMs": 6039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dreams are man that could be such a\npunch in the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 404560,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gut but I'm I'm blessed enough that I\nstayed in it long enough to realize what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 408440,
+    "dDurationMs": 4479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the other side was where I got momentum\nwhere I called my mom and said you never",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 411479,
+    "dDurationMs": 4280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have to work a day again in your life\nwhere I called my mom and said hey",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 414000,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there's a new car getting delivered few\nyears later I called my mom and said hey",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 417599,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "take go over to this house it's yours\nthe keys are getting mail to you I I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 420840,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know those feelings so I know the\ndesperation where to start is this real",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 425240,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can I really make this happen and I know\nwhat it feels on the other side and and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 429039,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I'm just saying I just want to share to\neverybody I've been in all those",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 432520,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emotions and it's possible for every\nsingle person watching but you're going",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 436520,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to probably think it's going to happen\nquicker than you think you're going to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 439599,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "be frustrated when it doesn't and what\nif all of that is meant to be so now",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 443240,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "let's get to your question is and\nsometimes we're in the wrong",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 447560,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "boat with the wrong people rowing in the\nwrong direction and we wonder why we're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 452319,
+    "dDurationMs": 5521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not getting where we want to go and I\nwould just say if you're someone",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 456280,
+    "dDurationMs": 4919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "determined to be an entrepreneur\ndetermined to do your own thing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 458919,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "determined to make more money you might\nas well pick something now that Sparks",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 463160,
+    "dDurationMs": 4280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "some interest in your life because I\npromise you if you just pick for the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 465639,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "money there'll be a time you'll bail on\nit it won't fill your heart you you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 469240,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "might not feel in alignment with God or\nyour maker like you might as well if",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 472759,
+    "dDurationMs": 4521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're going all in because it takes a\nlot of work to be successful you boys",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 475520,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know it you're watching it you interview\nyou're doing it yourself it takes a lot",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 478639,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of work so if you're going to put the\nwork in if you're going to miss hanging",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 481919,
+    "dDurationMs": 3960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "out with your friends and when you be\nget married and have kids you're going",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 484639,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to miss dance recital and you're going\nto miss you know baseball games if",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 487720,
+    "dDurationMs": 5199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're going to miss it for a season it\nbetter be something that lights up your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 490800,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "heart lights up your soul but\nsimultaneously has no glass ceiling and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 495080,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you got to pick that you got to pick the\nright vehicle yeah we had interviewed a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 499479,
+    "dDurationMs": 5521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gentleman he basically told us that uh\nwe we'd ask are there are there",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 503280,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "shortcuts to success and he said yes\nthere is he said it's mentorship and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 506800,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when we talked with you earlier he's\n100% right we talked with you earlier",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 509800,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and you said uh one of the key pieces of\ngetting to where you want to go is you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 513080,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "need to go find someone that's doing\nwhat you're doing right that you want to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 515959,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do and go follow them attach yourself be\nan apprentice but there could be some",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 519640,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people out there that they don't they\ndon't know how can I go and provide",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 522760,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "value for this person how can I uh you\nknow work for maybe it's working for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 526839,
+    "dDurationMs": 4801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "free maybe it's just the working for low\npay or or just building something for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 530680,
+    "dDurationMs": 3839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "him and bringing them to him and say\nhere I don't want anything for it just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 532839,
+    "dDurationMs": 5641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "take it what would be your advice to\nthat you know young person out there or",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 536000,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "anybody that wants to go be attached to\nthat mentor and they they just need that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 539959,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "extra step to be able to make that\nhappen uh I have no connection to this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 543160,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "book I don't get in F pay read the book\nMastery um I just had my daughter who's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 547399,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to be 18 years old read it and it\nexplains that whole model I'll give you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 551959,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "an example my daughter's going to be 18\nshe's going in 12th grade today's her",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 555040,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "last day of 11th grade I can't believe\nmy daughter's is her last year since she",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 559760,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was little what I told her is you have\ntwo choices after school if you want to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 562880,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "go to college I'll support you get good\ngrades if that's what you want I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 567160,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personally think in today's world unless\nyou pick certain things I think it's a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 569839,
+    "dDurationMs": 7081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "waste of time just say it like it is\nschools teach you general knowledge 78%",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 575560,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of everybody who gets a degree doesn't\nuse it 57% of the people who get a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 579800,
+    "dDurationMs": 6279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "degree and get the job in the degree\nhate the job they're in so it's about",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 583560,
+    "dDurationMs": 7959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "12% of people who get a degree use it\nand like it 12% right schools have you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 589839,
+    "dDurationMs": 5281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know endowments and and they have they\nhave a schools big schools with a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 593200,
+    "dDurationMs": 6759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "billion dollars in their coffers have\nbecome hedge funds that they happen to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 596720,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "teach a little and and so\nso let me share what I really feel right",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 602399,
+    "dDurationMs": 5641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "um and I'm not saying that's all schools\nand all teachers but I gave my daughter",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 606279,
+    "dDurationMs": 5721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the choice and I I don't talk to her\nlike that but I said if you want to go",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 609040,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to school but if not what you have to do\nis you have to find something you're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 613760,
+    "dDurationMs": 5079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "passionate about or you think you could\nto investigate and then you're going to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 617240,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "go Mentor under someone you're going to\nbe an apprentice and this is what I told",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 620800,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "her and I'll tell this to anybody\nwatching find somebody who's doing what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 623800,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you want to do and go tell them you'll\nwork for them for free or a minimal",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 628200,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "amount if you can if it's possible you\ngo to college most times you're not",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 631480,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "working and become the most become the\nsponge become the greatest employee",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 635959,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they've ever had make it so they can't\nlive without you and what you get to do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 639760,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is condense decades into days if you\nread the book Mass if you read any of it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 644079,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "back in in in 2,000 3,000 years ago\nthat's how everything was structured it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 649600,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was all Apprentice people would give up\nsix seven years of their life to work",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 652519,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "under somebody who was a printer a\npainter Leonard Da Vinci all of them had",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 656279,
+    "dDurationMs": 7281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apprentices that learned underneath them\nso what I would is how do you do it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 661399,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "today literally no no exaggeration while\nwe're here my daughter had interest in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 665680,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "being interior designer she loves\nfashion and she loves the way houses are",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 669680,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decorated whenever there's an open house\nshe wants to go see it see how it's laid",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 672440,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "out so I had her do the research and\nfind three of the top interior designers",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 677440,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "here in Scottsdale Arizona she had a\nphone call with one of them today she's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 681800,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "meeting them for coffee tomorrow and I\nsaid you go there and sell yourself and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 685040,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "say I will be the best intern you've\never had over this summer for free if I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 689639,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "could come work for you so that's that's\nthe approach I gave and and all of them",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 694200,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "responded because she she dm'd them in\nthat way saying hey I'd like to be the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 697720,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "best employee you have for free but I\nwould love to learn your craft I see",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 700760,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're the best at what you do whatever\nit takes if it's buying a course if it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 704959,
+    "dDurationMs": 4921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to an event if it's getting in a\ncommunity if it's being a part of a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 708200,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "coaching program if it's finding a\nmentor if it's working for free that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 712440,
+    "dDurationMs": 9199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "will crunch time that will that will\nchange time yeah that's my advice viice",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 719440,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on that yeah and and mentorship is a\ncrucial component of self-improvement in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 723519,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that personal development along with\nthat you know you can read all the books",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 726600,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "listen to all the podcast take all the\ncourses and information can change",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 729959,
+    "dDurationMs": 4841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "situations but It ultimately comes down\nto the implementation of that ab and a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 733360,
+    "dDurationMs": 4839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lot of entrepreneurs they're Paralyzed\nby inaction so when somebody they're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 737000,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "starting to get in the right rooms with\npeople they're starting to learn from",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 739240,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "great people you know get that knowledge\nin them any advice when it comes to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 742920,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actually executing and carrying out\ntaking the action like what are some of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 745720,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "those steps that you're like okay you're\nyou're with the right people and and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 749240,
+    "dDurationMs": 5399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're you're filled with the right\ninformation the right vehicle like and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 752720,
+    "dDurationMs": 5559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's it's time to start taking action at\nat what point is it time so this goes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 756279,
+    "dDurationMs": 10201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "down this goes down a slippery slope in\na good way I think of it as you have to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 761639,
+    "dDurationMs": 8681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "go Upstream meaning um you have to find\nthe reason that would cause you not to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 768639,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "take the inaction when people aren't\ntaking action a lot of times they think",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 772079,
+    "dDurationMs": 6681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I'm a procrastinator I need a time\nmanagement program it's not true you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 776120,
+    "dDurationMs": 7399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "need a bigger purpose if something is\npurpose driven you guys it's great you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 780680,
+    "dDurationMs": 9440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have a connection if your brother had an\nissue and someone said if your brother",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 786720,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "said hey your brother is in New Mexico\nhe's dying for a cup of coffee could you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 792839,
+    "dDurationMs": 4881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bring him one right now but you can't\nhave a car you just got to get there",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 796440,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like I'm not bringing my brother a cup\nof coffee there's no purpose but if",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 799079,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "someone said hey your brother's in New\nMexico and something happened and he",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 803000,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "needs your kidney and you got to get\nthere right now to save his life but you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 806920,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "don't have a car I bet you would run out\nof this room right now literally because",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 812320,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it would be a strong enough purpose\nthose that succeed have a purpose that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 816600,
+    "dDurationMs": 6679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "outweighs fear it\noutweighs uh it outweighs impostor",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 821199,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "syndrome it outweighs feeling like\nyou'll be judged by your peers and your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 825240,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "friends so foundationally people come to\nme go I need a time management program I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 829560,
+    "dDurationMs": 5079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I need to stop being a procrastinator\nI'm like no you don't you need a big",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 832959,
+    "dDurationMs": 5641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "enough why you need a big enough purpose\nthat nothing gets in your damn way and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 836800,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "then you must take the actions that are\nuncomfortable where I see people get",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 840639,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stuck is they do all the stuff they like\nI get to post these cool videos I get oh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 845040,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but I don't like marketing I don't know\nif I want to make a sales page I don't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 848519,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like they find these certain areas that\naren't attractive to them and they put",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 852360,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "them off rather than saying I need to\nface that fear that demon that thing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 856480,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I've been putting off because that on\nthe other side of that is my next level",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 859240,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of success but you don't have the\nstamina to do that unless you have a big",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 862560,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "enough purpose my brother wants a cup of\ncoffee ah maybe tomorrow I'll go my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 866320,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "brother needs something for me or else\nhe might not live",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 869759,
+    "dDurationMs": 5961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I'll Sprint to New Mexico I'll get a\nride I'll steal a car I'll borrow money",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 873920,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like that you got to think through that\nlens to be successful you got to be so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 878360,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Innovative so creative so persistent\nthat if something gets in your way you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 881880,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "get over it if there's glass you crawl\nthrough it if there's steel you bend it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 886120,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you melt it you tunnel under it and you\ndon't do that with just saying I want to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 889920,
+    "dDurationMs": 5359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "be rich you need something deeper right\nyou got to be and and sometimes you got",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 893920,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to run away from the dark side if you\ndidn't like your childhood think of a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 896680,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "shitty childhood every day of your life\nand say this is going to be my whole",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 900160,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "life unless something changes right or\nthinking about taking care I had my mom",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 904680,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "as my first Muse once I took care of her\nthen I found another one now my biggest",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 908839,
+    "dDurationMs": 7641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "purpose is for me my biggest purpose is\nto leave this world better than I found",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 914000,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it be a good dad be a good husband and\nhave the choice to do what I want when I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 917959,
+    "dDurationMs": 4601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want to do it that's enough for me to\nget up every morning I wake up at four",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 920800,
+    "dDurationMs": 7399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "o'clock every morning on fire just\nbecause I've been able to replace what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 924839,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "my big purpose is year after year yeah a\na big common trend with a lot of the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 929880,
+    "dDurationMs": 3959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people that we interview is they talk\nabout risk taking especially when it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 932480,
+    "dDurationMs": 5479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comes to entrepreneurship you have to\nhave certain tolerance to risk and um",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 936800,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there's a lot of people that watch our\nChannel that I think they get to a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 940240,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "certain point in their career and they\nget to a point where maybe they don't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 943600,
+    "dDurationMs": 3640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "kind of like you mentioned earlier they\nget the degree and then they go into a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 945959,
+    "dDurationMs": 4281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "job that they don't like and they spend\n10 years in that job and they're just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 948480,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like what what was the point what is\nit's almost like a sun cost um but they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 953000,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they don't want to take that risk they\nit's comfortable they get the paycheck",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 955920,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "every week how can maybe people increase\ntheir risk tolerance or get more",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 959720,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comfortable with risk is that possible\ncan people jump into entrepreneurship or",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 963199,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "or into that career path that they want\neven though they spent 10 20 years doing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 966319,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "something that might not be\nfulfilling yes so let's let's think",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 971560,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because the fear of failure right fear\nof losing fear of some of your money",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 974560,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "come out of your bank account fear of of\nyour peers looking at you like you're a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 977959,
+    "dDurationMs": 7761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fool because you gave up a job they wish\nthey had right think of all those things",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 982680,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so as you're listening right now you\nmight not have a pen and paper in front",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 987120,
+    "dDurationMs": 5639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of you so think of this in your head\nthink of the fact if that's you right if",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 991079,
+    "dDurationMs": 5521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Jack just described\nyou like yeah I'm in an unfulfilled",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 994920,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "career or I've mastered this career I'm\nbored it's time to live into my full",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 998880,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "potential I know I'm meant for more time\nto do something feelings most people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1001959,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have right and then I want you to think\nabout you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1005920,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "try and the thing you're afraid of I\nwant you to rate it on a scale the 1 to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1010560,
+    "dDurationMs": 5079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "10 think about this in your head like\neven for you boys if you want to think",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1013639,
+    "dDurationMs": 5481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about it right you rate it on what if\nwhat if I try this thing what if I try",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1017199,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "my next level Community I try this Next\nLevel product I try I try a coaching",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1020880,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "program what if I go to sell it and\nnobody buys it what if they're like oh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1024039,
+    "dDurationMs": 5121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "my God this guy was just a YouTuber now\nthey're going to sales page oh my God",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1027480,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's that's messed up guys no more\nfree stuff you guys are idiots you think",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1030919,
+    "dDurationMs": 5721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about all that stuff right I'm sure you\nboth think about those exact things I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1033799,
+    "dDurationMs": 7321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "see the smile on your face\nright rate that rate if you did your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1039559,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "first I'm gonna ask you guys then rate\nyour first sales page goes out you do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1042559,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your first launch of a product and you\ngo on you start reading comments and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1045559,
+    "dDurationMs": 5201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they say sell out freaking guy just want\nour freaking money no wonder you brought",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1049640,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all this stuff to us how would that feel\nrate that feeling on a 1 to 10 how bad",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1053000,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "would that feel on a 1 to 10 not good\nyeah would it be a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1057000,
+    "dDurationMs": 6679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nine right right so think about that I'm\ngonna write that down so say a nine",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1061840,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "meaning it'd be extremely painful if you\nsaw that right then you go should we do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1066360,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that now let me ask you to rate this now\nI want you to picture you guys are 88",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1072640,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and\n90 and you didn't do it you missed it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1077679,
+    "dDurationMs": 4841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you had a little buzz where you had this\nYouTube channel for a while got you some",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1080679,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stuff but it didn't work out didn't turn\ninto a business you played it small",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1084880,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because you were scared of that fear and\nyou guys went and found jobs it was all",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1088880,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right you guys text once in a while go\nremember those days when we got to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1091200,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interview all those cool\nguys and then you meet your maker you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1094799,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pass away and God plays you a video of\nthe men you could have been the unlived",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1100159,
+    "dDurationMs": 9721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "life the unlived life how would that\nfeel rate that a one to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1105600,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "10 yeah is that other one really a nine\nyou guys just being soft like I'm just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1111960,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "being honest I'm saying this for\neverybody else it's all in comparison",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1116280,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right it's all in comparison could you\nimagine God whatever you guys believe in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1120080,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you meet your maker and he says God you\nguys had so much talent I was watching",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1123600,
+    "dDurationMs": 5559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what you're doing and you said well I\nwas afraid if we put a sales page up",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1127240,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people wouldn't like me could you\nimagine like God or whoever you believe",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1130480,
+    "dDurationMs": 5679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like like oh my God not another one God\njust go in that line right I want you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1134840,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "guys to get to the end of your life and\nGod play a video and go these two guys",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1138120,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "are crazy crazy they're insane do you\nsee what they went after and here's the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1141880,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fact of the matter is when you find the\nInnovation when you find the passion",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1145799,
+    "dDurationMs": 6521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when you fall in love with what you do\nyou might get 1% of the people not like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1150320,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what you do in your next Evolution but\n99% of the people will and they'll love",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1154799,
+    "dDurationMs": 4841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what you do and they'll you'll change\ntheir life you can't let the loud",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1158240,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "minority right now we're living in a\nworld where if we have different parties",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1161799,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if we vote differently we should hate\neach other and it's all being controlled",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1165080,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "by the loud minority on either side the\nextremes the rest of us are the same we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1169360,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want better for our children than we had\nwe want to be connected we want to live",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1172640,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "into our full potential we want to be\nunited we want to have freedom we want",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1176720,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to be able to live with no limits 99 95%\nof us are all the same we got extremes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1182240,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on both ends make making it so we should\nhate each other if we happen to vote",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1185480,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "differently right it's the same thing\ndon't let the loud minority the loud",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1189640,
+    "dDurationMs": 6399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "extreme the the the the the the noise\nstop you from being who you're meant to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1194600,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "be you could throw you could throw 10\nthings up on a wall nine of them fall",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1197679,
+    "dDurationMs": 4401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "off and you got one left up there you're\nstill ahead of that person that never",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1200240,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tried of course you know what I mean I\nwanted to ask you cuz you know you've",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1203400,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "talked a decent amount about faith\nthroughout this podcast you're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1206679,
+    "dDurationMs": 6281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "faith-based entrepreneur both Jack and I\nare are Christians we're Believers um",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1211320,
+    "dDurationMs": 4719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and I'd argue that everybody out there\nregardless of whether they believe in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1214240,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "high power not we're all faith-based\nbecause the opposite of faith is what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1217919,
+    "dDurationMs": 6041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's fear and and regardless of it's\nwithin that higher power if it's in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1222360,
+    "dDurationMs": 5559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yourself you got to have faith even from\na business perspective you know from a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1225760,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "capitalism perspective in your business\num for somebody struggling able to find",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1229720,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that faith that that that bigger calling\nthat you know something bigger than",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1232760,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "themselves for their business and\nwhatever it may be any advice to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1236000,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "somebody out there they're trying that\nthat more of that faith in that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1239400,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fulfillment yeah really great question I\nmean isn't Faith the foundation of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1245120,
+    "dDurationMs": 5679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everything whether you're a Believer or\nnot and I believe most people are like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1249280,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you said believe in something but isn't\nfaith everything I I mean I heard Tony",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1252640,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Robin say one time someone says I really\ndon't have faith in anything it's like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1255880,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really do you\ndrive and I was watching him do an",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1259520,
+    "dDurationMs": 6279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interview and he said uh the guy goes\nyeah I drive because you don't have",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1263559,
+    "dDurationMs": 5521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "faith in anything he goes then how do\nyou go out on the road there's only that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1267159,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "little yellow line that divides you and\ncars coming the other way at 70 miles an",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1270919,
+    "dDurationMs": 6041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hour how would you you have faith that\nthey're not going to cross the line and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1275000,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "kill you don't you he's like well yeah I\nhave faith in that and then he went",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1277880,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "through like 10 things like that he's\nlike you leave your wife what if some",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1281679,
+    "dDurationMs": 4041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like he went through all these things\nwell I have faith in that he's like well",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1284080,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you have faith you just didn't put Faith\nin the right direction of your own",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1286919,
+    "dDurationMs": 6721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business or or what it is and I and I\nthink we can recognize where we already",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1291360,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have faith and if we can borrow that\nFaith from one area if we can borrow it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1295320,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "from other people and apply it to who we\ncan become you get to bet on yourself I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1300559,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mean I think that's what faith really\ndoes it allows us to bet on ourselves",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1304440,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and bet on being connected to something\nbigger than ourselves and and if and if",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1309240,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's God if it's if it's something\ndifferent I feel like we got to be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1313840,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "connected to something if it's not God\nat this phase of your life then be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1316919,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "connected to other entrepreneurs have\nfaith that they did it you can do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1320840,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it yeah there's a a lot of people like\nto use the analogy of like a poker or",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1326120,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "blackjack game when talking about\npeople's positions in life where they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1329799,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "started almost like I was dealt a bad\nhand things like that uh people might",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1334559,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "grow up in a different socioeconomic\nbackground than someone was that that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1338039,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "found success um they they feel like the\ncards are stacked against them when they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1341919,
+    "dDurationMs": 6441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "started that game of life um how can\nsomeone I I I like to think ignore that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1347039,
+    "dDurationMs": 3561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "position almost act like you started\nwith with a winning hand I got the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1349640,
+    "dDurationMs": 4519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "winning hand so you're asking me a\nquestion my last book I wrote seven",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1352080,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "years ago was called the underdog\nAdvantage because there's two frames to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1356799,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "look at it I have enough friends that\nI'm blessed to have that are extremely",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1361240,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "successful and all of them felt like\nunderdogs and they used it as power so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1365360,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "let me ask you if you're thinking the\nunderdog",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1368840,
+    "dDurationMs": 7079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "um when every listen my biggest fear\nwith my kids my biggest fear with my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1374000,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "kids they I'm blessed to have incredible\nchildren I have four",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1377440,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "children are polite they get good grades\nthey make the right decisions all those",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1382600,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "things my biggest fear is that they're\nthey're they don't have Underdog traits",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1388279,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "my youngest kids have never flown in a\ncommercial",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1391960,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "plane they don't even know what it's\nlike to go to an airport and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1395720,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "simultaneously I want them to have\nhunger when they just drive up in our",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1398919,
+    "dDurationMs": 5081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "car and get on our plane and fly to one\nof our houses and get off and some",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1402559,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everything's waiting for us I'm like oh\nmy God am I like I almost want to I wish",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1406200,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I could recreate when they felt like\nbroke I don't have anything because of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1410039,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that drive right and one of the reasons\nI wrote the underdog Advantage is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1413640,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because I always felt like an underdog\nbut when I really look back it was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1417559,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actually my strength like I don't know\nif my kids feel like they have to make",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1421760,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it I tell them all the time I'm donating\nall my money to charity so you better",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1425919,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "get on your on your horse because it\nain't coming to you but I don't know if",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1429400,
+    "dDurationMs": 3639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they feel it but when you're an",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1433600,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "underdog and you try something new do\nyou think people around you go hey",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1438080,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's not for us hey we didn't come\nfrom that side nobody in our family's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1441919,
+    "dDurationMs": 5801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ever done something like that you know\nhow many times I heard that in my family",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1444919,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "say my people say hey my own family sat\nme down like hey I love all your energy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1449840,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but that's not we're Blue Collar you\nknow this is where we come from this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1454240,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stuff you're doing about that's people\nwho are smarter went to different",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1456679,
+    "dDurationMs": 10880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "colleges have a pedigree all of that\ncrap let me just ask you if you use that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1463520,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "as they're probably right or could you\nsplit that and use is fuel and go o wait",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1470320,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "till you see when I freaking do this\nright so I call it in my book there a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1474679,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "chapter it's called The Power of you\ncan't you can have somebody say you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1477919,
+    "dDurationMs": 6041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can't and go probably can't or you go\nplease keep telling me I can't so you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1481799,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can eat crow watch when I do this when\nyou're an underdog and they don't and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1485960,
+    "dDurationMs": 8839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you don't have all the pieces I love\nwhen nobody sees me coming I love the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1492000,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fact when I create something why did why\ndid some of the biggest companies on the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1496559,
+    "dDurationMs": 5081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "planet why did they get started you ever\nsee the mem when it's all the different",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1499080,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "garages where Walt Disney and and and\nall the different Bill Gates all started",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1504600,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in garages what does that mean it's like\nthey were building this as this Underdog",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1509080,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and what did they do they skyrocketed\nout of the gate because no one saw them",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1512880,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "coming they weren't a Fortune 500\ncompany with all the money and the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1515799,
+    "dDurationMs": 7521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "perfect executive with the perfect tie\nright so to me it's like we have an",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1520960,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "option to say I'm an underdog I probably\ncan't make it or wow I'm an underdog",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1526679,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "good for me right did you ever hear that\nsilly analogy where twin twin boys um",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1532320,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "one was a drug addict and struggling and\none was super successful did you ever",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1535159,
+    "dDurationMs": 5081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hear that silly analogy and they\ninterviewed both of them and the one",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1538679,
+    "dDurationMs": 5321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that was a drug addict and unsuccessful\ntheir father was a raging alcoholic and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1541919,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "used to beat them and they interviewed\nthe alcoholic and when it finally got to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1546000,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "out to he said well why are you in the\nspace he's like how could I not be my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1550080,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "father beat me and was an alcoholic and\nhis twin brother who was massively",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1553679,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "successful when they boiled it down said\nwhy are you successful you know what he",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1556279,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "said how could I not be my father beat\nme was an alcoholic and nobody's going",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1560200,
+    "dDurationMs": 5479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to stop me it's it's almost like like\nthat there's two types of people the man",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1564480,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "who thinks they can and the man who\nthinks they can't yeah and and it's just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1567919,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "how you how you position that thinking\nis really the driving force we were",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1572760,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "talking earlier how you've got two\ncomponents right the mindset and the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1576279,
+    "dDurationMs": 5081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "money-making vehicle that you're in and\nyou had argued that it's 90% mindset",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1580080,
+    "dDurationMs": 4079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "whereas a lot of people will say man you\nneed to get in the right business the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1582320,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right Niche the right indust um the\nright money-making vehicle yeah right",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1586559,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know and when people grow up you\nknow there's a lot of programs that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1589760,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people are faced with right where if\nthey're from a certain area where you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1593159,
+    "dDurationMs": 5321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know people think you know the epitome\nof success is that that sixf figure",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1596279,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Government Contracting jog or religious\nstructures or Sports at whatever schools",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1600399,
+    "dDurationMs": 4201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they go to the people that they're\naround but it's very imperative for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1603679,
+    "dDurationMs": 3961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people that they want to achieve that\nsuccess they have to rewire their mind",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1606039,
+    "dDurationMs": 5081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reprogram themselves to start thinking\nmore abundantly any advice and what is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1609840,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that mindset shift that you think people\nshould really undergo to again start",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1613640,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thinking about man I can achieve these\ngreat things and make and make big",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1616159,
+    "dDurationMs": 6041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "things happen yeah so there's so many to\nunpackage that there's so many answers",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1620240,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right I think people think I I don't\nneed any positive thinking right and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1624320,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "positive thinking kind of have has a bad\nname and maybe we should reframe that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1627799,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and we will in a second but let me ask\nyou something would you take let's just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1632880,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "look at in the lens of you guys hiring\nsomebody would you take someone with the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1637200,
+    "dDurationMs": 8599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "perfect degree all the perfect pieces on\npaper to be your videographer let's just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1642960,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "use that as example had all the all the\nright checked all the boxes but really",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1647840,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wasn't that passionate about\nvideography or would you take someone",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1652480,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "who hardly ever held a camera but they\nlove what you do they're extremely",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1655799,
+    "dDurationMs": 4281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "passionate and they came you and said\ngive me three months I will be the best",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1658440,
+    "dDurationMs": 4280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "videographer I will who would you choose\nI can tell you right now it's because",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1661480,
+    "dDurationMs": 3880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that second person he's the one that's\ngoing to do whatever he can to get that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1663919,
+    "dDurationMs": 5201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right shot exctly know what I mean and\nhe's coachable so so if you instead of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1667039,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thinking about positive energy or\npersonal development and I don't want to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1670519,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "read fuo fluffy books just give me the\nway to make money maybe don't look at it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1674600,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that way I told you guys earlier and\nI'll say it again in my 20s I would say",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1678760,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it was 90% the right vehicle the thing\nthat could make me money oh and 10% I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1683120,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "better stay positive I'm 55 I've been\nblessed to have some pretty good success",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1686760,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in my life at this phase of my life I\nknow it's the complete opposite it is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1690640,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "90% mindset and 10% vehicle give someone\nwith an Unstoppable mindset a bad",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1696799,
+    "dDurationMs": 5521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "opportunity and they'll make it work\ngive an amazing opportunity somebody",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1700559,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with a shitty mindset and they'll fail\nevery time that's just a fact why do you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1705240,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think people take things that should\nnever work and make them incredible",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1708120,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because they found a way to become\nUnstoppable how do you become",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1711080,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Unstoppable there's so many answers one\nwe talked about this earlier one is to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1715200,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have just a bigger purpose than you you\nknow we talked about the purpose of you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1718360,
+    "dDurationMs": 7919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to help your brother if you needed\nto it's big it's bold you don't stop so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1723080,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "one is finding that purpose number two\ntrick your brain you're talking about if",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1727640,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're in a place like that you might\nthink hey where I come from if I could",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1731279,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "get a 100 Grand a year working for here\nthat would be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1735120,
+    "dDurationMs": 9039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "amazing because a guy like me a girl\nlike me doesn't make it it's BS go find",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1741000,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proof go Google and find go use AI find\n20 people that are insanely successful",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1746840,
+    "dDurationMs": 4839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that started out just like you we're\nconnected to everybody so then all of a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1749840,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sudden your brain goes wow I could have\na bigger purpose this story I've been",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1753440,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "telling myself is a\nlie then you got to find out you got to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1757919,
+    "dDurationMs": 5281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "root out those stories that you've been\ntelling yourself not to get into a whole",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1761440,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personal development lesson but we got\nto find the subtle stories like I could",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1765360,
+    "dDurationMs": 4559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "make it but I didn't come from a good\narea I can make it but I don't have a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1768640,
+    "dDurationMs": 4080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "college degree I can make it but but I'm\nreally not that smart I can make it but",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1771640,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I don't have any money to start you need\na lot of money to invest to start your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1774320,
+    "dDurationMs": 5479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "own business all those things find\nsomebody who was had dyslexia started",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1778320,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with no money in fact that's me you can\nGoogle all my stuff right like my whole",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1782159,
+    "dDurationMs": 6281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "point is we have to prove the stories\nthat been holding us back are a lie and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1786799,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "then we have to sell ourselves on our\nbig Vision every single day I still have",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1791200,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a a an inner villain whatever you want\nto call it that's like hey you're not",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1794519,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that smart you're not going to like I\nstill have that voice but I found a way",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1798240,
+    "dDurationMs": 6039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to overpower it to call it a liar and to\nshow that there's something different so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1802559,
+    "dDurationMs": 7801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I don't have the it could take us hours\nto say what I'd say is start looking",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1807120,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "into understanding that what's probably\nholding you back is the story you tell",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1812120,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yourself on why you can't achieve it and\nwhen you really address that and face it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1816279,
+    "dDurationMs": 5801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "then find someone in this space that you\nlike I like Dale Carnegie Tony Robbins",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1820640,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is my partner and dearest friend I love\nTony for 27 years but I I love them all",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1824919,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I devour personal development still I\nread at least one personal development",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1828919,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "book a month\nalways yeah and over your career you've",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1833600,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "had um you've been able to work with a\nlot of high level people entrepreneurs",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1837760,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "athletes just people come in your\nMastermind specifically with",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1840960,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrepreneurs you know a a lot of the\nhigher level people that you work with",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1844240,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "maybe they're doing 100,000 a month a\nmillion a month what are some of the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1847360,
+    "dDurationMs": 3799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "challenges that you see people do at\nthat that level because I know a lot of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1850000,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the people watching maybe they have\nfound some success maybe they're in that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1852679,
+    "dDurationMs": 3561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vehicle and they want to take it to the\nnext level what are some of the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1855120,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "challenges that you've seen those\nhighlevel entrepreneurs um that they're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1858480,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dealing with and how have they been\novercome them one of the biggest ones is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1862279,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when an entrepreneur starts hitting it\nand when I say like getting momentum we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1867639,
+    "dDurationMs": 4801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "are Relentless I'm sure you boys are too\nand I'm sure so many of you watching",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1871440,
+    "dDurationMs": 3320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "especially when you start getting a\nlittle freaking momentum you start",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1873600,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "seeing the sales come in you start\nsaying the revenue come in the impact",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1876240,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "come in and your hard work is paying off\nyou're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1879399,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Relentless and there's a couple phases\none is taking that energy and harness",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1884559,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "harnessing it and trying to hire a team\naround you when you're used to doing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1888440,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everything yourself ah they're not doing\nright I'll just do it myself I'll just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1891279,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do it you you can do it yourself to 5\nmillion over that you need a team in in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1897519,
+    "dDurationMs": 4561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "especially in an online business you can\nget to three five million a year without",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1900480,
+    "dDurationMs": 6199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a massive team that didn't exist in a\nnormal world but it exists for the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1904039,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "younger generation today online once you\nget to that next level then all of a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1908240,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sudden you start bringing people in and\nit is hard for people to keep up with a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1912080,
+    "dDurationMs": 5479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "crazy entrepreneur who's got vision and\ndreams and just has an idea and goes for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1916639,
+    "dDurationMs": 4081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it and you're going to bring people in\nwith structure that you're going to feel",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1919159,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "slowing you down I got to train them\nthey I'll just do it myself you will do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1922440,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so I watched so many people go no I\ncan't handle employees I'm never hiring",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1926120,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "employees I know they're $3 million or a\nmillion or 800,000 or whatever it is for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1930320,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the rest of their life you got to break\nthrough that barrier on how to transcend",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1934200,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what's in your mind and hire people\nsometimes that don't think like you that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1938039,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "contradict you that and building a\nsystem and a process and during that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1942600,
+    "dDurationMs": 5319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "time that one year 18 months two years\nof doing it it feels like you're going",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1946399,
+    "dDurationMs": 4561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "backwards like I'm not growing\nfinancially anymore I'm not making more",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1949320,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "money all these people are costing me\nmoney I should get rid of them and keep",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1952120,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the profit if you want the profit\ntoday then just stay the size you're at",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1956600,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if you want to build a true Empire you\nhave to learn leadership I said this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1959960,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "earlier somebody said to me what's the\nbest things you should learn right now I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1962880,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "would say follow in love with your\nproduct love it so much you feel bad if",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1966159,
+    "dDurationMs": 5801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people don't say\nyes understand marketing deeper stronger",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1969880,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "better than anybody else third\nunderstand leadership principles before",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1973320,
+    "dDurationMs": 6199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "anybody else does most people don't\nstart digging into true leadership until",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1976760,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they're 40 50 years old including me I\nwish I would have started in my 20s",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1980880,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "leadership is the key to everything yeah\nI wanted to ask you cuz like the first",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1984600,
+    "dDurationMs": 4919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business that you were in was like the\nauto body auto collision rep player",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1988159,
+    "dDurationMs": 4801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eventually you ventured off kind of\nDiversified more into real estate and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1991720,
+    "dDurationMs": 3319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "let's say somebody you brought up\nanother thing you talked about earlier",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1993919,
+    "dDurationMs": 4161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was like you become Master you want to\ntry something else at what point do you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1996760,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "see is it a good time for business\nowners to start to diversify or",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1999639,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vertically integrate that business cuz a\nSavvy entrepreneur they look at their",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2002799,
+    "dDurationMs": 4281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entire business and they see you know\nwho all is making money off my efforts",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2005840,
+    "dDurationMs": 4559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "or just in general maybe not even from\nan integration perspect perspective but",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2008440,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like at what point from what you've seen\nfrom all the people that you've met and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2011720,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for yourself is it a good time to start\ndiversifying as an entrepreneur really",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2014919,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really solid question um I I would just\nsay sometimes a a fragmented or",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2021120,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "scattered mind doesn't allow you to\nmaximize and learn the skills you needed",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2025760,
+    "dDurationMs": 8600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to learn I would say if your company is\nat a point where it is profitable it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2031480,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "running strong you have a plan and it\ncan grow with without all of your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2036519,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "obsessive Focus\nthen maybe it's time to say is there",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2040320,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "something I can bolt on is there\nsomething I can add to this but I watch",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2043919,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "most people do it too soon and that's\nwhere they get then they become a master",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2047399,
+    "dDurationMs": 5321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to two things and neither one of them is\ndoing well and a lot of times people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2051240,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hear me on this one this might be the\nmost important lesson you can hear today",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2055159,
+    "dDurationMs": 6121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when you're doing something that was\nonce a dream and now you're doing it and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2059800,
+    "dDurationMs": 6119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're bored of\nit and all of a sudden this was cool but",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2064200,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I want to do this and now all a sudden\nyou're all excited about the next thing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2069200,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what happens you start resenting the\nthing you're in and ignoring it and it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2072679,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "slowly going down and you quite you\nhaven't perfected the next thing you get",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2076280,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "caught in the middle it's why businesses\ngo",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2078399,
+    "dDurationMs": 6601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "out wow and something that you touched\non or something a big thing that you've",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2083119,
+    "dDurationMs": 5321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "preached is reciprocity you're a very\nrelationship Centric person a lot of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2086480,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people you know in whatever industry\nwhether it's real estate they're in Tech",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2089919,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they're very transactional based and I\nlove the quote that there's two types of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2093679,
+    "dDurationMs": 4721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people in the world givers and takers\nlife gives to givers and it takes from",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2096839,
+    "dDurationMs": 6361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "takers and it keeps very accurate\naccounting how important has it been for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2100960,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you going into you know business with\nother people and just life in general",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2104839,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not looking at it from a perspective of\nif I do this what is this person going",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2107880,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to do for me how important has it for\nandar heart how important has it been",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2111960,
+    "dDurationMs": 3600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for you know being so relationship\nCentric throughout your career and how",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2114400,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is that really paid off for people\nwatching this it's a hard one to see and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2119359,
+    "dDurationMs": 5521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and the only reason I could say I'm good\nat it now is because I've done it the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2122520,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wrong way right so just I say model\nproven practices this is this is proven",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2126800,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "practices I've had frustrating\nPartnerships in my 20s and 30s keeping",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2131079,
+    "dDurationMs": 11241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "score I did this you didn't do that\num here's what I know what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2139640,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if in a relationship either one of you\nboys in a relationship I am my first one",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2144880,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yeah yeah here's a good one two things\nto learn is what if you felt loved when",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2152400,
+    "dDurationMs": 4919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you gave love not when you received it\nhow would your life change can you say",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2155640,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that one one more time how would you\nfeel feel how would your life change if",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2160240,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "every time you G and you're in a\nrelationship every time you gave love",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2164319,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you did something nice you felt love\nthen not when you were waiting to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2168440,
+    "dDurationMs": 9320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "receive it back you're in a one-sided\nrelationship",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2174240,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really If You Give Love think about this\nyou really got to think about this could",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2180000,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you get hurt in a relationship where you\nfeel like you're doing more of course",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2183280,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but think about when you find the right\nperson in a partnership and a personal",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2186400,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "relationship I know because I have in\nboth of my Tony Robbins is my dearest",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2189800,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "friend in the world I can't do enough\nfor that guy I do as much as humanly",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2194079,
+    "dDurationMs": 5801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "possible for this\nguy and you know what I get in return",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2197800,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "guy tries to outdo me in everything I do\ntries to outdo me I try to show up my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2202119,
+    "dDurationMs": 6521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wife and give her so much love and do\nstuff for her that she would never know",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2206160,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and surprise her and guess what I get I\nstill walk in a room and my wife looks",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2210240,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "at me like she just met me like I never\nwant to lose that look because I Feel",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2214599,
+    "dDurationMs": 5801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Love hear me on this one I have trained\nmyself over years this I never could",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2218800,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have done this in my 20s probably never\nin my 30s it's probably why I went",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2221800,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "through a divorce\nokay I have trained myself that when I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2226160,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do something for her when I show her\nlove when I ask her about her day when I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2229599,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "got 16 things on my phone and two things\npressing and I shut it all down and I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2233680,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "still actively listen even though I'm\ndying to go answer my phone and get",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2237119,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business done when I show her love and I\nfeel that love I Feel It by giving it to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2243280,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "her it lights her up and I get more in\nreturn and the whole key to that is the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2247720,
+    "dDurationMs": 5879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "best Partnerships I know the best\nrelationships I know do not keep score",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2252160,
+    "dDurationMs": 4280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "let me tell you how a relationship dies\nyou're a hustler he's in a relationship",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2255480,
+    "dDurationMs": 6879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're not\nyet right imagine you come",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2260119,
+    "dDurationMs": 7641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "home you're like man I just traveled to\nScottsdale I did this interview and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2264720,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "working and and and I come home and\nnothing's done and and and I thought",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2269800,
+    "dDurationMs": 5519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there'd be a meal waiting for me it's\nlike ah all right no big deal and you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2273520,
+    "dDurationMs": 7079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "kept scoring you check next morning you\nwake up with a little bit of an edge",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2277800,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right and your significant others like\nwell he's a little awful I'm not going",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2282880,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to give him love if he's feeling that\nway to me and all of a sudden both of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2286800,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you are like well well if she does this\nif he does this if he does this if he",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2290319,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "does if she does this if she does this\nall of a sudden you're a year in there's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2293160,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no intimacy you guys aren't having sex\nanymore you're barely talking and you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2296319,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "don't know why because you kept score\nall the way and you ruined the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2300119,
+    "dDurationMs": 5641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "part if you find the right person in the\nright",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2303720,
+    "dDurationMs": 6359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Partnership if you treat the other\nperson the way you want to be treated on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2307240,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a regular basis if you don't keep score\nyou either find the the other half or",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2312040,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know you're in a wrong relationship\nI'll give you one",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2315240,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "example there are times where I will\nhustle right now Tony Robbins and I are",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2319560,
+    "dDurationMs": 6519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "doing a big live event here coming up\nI've barely been sleeping for 45 60 days",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2324359,
+    "dDurationMs": 4881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we put a million people on an event like\nthis it's our event of the year we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2327319,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "freaking love it I run most of this This\nIs My Jam this is my thing imagine I go",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2332400,
+    "dDurationMs": 5679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "60 days and go man I've been killing it\nfor 60 days I haven't seen Tony here at",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2336680,
+    "dDurationMs": 5399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the office he's working on his other\nproject wow this damn it Dan I'm doing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2340640,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all this work this thing's going to you\nknow do well and enhance our company and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2344359,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do all thing man I did all that I only\nneed to think that once and my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2348560,
+    "dDurationMs": 4559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "relationship with Tony starts to falter\nyou know what that guy's done for me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2351880,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sometimes that guy moves his pinky\nbecause he's been in this business for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2354240,
+    "dDurationMs": 5879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so long and we we land a $50 million\ncontract or we buy something amazing or",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2358640,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he mentors me on something that I was\nthinking completely flawed and one",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2362280,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sentence goes holy crap tone and it\nshifts my life and there are times where",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2367560,
+    "dDurationMs": 5799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Tony's putting in the 45 60 days for our\ncompany that we're working together but",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2371800,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if I kept score along the way that\npartnership would be nothing you know",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2374480,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what I do every time I kill it on an\nevent or have a great podcast like this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2379240,
+    "dDurationMs": 6359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that supports a company that him and I\nown I feel good that I did this for my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2383119,
+    "dDurationMs": 7401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "brother but he feels it I I know this is\na hard concept but imagine if you did",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2388800,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not keep score in\nrelationships and imagine you felt good",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2392720,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when you did something for the other\nperson now are you going to get taken",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2395319,
+    "dDurationMs": 5961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "advantage of potentially you could that\nmeans that's not the right partner and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2399480,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the right person weed him out of your\nlife sooner than later yeah I was going",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2403800,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to say I was genuinely some of the best\nrelationship advice that I've ever heard",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2406480,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "anybody spell I was going to say though\nquick followup to that one at what point",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2409480,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "though do you know whether it is a\nrelationship a marriage a partnership at",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2412520,
+    "dDurationMs": 4079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what point though do you walk away from\nthat or do you realize that hey like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2415319,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this may not be the right business\npartner I got one for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2418079,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you so you're in a new relationship\nrelatively yeah puppies rainbows",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2423119,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everything's perfect right like if you\nwatch somebody in the beginning of a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2426839,
+    "dDurationMs": 5201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "relationship sh it's like if somebody\neats and they got a seed in their tooth",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2430400,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's like oh that's so cute you watch\nsomebody married for 10 years like oh my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2433400,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "god get that seed out of your tooth oh\nmy God it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2436880,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "disgusting right the beginning when when\nyou're in love does anything bug you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2441200,
+    "dDurationMs": 5159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're like no everything's great\neverything's perfect wonderful there's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2444280,
+    "dDurationMs": 5079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no flaws what's that there's no flaws\nyou put up on the pedestal yeah it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2447800,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like oh in the morning her breath smells\na little funky you're later it's like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2450720,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "could you brush your teeth Jesus so I\ngot one for you you ready for this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2456240,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "partnership personal relationship if\nyou're not sure spend the next 90 days",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2462160,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "treating it like it was the first 90\ndays and at the end if it doesn't feel",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2466640,
+    "dDurationMs": 5479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reciprocal it might be over and at the\nend when they felt it if they gave it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2470720,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "back to you you realize you needed a\njump",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2473079,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "start yeah yeah that's great we uh there\nthere's kind of this quote about Abraham",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2479200,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Lincoln that like if if AB was going to\nspend 6 hours cutting down a cherry tree",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2482920,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he'd spend the first five sharpening the\naxe AB um the preparation and I I want",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2488200,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to ask you this in the sense of not only\njust about money but as someone's coming",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2491520,
+    "dDurationMs": 5319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "up in their career and their life and\nthings what are some of those things",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2494319,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that they can do to sharpen the axe uh\nand and is it all about money no we I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2500400,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thought it was about money when I\nstarted once the money's going then it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2504359,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "once the money is not an issue anymore\nthen you realize why you've been doing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2507240,
+    "dDurationMs": 8839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it in the first place and you really\nstart working on you money is the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2511520,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "great H how do I say equalizer money\nwhen you worry about money which most",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2517760,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people\ndo um think of it this way when's the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2521960,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "last time either one of you thought\nabout the oxygen in this room do you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2525800,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "guys think about it no not at all why\nit's abundant it's everywhere you just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2529720,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "got it you're not going oh there's no\nOxygen I don't feel good is there enough",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2532880,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "oxygen in here what if I don't have\nenough right if I went around and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2536079,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "grabbed your throat it'd be the only\nthing you thought of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2539000,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right money is the same way people don't\nrealize their lack of money in their",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2543720,
+    "dDurationMs": 6879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "life has them focused on it all the time\nthe decisions they make what they do um",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2548599,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "where they go how they feel like they\ncould date if I had more money I could",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2552400,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if I could do it is it is like it's\nchoking it's choking them so it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2556960,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dominates their thoughts more than than\nthey think so if you think of if money",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2562119,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was like I'll just ask you guys if money\nwas like the oxygen in this room and you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2566920,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "never didn't have to think about it it\nwas just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2569520,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "abundant the only thing left is because\nyou you could say I'm hustling for the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2573040,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "money I want to change my family I want\nto retire my mom I want to do these",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2575880,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "things when that goes away the only\nperson left is you and the guy in the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2579240,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mirror or the woman in the mirror so\nwhat if I want to give you the greatest",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2583400,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gift that money can do is when you're\nnot worried about anymore you got to you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2587160,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "got to work on you when my when the\nmoney was not an issue anymore and I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2591240,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "went through a divorce and I was still\nrunning away from a crazy childhood I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2595119,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "had to stop and go hey h h how do I\nbecome a better man to be in this next",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2599480,
+    "dDurationMs": 4879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "relationship how do I be a better man as\na partner to Tony Robbins how do I be a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2602640,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "better leader to my team of hundreds\nemployees how to be a better Inspire",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2606640,
+    "dDurationMs": 5199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "motivate people like I had to work on me\nand I had to dig into my past I had to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2610280,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "get through some old scars and all this\ncrazy stuff so the greatest gift money",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2613920,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can give you it's not the Lamborghini\nit's not the travel it's not the plane",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2617480,
+    "dDurationMs": 4639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's because it'll take away the\npressure to give you a moment to become",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2620319,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the man you're meant to be not the one\nyou're pretending to be now you know",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2625040,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "over these last 20 30 years you've been\nin entrepreneurship you've sold over a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2628440,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "billion dollars in the online space I\nwanted to ask you what is your best",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2632000,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "advice to someone trying to find that\nwinning product and service that can",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2634640,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generate them that kind of money you\nknow we talked earlier about your secret",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2637559,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to sales is it necessarily it's making\npeople feel understood but how can",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2641520,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "somebody create great offers and\nproducts to where it's like again you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2645000,
+    "dDurationMs": 4119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know to where somebody can't refuse it\nyou know any advice to someone trying to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2647599,
+    "dDurationMs": 4401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "find those winning products regardless\nof the industry that they're in listen",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2650839,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and I know you guys are going to share\nbut Tony and I are doing a live event on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2653880,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "June 13th and that's exactly what he'll\nbe teaching we're going to go deep and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2657599,
+    "dDurationMs": 7641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "obsessive on that because once you find\nthat it becomes an irresistible offer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2662720,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that you love and they love and what\nI'll share that most people don't do is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2667240,
+    "dDurationMs": 6839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they will create something they love or\nsomething they think people need and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2672920,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "most of the time neither one of those\nwork people don't buy what they need I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2677000,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "need to go to the gym a little bit more\nI go to gym about five days a week I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2679920,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want to make it seven I need I need to\neat a little bit less in between meals I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2684280,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "snack too much I need to always listen\nto my wife more I need to shut my mouth",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2688319,
+    "dDurationMs": 4121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and just listen when she's telling me\nsomething that I have the answer to I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2691079,
+    "dDurationMs": 5801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "got to shut up and not give her the\nanswer she just wants me to listen right",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2695200,
+    "dDurationMs": 5879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I need to do those things but I won't do\nanything of those until I want to people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2699359,
+    "dDurationMs": 5081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have gym memberships they need to go use\nthem they don't until they want to go to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2702400,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the gym so what happens is people will\ncreate products they feel people need or",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2706680,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "products they fall in love with so my\nadvice would be is once you understand",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2712280,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what Lane What boat you want to be in\nwhat do I want to serve what do I want",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2715280,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to create what product do I want to\ncreate a course a community a workshop a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2719599,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mastermind do I want to do podcast once\nyou create that then you need to find",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2724680,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your ideal client who are the people\ngoing after who's going to listen to me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2729200,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "who's going to want this product and\nthen you have to obsess on what problem",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2733040,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "does it solve what solution does it\nprovide and what goal does it help them",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2737559,
+    "dDurationMs": 6681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Reach and you need to obsess on\nunderstanding your ideal client better",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2742319,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "than anybody else you want to win\nunderstand the pain the problems the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2745880,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fear the desires the goals the dream the\nanxiety of your ideal client solve it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2750960,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "better than anyone else not pretend\ndon't just put it out there go I think",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2754079,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this should create something so powerful\nhow do you think Tony and I we got 74",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2759240,
+    "dDurationMs": 3800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "years in this industry between us\nbecause we create things that when",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2761680,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people get it they don't go this is okay\nthey go oh my God this is exactly what I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2765839,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "needed why because we just understand\nour client we're not magicians we've",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2770000,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just gone deeper on understanding I know\nyour fears I know your worries I know",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2773520,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "where you get stuck this solves your\nfears it gets you unstuck and get you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2777280,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the result you want when you do that and\nyou fall in love with the byproducts are",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2781119,
+    "dDurationMs": 4801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "huge you never sell again a day in your\nlife you just can't wait to tell people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2784680,
+    "dDurationMs": 3879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I asked you guys earlier when you have a\nmeal at a restaurant you love do you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2787160,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "brag to your buddies like you got to go\nto this restaurant or you got to read",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2790119,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this book or you got to watch this movie\nwhen you fall in love with your product",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2793280,
+    "dDurationMs": 7279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because you know it does that you won't\nyou can't help but sell you'll out sell",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2796839,
+    "dDurationMs": 7081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "every single person you know yeah and I\nI wanted to ask you I I got this one I'm",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2802359,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to do one more then if you got one\nbut um something we talked about outside",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2805720,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is that a lot of the times it takes the\nsame efforts to solve a $1,000 problem",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2809319,
+    "dDurationMs": 5081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that it does a $10,000 problem that it\ndoes a 100,000 problem like even though",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2812640,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like every new level has a new Devil\nlike ultimately it's like focus on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2816440,
+    "dDurationMs": 4919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "solving solving rich people problems and\nyou know take like real estate for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2820040,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "example a lot of the times it takes the\nsame effort to do a house flip that it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2823520,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "would to you know sell a commercial real\nestate property right so I wanted to ask",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2827240,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you like what is the emphasis that you\nput on constantly trying to solve and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2830160,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pinpoint those problems for you know\nlike again solving those rich people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2833760,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "problems yeah so it depends like I try\nto solve problems all the time of people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2839800,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just starting as an entrepreneur or get\nstuck so that's a problem I want to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2842760,
+    "dDurationMs": 5319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "solve all the time but it's not\nnecessarily rich people problems but I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2846200,
+    "dDurationMs": 4919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want to solve it for a million people\nright our event in June will have I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2849599,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "believe we'll have a million people our\nlast one was a million one the one",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2852880,
+    "dDurationMs": 5479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "before that we had 2.5 million people\nregistered it's insane I want to solve",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2856760,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on June 13th I want to solve the\nproblems of a million people and what I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2861000,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "realize and and again I've been in this\nfor a long time one step at a time how",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2865000,
+    "dDurationMs": 7559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do you win Kaizen how do you run him a\nthousand mile race one step at a time",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2868520,
+    "dDurationMs": 8039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "don't expect to be where we are\novernight but it's the same amount of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2874559,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "effort and energy to put 10,000 people\nin a been I'm just telling you because",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2878280,
+    "dDurationMs": 5799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I've been on both it's the same energy\nto put 10,000 people in as to put a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2882160,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "million and when you start thinking\nthrough that lens like if I'm going to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2885760,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "put the energy and effort in it might be\n10% more work to go 10 times bigger",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2890640,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "100,000 people 10% more you put a\nmillion people in right and I found that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2894800,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with real estate deals when I first\nstarted I found it with everything",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2897800,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "possible because here's the deal most\npeople think too small and you have a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2902160,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lot of competition of people thinking\nsmall when you think big there's no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2906000,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "competition\nI know that's that might sound like oh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2909240,
+    "dDurationMs": 5319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "must be nice now that you have money but\nI I did that when I was broke and I'm",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2912760,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not talking about being a crazy dreamer\nI just expected myself to step up and do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2916920,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the work and go bigger because I saw no\none was playing at that game and every",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2920839,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "time I play at that game I'm able to hit\nit and win because no one else is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2924480,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fighting for it yeah I think it was\nnaine James who the billionaire he was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2928920,
+    "dDurationMs": 4199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "asked like hey how can somebody become a\nbillionaire and he said don't focus on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2931839,
+    "dDurationMs": 4561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "answering a billion questions but how\ncan you solve like you know a billion",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2934799,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "problems through that like one question\nthat's great great answer yeah follow up",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2939599,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "absolutely so we'll kind of end this off\nby saying you know Dean your last",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2943200,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "message to the younger generation\nwatching this right now you know they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2945839,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they want to live that Abundant Life and\nyou've given them so much wisdom on life",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2949280,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "relationship Financial business advice\nbut if you could give them with one last",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2952000,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "message just to to wrap things up here\ntoday for those who are tuning and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2954880,
+    "dDurationMs": 5679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "watching this right now realize that\nmindset is more important than you think",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2958760,
+    "dDurationMs": 5079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you have old scars you have old beliefs\nthat someone gave you they were",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2962000,
+    "dDurationMs": 5359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "downloaded into you it's not your fault\ndoesn't mean they're bad but you need to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2965880,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "find them you need to root them out and\nreplace them with new beliefs you are",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2969520,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "enough you know enough you can do this\nyou also need a path and plan you need",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2975240,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to model proven practices you need to\nfind people who have already done what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2978480,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you want to do by their course by their\ntraining work for them for free do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2983119,
+    "dDurationMs": 5561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "whatever it takes to extract their\nknowledge so you could start off where",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2986559,
+    "dDurationMs": 6841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they left off that is an the ultimate\nunfair Advantage",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2990359,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wow guys that's a wrap on today's video\nbe sure to like And subscribe for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2995000,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "amazing content we have coming very very\nsoon Dean for everybody tun and watch",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2999200,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right now where can they find you at um\nof course they can find me at Dean graos",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3003640,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh on Instagram and also I'd love to\ninvite everybody to come to our live",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3007319,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "event we're doing on June 13th it is not\nkind of free it is totally free it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3011319,
+    "dDurationMs": 5081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Tony Robbins myself amazing guests that\nyou will know some surprise guests and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3015240,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if you liked anything we talked about\ntoday the whole thing is about",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3017720,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrepreneurship how to start and scale\nin this industry the self-education",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3021839,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "industry selling what you know and every\none of you has an asset more than you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3025799,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "realize look at these kids and I call\nyou kids sorry I share that but to me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3030240,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you are and it's amazing what you're\ndoing but you're making a living by",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3033960,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "providing information to others that is\nthe new way to wealth in an area does it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3038359,
+    "dDurationMs": 4601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "make you feel good what you guys do\nevery day love it do you love what you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3041000,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do y you wouldn't trade it for anything\nright this is the industry people can",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3044839,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "find purpose passion maybe they're too\nbig of words you can just enjoy it with",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3048720,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no glass ceiling I have a link for you\nDean andony",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3052040,
+    "dDurationMs": 8039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "live.com James Dean andony live.com\nJames it's about two and a half hours a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3057559,
+    "dDurationMs": 6681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "day for three days and you want to get\nfired up and gain some skills um don't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3063000,
+    "dDurationMs": 4359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "miss that we're calling it the game has\nchanged cuz the game has changed all",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3066000,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right you guys everybody click the link\ndown in the description below tune in to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3069400,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the event you will not want to miss it\nand we'll see you on the inside",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

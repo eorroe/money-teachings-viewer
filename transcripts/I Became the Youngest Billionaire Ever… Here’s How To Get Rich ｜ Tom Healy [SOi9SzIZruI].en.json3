@@ -1,0 +1,6879 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 80,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "There's a ton of responsibility with\nraising over a couple million dollars,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3200,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but let alone $700 million.\n\u003e\u003e Crazy becoming, you know, the youngest",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 6720,
+    "dDurationMs": 5999,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "self-made billionaire, becoming the\nyoungest public company CEO, but you got",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 11120,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to spend all your time and just be\ntotally relentless on focusing on the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 15280,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "only outcome of this is going to be a\nwin.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 17600,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e I know hindsight is 2020, but looking\nback on the journey building your",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 20880,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "company today, is there anything that\nyou would have done differently?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 23359,
+    "dDurationMs": 5201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Man, a lot of stuff. You dropped out of\nCarnegie Melon. I want to kind of get",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 27279,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your thoughts on going to college in\ntoday's world as a new founder.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 29920,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e I don't think college is for everyone.\n\u003e\u003e In today's world, if you had to start",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 32960,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "over to get into the tech industry, what\ncity are you going to?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 35760,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e I remember being in Pittsburgh. We would\ngo make a job offer to someone that",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 39280,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lived in Detroit and they'd be like, I\nhave no interest in moving to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 42239,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pittsburgh, Pennsylvania. Like I that's\nnot a city I want to be in.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 46079,
+    "dDurationMs": 5121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e That's so good.\n\u003e\u003e You talk to someone about and they're",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 50079,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like, \"Oh, this is great.\"\n\u003e\u003e If you could go back and just give the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 53280,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "younger version of you one piece of\nadvice, so what would it be?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 59199,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "What's going on everyone and welcome\nback to the School of Hard Knocks",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 62399,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podcast. I'm James and I'm here with\nJack and Josh and we have an incredible",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 67119,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "guest for you all today. But before we\nget into things, I have a question for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 70720,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you. Have you heard of Kylie Jenner?\nWell, our guest today dethroned her in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 75840,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "2020 to become the youngest self-made\nbillionaire in the entire world after",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 80720,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dropping out of college, starting a\ncompany, and taking it public in 2020.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 86000,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hilleion is the name of the company,\nstarted as electric trucking, and has",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 90080,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "now gotten into another billion-dollar\nopportunity. So, we're going to be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 93840,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "diving into it today and what it takes\nto become a self-made billionaire. But",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 97439,
+    "dDurationMs": 4481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Thomas, it's great to be here with you\ntoday, my friend. Thanks for having me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 100400,
+    "dDurationMs": 5999,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and yeah, excited to share a little bit\nabout this journey. It's been a roller",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 104240,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "coaster to say the least. Learned a ton\nthrough this and hopefully I can share",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 107920,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "some of that.\n\u003e\u003e Absolutely. So, I want to start things",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 110079,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "off. We'll get into the backstory, but\nlet's go right into 2020 right now. You",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 114159,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "take the company public. What was that\nfeeling like and what ultimately led up",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 117840,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to that decision? Because we were\ntalking about this earlier is there is a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 121200,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "big risk with entrepreneurs taking on\nlots of capital, ringing that bell on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 124560,
+    "dDurationMs": 3919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the NASDAQ. What led to that decision\nand what was that feeling like going",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 127680,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "public?\n\u003e\u003e Yeah. So let's start with painting the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 130080,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stage a little co right middle of co the\npublic markets had shut down nobody was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 135440,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "raising capital nobody was going public\nand so we were looking at like man is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 139760,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this the right time is is this do we\njust raise a private round and stay you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 143760,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know in that market or should we go\npublic uh it was a time of the spack",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 148720,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right you probably remember that where a\nlot of companies uh you know started",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 152400,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "despacking we were one of the very first\nto do that so we did our whole road show",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 157360,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "virtually so kind crazy. Didn't meet any\nof the investors in person. It was all",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 161680,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "done through Zoom calls and uh and\ntalking to them over the phone. And we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 166080,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "raised 700 million just through that\ntransaction alone. And then being what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 171440,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was I about 28 years old at that time uh\ngetting to go to the New York Stock",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 175680,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Exchange go you know you're going up to\nthat platform where the bell is and you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 180239,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "get to sign your name on the wall of the\nNew York Stock Exchange and then you go",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 183840,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "out onto the platform and for the next\n10 seconds you are opening the world's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 188239,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "markets. Was it scary raising that much\nmoney? Because there's a a ton of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 192959,
+    "dDurationMs": 5761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "responsibility with raising over, you\nknow, a couple million dollars but let",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 196319,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "alone $700 million. Was it scary taking\non that much capital?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 200080,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah, I think every stage of this\njourney there's it's scary, right? I",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 204000,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mean, the second that you decide, I'm\ngoing to take someone else's money and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 206800,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "start using that to try to go grow your\nvision, you're taking on an inherent",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 211040,
+    "dDurationMs": 5759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "risk. And you're now committed to, okay,\nI got to go make this successful. Uh,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 215280,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "obviously, the magnitude of capital\nwe've raised is is substantial and that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 218879,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that comes with a big commitment of\nlike, all right, we got to go make this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 221840,
+    "dDurationMs": 7759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "successful. Um but you know it was also\ncoupled with this you know we were we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 227680,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "were in a great space at a great time.\nWe were actually overs subscribed. We",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 231280,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "could have raised more than 700 million\nthrough that transaction. Uh but as I'm",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 235120,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sure we're going to talk about today\nmarkets also changed. We went public as",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 239040,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "an electric vehicle company. Uh now we\nare completely out of that space because",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 243840,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's been decimated over the last few\nyears.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 246400,
+    "dDurationMs": 9679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e So you mastered the art of pivoting. We\nwe did one of the uh a very bold bold",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 253360,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pivot. Yes. So we uh you know we raised\nall that capital as we were going to go",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 258000,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "electrify semi-truckss. That was the\nvision, the goal and there were a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 263120,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "handful of other companies in that space\ndoing something similar and we saw that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 268000,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they were going bankrupt. They couldn't\nraise additional capital. It was an",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 271440,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "extremely tough industry to be in. We\nwere also very fortunate that about a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 276560,
+    "dDurationMs": 7359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "year or two prior, we had acquired a\ndivision of GE aerospace which had",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 281680,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "invented a new way of making\nelectricity. Uh or as we'll talk about,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 286240,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's actually a 200-year-old tech that's\nbeen modernized and brought forward. And",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 290720,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so we decided, all right, well, why\ndon't we actually go all in on power",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 294560,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generation? We saw tons of momentum\nbuilding in data centers, in commercial",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 299759,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "buildings needing more power. You've got\nrolling brownouts through California.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 303840,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "You've got Ireland saying if you're a\ndata center coming in, you cannot hook",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 308560,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "into the grid. There's not enough power\navailable. So, you need to bring your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 311840,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "own power. So, we did that pivot into a\ntotally different industry, but one that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 316720,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I think saved the company.\n\u003e\u003e So, take me back. You started this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 321039,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "company when you were in college. Where\ndid you get the idea for Hilon? And how",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 326720,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "did you get the courage to start a\nstartup in your dorm room?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 330320,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So the idea came from there was a a\nclass uh taught by professor Claudia uh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 336160,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "where it was focused on what ideas can\nyou come up with that can have both a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 341360,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "positive business case but also can be\ngood for the environment. And so prior",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 346560,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to that I had this idea of like well why\nare passenger cars electric but uh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 350560,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "semi-truckss are not. And so I decided\nall right well why don't I use that as",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 354240,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "my class project and talk about\nelectrifying commercial vehicles.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 358720,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Prior to that, I had gone through a\ncouple other startups. One was focused",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 362800,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on sales, the other was focused on\nconcussion research. So, I already had",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 366639,
+    "dDurationMs": 6881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the the startup bug, the itch. And so,\nuh, used it as, you know, this class",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 371280,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "project. And as I was diving into it, it\nwas like, man, this actually really",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 374960,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "seems like a good business model. And\nthen from there went to business plan",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 379840,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "competition. So this was one of the the\nunique ways of kind of founding a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 383919,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "company which I would strongly encourage\nto your your listeners is we didn't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 388639,
+    "dDurationMs": 5761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "start out the gate by going and raising\na seed round of funding. What we did is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 392240,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we actually went to competitions like\nthe rice business plan competition, mass",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 396560,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "challenge, the department of energy and\nwe raised a bunch of non-dilutive",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 400800,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "non-equitydriven capital and that's what\nwe used to found the company and then",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 405360,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "from there we went and raised a seed\nround. So that actually significantly",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 409520,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reduced the amount of dilution we took\non the front end. I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 412080,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e I have to ask you and and the reason why\nis because you came from a family of",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 416160,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrepreneurs. Both mom and dad were\nentrepreneurs.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 419120,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Now you were going to Carnegie Melon,\none of the most prestigious schools in",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 423120,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the country for MBA, correct? Or was\nthis grad school or was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 425840,
+    "dDurationMs": 3919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e actually engineering? Yeah. So I did\nundergrad engineering and grad school",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 429199,
+    "dDurationMs": 3601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "engineering.\n\u003e\u003e But you dropped out of Carnegie Melon",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 431360,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e in the grad school. Yes.\n\u003e\u003e What was the conversation like with your",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 434479,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "parents? And I asked because this is a\nfellow college dropout right here. When",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 438319,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he dropped out though, you know, I would\nsay both of our families are a bit more",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 442160,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "traditional. Military families went to\nschool, kind of did it that way. He got",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 446800,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "blacklisted from the family, mom, dad,\neverybody.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 449680,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Horrible. Wouldn't the relationship went\nto zero?",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 452560,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e So, were your parents in support of you\nultimately dropping out of school or was",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 456800,
+    "dDurationMs": 4080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there a little bit of like backlash?\nNah, finish. Get it just to have it or",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 459759,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "kind of what was that conversation like\nin your household?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 462000,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e So, there was definitely a push to\nfinish, right? But then when we talked",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 465919,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about it, it was like, \"All right, we're\ngetting traction.\" Like I didn't I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 468960,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "didn't just drop out just with that idea\non the back of a napkin, right? I'd",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 472080,
+    "dDurationMs": 4559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "already gone to some of the business\nplan competitions was raising capital",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 475039,
+    "dDurationMs": 4641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and then and it kind of became one of\nthese things of like, okay, well, if",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 478400,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're really going to commit to\nHilleion, you got to go all in, right?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 482160,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "You can't be doing classes on on or\ngoing to classes and then doing this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 486160,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "startup on the side if you're going to\nstart raising capital and really trying",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 489759,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to go all in. I firmly believe in start\ncompanies while you're in college or try",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 495039,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it because it it's like you have this\nperfect safety net around you, right? If",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 499120,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if you start a company and it fails,\nokay, you're still going to graduate",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 503360,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with your degree and you're going to go\nwork somewhere, right? Uh it's a perfect",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 507039,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "time to start a company. I I I look at\nthis in two ways because, you know, I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 511199,
+    "dDurationMs": 6001,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "feel it was honestly a blessing being\nthat we were going to the University of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 514560,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Texas that, you know, you you do have\nthat safety net that you can kind of go",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 518880,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a couple years without making any money,\nstarting to kind of get that traction so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 522719,
+    "dDurationMs": 4081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that way you have it set up to where\nyou're making money by the time you get",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 525279,
+    "dDurationMs": 4321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "out. You don't have to go and get a job.\nBut I feel like, and want to know your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 528560,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thoughts on this, do you think a lot of\npeople use that safety net as, oh, I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 531360,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just have to have until the time I'm out\nto kind of have it figured out? Do you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 534320,
+    "dDurationMs": 5199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think that especially for like new\nfounders stay should they put the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 537680,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pressure on themselves to not have\nschool as a safety net or do you kind of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 541760,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like the idea of going to school to meet\nthe people? I want to kind of get your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 545440,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thoughts on going to college in today's\nworld as a new founder without having a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 548720,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ton of money raised and a lot of revenue\nalready showing right now.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 551839,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yep. So, a couple of different thoughts.\nOne is I don't think college is for",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 555839,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everyone. I, you know, I struggle with\nthe concept of you go to college and you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 560720,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "get a ton of debt and then you graduate\nand you're maybe going into a job that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 565519,
+    "dDurationMs": 6721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you could have gotten if you hadn't gone\nto college, right? I mean, not every job",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 569600,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "needs someone to go to college. So, uh,\nnow granted for me, college was an",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 574080,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "amazing experience. I learned a ton. Uh,\nmade everlasting relationships, uh,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 579200,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people who mentored me. I'm even now on\nthe board of trustees of Carnegie Melon.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 583040,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So like from that perspective, I'm a big\nbeliever in go to college, but I do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 586720,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think there's an element of not everyone\nneeds to. Now, if you are in college and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 592080,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you think you want to start a company,\nthat's you're never going to have like a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 596640,
+    "dDurationMs": 6879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "better time to go do it because of that\nsafety net we were talking about. So I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 600959,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think if you if you want to try starting\nsomething and you do have the fortune of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 605279,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "being able to go to college, try that.\nBut that's not to say like, oh, I want",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 609279,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to start a company, so I need to go to\ncollege to do that, right? If you if you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 612880,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can start something coming out of high\nschool, like a lot of this is just about",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 617519,
+    "dDurationMs": 3201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just start trying it, start learning\nabout it.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 620320,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah.\n\u003e\u003e One of one of the things that I love is",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 622480,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that before you took on outside capital\nis you tested the product by going to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 627360,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "competitions and actually validating the\nproduct. How important do you feel like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 631760,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that is for new entrepreneurs actually\nvalidate their product before actually",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 634959,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going on to bring on outside capital?\n\u003e\u003e I think it's huge. So, to walk you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 639600,
+    "dDurationMs": 5679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "through the rice business plan\ncompetition, it's a 3-day event and you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 644000,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and your team, you go there and you\npitch your idea to an audience of 20, 30",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 648560,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people who are all like investors or\nthey've started their own company.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 653360,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "They're judges for this competition. So,\nover those three days, you're ultimately",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 657440,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pitching to hundreds and hundreds of\npeople. And after each session, they're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 661440,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "grilling you with questions and they're\ngiving you feedback about your business",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 665440,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "model. So after each one of these, we'd\nbe like, \"Oh man, we hadn't thought of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 669600,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this.\" Like we hadn't thought about how\nwas service going to be done or we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 673200,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hadn't thought about um you know the\namount of capital that we would need to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 676880,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "raise over this period of time. So\ngetting those questions and how",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 680240,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "investors are looking at your business\nplan allows you to kind of navigate okay",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 684000,
+    "dDurationMs": 9279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "well what is the best way to start this?\n\u003e\u003e And with that so you validated the the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 691200,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the business model, you validated the\nproduct. At what point did you realize I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 695600,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was like, look, you know, I have an\ninitial I I have initial capital, but I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 700000,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actually need to bring on additional\ncapital for the company to grow.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 704000,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah. So, it it became one of these\nthings of we kind of in the beginning we",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 708480,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lived by each business plan competition.\nSo, we would go to it, we would win some",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 712560,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "capital. Like the first one, I think we\nwon about 70 grand. The next one we won",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 716800,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "100 grand. The next one was tens of\nthousands. So, after each one, we would",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 720640,
+    "dDurationMs": 5999,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "say, okay, well, what can we go do with\nthis capital? and is it going to be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 723920,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "enough to go win the next competition,\nright? Uh ultimately when we got through",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 728880,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that phase of things, then it became\nwell, we've proven enough to go raise",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 732959,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "our seed round of fund of funding, which\nwe had a large seed round or in that in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 738160,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "2015 2016 time frame. It was a large\nround. Rounds become much much bigger as",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 742720,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "as time goes on. But we raised about\n$3.5 million. And we did it on a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 747360,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "convertible note, which that's another\nthing uh for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 751680,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "us, you know, entrepreneurs to be aware\nof is you don't necessarily have to sign",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 755680,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "up for equity dilution right out of the\ngate. You can set up these structures",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 759600,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like a safe or convertible note where\nyou're saying, \"Hey, I'm going to raise",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 763440,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "some capital, but it's not going to\nconvert into equity until down the road.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 767279,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So, if I'm successful with this capital,\nyou're going to get a little bit less uh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 772480,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "equity versus if I'm unsuccessful,\nyou're going to own a larger chunk of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 775760,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the company. So, you're kind of given\nthat give and take with the investor.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 780000,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Everyone knows that startups are a\nroller coaster. You're working 12-hour",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 784399,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "plus days. You're having to put fires\nout left and right. For most people that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 788639,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want to start a startup, what were some\nof those early challenges that you had",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 791839,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to face in in the beginning of this\nwhole company? Yeah. So, it first comes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 797040,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "down to you need people around you to\nhelp you with it, right? It for my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 801360,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "journey, it couldn't be a one-man band,\nright? It's a you need engineers, you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 805600,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "need just, you know, people doing sales,\nyou need marketing, like it you need a a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 809040,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "team around you. Uh, and in the\nbeginning, I mean, it was really",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 813360,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recruiting friends and people out of out\nof college to, hey, come do a summer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 817760,
+    "dDurationMs": 6879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "internship with us or come try this out.\nAnd and in the beginning, I mean, you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 822639,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "are putting in crazy crazy hours. Not\nthat not now, but it's it was like, you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 827360,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know, you're you're pulling allnighters\nto then go to that business plan",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 830399,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "competition the next day. And uh and I\nmean, we had we had stories, I'll share",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 835120,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "one with you of like, you know, we\nstarted this out of my dorm room at",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 838320,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Carnegie Melon. And then since we were\nbuilding a hardware product, we needed a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 842880,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "space to actually produce the thing in.\nAnd so we rented this like few hundred,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 847760,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "only a couple hundred square feet out of\nthis big factory that where they used to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 851360,
+    "dDurationMs": 7919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "build locomotives. The place was a mess,\nright? There was no heat, no AC, the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 856639,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ground was dirt. Uh, and we're in there\nworking at like 2:00 a.m. And we didn't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 862399,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know this at the time. We knew it\nafterwards. Uh, there was a homeless guy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 865680,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "living in the rafters above us, uh, in\nthe attic area. And it was 2 a.m. And",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 870160,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the guy just like started screaming and\ngoing crazy. And I mean, we're all",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 873760,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "downstairs like, \"What the heck is going\non?\" Right? Um but you know I share that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 878000,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "story just from like uh you know we\ndidn't we didn't start with like oh well",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 881839,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we got 5 million in the bank let's go\nyou know get a beautiful office and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 886160,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "great place to work. No it was very much\nlike let's take the the money we got",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 890079,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "let's be scrappy with it and see what we\ncan go accomplish. Now, what I need to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 894800,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know is, right, raising $700 million,\nit's you look back and there were so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 900480,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "many conversations that had to be had to\nto be able to get to this point, right?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 904320,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "You're in an extremely capital intensive\nbusiness with how expensive this stuff",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 907519,
+    "dDurationMs": 5521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is that you're ultimately having to\nproduce and make. But in those earlier",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 910880,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "days, right, we we a great friend of\nours, his name is Carl Grant. He's one",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 914639,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of the top VC life science guys in\nAustin. And I was asking him about, you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 918560,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know, hey, your best advice is somebody\ntrying to find investors. And and he",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 922079,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "said, and maybe you agree, maybe you\ndon't, but investors don't invest in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 926160,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ideas. They invest in people and they\ninvest in businesses, right? Those",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 929360,
+    "dDurationMs": 4479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proven entrepreneurs that have already\nbuilt that first successful company.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 932480,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Maybe they've exited it. They're\nbuilding that second one. They've got",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 935120,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the credibility or the businesses that\nare already making money, right? The",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 938320,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "banks only give money to people that\ndon't need the money anymore, right?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 941519,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Kind of similar to investors, right? In\nyour earlier days, how did you kind of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 947440,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sell yourself to these investors and\nconvince them to kind of buy into the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 951199,
+    "dDurationMs": 5281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "heart and mind and the vision that you\nultimately casted? What was it that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 954959,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "enabled you to kind of get some of those\nmassive first checks and start to raise",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 958720,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "millions of dollars early on as the\ncollege dropout? This is that first big",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 962320,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business that you're building. What how\ndid you win those investors over?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 965600,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah. So, two ways. One was we found\npeople at these business plan",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 969759,
+    "dDurationMs": 4401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "competitions, which was a huge win,\nright? people that were in the audience",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 972720,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that would come up to us afterwards\nsaying, \"I love what you're doing.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 975839,
+    "dDurationMs": 3601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "You're this seems like a smart business\nmodel. You're having success at this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 978959,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "company.\"\n\u003e\u003e Are these people are they like venture",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 981440,
+    "dDurationMs": 5519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "capitalists? Are they in actively\ninvesting in a lot of tech companies or",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 984720,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e are they in your your industry at all?\n\u003e\u003e Yeah, all the above. And um so we had,",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 990560,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, a family office that invested\nin us coming out of that. We had one of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 993839,
+    "dDurationMs": 8161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the big uh private equity firms in\nBoston invest in us after that. their",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 999839,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "one of their side funds did uh as well\nas we made a relationship with a uh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1004959,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "strategic investor so a company in the\nindustry who didn't invest out of the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1008720,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gate but they kept tracking us and then\nthey eventually said yeah I want to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1012560,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "invest in that company in a future round\nso making those type of relationships",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1017279,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "are is is extremely valuable the other\nway though which is I think the best way",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1022880,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh it's a tough thing you need to work\non making connections but uh having",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1027600,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mentors that can connect you with VC\nfunds. So I was very fortunate had a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1031919,
+    "dDurationMs": 6241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mentor who uh used to be a partner at\nAustin Ventures here in Austin and he",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1036640,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was able to connect me with investors\nthat he had done deals with in the past",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1040240,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and then they ultimately invested in the\ncompany. So uh to to that point if you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1044880,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can if you can get a warm referral\nthat's who VCs are going to look at,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1049840,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right? Like if you just go to a VC's\nwebsite and uh and you send them an",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1053440,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "email saying, \"Hey, I got the next great\nidea.\" Chances are they're not going to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1057039,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really take it serious. But if if their\nfriend who they've done deals with",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1060320,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "before and they've had success with\nbefore emails them and says, \"Hey, I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1063200,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think you should look at this company.\"\nThat's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1066000,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e it's it's all relationship based\nessentially. Yeah. James, you mentioned",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1070320,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what Carl Grant was saying about they\ninvest in people. Uh a cool story that I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1074240,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "love is that like the the former CTO of\nOpen AI, her name is like Mera Marotti,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1078799,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "she raised like a billion dollars\nstraight off of just she she didn't she",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1083120,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "had no company. She's just like I'm\ngetting ready to like build something in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1085840,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the AI space. because she was the CTO of\nOpenAI. She raised an insane amount of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1090240,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "capital just based off that. And going\nback to the people thing, uh you had",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1094799,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mentioned early on you were like, let's\nhire summer interns and friends and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1098240,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "things like that. How do you view hiring\nlike especially in a startup",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1101600,
+    "dDurationMs": 5199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "environment? Like what is what are you\nlooking for? If I'm a startup founder",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1104960,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and I'm looking I need to assemble a\nteam to help me take this thing to the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1109600,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "next level. I I know you said like don't\nnecessarily look at corporate because",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1113280,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they're not going to thrive in the the\nthe start. Who who are you hiring? How",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1116640,
+    "dDurationMs": 4399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do you go about hiring? I just want to\nhear your philosophy on that.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1119360,
+    "dDurationMs": 5679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e So, you need to look at who do you need\nin the seat for the next 12 to 18",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1123360,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "months. So, this is something that took\nme a long time to learn is uh you you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1128880,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know depending on what stage the company\nis. You might say, \"Hey, I want let's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1132559,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "say a head of marketing.\" Well, the head\nof marketing you need at a 10erson",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1136320,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "company versus a 100 person company\nversus a thousand person company is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1139840,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "totally different, right? And you need\nto make sure you're finding the person",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1143679,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's right for the stage you're in\nnow. If you find the person that's right",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1147840,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for three years from now, chances are\nthey're going to struggle with that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1152320,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "small environment having to, you know,\nthey're probably the ones having to post",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1155280,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on social media, which is something that\nthey've maybe not ever done in their",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1158559,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "career because they've been at a higher\nlevel. So, uh, that's something where",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1162320,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you need to be comfortable with the fact\nthat your team is going to evolve. And,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1166640,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh, it doesn't mean that they maybe\naren't going to be part of the company",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1169200,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "long term. It just means that they might\nneed to take a smaller role as the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1172880,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "company becomes bigger and bigger. And\nso that's something where you know you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1177039,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "got to look at well what do I need right\nnow and is the person kind of have the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1180960,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "grit and ability to roll up their\nsleeves to do the work that's needed at",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1184320,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that stage of the company and be\ncomfortable with the fact that maybe",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1188240,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that person won't be in that same seat\nin 18 months. Something something that I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1192720,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "love is what you just said is that the\npeople that take me from you know one",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1196880,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "from zero to 100,000 from 100,000 to a\nmillion may not be the same people all",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1202080,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "along that journey. And there's another\nthing that I love is that people may",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1205520,
+    "dDurationMs": 5519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know my name. They may know my the\ncompany's name but they don't know your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1208559,
+    "dDurationMs": 4801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "story and they don't know a lot of\npeople probably don't know that this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1212160,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wasn't your first venture that you\nstarted either. You started a couple",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1215200,
+    "dDurationMs": 5359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ventures before this. What were some of\nthose lessons that you learned from the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1218799,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "previous ventures that allowed you to\nbuild the company that you have today?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1223120,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e The first venture was in sales, uh,\nwhich was awesome. Like if there's one",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1226640,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "skill that an entrepreneur needs, it's\nsales, right? And so, uh, I was selling",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1230880,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everything from it was promotional\nproducts. So, it was like branded mugs",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1234320,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and lanyards and t-shirts and those sort\nof things and and grew it to doing, you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1238240,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know, close to half a million a year and\nI was doing that out of my dorm room as",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1242080,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "well, right? So uh so that taught me\nsales which has been valuable all",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1246400,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "throughout my career. The next one was a\nwild journey. We were doing concussion",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1250960,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "research and we were testing athletic\nhelmets seeing how they performed.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1255200,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Started publishing our data and one of\nthe helmet manufacturers actually uh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1260640,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "came after me and said if you keep\npublishing your data we're gonna sue you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1264559,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for defamation.\n\u003e\u003e That is crazy. So that happened right at",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1267520,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the same time when I got accepted into\nthe business plant for Hilleion at at",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1271840,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Rice. And I was like, \"Okay, either I go\ndown this concussion path and I'm",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1275919,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "probably going to spend the next 5 years\nin a courtroom trying to defend research",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1279360,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and data or I can go down this path of\nbuilding electric se.\" So that was what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1284640,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "caused the the move over to uh to Hille.\nBut you know, each journey you're you're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1289520,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "learning and you take those those skills\nand whatever you learn and you bring it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1293200,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "into the next one. And and so I think\nit's go back to like Mr. Beast's quote",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1297440,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if he's like, \"Oh, if I had to start\nanother YouTube channel, like I could",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1300880,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "get a million followers instantly.\" Kind\nof a deal, right? It's because you're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1304720,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "able to take what you learn through that\njourney and then apply it to the next",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1308320,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thing you're doing.\n\u003e\u003e In today's world, if you had to start",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1311919,
+    "dDurationMs": 4961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "over to get into the tech industry, what\ncity are you going to? Because we're in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1315360,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Austin right now. I was but I was just\nin a coffee shop with someone recently",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1318720,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that I guess had built a successful tech\ncompany and he said he's moving back to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1322240,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "San Francisco cuz he said that that's\nkind of where it's heading back to like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1325600,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like that that's like where the heart is\nand it always will be. What are your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1328559,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "kind of thoughts on tech today and like\nwhat city you think that a young tech",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1332320,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "founder should be in today's world?\n\u003e\u003e I still love Austin. I do think so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1337120,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Austin has you can recruit people who\nhave been in startups before and then",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1342159,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the other thing is you can get people to\nmove to Austin. So, I remember being in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1346480,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pittsburgh. We would go make a job offer\nto someone that lived in Detroit and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1350720,
+    "dDurationMs": 5439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they'd be like, I have no interest in\nmoving to Pittsburgh, Pennsylvania.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1354320,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Like, I that's not a city I want to be\nin.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1356960,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e That's actually so good.\nThis is",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1360799,
+    "dDurationMs": 4721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e You talk to someone about Austin and\nthey're like, \"Oh, this is great.\" Now,",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1364159,
+    "dDurationMs": 3520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just don't bring them on a day like\ntoday where it's 100 something degrees",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1367120,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "outside, but\n\u003e\u003e take them paddle boarding, you know?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1368960,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Exactly. Right. And uh and so you know\nthe the ability to attract talent talent",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1374880,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to move to Austin is great. I think\nCalifornia still struggles with like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1379440,
+    "dDurationMs": 5359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there's a lot of people who would not\nwant to move to California",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1382240,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e in terms of like money raising though in\nterms of like money raising though. Do",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1386159,
+    "dDurationMs": 4321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you think San Fran is probably where the\nheart is still or is that in Austin as",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1389600,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "well?\n\u003e\u003e I think nothing compares to Sand Hill",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1392720,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Road out in California. That is, you\nknow, the place where venture",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1395760,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "capitalists are at and and will invest\nmoney. Uh, with that there's been a ton",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1401280,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of growth on the VC side in Austin and\nthe money's here to raise.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1405039,
+    "dDurationMs": 4721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Is that money coming in from California\nor just all all over?",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1408400,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e All over. I think you have New York\ncoming here as well, Boston coming here",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1411360,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "as well. I'll give you another story of\nuh we were raising our series A round of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1415440,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "financing in Pittsburgh once again and\nan investor flew in. We had the meeting",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1421200,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and he was like, you know, I like the\ncompany, but I don't want to have to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1424880,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "come to Pittsburgh every quarter for\nboard meetings. like I don't have any",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1428640,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "other companies here, right? They want\nto invest in an ecosystem where they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1432159,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "come in, they see five of the companies\nthey've invested in and they fly back",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1435360,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "home. And so you need to be in a a city\nwhere that's happening, where that's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1439440,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there's that like thriving ecosystem of\nstartups.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1442240,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e That's so interesting. It's like they're\nthey're not just concerned about coming",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1445280,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to meet your company. Like they want\nthey're they're that effective that it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1449120,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like I have five, six, seven ventures\nthat are out here. That's crazy.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1452640,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Wow.\n\u003e\u003e You you acquired a brand from GE. What's",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1456000,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it like to do? What's it like to\nnegotiate with a billion dollar company?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1459919,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e So, G is a uh is quite a company, right?\nAnd they are they are tough negotiators.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1464559,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Uh there was boardroom discussion on our\nend of like, okay, let's try to go",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1469760,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acquire this, but like if we're sitting\nhere in a year, we wouldn't be surprised",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1473200,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if like this hasn't happened and it's\njust taken a long time. Uh ultimately it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1477520,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "did take a long it was a long journey\nnorth of a year to make the acquisition",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1481279,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "happen but we did it and I mean now\nthat's become the foundation of our",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1485440,
+    "dDurationMs": 7839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "whole company and uh you know it's we\nwere we structured it where it was cash",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1490960,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and stock so G is actually one of our\nshareholders now in Hon and uh and then",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1496320,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when we made the acquisition all the IP\nall the technology and the team came",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1501200,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "over plus one of the really unique\nthings is some of technology is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1507039,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "piggybacked on things that GE has spent\nbillions of dollars inventing. So for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1512080,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "example, the fuel injection technology\nin our Carno is the same fuel injection",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1517440,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "or very similar technology to what's in\na jet engine. And GE has spent billions",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1521600,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of dollars inventing that. And so we\nwere able to kind of take this division",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1526159,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that ultimately tangentally had like\nbillions invested into it and stand up a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1531360,
+    "dDurationMs": 5679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "new way of making electricity. When you\nstarted Highleon, you were creating",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1535440,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "electric. It was an electric trucking\ncompany. Yeah. You're competing against",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1538480,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Tesla. You're competing against all\nthese, you know, big companies,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1541679,
+    "dDurationMs": 3921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e but you ultimately pivoted.\n\u003e\u003e Y",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1543679,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e how did you identify that opportunity in\nmore of the energy tech industry and and",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1547919,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what kind of was your framework for\nidentifying those opportunities? Cuz I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1551520,
+    "dDurationMs": 5519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think that's probably one of the most\nunderrated skills underrated skills",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1555039,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people can possess in today's world is\nthe ability to identify opportunities",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1558880,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and pivot at the right times. what what\nwas your framework for saying and and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1562559,
+    "dDurationMs": 5281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "before we even say that did you piss\nsome people off who had invested in the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1566000,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "company? uh we definitely got\nshareholder outreach that was like I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1569360,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "invested in an electric vehicle company\nthat's not what you guys are anymore",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1572880,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right and and so yes and and also the\nother thing to consider is being a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1577039,
+    "dDurationMs": 7361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "public company having uh funds that are\ninvesting you they have mandates on what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1581679,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they can invest in right so their their\ncorporate mandate might be you need to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1586159,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "be investing in the EV space and then we\ngo pivot and it's like well that's not a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1590320,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "space I can invest in anymore my you\nknow my mandate from from my fund",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1594640,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "doesn't allow for that So to frame up\nkind of how this all progressed. So",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1600000,
+    "dDurationMs": 7279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "started building electric semi-truckss.\nThen we we started working with GE on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1605200,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this generator technology that we viewed\nit as it was the way to charge the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1609440,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "batteries on the semi-truck. And then we\nmade that acquisition plan was we were",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1614559,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to commercialize both products,\nbring it to market. And then going back",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1618640,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to your question, we just we started\nseeing the the warning signs that the EV",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1623600,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "industry was falling apart. We saw close\ncompetitors trying to raise funds. They",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1628799,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "weren't able to raise it. We saw\ncompetitors starting to do layoffs. We",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1632559,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "saw competitors going bankrupt. And and\nit just started becoming this like,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1636880,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "okay, well, why are we going to be\ndifferent than these other companies?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1641360,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And it got to the point that if we kept\ngoing with the EV industry, we were",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1646159,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "betting on the fact that the market was\ngoing to turn around. And that's never a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1650640,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comfortable position to be in, right?\nyou you don't want it your future to be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1654400,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "destined or you know your destiny to be\nbased on well hopefully the the public",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1658400,
+    "dDurationMs": 7519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "markets are going to change and start\nyou know liking this journey and so at",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1662880,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that point you know we we met with CEO\nwe we had like a lot of discussion we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1667360,
+    "dDurationMs": 5439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "had we met with other CEOs of public\ncompanies and asked them like should we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1670559,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do a industry consolidation would that\nmake sense and and even at that stage",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1675200,
+    "dDurationMs": 4719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everyone was pretty bullish on no we\nlike the journey we're on and we're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1678399,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "betting on the public markets turning\naround uh I remember clear as day I was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1682480,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "out in Las Vegas sitting down with CEO\nand chairman of another EV stock and you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1688720,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know I was talking about how hey I I\nthink we're we're going to maybe move",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1692000,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "into other industries do we want to\nmerge our electric vehicle business",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1695679,
+    "dDurationMs": 7841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "together and and they the the example\nthe answer they gave was hey we're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1701039,
+    "dDurationMs": 5281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "confident that this industry is going to\nturn around and going to start",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1704640,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "supporting electric vehicles again we're\ngoing to keep going down our path months",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1709279,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "weeks later whatever it was Hilion did\nthe pivot out and we said, \"Hey, we're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1713200,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to do the hard but necessary\ndecision of shut down that entire",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1716399,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "division. It unfortunately came with big\nlayoffs through the it was like it was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1721200,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "an extremely extremely tough time.\" And\nuh and you know, you're you're the only",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1726000,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we were the only one in the industry\nthat was saying like let's get out of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1729039,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it. Everyone else was just keep keep\npushing forward. Fast forward a couple",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1733520,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "years later to today, I think all the\nother companies have actually gone",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1737679,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bankrupt by now. I I'm not I can't think\nof any that are still around. So,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1742399,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hindsight, yeah, we made the right\ndecision, but in the time when you're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1745919,
+    "dDurationMs": 5201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "talking to everyone else and everyone\nelse is still bullish and saying, \"No,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1749120,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just keep going.\" Uh, you're you're\nstaying up at night questioning whether",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1752640,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're doing the right thing or not.\n\u003e\u003e So, you made the pivot to focus. You're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1756320,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pretty much producing electricity is\nwhat you're doing. You're powering data",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1759600,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "centers. Can you break down your\nbusiness, exactly what it is that you're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1763200,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "doing to the people that may not\nunderstand it?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1765120,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah. So we have a technology that it\nbasically enables you to make your own",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1770080,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "electricity on site. So think about the\nbuilding we're sitting in today.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1774320,
+    "dDurationMs": 4479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Somewhere out back it's got an air\nconditioning system or on the roof it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1777279,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "got an air conditioning system providing\nthe AC for the building. Our view is the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1781840,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "future is going to be these same\nbuildings are going to have a generator",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1785520,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "outside that's producing the electricity\nto run the lights to to run the HVAC",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1789919,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "system and you're going to make it on\nsite. Now th this concept is called",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1794159,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "distributed power generation. We didn't\ninvent it. It's been around forever. Uh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1798000,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there's ton of research on like grid\nresiliency and everything is a lot",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1802080,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "better. The national security be if you\nyou know have distributed generation",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1806159,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "better all that. But the problem has\nbeen there's never been a technology",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1809360,
+    "dDurationMs": 9760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that could make electricity on site for\nas cheap as clean as efficient as big",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1816880,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "power plants were able to. That's been\nour unlock is we can provide you the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1821120,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "benefits of a big power plant but do it\nright out back at your facility.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1824960,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e And one of your customers is the US\nmilitary. How did that come about?",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1828480,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah. So, uh we are in an active program\nwith the Navy where we are actually",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1833440,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to be powering their autonomous\nunmanned vessels. And so, uh they just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1838399,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "unveiled video of what the ship looks\nlike. It's like this couple hundred foot",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1842159,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "long vessel that uh it's going to be\nfull of carno generators in it. And",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1846559,
+    "dDurationMs": 4881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we're the power plant. How did that\nconversation come about? Did they reach",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1849600,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "out to you? Did you have somebody that\nknew the people to hit up in the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1853039,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "military? What was that like?\n\u003e\u003e So, it actually started back in the GE",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1856399,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "days. And GE is obviously a big\ncontractor for the military. And the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1861120,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "military, what they were looking for is\nthey said, \"Hey, as we move to unmanned",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1865120,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vessels, there's no longer anyone on\nboard to do oil changes to the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1870080,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conventional engines and do the normal\nmaintenance.\" And so we need a system",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1873440,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that has ultra low maintenance so that\nwe can deploy a ship and maybe we don't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1878240,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have to see it for the next 6 months, a\nyear, whatever it is, however long",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1881039,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they're going to leave leave it out\nthere. So if it's a conventional gen set",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1885120,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like they've used in the past, they need\npeople on board to just maintain the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1889440,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "system. And so when they looked at what\nwe were doing, it was like, okay, well",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1893200,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this is something that doesn't need much\nmaintenance or doesn't require much",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1896320,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "maintenance. we can deploy it and uh and\nyou know kind of set it out and forget",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1900480,
+    "dDurationMs": 5199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about it and and let it run. And so\nthat's what got you know the interest",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1904159,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going. And then we've got a bunch of\nother benefits like the thing is truly",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1907760,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fuel agnostic. They actually make us\ntest the generator on diesel fuel that's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1912720,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "been 20% contaminated by salt water. So\nthink of that like you got, you know, if",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1917519,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you put salt water in your car engine,\nthe thing's not going to work, right?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1921200,
+    "dDurationMs": 5199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "You're going to be buying a new car. Uh\nthe military makes you go through those",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1924640,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "types of tests though because you know\nthey're they're putting vessels out",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1927919,
+    "dDurationMs": 4401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there that are going to get holes in the\nside of the hall and there's going to be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1931440,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "contamination.\n\u003e\u003e So it's 2025.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1934399,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "What other industries do you see as a\nwinner? If I'm a young founder wanting",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1938240,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's ambitious wanting to build\nsomething, what other industries are you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1941519,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like go all in on this?\n\u003e\u003e Yeah, this whole AI revolution I think",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1947279,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's going to shake up most industries\nthat are out there. So if you can figure",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1951039,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "out how to to be in the AI space or how\nto leverage AI, right, uh I think that's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1956320,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the right space to be in. Now our\napproach has been we're making the power",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1959840,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for AI for data centers. Uh but that's\njust one way to approach it. I mean if",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1964320,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you can figure out how to use AI to um\nto revolutionize an industry, a business",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1969120,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like that, that's where I would highly\nsuggest people look at and figure out",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1973039,
+    "dDurationMs": 7681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what can be your niche uh whether\nsupporting the AI industry or using AI",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1977519,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to disrupt a different industry.\nI'm I'm curious. You've you've made, you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1983120,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know, you had the previous ventures\nbefore this. You started Helion and now",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1987840,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're in the regenerative regenerative\npower space. If you could go back and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1992320,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just give the younger version of you one\npiece of advice when you're going",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1997440,
+    "dDurationMs": 3760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "public, you're going public and you're\nringing that bell. If you could go back",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1999919,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and give that version of yourself one\npiece of advice, what would it be?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2003120,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah, it would be realizing how fast\nmarkets can change, right? cuz we go",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2008960,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "public, the market valuation's about 10\nbillion. You're riding on Cloud9. Like,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2014240,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, everything's going in your\nyour direction. You know, if you had",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2018880,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "asked me then, could the stock have have\nfallen from north of $50 a share to sub",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2024720,
+    "dDurationMs": 5199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a dollar a share, I would have said, no,\nthat would be crazy, right? That would,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2027840,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, that happened to the that\nentire market, that entire EV industry.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2032799,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Uh it it went away, right? or it, you\nknow, in the electric in the semi-truck",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2037200,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "world, it pretty much went away. So that\nwould have been something I I I wouldn't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2041440,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have appreciated or underappreciated, I\nguess, where the markets will change. So",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2046320,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just because you have an idea that\npeople are willing to back right now,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2050079,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that might not be an idea they're\nwilling to back in 2 years. And you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2053919,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know, same thing if you go back in time,\nlike being in the power generation space",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2058399,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "probably wouldn't have been the best\ntiming or or best fit. Fast forward to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2062000,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "today, AI industry. Well, now being in\npower generation is a great fit.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2067040,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e How how do how do you get through that\nmentally by the way? Because I feel like",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2070639,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everybody they see, you know, oh, the\nthe market's down and you look like, oh,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2075040,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like the top CEOs on the Forbes list,\nthey just lost hundred billion dollars",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2079040,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "today. How how do you deal with that?\nJust seeing that price go down? Like I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2084320,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I'm I'm genuinely curious how you\nmentally get through that because I feel",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2087040,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like a lot of people would be biting\ntheir fingernails and and just not able",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2091440,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to handle that sort of pressure. I had\ndays where my personal net worth was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2096800,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "swinging hundreds of millions of\ndollars, right? So, you wake up in the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2100640,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "morning and you go to bed and you're\nworth $200 million less or $200 million",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2104800,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "more, right? Like,\n\u003e\u003e it was it was wild to wrap my head",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2108160,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "around. Now, one thing was\nit's it's not fully liquid or it's not",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2113760,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fully real, right? I mean, if if you're\nthe founder of a company and your net",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2118560,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "worth is tied into the stock of that\ncompany, you can't just go liquidate all",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2122560,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that overnight, right? That that's not\nfeasible. So, yeah, you're seeing these",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2126160,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "major fluctuations in what your shares\nare worth, but the amount of cash you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2130320,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have sitting in your balance sheet on,\nyou know, in your bank account isn't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2134079,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "changing, right? So that it's kind of\nthis it warps with your perception",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2137520,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because it's like well over here with my\nstock is swinging all over the place but",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2141440,
+    "dDurationMs": 4639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "my my\n\u003e\u003e like cash I'm good on on paper it's all",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2145440,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "over the place.\n\u003e\u003e Yeah. Um yeah but uh so I mean it it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2151119,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "crazy becoming you know the youngest\nself-made billionaire becoming the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2154880,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "youngest public company CEO but if you\nbreak it all down the mission the end",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2159920,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vision was still the same. we, you know,\nwanted to grow highly on one of our core",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2164400,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "values is we're going to go change the\nworld. None of that changed just because",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2168160,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "our stock was jumping all over the\nplace.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2170800,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e I I think what's really interesting is\nlike when I was getting started in the",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2174480,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrepreneurial journey, as I said, I\ndropped out of college and I had so much",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2178960,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pressure on me from from friends,\nfamily, just all these external voices",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2184640,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and just people saying like this is a\nmistake, you can't do this, like it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2188960,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not going to succeed. And like you like\nyou're a young founder and you're public",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2193520,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you you have a public company and now\nyou have all these people voices and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2197839,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "different pressures like all on you at\nonce and they're seeing your successes.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2203119,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "They're seeing the the losses. They're\nseeing just like you grow as a person.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2207280,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "How do you how are you kind of growing\nthrough that and kind of just like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2210960,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dealing with the pressure and silence of\nthe noise? Like is it you have a mentor",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2214480,
+    "dDurationMs": 5359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in your corner that is kind of backing\nyou? Is it just raw innate self-belief?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2218400,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like what was it that was keeping you\ngoing through those those times?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2222160,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e So, one is staying levelheaded, right?\nLike so yeah, enjoy the highs, but",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2227119,
+    "dDurationMs": 4801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "realize that they're probably going to\ngo away and then when you're in the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2230400,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lows, realize that those will probably\ngo away as well, right? So, you got to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2233520,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stay even keeled. I was very fortunate\nto have a great mentor and adviser that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2238400,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "helped me through the journey. Uh, I've\ngot a great board of directors who like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2243040,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I I've got a great relationship with\nthem where I can call them up, run ideas",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2247040,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "off of them, and like get their\nfeedback. So, ultimately, like I view it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2251440,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "as I'm early in my career. I'm 33 years\nold. I sure as hell do not know",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2256560,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everything. I got tons more to go go\nlearn. Yes, it's been an amazing journey",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2260560,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to get to where we are, but I hope, you\nknow, the next however many years of my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2264480,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "life are even more amazing of a journey.\nI view it as I I'm at this point where",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2269280,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like I need to be a sponge. I need to\nlearn from others and you know interact",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2273280,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with people and just like figure out\nokay well it's it's what you're doing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2276640,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "honestly. It's like how can I learn from\nthe people that are out there who've",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2279680,
+    "dDurationMs": 6399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "been through this before because maybe\ntheir story doesn't directly correlate",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2283760,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to to what I'm doing but I can probably\ntake something from them and uh and and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2288960,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apply it to what I'm dealing with in my\ndaily life. So be level-headed even keel",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2294240,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "don't don't overexaggerate the highs.\nDon't get too depressed on the lows. Uh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2298800,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and and learn from all those around you.\n\u003e\u003e Now, your first investor gave you a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2303200,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "piece of advice that I that I want to\nserve as a guiding principle for the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2307200,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "three of us and for everybody watching\nthis right now. Could you share with us",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2310560,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what your first investor told you?\n\u003e\u003e Yeah. So, I'll tell you who the guy is,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2313920,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Lily. So, he's uh he's a billionaire\nhimself. He's the family owner of Publix",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2319520,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "grocery store. Just an amazing guy. He\nran Publix. He he grew that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2324240,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "organization. Uh, so if anyone any of\nyour viewers are in Florida, they're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2327599,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "probably like raving Publix fans, right?\n\u003e\u003e Every every trip to to to Miami, there's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2332160,
+    "dDurationMs": 3679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Publix right there.\n\u003e\u003e Yeah.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2333760,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e And uh and so he was one of he and his\ndad were the driving force behind that.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2338240,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e And he said when he invested in\nHighland, he said",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2342079,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e winning is the only option. So so many\nfounders get wrapped up in man am I",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2347520,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to fail or if I do this could we\npotentially fail or that like in their",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2351200,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mindset is thinking about failures and\nhe said no you got to spend all your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2355839,
+    "dDurationMs": 7681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "time and just be totally relentless on\nfocusing on the only outcome of this is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2361280,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to be a win and so don't waste\nyour time worrying about failures just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2365359,
+    "dDurationMs": 3841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "focus on how you're going to make this\nthing successful.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2367520,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e It has to work or it has to work.\n\u003e\u003e Yeah. I mean that's that's the only",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2371040,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "option and like that's what gives you\nthe confidence of like no let's pivot",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2374720,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "out of this. Let's go try something\ndifferent or uh let's like you know",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2378720,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "let's do bold decisions uh to to try to\nmake this thing successful.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2383040,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e And and so you you learned early on that\nwith a lot of outside noise being that",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2387119,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're the youngest public CEOs that the\naverage age of a public CEO the average",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2390560,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "age of of a billionaire is probably in\ntheir 50s 60s. So so you're being",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2394560,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "underestimated you're being doubted\nbecause of your age. So you learned that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2397599,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you had to master your mindset above\nanything else.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2400079,
+    "dDurationMs": 8641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah. And I I view it as like\nthe the individual puts that age stigma",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2406560,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on themselves most of the time. Like I\nview it as like yeah, okay, I'm the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2410560,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "youngest person in this room, but like I\ndon't really care. I mean more of this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2414640,
+    "dDurationMs": 5439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is going to should be judged off of what\ncan I bring, what am I going to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2418400,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "contribute, and what am I going to be\nable to achieve. Doesn't matter how old",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2422480,
+    "dDurationMs": 4080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you are, right?\n\u003e\u003e There's something I love about that.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2424720,
+    "dDurationMs": 7359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "When I first got started in digital\nmarketing, my first ever business, I had",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2428960,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the the belief of I look, I'm 19 years\nold. I'm approaching these business",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2433359,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "owners that are, you know, in their 40s,\n50s, 60s, and why should they trust me?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2437839,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I don't have a lot of experience. And my\nmentor at the time said, Josh, you have",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2441520,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to realize that people do have a lot of\nexperience, but a lot of these people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2445599,
+    "dDurationMs": 3201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have a lot of experience doing things\nthe wrong way.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2447920,
+    "dDurationMs": 5679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Y\n\u003e\u003e and it doesn't matter how old you are.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2451839,
+    "dDurationMs": 5121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "It just matters in terms of what value\nyou can provide. and the problems that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2454800,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're able to solve.\n\u003e\u003e But I think it also goes along with and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2460560,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I think a great person for him to know\nis Mark Mlan who's here in Austin. He uh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2465520,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sold his first company to Oracle. He's\nnow the CEO of a publicly traded",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2468560,
+    "dDurationMs": 7759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "software company and uh they um just had\nI think like a 12 billion 14 billion",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2474720,
+    "dDurationMs": 3359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "valuation or something like that and\nhe's in his",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2476880,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e he's riding a high right now.\n\u003e\u003e Yeah, there you go. But but but he's in",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2480079,
+    "dDurationMs": 4641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "his 60s and he introduced us this\nconcept of reverse mentorship.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2484240,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Mhm.\n\u003e\u003e Where he understands that, hey, there's",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2486720,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a lot that he knows that maybe some of\nthe younger guys don't necessarily know,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2490400,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but he he knows and he's accepted the\nfact that a lot of the the younger guys",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2494240,
+    "dDurationMs": 5119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know a lot about stuff that he doesn't\nknow. And I think that the power is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2497280,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "being able to kind of embrace that. And\nso, like you said, you may go in a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2500720,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "boardroom where, you know, these guys\nare a lot older, but you bring a lot to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2504480,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the table that maybe they don't realize\nor maybe they do. when it's like then",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2507520,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everybody can kind of win together.\n\u003e\u003e Yep. Yeah. And a lot of people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2511359,
+    "dDurationMs": 5121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "underappreciate like the people who have\nbeen through this before, they want to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2514640,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "give back to the next generation, right?\nAnd so they want to be your mentor. I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2518640,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "remember like asking the guy who, you\nknow, mentored me through much of the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2523359,
+    "dDurationMs": 5121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "high journey like having that initial\ndiscussion of like I was going in like,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2527040,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "man, I'm going to ask this guy to be my\nmentor. I wonder if he's going to want",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2529760,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to invest the time. And he was actually\nthrilled that I was asking him to be,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2534000,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, my mentor, right? So, uh, if\nyou if you have people that you think,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2538560,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, you can learn from them,\nchances are they're probably willing to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2542640,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "impart their wisdom on you about what\nthey've experienced,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2545680,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e right? When we were talking earlier, we\nwere talking a bit about negotiation and",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2550400,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I asked you, you know, are you a good\nnegotiator? And you said, well, to be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2553040,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "able to raise over $700 million, you got\nto know a thing or two about",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2555680,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "negotiation.\nTalk to me about your and and Josh was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2559520,
+    "dDurationMs": 4079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "asking you about what was it like\nnegotiating with a billion dollar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2561920,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "company. We got into the conversation\nabout leverage and you talked about can",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2566240,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you tell me the story about how there\nwas a deal that was supposed to go",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2569040,
+    "dDurationMs": 4319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "through and the other side I wanted to\nget a little and what you had to and end",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2572079,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "up doing. What did you learn about\nnegotiation in that time?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2574880,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah. So if you're out raising capital,\nyou got to be on your toes, right? Like",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2578960,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "things are going to change instantly and\nyou got to be able to respond. So, we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2582640,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "were in this situation where we thought\nthe following day we were going to be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2586319,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "closing an investment at certain terms\nand uh it turns out spoke to that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2591760,
+    "dDurationMs": 5359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "investor 24 hours before closing and\nthey said, \"You know what? We're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2595920,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actually going to change the terms,\nchange the valuation on this round and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2599200,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh so we're still good to close\ntomorrow, right?\" And so they like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2602560,
+    "dDurationMs": 3759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sprung it on me and I was like, \"Man,\nthis this isn't good.\" Like this is not",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2606000,
+    "dDurationMs": 2480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it.\n\u003e\u003e So they wanted to change the terms last",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2607920,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "minute.\n\u003e\u003e Yes. Yep. And so for them, like they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2611359,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "viewed it as they had leverage cuz we\nwere in a position where our balance",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2615200,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sheet was getting low. We needed capital\nto in order to be able to survive,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2618720,
+    "dDurationMs": 6879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right? So they viewed it as, okay, we\ngot we got the ability to we're going to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2622720,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "get a bigger stake in this company.\nAs the story I was sharing with you is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2627599,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh we were fortunate that we had another\ninvestor who wanted to to put more money",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2632160,
+    "dDurationMs": 7679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "into the deal. And so I remember getting\non a flight, flying to Florida, landing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2637520,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "at like midnight. I'm driving to the\nhotel. I'm thinking about like, \"All",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2640720,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right, I'm going to meet this investor\nfor breakfast in the morning.\" And I'm",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2644000,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to say to him like, \"My ask is,\nwill you guys take over the lead round",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2648480,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in the lead position in this round and\ndo it on the old terms? And if you do,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2653280,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "then you can put as much capital into\nthis round as you want.\" Right? And uh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2657280,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and so sure enough, had that meeting,\nthe guy was like, \"Yep, I'm in. Let's do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2661280,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this.\" And uh and then you know then\nlater that day I called the the who was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2667119,
+    "dDurationMs": 4641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to be the lead investor and I said\nhey we've actually gone another path.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2670000,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "We're we got a different lead and we're\nwe're going you know with them. And so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2674640,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the moral of the story though is you got\nto have leverage and you got to have",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2679040,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "options, right? I mean if we didn't have\na backup option, another investor that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2683119,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was willing to kind of step in, what are\nyou going to do? You're just going to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2686640,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "say, \"Okay, I'll take the new terms, the\nnew valuation.\"",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2689680,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e I love that. and and if they don't\nsomebody else will the power of having",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2693280,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the options like you said.\n\u003e\u003e Yeah. So I mean that's been one of the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2697040,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "big learnings is uh you know and as\nyou're doing acquisitions as well you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2701520,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "got to understand what's happening at\nthat other company right we were in a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2706400,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "very unique position when we were\nacquiring that division out of GE",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2709440,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "aerospace where GE was going through a\ndevestature they were breaking their",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2713680,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "companies up into three and one of their\ninternal pushes was you know get rid of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2719599,
+    "dDurationMs": 7681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "R\u0026D activities reduce spend towards kind\nof like future investments let's let's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2725119,
+    "dDurationMs": 5521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "make the core business as positive as\npossible when they went through this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2728640,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "devestature. So that meant that the\ndivision that we acquired, right, there",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2732720,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was kind of an appetite on GE end to\nsell it versus if at that time GE was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2738160,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like, no, we see this as the future of\nour company, then they weren't going to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2741760,
+    "dDurationMs": 4319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sell it for the price they sold it to us\nfor, right? So you just got to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2744560,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "understand like, well, what's what are\nthe pain points and the leverage on the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2747839,
+    "dDurationMs": 4801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "other side as well?\n\u003e\u003e I know hindsight it's 2020, but looking",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2751359,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "back on the journey building your\ncompany today, is there anything that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2754640,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you would have done differently?\n\u003e\u003e Man, a lot of stuff that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2760160,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Um,\nyou know,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2763839,
+    "dDurationMs": 7121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the end answer is no, right? And and the\nreason being is because we've had an",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2769200,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "amazing journey and I think we've still\ngot an amazing journey ahead of us and a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2773440,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lot to go do. And you know, you talked\nabout earlier, 80% of companies fail,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2778800,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right? 80% of startups fail in a couple\nyears. A couple years.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2782160,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e And so, we're still here. We're still\nlisted on the New York Stock Exchange",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2786079,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "American. We're still out there. we're\nwe've got uh a lot of money still on our",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2790880,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "balance sheet to go make this dream and\nvision happen and we think we've got an",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2794720,
+    "dDurationMs": 7359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "awesome technology to go do it. So yes,\ncan you look back in the rearview mirror",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2799119,
+    "dDurationMs": 7841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and nitpick certain things? Absolutely.\nBut ultimately, would the company be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2805280,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "alive or be where it is today if you\ndidn't make some of those really bold",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2808240,
+    "dDurationMs": 6879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and strong decisions? Probably not. I\nwant to ask about because I I think",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2813119,
+    "dDurationMs": 7361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what's fascinating about the pivot is\nyou acquired a company from GE for a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2818000,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "massive amount of money. You know,\nthere's a big talk in today's world",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2822160,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about buying businesses.\n\u003e\u003e So, you love the idea of of acquisitions",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2826800,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and and adding adding that vertical\nenabled you to kind of move on from that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2830079,
+    "dDurationMs": 4801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "other division. So, I just wanted to\nkind of get your your thoughts on buying",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2833359,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "businesses in today's world.\n\u003e\u003e Yeah. And so, I know exactly what you're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2837599,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "talking about. What I what I've seen a\nlot is people talk about buying",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2841200,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "businesses that are like in that hey I'm\ndoing a couple of million of revenue and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2845200,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "then you come in you acquire it and you\ntalk and you look at how can I optimize",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2848400,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it to go grow it to 10 million in\nrevenue right ours was a little bit",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2852400,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "different where we were acquiring a tech\nthat was like hey we got to then go",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2857280,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actually commercialize this and bring it\nto market so for us that was a perfect",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2861440,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fit we had the R\u0026D capital needed to go\nbring it to market and and that's what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2865520,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we're doing right now But I think a lot\nof people who are maybe looking at",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2870079,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acquiring a company like wouldn't have\nthe many tens or hundreds of millions",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2874960,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "needed to go invest in that development\nof the tech, right? And so they're more",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2879040,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "looking at can I go acquire something\nthat I can optimize it to get it to a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2884480,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "point where you can probably sell it and\nget a pretty good return.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2887200,
+    "dDurationMs": 4879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e I think what's crazy about that\nacquisition is when you think of GE,",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2890800,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's one of the biggest companies in the\nworld. They're the ones buying",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2893520,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "companies, but you would have bought a\ncompany from them.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2895760,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah. It was a little reverse, right?\nYeah.",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2898079,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Um Yeah. And and it was it came down to\ntiming, right? It was if we were a",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2902559,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "couple years earlier, a couple years\nlater, it wouldn't have made sense. It",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2906319,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was, hey, this this opportunity made\nsense for GE and it made sense for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2910240,
+    "dDurationMs": 7359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hilleion and we were able to make the\ndeal happen. Um but that's where you got",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2915680,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to seize the opportunity when it's there\nbecause it might go away in in a day or",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2920480,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in 6 months or a year. And uh and so\ntiming is everything. If I was getting",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2925280,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ready to start a startup and I\napproached you almost like you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2928960,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "approached your mentors, the guy from\nPublix, and I said, \"Hey, could you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2933040,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mentor me? What would be two or three\nthings that you would tell me on day",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2936960,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "one? Know this?\"\nWell, so my first thing would actually",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2941599,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "be learn about what you need, right? And\nthat and and most mentors are great at",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2947040,
+    "dDurationMs": 5519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that. Like what I found is uh you know\nthey're not most people are not the type",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2951119,
+    "dDurationMs": 4401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that just come in and oh let me force\nthis down your throat and this is what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2953680,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you need to know. Like every situation\nis different. So I got to if if you got",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2957520,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a great mentor it's going to be let me\nunderstand what your needs are and what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2961200,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're struggling with and I can help uh\nyou know morph it in that way. One",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2965839,
+    "dDurationMs": 5361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "overarching\npiece of feedback though is and this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2969599,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "goes back to like the your question of\nlike acquiring companies is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2973680,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the startup journey. Not all companies\nare created equal. Some companies take a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2978720,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ton of cash to get to just being, you\nknow, able to have revenue. Some",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2982800,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "companies take very little capital in in\norder to start growing revenue. Some",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2987119,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "companies, if you're doing like\nsoftware, could, you know, get user",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2990480,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "viewership that like skyrockets. Other\ncompanies, like if you're doing lawn",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2994640,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "care, you're going to like one house at\na time, you're going to grow your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2997839,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business, right? So, you need to, and we\ntalked about this a little as well, like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3002240,
+    "dDurationMs": 5119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I think a lot of entrepreneurs have this\nlist on their phone of like the hundred",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3005440,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ideas of what they would go start or\nthings they could go start. Take your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3009520,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "top 10 ideas and look at like, okay, how\nmuch capital would it take to start",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3013920,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this? How long would it take to get to\nrevenue? How long would it take to get",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3017599,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to cash flow positive? And, you know,\nhow big is the company going to need to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3021359,
+    "dDurationMs": 7121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "be? Right? each. So, each business has a\ndifferent profile and then figure out",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3026160,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "which one works best for you, right?\nSome people are in for the I want to go",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3030480,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "raise hundreds of millions and and try\nto go grow a billion dollar company.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3035119,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Other people would look at and say, man,\nif I get like a million a year revenue",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3038720,
+    "dDurationMs": 4080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "company, I am I'm loving life, right?\nAnd so, you got to figure out what's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3042079,
+    "dDurationMs": 4641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "best for you.\n\u003e\u003e Yeah. If it if I if it was I want a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3045680,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "billion dollar company.\n\u003e\u003e Yep. Is there anything in particular",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3048400,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that you would say and I and and like\nyou need capital what would it be?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3053440,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e So you got to have a vision of something\nthat warrants that size of company,",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3057920,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right? So if if you wanted to go uh be,\nyou know, the billiondoll business of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3063200,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like I'm going to reinvent the pot on\nthat little flower there. Investors are",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3068079,
+    "dDurationMs": 3841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to look at you like, yeah, no, I\ndon't I don't think there's a billion",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3070720,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dollar market there. If you\n\u003e\u003e It's not exciting at all.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3073200,
+    "dDurationMs": 4639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah. And it's like that, you know,\nthere's there's no way you're going to",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3076559,
+    "dDurationMs": 4641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "maybe, but there's no way you're going\nto go make a billion dollar business out",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3079440,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of selling little, you know, pots for\nfor fake flowers.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3082720,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e So, you got to have that vision about,\nwell, where am I going, right? And and I",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3088240,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "share with you my vision of Hilleion.\nIt's I see that buildings like this,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3093040,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Walmarts, Home Depot, data centers are\nall going to have carnos outside of them",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3097200,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "making power. So, if you tell an\ninvestor that it's like, well, yeah,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3100559,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what uses electricity? Well, everything\nuses electricity. I can see this could",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3104319,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "be a a billion plus business, right?\n\u003e\u003e It's a large total total addressable",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3110079,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "market,\n\u003e\u003e right? Yep. And so you need to the size",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3113680,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of opportunity of what your vision kind\nof creates will allow you or not allow",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3119119,
+    "dDurationMs": 7121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you to go raise that amount of capital.\n\u003e\u003e With your with your past experiences in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3123839,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the automotive industry, where do you\nsee that industry going? Do you see it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3128720,
+    "dDurationMs": 4879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "being fully electric? like do you is\nthere any companies that you're kind of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3131839,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on the lookout for? What's kind of like\njust your take for the next 5 to 10",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3135440,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "years on the automotive industry?\n\u003e\u003e I think things keep shifting towards",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3139920,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "electric, it's just at a much slower and\nslower pace than what people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3144240,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "anticipated. Like I envision however far\nout it is, you know, whether it's a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3148960,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decade or five decades, I don't know\nwhat it is, but the the ideal household",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3154240,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is going to be one electric car and one\nhybrid car in the garage. So the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3158800,
+    "dDurationMs": 5519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "electric is a great commuter vehicle and\nthen the hybrid is when you need to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3162160,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "drive from Austin to Dallas, you can\ndrive using gasoline, you don't have to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3166000,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "worry about recharging the vehicle. Uh\nthat's where I think the the future is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3170000,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "heading. It's just the problem has been\nit's taken so much longer for adoption",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3174000,
+    "dDurationMs": 3280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to take place than what people thought.\nBut at the end of the day, it still is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3176960,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "happening.\n\u003e\u003e Why do you think that adoption is taking",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3179200,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "longer than we expected?\n\u003e\u003e Yeah, I think it's it's um",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3185280,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yeah. Well, one people are resistant to\nchange, right? That's that's uh the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3188880,
+    "dDurationMs": 5679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "first thing. And you know, I've I've\ntalked to people about like that example",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3192400,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of driving to Dallas and oh man, I'm\ngoing to have to stop and and recharge.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3196559,
+    "dDurationMs": 3681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And it's like, yeah, okay. A lot of\npeople just don't want to deal with that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3199839,
+    "dDurationMs": 3441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "headache.\n\u003e\u003e That that's my biggest thing. We have",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3201680,
+    "dDurationMs": 4080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like electric charger ports in our\napartment complex and I'm like, okay,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3204640,
+    "dDurationMs": 3679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "well, that'd be good for the dayto-day,\nbut it's like if I'm driving to Dallas,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3207040,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I don't want to have to stop for 30\nminutes and charge my car, right?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3209680,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah. Yeah. And I'll be honest, like,\nyou know, I was someone that was a huge",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3213359,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proponent of the electric vehicle\nindustry. when I would drive to Dallas,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3216559,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I would drive a gas powered car, not my\nTesla that I drive on a daily basis,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3220240,
+    "dDurationMs": 3920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just cuz I didn't want to deal with that\neither, right?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3222800,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Uh so I think that's been one of the\nhurdles. Um",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3225520,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e but then I think for the new entrance in\nthis space, the challenge has been it's",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3230319,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so capital intensive like I mean how\nmany billions I think it's north of 10",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3235119,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "billion has Rivian raised to try to to\nbring another electric vehicle company",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3239599,
+    "dDurationMs": 5121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to the market, right? Maybe maybe that's\nthe next billion dollar company right",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3242640,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there is a person who can f solve you\nknow the battery charging problem right",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3246640,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there you know instead of 30 minutes\nit's it's it's five minutes or three",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3251119,
+    "dDurationMs": 4081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "minutes you know\n\u003e\u003e yeah and there are people working on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3253359,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that right that's happening\n\u003e\u003e well Thomas we like to end these off",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3257119,
+    "dDurationMs": 4401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with two questions you got yeah I'll\nstart by asking man",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3260480,
+    "dDurationMs": 4079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e we've covered a lot\n\u003e\u003e a ton man this was extremely valuable",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3263280,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and for everybody that made it to this\npoint I know that they got a ton of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3265760,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "value out of this so this was incredible\nbut your last message to the younger",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3269599,
+    "dDurationMs": 4321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "generation if you could leave with them\none more kind of guiding principle to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3272800,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "take with them for the rest of their\nlives. this is the first time you know",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3275760,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "meeting hearing from Thomas Healey\ntoday. Um your last message to the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3279839,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "younger generation\n\u003e\u003e there something it's a quote at Carnegie",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3283760,
+    "dDurationMs": 8559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Melon that came from Andrew Carnegie. He\nsaid my heart is in the work and that to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3289599,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me that means whatever you're doing go\nall in on this. Make it your life. Like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3294880,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "my life revolves around high in my\ncompany right and uh and I love doing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3300079,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it. I wake up every morning and love\ndoing it. You have to be that committed",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3304000,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if you're going to go try to start\nsomething and go all in on it and go",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3308160,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "back to what we said earlier. Failure is\nnot an option, right? The only option is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3311680,
+    "dDurationMs": 4159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're going to win.\n\u003e\u003e Love it.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3313839,
+    "dDurationMs": 7681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e At the end of the day, if tomorrow was\nit, how would you want to be remembered?",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3318800,
+    "dDurationMs": 8559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah. My my goal is\na multi-deade",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3324559,
+    "dDurationMs": 7681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "longlasting company and we totally\ndisrupt how electricity is made.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3330160,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e I love it. Beautiful answer and\nbeautiful podcast, my friend. So, want",
+      "acAsrConf": 0,
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3334240,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to say to everybody right now, be sure\nto like and subscribe for amazing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3337599,
+    "dDurationMs": 4801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "content because every week we're\nbringing you guys the biggest and most",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3340400,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "successful business owners in the entire\nworld to give you guys the advice on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3343839,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what it takes to build a billion dollar\ncompany just like Thomas right here.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3347359,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "We're going to put the links down in the\ndescription to Thomas's Instagram so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3350799,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that way you guys can go follow him and\nfollow along with his journey as well as",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3355040,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "as well as we're also going to put the\nlink down to become a member of the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3358240,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "number one community for entrepreneurs\nin the entire world. We've built a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3361839,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "community of over 6,000 members, the\nmost powerful entrepreneur network in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3365280,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the world, where you guys get direct\naccess to the multi-millionaires and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3368799,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "billionaires we interview every single\nweek on live Zoom calls that we host,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3372079,
+    "dDurationMs": 3601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "where you ask your questions to the\nmillionaires and billionaires we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3374559,
+    "dDurationMs": 3760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interview, and they give you the\nplaybook, they give you the blueprint,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3376960,
+    "dDurationMs": 4639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they give you all the answers on what it\ntakes to make it in today's world. So,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3380160,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we can't wait to see you on the inside\nof the School of Mentors. But with that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3383520,
+    "dDurationMs": 4079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "being said, we'll see you in the next\nepisode.",
+      "acAsrConf": 0
+    } ]
+  } ]
+}

@@ -1,0 +1,3238 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 0,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I remember to this day my father lifting\nme onto his shoulders and we looked over"
+    } ]
+  }, {
+    "tStartMs": 4200,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the wall of the big house to watch the\nhelicopter land. I remember saying,"
+    } ]
+  }, {
+    "tStartMs": 7480,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\"Dad, I want one of those one day.\" And\nfor the people watching right now, where"
+    } ]
+  }, {
+    "tStartMs": 10880,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "are you heading after this podcast?\n\u003e\u003e I'm going back up to Yorkshire for a"
+    } ]
+  }, {
+    "tStartMs": 13960,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "meeting by helicopter. The man that\nbuilt the company HomeServe into a"
+    } ]
+  }, {
+    "tStartMs": 17840,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "company that sold for 4.1 billion, not\ndollars, pounds."
+    } ]
+  }, {
+    "tStartMs": 21960,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Proper money. You approach somebody to\nput more money into the company for this",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 25800,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "money like we'll give you 10% of the\ncompany. If he'd had 10% of HomeServe"
+    } ]
+  }, {
+    "tStartMs": 29560,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when we sold, it'd been worth 400\nmillion pounds. Every day he regrets the"
+    } ]
+  }, {
+    "tStartMs": 35380,
+    "dDurationMs": 5180,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[music] decision. That one hurts.\nRichard, if me and you died tomorrow and"
+    } ]
+  }, {
+    "tStartMs": 39120,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you had one more message to leave with\nthe younger generation, what would that"
+    } ]
+  }, {
+    "tStartMs": 42000,
+    "dDurationMs": 3240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "be? That would be"
+    } ]
+  }, {
+    "tStartMs": 46000,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "What's going on everyone? Welcome back\nto the School of Hard Knocks podcast."
+    } ]
+  }, {
+    "tStartMs": 49520,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I'm James and I'm here with Jack and\nJosh and we have an incredible guest for"
+    } ]
+  }, {
+    "tStartMs": 54520,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you all today. Our first podcast ever in\nLondon. The man that built the company"
+    } ]
+  }, {
+    "tStartMs": 59360,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "HomeServe into a company that sold for\n4.1 billion, not dollars, pounds."
+    } ]
+  }, {
+    "tStartMs": 64600,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Proper money. Proper money. There we go.\nYou built this company from the ground",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 69160,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "up, only took investment twice, and you\nbuilt an incredible company, you know,"
+    } ]
+  }, {
+    "tStartMs": 73360,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emergency home services, plumbing.\nEverybody worries about a plumbing"
+    } ]
+  }, {
+    "tStartMs": 78080,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emergency and difficult to get somebody\nthat will come out straight away and"
+    } ]
+  }, {
+    "tStartMs": 82080,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "then most people be landed with a big\nrepair bill. Where I want to get things"
+    } ]
+  }, {
+    "tStartMs": 86160,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "started today is a lot of people come to\nthat realization that the only way that"
+    } ]
+  }, {
+    "tStartMs": 90480,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they're going to build generational\nwealth and really become wealthy is when"
+    } ]
+  }, {
+    "tStartMs": 93840,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they're in their later in life, right?\n30s, 40s, 50s, right? Where they've"
+    } ]
+  }, {
+    "tStartMs": 97480,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "worked their entire lives in corporate\nAmerica. You had your realization at"
+    } ]
+  }, {
+    "tStartMs": 101000,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "four [snorts] years old. Richard, take\nme You're 61 today. Take us back to four"
+    } ]
+  }, {
+    "tStartMs": 105760,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "years old. I feel really old compared to\nyou three guys. So,"
+    } ]
+  }, {
+    "tStartMs": 110280,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but yeah,\nI was born in the north of England and I"
+    } ]
+  }, {
+    "tStartMs": 113880,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "remember to this day my father lifting\nme onto his shoulders and we looked over"
+    } ]
+  }, {
+    "tStartMs": 118520,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the wall of the big house and watched\nthe helicopter land. I remember saying,"
+    } ]
+  }, {
+    "tStartMs": 122640,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\"Dad, I want one of those one day.\" And\nhe said, \"Don't be in the civil service"
+    } ]
+  }, {
+    "tStartMs": 126960,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like me earning a pittance. You need to\nrun your own business.\" I found out"
+    } ]
+  }, {
+    "tStartMs": 131160,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "three years later it was Lord Hanson,\nthe famous industrialist of the 1960s,"
+    } ]
+  }, {
+    "tStartMs": 136440,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "flying his helicopter in to have lunch\nwith his parents on a Sunday. And he was"
+    } ]
+  }, {
+    "tStartMs": 140720,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "my influence. I knew age four I wanted\nto be an entrepreneur even though at the"
+    } ]
+  }, {
+    "tStartMs": 145400,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "time I didn't know the word. And for the\npeople watching right now, where are you"
+    } ]
+  }, {
+    "tStartMs": 149000,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "heading after this podcast? I'm I'm\ngoing back up to Yorkshire for a meeting"
+    } ]
+  }, {
+    "tStartMs": 153480,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "by helicopter from\nBattersea Heliport and then I'm flying"
+    } ]
+  }, {
+    "tStartMs": 158640,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to\none of my portfolio businesses I'm"
+    } ]
+  }, {
+    "tStartMs": 161760,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "invested in in Exeter back to London\nthis evening. So, Richard, you had that"
+    } ]
+  }, {
+    "tStartMs": 165840,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fundamental realization about becoming\nan entrepreneur, working for yourself,"
+    } ]
+  }, {
+    "tStartMs": 169680,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "at four years old. But tell us a little\nbit about growing up. Did you end up"
+    } ]
+  }, {
+    "tStartMs": 173560,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "working any jobs? Did you think about\ngoing into engineering at any point in"
+    } ]
+  }, {
+    "tStartMs": 176440,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "time like your dad or kind of what was I\nknow that you started a kennel business."
+    } ]
+  }, {
+    "tStartMs": 180880,
+    "dDurationMs": 3960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Tell us about some of those early\ncompanies that you started."
+    } ]
+  }, {
+    "tStartMs": 182840,
+    "dDurationMs": 9200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah, I wanted to get into business\nright away and so",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 188280,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I got a as a present from my grandfather\na New Zealand white rabbit and I"
+    } ]
+  }, {
+    "tStartMs": 193840,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thought, \"How can I make money out of\nthat? I'll buy a second one, get them"
+    } ]
+  }, {
+    "tStartMs": 197440,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "breeding, sell those rabbits to my\nfriends at school. Once I've sold them"
+    } ]
+  }, {
+    "tStartMs": 202040,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all a rabbit, then I thought, \"How can I\nmake more money? Well, they go on"
+    } ]
+  }, {
+    "tStartMs": 205680,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "holiday every year, so I will run a\nrabbit kennels and charge them for"
+    } ]
+  }, {
+    "tStartMs": 209520,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "looking after the rabbit when they bring\nit to me when they're on holiday.\" That"
+    } ]
+  }, {
+    "tStartMs": 213040,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "then turned into a Ricardo, the famous\nmagician of the north, and I became a"
+    } ]
+  }, {
+    "tStartMs": 218960,
+    "dDurationMs": 9320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "children's magician. And\nprobably my first business was Most kids"
+    } ]
+  }, {
+    "tStartMs": 225120,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "age 12 in the UK in those days would\nhave been making"
+    } ]
+  }, {
+    "tStartMs": 229840,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Airfix sort of plastic models. I wanted\nto do something that would make money. I"
+    } ]
+  }, {
+    "tStartMs": 234560,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "got a friend who was a fisherman and\nI thought that was a bit boring. But he"
+    } ]
+  }, {
+    "tStartMs": 239800,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tied flies for fishing and I thought, \"I\ncan do that. And if I tie these flies, I"
+    } ]
+  }, {
+    "tStartMs": 244760,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can then sell them onto the local\nfishing tackle shop and then thought,"
+    } ]
+  }, {
+    "tStartMs": 248640,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\"They're making money in selling me the\nmaterials and buying back the ready-tied"
+    } ]
+  }, {
+    "tStartMs": 253360,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "flies. I'm going to cut them out and set\nup a mail order fly tying material"
+    } ]
+  }, {
+    "tStartMs": 259040,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business.\" And\nso I did that. This was in the days well"
+    } ]
+  }, {
+    "tStartMs": 262640,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "before the internet and I believe in\nmarket research. My market research cost"
+    } ]
+  }, {
+    "tStartMs": 268080,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me 8 pounds. It was 20 words in the back\nof Trout and Salmon magazine saying,"
+    } ]
+  }, {
+    "tStartMs": 273600,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\"Fly tying tackle products, ring up for\nyour free catalog.\" I didn't have one."
+    } ]
+  }, {
+    "tStartMs": 279120,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "That was my market research. I wanted to\nknow that people would call. 30 people"
+    } ]
+  }, {
+    "tStartMs": 283560,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "called. I printed a catalog and that was\nmy first proper business. The big"
+    } ]
+  }, {
+    "tStartMs": 288640,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "frustration was I didn't meet any of my\ncustomers. So, I thought I need to do a"
+    } ]
+  }, {
+    "tStartMs": 293240,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pop-up stand at the National Game Fair.\n100,000 fishermen"
+    } ]
+  }, {
+    "tStartMs": 298480,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and so I met some of my customers. It\nwas at the very first Game Fair that the"
+    } ]
+  }, {
+    "tStartMs": 303000,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wives and girlfriends and sisters of all\nthose fishermen said, \"Ooh, those"
+    } ]
+  }, {
+    "tStartMs": 307840,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fishing flies would make really nice\nearrings.\" That was my second bit of"
+    } ]
+  }, {
+    "tStartMs": 312080,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "market research done. Off with the end\nof the hook, on with kidney wires, and I"
+    } ]
+  }, {
+    "tStartMs": 317120,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pivoted into my next business, high\nfashion jewelry. I was going to call"
+    } ]
+  }, {
+    "tStartMs": 322520,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "these earrings danglers.\nThere was a free marketing consultant, a"
+    } ]
+  }, {
+    "tStartMs": 326480,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "government scheme came out and said,\n\"Richard, you can't possibly call these"
+    } ]
+  }, {
+    "tStartMs": 330960,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "earrings danglers. That infers something\nunseemly and organic and I suggest that"
+    } ]
+  }, {
+    "tStartMs": 336360,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you call them hookers.\" So, with my 100\npounds marketing budget, enough to print"
+    } ]
+  }, {
+    "tStartMs": 340600,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "100 press releases, \"Hookers set to hit\nUK high streets.\" Tens of thousands of"
+    } ]
+  }, {
+    "tStartMs": 345920,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "teenage girls rushed out to buy hookers\nearrings in hair salons up and down the"
+    } ]
+  }, {
+    "tStartMs": 350480,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "UK, but after six months it ended.\nAnd that was not going to be the big"
+    } ]
+  }, {
+    "tStartMs": 356040,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business that bought me my first\nhelicopter. I ended up going to work for"
+    } ]
+  }, {
+    "tStartMs": 360680,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Procter \u0026 Gamble in marketing for nearly\nfour years,"
+    } ]
+  }, {
+    "tStartMs": 364120,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "learning the business, but I wanted to\nkeep my entrepreneurial hand in."
+    } ]
+  }, {
+    "tStartMs": 368280,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And the big opportunity was buying\nhouses and renting them out by the room,"
+    } ]
+  }, {
+    "tStartMs": 374120,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "40 pounds a week. Did that with a\nbusiness partner. We bought about 10"
+    } ]
+  }, {
+    "tStartMs": 378240,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "houses.\nAnd you know what the biggest problem"
+    } ]
+  }, {
+    "tStartMs": 380400,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was? Always on a Friday evening, phone\nwould ring, one or two of the tenants"
+    } ]
+  }, {
+    "tStartMs": 385360,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "saying, \"We've got a blocked drain or\nwe've got water pouring out of a"
+    } ]
+  }, {
+    "tStartMs": 390560,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "radiator.\" You could not get a Geordie\nplumber in Newcastle upon Tyne for love"
+    } ]
+  }, {
+    "tStartMs": 395560,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nor money on a Friday evening in\nNewcastle. They're all out drinking"
+    } ]
+  }, {
+    "tStartMs": 398600,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "beer. So, we thought that's the big\nopportunity. We'll set up an emergency"
+    } ]
+  }, {
+    "tStartMs": 403320,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "plumbing business. We'll call it A1 Fast\nFix to get in the front of the Yellow"
+    } ]
+  }, {
+    "tStartMs": 407280,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Pages section.\nWe put our life savings into the"
+    } ]
+  }, {
+    "tStartMs": 410680,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business. How much money did you put in?\n50,000 pounds between us."
+    } ]
+  }, {
+    "tStartMs": 414960,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And literally saw the money go down the\ndrain in six months. I I I I want to"
+    } ]
+  }, {
+    "tStartMs": 419560,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "touch on that. I believe that like when\nthe money drained down, you actually you"
+    } ]
+  }, {
+    "tStartMs": 424680,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "approached somebody to put more money\ninto the company and you he kind of gave"
+    } ]
+  }, {
+    "tStartMs": 429440,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "them an ultimatum. It was just kind of\nlike, \"Hey, you know, for this money"
+    } ]
+  }, {
+    "tStartMs": 433040,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like we'll give you 10% of the company\nor we'll do 20% interest.\" Could you"
+    } ]
+  }, {
+    "tStartMs": 437640,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tell that story a little bit and how how\nmaybe that turned out? Yeah, this is um"
+    } ]
+  }, {
+    "tStartMs": 442480,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in end of 1992, there was a knock on the\noffice door. Bailiffs. And they they"
+    } ]
+  }, {
+    "tStartMs": 448960,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "were there to take away our office\nfurniture and computers because we"
+    } ]
+  }, {
+    "tStartMs": 452160,
+    "dDurationMs": 9440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hadn't paid the VAT bill.\nAnd um so we managed to say, \"Don't take"
+    } ]
+  }, {
+    "tStartMs": 459960,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "away our computers and office furniture.\nWe will um agree a repayment plan.\" I"
+    } ]
+  }, {
+    "tStartMs": 465600,
+    "dDurationMs": 10120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "had a friend called Simon Blunt and he\nlent me 10,000 pounds. And he saved the"
+    } ]
+  }, {
+    "tStartMs": 473240,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "saved the business from the bailiffs\nand he had the opportunity to either get"
+    } ]
+  }, {
+    "tStartMs": 477840,
+    "dDurationMs": 10480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "20% interest rate or 10% of the company.\nHe chose 20% interest rate. I paid him"
+    } ]
+  }, {
+    "tStartMs": 484920,
+    "dDurationMs": 8960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "back 10,000 pounds plus 3,000 pounds\nprofit a year later. If he'd had 10% of"
+    } ]
+  }, {
+    "tStartMs": 491560,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "HomeServe when we sold, it'd been worth\n400 million pounds. It's crazy."
+    } ]
+  }, {
+    "tStartMs": 496960,
+    "dDurationMs": 8840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Every day he regrets the decision. But\nwe're still friends and",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 503560,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's what matters. That one hurts.\nThat one hurts here that you have that"
+    } ]
+  }, {
+    "tStartMs": 507520,
+    "dDurationMs": 5639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "opportunity and it's like it's almost\nlike people that invest into Amazon or"
+    } ]
+  }, {
+    "tStartMs": 511560,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to these big companies where they lend\nthem money and they ended up taking out"
+    } ]
+  }, {
+    "tStartMs": 515640,
+    "dDurationMs": 6839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the interest instead of equity.\nOne of the things that I'm curious about"
+    } ]
+  }, {
+    "tStartMs": 519200,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is you had put 50,000 dollars in, you\ngot an additional loan. What was going"
+    } ]
+  }, {
+    "tStartMs": 524720,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on with that early business model that\njust wasn't working and then how did you"
+    } ]
+  }, {
+    "tStartMs": 528120,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "end up pivoting to finding something\nthat did actually work? The cost of the"
+    } ]
+  }, {
+    "tStartMs": 531080,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yellow Pages was too high. People only\nhave a plumbing emergency every five"
+    } ]
+  }, {
+    "tStartMs": 535000,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "years, so there was no repeat business,\nso the business model didn't work. I"
+    } ]
+  }, {
+    "tStartMs": 539480,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "came across a a little water company in\nthe south of England that had developed"
+    } ]
+  }, {
+    "tStartMs": 544160,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "plumbing insurance cover. I copied the\nmodel,"
+    } ]
+  }, {
+    "tStartMs": 548440,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "improved it, so we added in uh\nblocked drain cover, internal plumbing"
+    } ]
+  }, {
+    "tStartMs": 553560,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "emergency cover, and then we signed up a\nanother water company to use their brand"
+    } ]
+  }, {
+    "tStartMs": 559720,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "name and literally with the last 10,000\npounds before the business went bust, we"
+    } ]
+  }, {
+    "tStartMs": 565240,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sent out a mail shot\nto 1,000 customers and we knew the"
+    } ]
+  }, {
+    "tStartMs": 571400,
+    "dDurationMs": 9440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business with 23 people in it was about\nto be closed down and we got 38 people"
+    } ]
+  }, {
+    "tStartMs": 577320,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sent in a check for 50 pounds. A 3.8%\ntake-up from direct mail. I remember"
+    } ]
+  }, {
+    "tStartMs": 582840,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "getting on my office desk in front of\nthose 23 people that were fearful of"
+    } ]
+  }, {
+    "tStartMs": 587040,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "losing their jobs and said, \"Yes, we've\nmade it.\""
+    } ]
+  }, {
+    "tStartMs": 591440,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And literally almost the rest is\nhistory."
+    } ]
+  }, {
+    "tStartMs": 594000,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "We went from losing half a million\npounds in that first full year"
+    } ]
+  }, {
+    "tStartMs": 598360,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "making three quarters of a million\npounds in the following year. We went to"
+    } ]
+  }, {
+    "tStartMs": 602040,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all the water companies in the UK and\nsaid"
+    } ]
+  }, {
+    "tStartMs": 605720,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we've developed this affinity branding\nmodel. We want to use your brand name"
+    } ]
+  }, {
+    "tStartMs": 609840,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like Thames Water\nand your customer list and we'll give"
+    } ]
+  }, {
+    "tStartMs": 614040,
+    "dDurationMs": 8600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you a commission every year a customer\nsigns up and every year they renew on"
+    } ]
+  }, {
+    "tStartMs": 619480,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "our annual AAA cover for the home.\nAnd that was the magic model."
+    } ]
+  }, {
+    "tStartMs": 624840,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "But I can't take the credit for that\nidea."
+    } ]
+  }, {
+    "tStartMs": 627720,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I copied the idea, improved it, and then\nscaled it. Richard, we were talking"
+    } ]
+  }, {
+    "tStartMs": 632480,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about this earlier that you know, we're\ntaught in school growing up that to copy"
+    } ]
+  }, {
+    "tStartMs": 637200,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "someone else's work is a bad thing,\nright? But you kind of have that"
+    } ]
+  }, {
+    "tStartMs": 640520,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fundamental belief that it's I think\nkind of one of your rules on how to make"
+    } ]
+  }, {
+    "tStartMs": 644000,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a billion dollars is that find something\nthat works, emulate it, copy it, and"
+    } ]
+  }, {
+    "tStartMs": 648680,
+    "dDurationMs": 3040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just find a way to make it better. Can\nyou teach us your philosophy on that"
+    } ]
+  }, {
+    "tStartMs": 651480,
+    "dDurationMs": 2960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "real quick?\n\u003e\u003e Yeah, how many people do we hear out"
+    } ]
+  }, {
+    "tStartMs": 653200,
+    "dDurationMs": 6392,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there and they say, \"Well, I had a great\nbusiness idea, then I found out somebody"
+    } ]
+  }, {
+    "tStartMs": 657080,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "done it, so I didn't do it.\"\n\u003e\u003e [clears throat]"
+    } ]
+  }, {
+    "tStartMs": 660080,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e My message to them is that's great. If\nsomebody's doing it, it works.",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 665080,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Copy what they're doing, do it slightly\nbetter, and then think bigger. So,"
+    } ]
+  }, {
+    "tStartMs": 670440,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "absolutely copying is um good. That's\nthe step number one to building a"
+    } ]
+  }, {
+    "tStartMs": 675960,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "billion-pound or billion-dollar\nbusiness. So, before we go any deeper in"
+    } ]
+  }, {
+    "tStartMs": 679360,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this podcast, give us the nine steps to\nmaking a billion pounds in today's"
+    } ]
+  }, {
+    "tStartMs": 684600,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "world. Give us the nine steps right\nhere. Copy and pivot is number one."
+    } ]
+  }, {
+    "tStartMs": 687680,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Number two is get an investor, but get\nthe investor when you want to scale."
+    } ]
+  }, {
+    "tStartMs": 692680,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bootstrap your business until you prove\nyour model, otherwise you need to give"
+    } ]
+  }, {
+    "tStartMs": 696320,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "away too much of the equity. Number\nthree get some coachman. That means get"
+    } ]
+  }, {
+    "tStartMs": 701240,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a paid business coach, get a free\nmentor, uh somebody with the gray hairs"
+    } ]
+  }, {
+    "tStartMs": 705839,
+    "dDurationMs": 8121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like me that has made all mistakes and\ngot some learnings that they could apply"
+    } ]
+  }, {
+    "tStartMs": 711440,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to your business. That was part of my\nmodel in getting help from Nigel Morris"
+    } ]
+  }, {
+    "tStartMs": 716480,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when I wanted to scale America.\nNumber four"
+    } ]
+  }, {
+    "tStartMs": 720640,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bricks and clicks and paper.\nAnybody would think we're in a digital"
+    } ]
+  }, {
+    "tStartMs": 724800,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "marketing world, but actually direct\nmail shots still work. Think about your"
+    } ]
+  }, {
+    "tStartMs": 730480,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "letterbox at home and your doormat. Far\nless direct mail today than 10 years"
+    } ]
+  }, {
+    "tStartMs": 735400,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ago, therefore you get a bigger share of\nthe doormat, more likely for that direct"
+    } ]
+  }, {
+    "tStartMs": 740880,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mail shot to make it to the coffee table\nor the kitchen table."
+    } ]
+  }, {
+    "tStartMs": 745280,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So, combine it with online marketing,\nwhich today is really expensive. Junk"
+    } ]
+  }, {
+    "tStartMs": 749800,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mail today is emails. Think of our\ninboxes, absolutely crammed with those,"
+    } ]
+  }, {
+    "tStartMs": 754880,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so do direct mail.\nAnd bricks"
+    } ]
+  }, {
+    "tStartMs": 758920,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "every business should have a physical\npresence."
+    } ]
+  }, {
+    "tStartMs": 762000,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "That doesn't need to be your own retail\nstore, it could be get your products"
+    } ]
+  }, {
+    "tStartMs": 765720,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "into somebody else's store, into um a\ndepartment store where you can showcase"
+    } ]
+  }, {
+    "tStartMs": 771120,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your products. Some people will go there\nand say, \"Great products.\" But they go"
+    } ]
+  }, {
+    "tStartMs": 775680,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to the um uh the website and buy it B2C\nonline from uh that original company."
+    } ]
+  }, {
+    "tStartMs": 781720,
+    "dDurationMs": 10080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Step five is\nhire your replacement. Entrepreneurs are"
+    } ]
+  }, {
+    "tStartMs": 788440,
+    "dDurationMs": 8600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "loads of ideas, need to focus. Hire a\nproven chief exec. That doesn't mean"
+    } ]
+  }, {
+    "tStartMs": 794200,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "leave your business. Step up to work on\nthe business rather than in your"
+    } ]
+  }, {
+    "tStartMs": 799360,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business. Step six go global with\nlocals. Really important in the UK cuz"
+    } ]
+  }, {
+    "tStartMs": 804760,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we're a small island and we need to be\nexpanding our business proven business"
+    } ]
+  }, {
+    "tStartMs": 810760,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to America, which is the great dream for\nmost British entrepreneurs to be over"
+    } ]
+  }, {
+    "tStartMs": 815680,
+    "dDurationMs": 10120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there. But get the business model right\nand then hire locals in the country."
+    } ]
+  }, {
+    "tStartMs": 822560,
+    "dDurationMs": 9080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Americans buy from Americans. Don't have\na Brit running your American business."
+    } ]
+  }, {
+    "tStartMs": 828360,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Step number seven is evolution, not\nrevolution."
+    } ]
+  }, {
+    "tStartMs": 833240,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Let's think of all those businesses that\ndidn't keep evolving like Blockbuster"
+    } ]
+  }, {
+    "tStartMs": 837960,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Video\nlike BlackBerry. They are dead or a"
+    } ]
+  }, {
+    "tStartMs": 842040,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "shadow of their former selves. You've\ngot to keep your model evolving,"
+    } ]
+  }, {
+    "tStartMs": 846040,
+    "dDurationMs": 7919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "otherwise you will die. Step eight\nis if we had a show of hands, who has a"
+    } ]
+  }, {
+    "tStartMs": 852079,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to-do list? Most people would put their\nhand up cuz business is about getting"
+    } ]
+  }, {
+    "tStartMs": 856079,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stuff done. How many people have got a\nnot-to-do list? I didn't have. I learned"
+    } ]
+  }, {
+    "tStartMs": 862240,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I've got to have one.\nA not-to-do list is more important than"
+    } ]
+  }, {
+    "tStartMs": 866520,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a to-do list. The answer is you need\nboth. But entrepreneurs have too many"
+    } ]
+  }, {
+    "tStartMs": 872079,
+    "dDurationMs": 7121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ideas, they need to be focused on a\nsingle idea and executing it really"
+    } ]
+  }, {
+    "tStartMs": 877400,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "well. And\nstep number nine is"
+    } ]
+  }, {
+    "tStartMs": 882560,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hone your character.\nIt's about the personal characteristics"
+    } ]
+  }, {
+    "tStartMs": 886480,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of the founder entrepreneur. I used to\ndo performance reviews with all of my"
+    } ]
+  }, {
+    "tStartMs": 890800,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "team and make sure they're enforced.\nWhat are you good at? What are you bad"
+    } ]
+  }, {
+    "tStartMs": 895480,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "at? Everybody would leave those meetings\nmiserable, particularly me when I used"
+    } ]
+  }, {
+    "tStartMs": 899560,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to have them with my chairman.\nUh I was bad at loads of stuff, only"
+    } ]
+  }, {
+    "tStartMs": 902800,
+    "dDurationMs": 9560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "good at a few things. And I learned hone\nyour character, focus on your strengths."
+    } ]
+  }, {
+    "tStartMs": 909800,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Hire people to do the things that we\ndon't like doing, that we're not good"
+    } ]
+  }, {
+    "tStartMs": 914320,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "at. Other people can do them much\nbetter. Masterclass."
+    } ]
+  }, {
+    "tStartMs": 918560,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Absolutely. And And Richard, I want to\ndive into a little uh a lot of those"
+    } ]
+  }, {
+    "tStartMs": 922360,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "steps deeper, but I want to touch on\nsomething that we were talking about"
+    } ]
+  }, {
+    "tStartMs": 925320,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "before. Um you broke down the nine steps\nof how to make a"
+    } ]
+  }, {
+    "tStartMs": 928760,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a billion-pound business. Uh you know,\nwe're talking about you don't have to"
+    } ]
+  }, {
+    "tStartMs": 932320,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "necessarily reinvent the wheel. Often\ntimes like some of the most successful"
+    } ]
+  }, {
+    "tStartMs": 935440,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "companies aren't reinventing the wheel.\nYou know, we work with a ton of content"
+    } ]
+  }, {
+    "tStartMs": 938959,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "creators and we almost say that like,\n\"Hey, if you want to get really good at"
+    } ]
+  }, {
+    "tStartMs": 942000,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "content, you know, trying to just come\nup with an idea of like a really good"
+    } ]
+  }, {
+    "tStartMs": 946440,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "content page might not be the best route\nto success. It's better to look at the"
+    } ]
+  }, {
+    "tStartMs": 950040,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "market and see like what content is\nreally hot and proven and trending and"
+    } ]
+  }, {
+    "tStartMs": 954560,
+    "dDurationMs": 4519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "being able to take that and be like,\n\"You know what? I think I can make a"
+    } ]
+  }, {
+    "tStartMs": 957120,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "video like that, but in my niche or with\nmy own spin on it.\" When I hear your"
+    } ]
+  }, {
+    "tStartMs": 960880,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrepreneurial journey though, it seems\nthat like, you know, in in today's world"
+    } ]
+  }, {
+    "tStartMs": 964760,
+    "dDurationMs": 5079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everybody's trying to come up with like\nwhat's that new hot thing that I I need"
+    } ]
+  }, {
+    "tStartMs": 968079,
+    "dDurationMs": 4041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to build a company. But when I listen to\nyour journey, you're taking the"
+    } ]
+  }, {
+    "tStartMs": 971120,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fundamental principle of\nentrepreneurship of seeing a problem"
+    } ]
+  }, {
+    "tStartMs": 973920,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that the market has and creating a\nsolution for it. Everybody wants this"
+    } ]
+  }, {
+    "tStartMs": 977560,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like these sexy businesses, but you went\ninto plumbing. And so for you like what"
+    } ]
+  }, {
+    "tStartMs": 981760,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "are what do you think are like the top\ntwo to three businesses that people"
+    } ]
+  }, {
+    "tStartMs": 985400,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "should really be getting into\nuh over the next couple years? They've"
+    } ]
+  }, {
+    "tStartMs": 989280,
+    "dDurationMs": 9280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "got to be service businesses because we\nall need additional services. So, uh"
+    } ]
+  }, {
+    "tStartMs": 995880,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "van-based, ideally with some technical\nexpertise that goes with that. I would"
+    } ]
+  }, {
+    "tStartMs": 1001400,
+    "dDurationMs": 9400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "say to every budding entrepreneur, go\nand buy um Entrepreneur magazine read"
+    } ]
+  }, {
+    "tStartMs": 1008040,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the list of the top 500 franchises out\nthere and decide which one takes your"
+    } ]
+  }, {
+    "tStartMs": 1013839,
+    "dDurationMs": 6521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fancy.\nCopy the idea, research it. Don't buy"
+    } ]
+  }, {
+    "tStartMs": 1017640,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the franchise, set it up yourself with\nyour own directly employed people, then"
+    } ]
+  }, {
+    "tStartMs": 1022839,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you fully own the business, you're not\npaying somebody else a franchise fee,"
+    } ]
+  }, {
+    "tStartMs": 1027079,
+    "dDurationMs": 5521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and that would be the magic model.\nRichard, is there any part of the trades"
+    } ]
+  }, {
+    "tStartMs": 1030880,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that you think is going to get disrupted\nlike crazy in the next couple of years?"
+    } ]
+  }, {
+    "tStartMs": 1034760,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "In the States there's a lot of buzz and\ntalk about how electricians are going to"
+    } ]
+  }, {
+    "tStartMs": 1038720,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "make a lot of money, especially with all\nthe data centers that are being built."
+    } ]
+  }, {
+    "tStartMs": 1042320,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Do you find here in the UK or just any\nparts of the world that there's going to"
+    } ]
+  }, {
+    "tStartMs": 1045959,
+    "dDurationMs": 5401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "be an immense amount of opportunity in\nin a particular part of the trades in"
+    } ]
+  }, {
+    "tStartMs": 1049240,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the coming years? I think we all want to\nhave um"
+    } ]
+  }, {
+    "tStartMs": 1053200,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people to do things for us. So, any\nservice where um"
+    } ]
+  }, {
+    "tStartMs": 1058600,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh it can't be disrupted by AI. It can\nbe made more efficient, but you need"
+    } ]
+  }, {
+    "tStartMs": 1063040,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "somebody, an individual, a human to go\nout to somebody's home to provide that"
+    } ]
+  }, {
+    "tStartMs": 1068520,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "service. So, I think there's an\nopportunity across the board. Uh"
+    } ]
+  }, {
+    "tStartMs": 1071920,
+    "dDurationMs": 8960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "electrics I do agree, but that's also\nabout um new forms of heating, uh about"
+    } ]
+  }, {
+    "tStartMs": 1078080,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "solar generation, uh more electric\nvehicles. Um so, those would be some of"
+    } ]
+  }, {
+    "tStartMs": 1084040,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the areas. Let me ask you a personal\nquestion for the three of us."
+    } ]
+  }, {
+    "tStartMs": 1087200,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Richard, the three of us have began to\nto buy some real estate properties"
+    } ]
+  }, {
+    "tStartMs": 1091240,
+    "dDurationMs": 4439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and you know, we we we've got a a pretty\nprofitable business. We're we're making"
+    } ]
+  }, {
+    "tStartMs": 1094200,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "some really good money. Would it be a\nbad idea if we wanted to go buy a boring"
+    } ]
+  }, {
+    "tStartMs": 1097720,
+    "dDurationMs": 4040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business for ourselves to own and have\nsomebody else kind of operate it? What"
+    } ]
+  }, {
+    "tStartMs": 1100720,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do you think about that?\n\u003e\u003e that's a great idea. And actually going"
+    } ]
+  }, {
+    "tStartMs": 1104080,
+    "dDurationMs": 8839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and buying a small business that is\nproven and profitable, uh a retirement"
+    } ]
+  }, {
+    "tStartMs": 1109880,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sale, somebody that's getting out of it.\nUh it's 97%"
+    } ]
+  }, {
+    "tStartMs": 1115760,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of businesses set up in the UK fail\nwithin 5 years. So, it's a lot le- less"
+    } ]
+  }, {
+    "tStartMs": 1121800,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "risky to have your own business if you\ngo and buy one. It's easier to buy"
+    } ]
+  }, {
+    "tStartMs": 1125880,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "revenue than create revenue. Exactly.\nBut buy the business with somebody"
+    } ]
+  }, {
+    "tStartMs": 1130400,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "else's money. It's called vendor finance\nand you'd have to put in a bit of money,"
+    } ]
+  }, {
+    "tStartMs": 1135320,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but then you go to the owner that's\nretiring and say, \"I want to buy your"
+    } ]
+  }, {
+    "tStartMs": 1139080,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business. I'm going to keep it running\nand maintain your legacy, uh but I need"
+    } ]
+  }, {
+    "tStartMs": 1144840,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you to let me pay you over three or four\nyears as I grow the business.\" One of"
+    } ]
+  }, {
+    "tStartMs": 1150720,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the things that I realized that you\ntalked about even from an early age is"
+    } ]
+  }, {
+    "tStartMs": 1154040,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "market research. And you had expanded\nthis company to how many countries? 10."
+    } ]
+  }, {
+    "tStartMs": 1159040,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "10 countries. And one of the things that\nyou have one of the things that you"
+    } ]
+  }, {
+    "tStartMs": 1163000,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mentioned as well is that Americans buy\nfrom Americans."
+    } ]
+  }, {
+    "tStartMs": 1166200,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "You've validated the model, and for\nsomeone out there who's looking to"
+    } ]
+  }, {
+    "tStartMs": 1169200,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "expand into a different country where it\nmay there might be different policies,"
+    } ]
+  }, {
+    "tStartMs": 1173640,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "different culture.\nHow do you go about validating that idea"
+    } ]
+  }, {
+    "tStartMs": 1177320,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and doing that market research before\nactually investing a a ton of money and"
+    } ]
+  }, {
+    "tStartMs": 1181080,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "moving the business out there? It's the\njob of the founder to go to that new"
+    } ]
+  }, {
+    "tStartMs": 1185640,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "country and check it out. Before they do\nthat, they need to put in place their"
+    } ]
+  }, {
+    "tStartMs": 1190440,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "successor to keep running the UK and\ngrowing it. And then I would recommend"
+    } ]
+  }, {
+    "tStartMs": 1194800,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "any founder doesn't just look at one\ncountry, but looks at several and"
+    } ]
+  }, {
+    "tStartMs": 1199360,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decides which is going to be the easiest\nopportunity."
+    } ]
+  }, {
+    "tStartMs": 1204160,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Doesn't need to be the biggest\nopportunity. Better to be small and"
+    } ]
+  }, {
+    "tStartMs": 1207520,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "beautiful. Uh many British entrepreneurs\nrush to America. They'd be far better to"
+    } ]
+  }, {
+    "tStartMs": 1212880,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "prove their business in a smaller\ncountry closer to home before going to"
+    } ]
+  }, {
+    "tStartMs": 1218200,
+    "dDurationMs": 10320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the big opportunity. So they could be\nuh launching in Ireland or launching in"
+    } ]
+  }, {
+    "tStartMs": 1224280,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "France or Spain before going to America.\nThen the key bit is saying"
+    } ]
+  }, {
+    "tStartMs": 1230600,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh how similar should my business model\nbe in that foreign country? It's a 10%"
+    } ]
+  }, {
+    "tStartMs": 1236160,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "rule.\nIf you need to change your business"
+    } ]
+  }, {
+    "tStartMs": 1238560,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "model by more than 10%, don't go there.\nIf you think one day you're going to be"
+    } ]
+  }, {
+    "tStartMs": 1243840,
+    "dDurationMs": 8680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in 20 different countries and if it's\n20% different, recipe for complexity and"
+    } ]
+  }, {
+    "tStartMs": 1250160,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "disaster. Ideally,\nmake it only 3% different. You could"
+    } ]
+  }, {
+    "tStartMs": 1254800,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have a different brand name in different\ncountries, particularly if you were"
+    } ]
+  }, {
+    "tStartMs": 1258080,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "buying a business to get into that\nparticular country that's doing exactly"
+    } ]
+  }, {
+    "tStartMs": 1262720,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what you're doing, but have a consistent\nmodel."
+    } ]
+  }, {
+    "tStartMs": 1266920,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And then hire locals to run that\nbusiness once you've set it up yourself"
+    } ]
+  }, {
+    "tStartMs": 1272520,
+    "dDurationMs": 8680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "as the founder, you know it's going to\nwork, then bring in uh really good"
+    } ]
+  }, {
+    "tStartMs": 1277880,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Americans or uh French people. I really\nlike one of your principles of how how"
+    } ]
+  }, {
+    "tStartMs": 1283400,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you phrase it that it's like uh\nbringing in capital at the right time."
+    } ]
+  }, {
+    "tStartMs": 1288240,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Uh we we know a lot of, you know, we\ncome across a lot of different"
+    } ]
+  }, {
+    "tStartMs": 1291080,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrepreneurs that they start a company\nand they just they raise, they raise,"
+    } ]
+  }, {
+    "tStartMs": 1294720,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they raise, they raise, they raise money\nover and over and over again at the"
+    } ]
+  }, {
+    "tStartMs": 1298480,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "beginning. Um but I'm a big fan of\nbootstrapping a company"
+    } ]
+  }, {
+    "tStartMs": 1302920,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "at\nbut for you I feel like this principle"
+    } ]
+  }, {
+    "tStartMs": 1305200,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "maybe came from a place of of like a\nlesson that you learned maybe. Um where"
+    } ]
+  }, {
+    "tStartMs": 1310720,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "did where were you able to kind of craft\nthe the principle of you need to take on"
+    } ]
+  }, {
+    "tStartMs": 1315000,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "capital after you've bootstrapped when\nit's when it's the business model is"
+    } ]
+  }, {
+    "tStartMs": 1318400,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proven and it's time to scale? Could you\nbreak that down a little bit more for"
+    } ]
+  }, {
+    "tStartMs": 1321760,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "us? I tried to make my business too big\ntoo quickly. We ran out of money once."
+    } ]
+  }, {
+    "tStartMs": 1327200,
+    "dDurationMs": 9720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "We brought on board a water company that\nput in half a million pounds, but they"
+    } ]
+  }, {
+    "tStartMs": 1332480,
+    "dDurationMs": 9160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "took 52% of the equity. I learned that\nuh you need to prove your business model"
+    } ]
+  }, {
+    "tStartMs": 1339120,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "through bootstrapping. And then when you\nwant to go big, take the capital, not"
+    } ]
+  }, {
+    "tStartMs": 1344280,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when you're trying to prove the model. I\ngot in April 1993"
+    } ]
+  }, {
+    "tStartMs": 1349120,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "half a million pounds landed in the\nbusiness bank account and I thought,"
+    } ]
+  }, {
+    "tStartMs": 1353160,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\"Right, let's go for it. Let's grow the\nbusiness using that water company"
+    } ]
+  }, {
+    "tStartMs": 1358360,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "investor money.\"\nAnd every month the business grew and I"
+    } ]
+  }, {
+    "tStartMs": 1361960,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thought we'll get economies of scale and\nget to profit."
+    } ]
+  }, {
+    "tStartMs": 1365800,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Guess what? We didn't. I took losses of\n10,000 pounds a month to 50,000 pounds a"
+    } ]
+  }, {
+    "tStartMs": 1371840,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "month. A year later we'd run out of\nmoney down to our last 10,000 pounds"
+    } ]
+  }, {
+    "tStartMs": 1377640,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "before I copied the plumbing insurance\nmodel I found elsewhere. So the"
+    } ]
+  }, {
+    "tStartMs": 1382360,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "learnings are bootstrap.\nDon't sell your equity cheap. Take on"
+    } ]
+  }, {
+    "tStartMs": 1387560,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "investment to scale when it's proven and\ntherefore you'll only need to give up a"
+    } ]
+  }, {
+    "tStartMs": 1392480,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "minority of your business. Don't give up\na majority. Uh those are the golden"
+    } ]
+  }, {
+    "tStartMs": 1397440,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "rules. If someone has a business that is\nprofitable, it is doing well. Let's just"
+    } ]
+  }, {
+    "tStartMs": 1401240,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "say it's for example doing two to three\nmillion dollars a year in profit. Why"
+    } ]
+  }, {
+    "tStartMs": 1404920,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "would you recommend that person to seek\ninvestors and to bring people on versus"
+    } ]
+  }, {
+    "tStartMs": 1410240,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "continuing to bootstrap a already\nsuccessful business? Because it's not"
+    } ]
+  }, {
+    "tStartMs": 1414240,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just about getting the money. It's\nfinding an investor that can help. And"
+    } ]
+  }, {
+    "tStartMs": 1419520,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for many entrepreneurs they are\nfirst-time"
+    } ]
+  }, {
+    "tStartMs": 1422520,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business people. And so it's getting the\nhelp and advice as well as the money."
+    } ]
+  }, {
+    "tStartMs": 1428200,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "But it also means that uh as\nentrepreneurs we worry about what if it"
+    } ]
+  }, {
+    "tStartMs": 1433360,
+    "dDurationMs": 8920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "goes wrong. And there's always a crisis\nin the world whether it's Brexit or"
+    } ]
+  }, {
+    "tStartMs": 1438080,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "COVID or a war. And businesses can go\nbust."
+    } ]
+  }, {
+    "tStartMs": 1443360,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So I'd always say at the right point\nwhen you've proven your business, take"
+    } ]
+  }, {
+    "tStartMs": 1446720,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "some money off the table. Pay off your\ndebts. Make sure that your family are"
+    } ]
+  }, {
+    "tStartMs": 1451400,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not going to be on the street if it did\ngo wrong. And then you've got the"
+    } ]
+  }, {
+    "tStartMs": 1455000,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comfort of knowing you've got a bit of\nmoney behind you. You can take a bigger"
+    } ]
+  }, {
+    "tStartMs": 1459400,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "risk. And you can scale and go quicker\nand hire some really good people, but"
+    } ]
+  }, {
+    "tStartMs": 1464720,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's going to be really expensive.\nThat could take your three million"
+    } ]
+  }, {
+    "tStartMs": 1467880,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dollars of profit backwards for a while.\nIf you've got somebody in there helping"
+    } ]
+  }, {
+    "tStartMs": 1472480,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you and with some of their money, I\nthink that takes away some of the"
+    } ]
+  }, {
+    "tStartMs": 1476280,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pressure. Richard, we were talking about\nit earlier that when you first had gone"
+    } ]
+  }, {
+    "tStartMs": 1479560,
+    "dDurationMs": 6119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "global to America, you had met a mentor\nof yours. And he gave you two pieces of"
+    } ]
+  }, {
+    "tStartMs": 1483400,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "advice. Can you share with with us what\nthose were? This mentor was Nigel"
+    } ]
+  }, {
+    "tStartMs": 1487560,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Morris, a British co-founder of Capital\nOne, the credit card company in the US."
+    } ]
+  }, {
+    "tStartMs": 1491640,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "He said, um \"So where you based over\nhere?\" Said, \"Oh, we're in Miami.\""
+    } ]
+  }, {
+    "tStartMs": 1496480,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Shook his head violently and said,\n\"Absolutely not. If you want to be a"
+    } ]
+  }, {
+    "tStartMs": 1499840,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "serious American business, you need to\nbe based between Boston, New York,"
+    } ]
+  }, {
+    "tStartMs": 1504920,
+    "dDurationMs": 9880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Washington, D.C. East Coast, five-hour\ntime difference for um relative to the"
+    } ]
+  }, {
+    "tStartMs": 1510440,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "UK.\" And we were we were in Miami and we\ncouldn't hire serious business people."
+    } ]
+  }, {
+    "tStartMs": 1517080,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "They either wanted to go to the beach at\n4:00 p.m. or smoke dope. That is not how"
+    } ]
+  }, {
+    "tStartMs": 1521720,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you build a serious business.\nHis second piece of advice was he said,"
+    } ]
+  }, {
+    "tStartMs": 1526080,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "um\n\"Who've you got running your UK business"
+    } ]
+  }, {
+    "tStartMs": 1528560,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "over here?\" Said, \"Oh, fantastic Brit.\nSent him over here six years ago, but"
+    } ]
+  }, {
+    "tStartMs": 1534080,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "HomeServe America is still relatively\nsmall. We're struggling to sign big"
+    } ]
+  }, {
+    "tStartMs": 1538880,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "utility partners over here.\" Shook his\nhead again."
+    } ]
+  }, {
+    "tStartMs": 1542160,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And said, \"Americans buy from Americans.\nHire an American to be your chief exec.\""
+    } ]
+  }, {
+    "tStartMs": 1548000,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "When I did that and took the advice in\n2010, HomeServe America was making 10"
+    } ]
+  }, {
+    "tStartMs": 1552360,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "million dollars annual profit. Last year\nwe made 300 million dollars annual"
+    } ]
+  }, {
+    "tStartMs": 1557640,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "profit. Hired a guy called Tom Rusin.\nProven chief exec. 16 years later, uh"
+    } ]
+  }, {
+    "tStartMs": 1564200,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he's still running the business. One of\none of your, you know, principles to"
+    } ]
+  }, {
+    "tStartMs": 1567920,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "building a a billion pound company is\nyou have to you should hire a business"
+    } ]
+  }, {
+    "tStartMs": 1572280,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "coach. Uh and it seems like, you know,\nNigel Morris was one of those people for"
+    } ]
+  }, {
+    "tStartMs": 1576160,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you. How could someone really go about\ngetting a mentor or getting a business"
+    } ]
+  }, {
+    "tStartMs": 1580679,
+    "dDurationMs": 5241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "coach? You even said that like don't\neven just seek out one out, like hire"
+    } ]
+  }, {
+    "tStartMs": 1583880,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "one. Yeah, we all worry I think that why\nwould somebody that's really successful"
+    } ]
+  }, {
+    "tStartMs": 1587560,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "give me help, but the fact is every\nsuccessful person has had many, many"
+    } ]
+  }, {
+    "tStartMs": 1593640,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mentors over the years. So they're happy\nto give something back."
+    } ]
+  }, {
+    "tStartMs": 1597120,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Even today you have a mentor I believe,\nright?",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1599120,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah. I and I've had a number of mentors\nover the years. My mentor today",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1604679,
+    "dDurationMs": 6681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh runs a very big private equity house\nand I've got an investment business and"
+    } ]
+  }, {
+    "tStartMs": 1608920,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I'm still learning about that.\nUm when I was building an online"
+    } ]
+  }, {
+    "tStartMs": 1613240,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "marketplace for the business called\nCheckatrade,"
+    } ]
+  }, {
+    "tStartMs": 1616000,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I went and I signed up uh Steve Kaufer,\nthe co-founder of TripAdvisor,"
+    } ]
+  }, {
+    "tStartMs": 1621720,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh Jeff Boyd, the chairman and\npreviously chief exec of um Booking.com,"
+    } ]
+  }, {
+    "tStartMs": 1626720,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and Scott Forbes, the American chairman\nof Rightmove."
+    } ]
+  }, {
+    "tStartMs": 1631720,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And each of them helped me to um\nbuild a uh an online platform for"
+    } ]
+  }, {
+    "tStartMs": 1637600,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tradespeople called Checkatrade.\nSo"
+    } ]
+  }, {
+    "tStartMs": 1641240,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh identify the problem or opportunity\nthat you're trying to solve,"
+    } ]
+  }, {
+    "tStartMs": 1645400,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "work out who could help, and\nuh knock down the door until they uh"
+    } ]
+  }, {
+    "tStartMs": 1650480,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "submit and say, \"Okay, I will I will\nhelp.\""
+    } ]
+  }, {
+    "tStartMs": 1654160,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And then don't be afraid to change your\nmentor when you've got another problem"
+    } ]
+  }, {
+    "tStartMs": 1658640,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "or opportunity that you need to solve.\n\u003e\u003e Richard, I wanted to talk real quick"
+    } ]
+  }, {
+    "tStartMs": 1661800,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about the branding of HomeServe cuz that\nwasn't the first name of the company,"
+    } ]
+  }, {
+    "tStartMs": 1665480,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was it? What was the original name of\nthe company?"
+    } ]
+  }, {
+    "tStartMs": 1668040,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Um originally it was A1 Fastfix to get\nin the front of Yellow Pages. Then we",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1672000,
+    "dDurationMs": 9920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "changed it to Home Service Scheme. Yeah.\nBut scheme in America"
+    } ]
+  }, {
+    "tStartMs": 1678040,
+    "dDurationMs": 8840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh sounds dodgy and um so we got rid of\nthe word scheme and it became Home"
+    } ]
+  }, {
+    "tStartMs": 1684160,
+    "dDurationMs": 2720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Service."
+    } ]
+  }, {
+    "tStartMs": 1689320,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e who's come on this podcast as well. His\nname's Tommy Mello and his company is A1",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1694400,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Garage Doors. They're they're now a a\nbillion dollar garage door company."
+    } ]
+  }, {
+    "tStartMs": 1698320,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah. He's an incredible entrepreneur\nand he talks I think he wrote a he wrote",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1701960,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a book on it about how in specifically\nin the home service business, a lot of"
+    } ]
+  }, {
+    "tStartMs": 1705800,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "these people missed the mark because\nthey're I'm going to say it perfectly,"
+    } ]
+  }, {
+    "tStartMs": 1708520,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "their branding is They're their\nbranding is not good at all. It's not"
+    } ]
+  }, {
+    "tStartMs": 1711640,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "attracting them or whatnot. Was did you\nnotice a certain uptick in the business"
+    } ]
+  }, {
+    "tStartMs": 1716480,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when you kind of concise the the\nbranding and and the the name and stuff"
+    } ]
+  }, {
+    "tStartMs": 1720919,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like that? Was that an important factor\nfor your success or did it really not"
+    } ]
+  }, {
+    "tStartMs": 1723640,
+    "dDurationMs": 6279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have a big impact on your company? In\nthe very early days and in many"
+    } ]
+  }, {
+    "tStartMs": 1727320,
+    "dDurationMs": 7139,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "countries then we used the utility\nbrands as the the name for the home"
+    } ]
+  }, {
+    "tStartMs": 1733080,
+    "dDurationMs": 3800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "assistance cover.\n\u003e\u003e [clears throat]"
+    } ]
+  }, {
+    "tStartMs": 1734880,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Today in America, Home Service are a\nwell-known brand. I'm a big believer",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1739280,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that\nuh have a brand which says what you do."
+    } ]
+  }, {
+    "tStartMs": 1743520,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And keep it short because then it's\nmemorable."
+    } ]
+  }, {
+    "tStartMs": 1747600,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And um Tom Rusin, that chief exec of\nHomeServe America, he is the star of our"
+    } ]
+  }, {
+    "tStartMs": 1753600,
+    "dDurationMs": 5559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "TV advertising. Now, I don't even think\nyou guys know this, but we have a friend"
+    } ]
+  }, {
+    "tStartMs": 1757600,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "who's with us on this podcast right\nhere. What is that? This is a hedgehog."
+    } ]
+  }, {
+    "tStartMs": 1762280,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And you and you learned this concept\nfrom a book called Good to Great which"
+    } ]
+  }, {
+    "tStartMs": 1766159,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everybody here is familiar with. Could\nyou explain what the hedgehog means to"
+    } ]
+  }, {
+    "tStartMs": 1769280,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you? Yeah, I spent two of the best days\nof my life uh training with Jim Collins"
+    } ]
+  }, {
+    "tStartMs": 1774960,
+    "dDurationMs": 8920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in his research laboratory in Boulder,\nColorado. And um he talks about foxes"
+    } ]
+  }, {
+    "tStartMs": 1782560,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and hedgehogs.\nAnd foxes are every entrepreneur."
+    } ]
+  }, {
+    "tStartMs": 1787080,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Uh we have an idea a day\nand um"
+    } ]
+  }, {
+    "tStartMs": 1790960,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh we lack focus. And he says, \"We need\nto be hedgehogs.\""
+    } ]
+  }, {
+    "tStartMs": 1796280,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "That if anybody comes along with a\nhairbrained idea, we put up our"
+    } ]
+  }, {
+    "tStartMs": 1799640,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "prickles, we ignore it, and we keep\ngoing in our methodical direction. Every"
+    } ]
+  }, {
+    "tStartMs": 1805360,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fox, every entrepreneur, if they can't\ntransform themselves into becoming a"
+    } ]
+  }, {
+    "tStartMs": 1810440,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hedgehog, then they need to hire a\nhedgehog."
+    } ]
+  }, {
+    "tStartMs": 1814480,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And every business uh needs a hedgehog\nstrategy. A hedgehog strategy answers"
+    } ]
+  }, {
+    "tStartMs": 1820280,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "three questions in one sentence of no\nmore than 20 words."
+    } ]
+  }, {
+    "tStartMs": 1825280,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Those three questions are uh what are\nyou passionate about in your business?"
+    } ]
+  }, {
+    "tStartMs": 1830160,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "That will normally be your purpose.\nSecondly, what can you be the best at?"
+    } ]
+  }, {
+    "tStartMs": 1834840,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And thirdly, how you going to make\nmoney? What's your economic engine?"
+    } ]
+  }, {
+    "tStartMs": 1838920,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Answer those three questions with one\nsentence."
+    } ]
+  }, {
+    "tStartMs": 1842600,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I now run a business called Business\nLeader here in the UK, and that's a"
+    } ]
+  }, {
+    "tStartMs": 1846320,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "growth program for entrepreneurs that\nwant to scale a business."
+    } ]
+  }, {
+    "tStartMs": 1850920,
+    "dDurationMs": 9440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And uh we wrote our hedgehog strategy\nabout a year ago. At Business Leader, we"
+    } ]
+  }, {
+    "tStartMs": 1856800,
+    "dDurationMs": 9480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inspire our founder and CEO members to\nfast forward their growth through new"
+    } ]
+  }, {
+    "tStartMs": 1862640,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "unique content and facilitated learning.\nThat is all we do."
+    } ]
+  }, {
+    "tStartMs": 1867840,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "The 35 people in Business Leader, they\nread that statement, and if they're"
+    } ]
+  }, {
+    "tStartMs": 1872840,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "doing something that doesn't fit with\nit, they need to stop doing it, and"
+    } ]
+  }, {
+    "tStartMs": 1876880,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's goes on the not to do list.\nRichard, we like to end these podcasts"
+    } ]
+  }, {
+    "tStartMs": 1881280,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "off with two last super quick questions\nfor our guest. I'm going to start, and"
+    } ]
+  }, {
+    "tStartMs": 1884280,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Jack's going to end us off right here.\nRichard, if me and you died tomorrow,"
+    } ]
+  }, {
+    "tStartMs": 1888600,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and you had one more message to leave\nwith the younger generation, what would"
+    } ]
+  }, {
+    "tStartMs": 1891360,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that be? That would be think about what\nreally interests you."
+    } ]
+  }, {
+    "tStartMs": 1895320,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Is that are you sales and marketing\nperson? Are you a finance guy? Are you"
+    } ]
+  }, {
+    "tStartMs": 1900160,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "an operations person? When you've done\nthat, don't jump right into business. Go"
+    } ]
+  }, {
+    "tStartMs": 1905280,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and work for a a big company that you\nreally admire in that discipline."
+    } ]
+  }, {
+    "tStartMs": 1910040,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Then go and work for a smaller company.\nGet that experience. And then, rather"
+    } ]
+  }, {
+    "tStartMs": 1915800,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "than starting a business, go and buy a\nsmall business. Take the learning that"
+    } ]
+  }, {
+    "tStartMs": 1920640,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you've got from working for others, and\nuse vendor finance, uh the person that's"
+    } ]
+  }, {
+    "tStartMs": 1925640,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "selling you the business, to finance\nyour buying, so you can get in there"
+    } ]
+  }, {
+    "tStartMs": 1929520,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with a small amount of money and very\nlow risk. And Richard, you you built an"
+    } ]
+  }, {
+    "tStartMs": 1933400,
+    "dDurationMs": 9480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "incredible 4.1 billion-pound business uh\nleaving a legacy for entrepreneurs of uh"
+    } ]
+  }, {
+    "tStartMs": 1940480,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nine steps to creating a billion-pound\ncompany. But how do you want to be"
+    } ]
+  }, {
+    "tStartMs": 1944600,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "remembered? I want to be the person that\nwith my team doubled the number of large"
+    } ]
+  }, {
+    "tStartMs": 1949920,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "companies here in the UK. We only have 7\n1/2 thousand of them. We need to double"
+    } ]
+  }, {
+    "tStartMs": 1954880,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that.\nBrits are"
+    } ]
+  }, {
+    "tStartMs": 1957520,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh much more introverted. We need to\nlearn from our American counterparts,"
+    } ]
+  }, {
+    "tStartMs": 1963120,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and it's all about scaling mid-size\ncompanies. There are a lot of startups"
+    } ]
+  }, {
+    "tStartMs": 1968679,
+    "dDurationMs": 7881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "here in the UK. There are relatively few\nlarge companies. We've got to help those"
+    } ]
+  }, {
+    "tStartMs": 1973400,
+    "dDurationMs": 8920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mid-size businesses turning over between\n3 million pounds and 100 million to"
+    } ]
+  }, {
+    "tStartMs": 1979240,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "scale and make it big. To be able to be\nsuccessful in America, and that's how we"
+    } ]
+  }, {
+    "tStartMs": 1985000,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "create the next billion-pound\nbusinesses. I love it. Well, Richard,"
+    } ]
+  }, {
+    "tStartMs": 1988600,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thank you so much for being with us\ntoday on the Hard Knocks Podcast. This"
+    } ]
+  }, {
+    "tStartMs": 1991240,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was incredible. Thank you. Appreciate\nyou. And for everybody watching right"
+    } ]
+  }, {
+    "tStartMs": 1994240,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "now, be sure to like and subscribe for\namazing content, cuz we're going all"
+    } ]
+  }, {
+    "tStartMs": 1997679,
+    "dDurationMs": 4561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "over the world to bring you guys the\nmost incredible business owners,"
+    } ]
+  }, {
+    "tStartMs": 2000360,
+    "dDurationMs": 5319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "founders, billionaires, in every\nindustry that you can think about. We're"
+    } ]
+  }, {
+    "tStartMs": 2004160,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "also going to put the links down to\nRichard's uh Instagrams and channels"
+    } ]
+  }, {
+    "tStartMs": 2008040,
+    "dDurationMs": 4280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "below, that way everybody can stay up to\ndate with you and all the great stuff"
+    } ]
+  }, {
+    "tStartMs": 2011040,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that you're going to be doing. As well\nas we're going to put the link down to"
+    } ]
+  }, {
+    "tStartMs": 2013920,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the School of Mentors, which is the\nnumber one most powerful entrepreneur"
+    } ]
+  }, {
+    "tStartMs": 2017160,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "community and network in the entire\nworld, where every single week you get"
+    } ]
+  }, {
+    "tStartMs": 2020200,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "direct access to the eight, nine, and\n10-figure entrepreneurs, the"
+    } ]
+  }, {
+    "tStartMs": 2023200,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "millionaires, the billionaires that we\ninterview on the School of Hard Knocks."
+    } ]
+  }, {
+    "tStartMs": 2026400,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "They come directly to mentor you on live\ncalls every week inside the School of"
+    } ]
+  }, {
+    "tStartMs": 2030360,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Mentors. So we can't wait to see you on\nthe inside. With that being said, we'll"
+    } ]
+  }, {
+    "tStartMs": 2034000,
+    "dDurationMs": 3240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "see you in the next episode."
+    } ]
+  } ]
+}

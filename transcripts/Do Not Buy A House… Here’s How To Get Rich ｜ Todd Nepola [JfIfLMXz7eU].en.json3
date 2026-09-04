@@ -1,0 +1,6644 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 40,
+    "dDurationMs": 4759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what's going on everybody and welcome\nback to the School of Hard Knocks",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2840,
+    "dDurationMs": 5799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podcast I'm James I'm here with Jack and\nJosh and we have a very special guest",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 6680,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we're out in South Florida with Todd\nNapa who is the founder and president of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 11360,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "current capital Real Estate Group you've\nbeen running the business for what 30",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 14559,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "years now something like that 25 you\nbecame a Real Estate Mogul you know but",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 18520,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for those that don't know you could you\ngive a little bit of a backstory uh on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 22160,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "how you got into the business your story\nand and once again thank you so much for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 25279,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "having us out to your office thanks for\ncoming out here guys it's a pleasure to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 28760,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "be with you guys I enjoy your side I\nlove hard knock so it's great to do this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 32960,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "little backstory on myself I'm Todd\nnapola at 25 years old which was in 1998",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 37480,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I bought my first property uh income\nproducing property it was a warehouse I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 41760,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "still own that property today and I\ncontinued to buy properties throughout",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 46160,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh before that I was a stock broker I\nwas an investment banking business and I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 49399,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wanted to find something that produced\ncash flow so I went into real estate and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 53079,
+    "dDurationMs": 5201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I got addicted after the first one and\nfrom the time I bought it to the time I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 56440,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "refi it cashed out and was cash flow\npositive was 6 months and I've been",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 60199,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "addicted to real estate ever since and\nbeen going strong I love it now you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 63559,
+    "dDurationMs": 4161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "started out in finance though so I\nwanted to ask you and you were probably",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 66560,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "making some pretty good money at a young\nage yes so you know what was that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 69680,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Turning Point like did you have a\nconversation how did you ultimately you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 73159,
+    "dDurationMs": 5801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know pursue the real estate business for\nnow the last 30 years you know it's a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 76720,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "great question because as I got involved\nin Investment Banking and finance and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 80600,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stocks at the time the market was on\nfire it's kind of like how the real",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 83439,
+    "dDurationMs": 5201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estate market was a couple of years ago\nand everything you bought just went up",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 86600,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and every deal you did made money so you\nreally weren't that smart you would just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 89920,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lucky or you had to be patient and it\nworked out but the more money I was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 93439,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "earning as a broker the more I realized\nthat this can't last the more I realize",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 97479,
+    "dDurationMs": 4841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that this was too good to be true so I\nrealized that one it was entirely",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 100799,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "commission based so it was based on me\nshowing up for work every day getting",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 104079,
+    "dDurationMs": 4961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "new clients doing more trades which you\ndon't know you could always do that you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 107719,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can't miss a day's work because you\ncan't earn any money so that was out of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 110600,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the question so I was drawn into\nbusinesses that would help me suffice",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 114079,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that shortcoming of not having to work\nfor my money and looking into many",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 118079,
+    "dDurationMs": 5161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "businesses I tell people all the time I\nlooked at payones ATMs everything you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 121399,
+    "dDurationMs": 5521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can imagine and I came up with real\nestate and I stuck to it ever since yeah",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 125399,
+    "dDurationMs": 5321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and you ended up buying that first\nproperty at a really young age but you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 129039,
+    "dDurationMs": 4041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know we talked about this before but\nthat was a massive risk at the time and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 132120,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people looked at you they thought that\nyou were crazy can you kind of break",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 134760,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "down the decision process there and why\nyou ultimately decided to buy that first",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 137959,
+    "dDurationMs": 8081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "piece of property yeah so the first\nproperty I ever bought uh I bought it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 142160,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for 575,000 like I said June 1998 and\nwhen I bought it it was actually a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 147480,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "property that another person had\ndeveloped and when broke and lost it to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 150680,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the bank so I bought it from a bank out\nof Canada called gentra and I think that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 155440,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he owed them about 1.2 or 1.3 million on\nthe build and that was his debt and I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 159800,
+    "dDurationMs": 7159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bought it for 575 they asked 600,000\nwhen I bought it I put every penny I had",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 164760,
+    "dDurationMs": 4839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "up and I had never done a real estate\nclosing so I didn't really know how the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 168120,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "numbers would work other than the down\npayment what did I really need so I was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 171879,
+    "dDurationMs": 5561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "concerned so I went out and applied for\ncredit cards and I was willing to take",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 175040,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "credit card advances if I needed luckily\nI didn't need it because I learned that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 178800,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you get credits back when you go to\nclosing for security deposits and taxes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 182040,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and things like that but I closed on\nthat first property and I never looked",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 185760,
+    "dDurationMs": 6839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "back since then but yeah you're right it\nwas scary uh a lot of people that were",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 190519,
+    "dDurationMs": 5521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "involved from co-workers in the\ninvestment banking business and stock",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 194040,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "broker World they would laugh at me and\ntell me how stupid this is why would you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 197599,
+    "dDurationMs": 4801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "put all this money into a property and\nyou're going to make so little when you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 200920,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "could buy a stock and the next day make\na fortune which was true partially uh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 206400,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the real estate attorney who did the\nclosing that I hired he himself who at",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 210560,
+    "dDurationMs": 6039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the time was probably well into his you\nknow late 40s early 50s he told me I was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 214760,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "crazy and said this is not how real\nestate works so everybody had this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 218560,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "belief and maybe it was dumb luck or\nmaybe it was not knowing too much but I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 224239,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just really believe that I could turn\nthis property around and rent out the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 227000,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vacancies and that it would certainly\nwork at the price point I bought and I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 230720,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was right that's awesome I'm actually\ncurious that was your first deal that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 234560,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you ever did and you did not know nearly\nas much as you know now so I'm curious",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 238599,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what would you change or or what what\nwas the biggest thing that you learned",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 241519,
+    "dDurationMs": 4401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "from that first deal first thing I\nlearned from that deal is don't listen",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 244319,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to other people and certainly don't\nlisten to people who aren't doing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 247799,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "exactly what you want to do so the\npeople who were telling me I Was a Fool",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 250760,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to buy real estate didn't own real\nestate the real estate attorney didn't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 253879,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "own investment properties so maybe if I\nhad been speaking to real estate guys",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 257519,
+    "dDurationMs": 4761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they wouldn't have given me that advice\nand put the fear in me but really don't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 260880,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pay attention to people who were giving\nyou advice that really has no basis in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 264400,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "credibility so you really only one of\nthose people who are actually doing it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 268520,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "never never never take it from somebody\nthat you would trade places with right",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 272000,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's a good one so how did you go from\nthat first property to the next one and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 275560,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ultimately scaling up to where you're\nable to do big commercial deals today",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 279160,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what was the The Journey the turning\npoint from that first one carrying you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 282720,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to being able to acquire the deals that\nyou're able to do at the level now",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 285919,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "success uh like I said I bought my first\nproperty and it had a lot of vacancies I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 290720,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "put all the money down and my goal was\nto refy to get my money back out which",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 294320,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "back then you could take all your money\nback out of deals pretty easy as long as",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 297680,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it cash flowed so within the six-month\ntime frame I filled three vacancies I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 303520,
+    "dDurationMs": 5399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "resigned the leases on the four existing\ntenants because the Foreclosure the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 307240,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "leases were voided out so we resigned\nthem we cleaned the building up I had",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 310759,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "some friends come help me we painted it\nwe cleaned it we made it nice and when I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 314000,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "refinanced it I got 600,000 out of the\nproperty which covered all my closing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 317960,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cost and I don't remember if the check\nwas 810 $12,000 but I got a check at",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 321639,
+    "dDurationMs": 8761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "closing plus all my money back and the\nproperty was going to throw off $5,000 a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 326840,
+    "dDurationMs": 8199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "month that January so once that happened\nI said huh I'm on to something so I took",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 333680,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all that money and I immediately went\nand bought another property and it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 336720,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "worked again and truthfully there's been\nup markets and down markets there's been",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 341120,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Wars there's been pandemics there's been\nrecessions throughout my career but",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 345120,
+    "dDurationMs": 5519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "truthfully throughout time they'll all\nwork the only way you get in trouble in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 349240,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "real estate is if you have way too much\ndebt and as long as your debt is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 351919,
+    "dDurationMs": 6041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "manageable you'll be okay but you can\nnever time the market but because I was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 356440,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "successful when I bought and I bought at\na really bad time for Real Estate those",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 360000,
+    "dDurationMs": 6039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "deals went up it just became like I\nneeded more and that's how it kept going",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 364000,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "now you you went all in on Commercial\nReal Estate and a lot of people will",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 367639,
+    "dDurationMs": 4241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "advise you know people that when you're\nfirst starting out in real estate they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 370720,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think that you should go the residential\nroute so I'll first ask you why did you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 374000,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "decide to go all in and find that you\nknow commercial real estate was your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 377160,
+    "dDurationMs": 3960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bread and butter at an early age and for\npeople that are pursuing real estate",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 379800,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "today do you think that they should\nstart in residential or or does it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 382720,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really matter you should go where you\nlike the property type you like I was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 387680,
+    "dDurationMs": 4519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "driving by this property all the time\nand back then there was just a for sale",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 390800,
+    "dDurationMs": 4280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sign out front so I called and I said\nthat's a really nice building I can't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 393520,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "believe this thing is for sale when I\ngot the story on it I wanted it uh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 397440,
+    "dDurationMs": 5159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "multif family was never for me but it's\na tremendous asset class what I've",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 401120,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "learned over doing this for like I said\nover 25 years is that most people think",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 405560,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that they know a multif family because\nwell I understand it because they live",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 408720,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in a house so how much different can it\nbe multif family industrial retail",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 413199,
+    "dDurationMs": 4881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "office they're all pretty much the same\nbut I think most people think that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 416680,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's the inevitable step to start\nmultif family it's a great asset class",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 420160,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is just not one I liked and never\npursued but there's nothing wrong with",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 423160,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it at all you pick whichever one you\nlike and I wanted to kind of ask you so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 427440,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when you first started out in commercial\nreal estate what point at what point did",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 431960,
+    "dDurationMs": 3880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you start current capital group because\nyou know did you always know that you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 434759,
+    "dDurationMs": 4241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "were going to be an entrepreneur within\nthis business and end up building your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 437039,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "own company or like what was the first\nstep that you made towards building that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 440560,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "company I'm glad you asked that question\nbecause I love to tell guys you're age",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 443800,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of the story and the answer is no so\ntoday I'm very lucky that I sit here and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 447599,
+    "dDurationMs": 5201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I have this tremendous company with tons\nof employees and we do great we manage",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 450800,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and Lease properties for clients and we\nmanage and Lease the properties we own",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 454199,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "as well but no I didn't set out to do\nthat in fact I didn't know even when I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 458400,
+    "dDurationMs": 5639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bought my first property that real\nestate would be my career and far too",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 461960,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "many people at a very young age say you\nknow like that question I hear them",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 465639,
+    "dDurationMs": 5321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "asking high school kids sometimes what\ndo you want to do for a living is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 468360,
+    "dDurationMs": 7279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "insanity because you just don't know you\njust got to kind of roll with it and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 473039,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "find where your joy is so even after I\nbought my first my second my third",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 477360,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "properties I was still the stock broker\nhaving a lot of fun and I wasn't going",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 480800,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to give that up because I was with a\ngreat group of guys having a lot of fun",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 484319,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "every Friday at 3:00 we were out to the\ngolf course I couldn't have had that in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 487759,
+    "dDurationMs": 6601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "real estate but the real estate\nportfolio was building so what happened",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 491560,
+    "dDurationMs": 6359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is in 2000 the tech Bubble Burst and\nnobody wanted to touch stocks and I was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 496400,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actually paying people to manage my\nproperties more than I was able to earn",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 499800,
+    "dDurationMs": 5359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and I said well that's kind of nuts I'm\nnot going to do that so that's when I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 503280,
+    "dDurationMs": 4879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pivoted over and said I'm just going to\nmanage my property full-time I'll get a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 506879,
+    "dDurationMs": 4681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "real estate license I'll go out and I'll\ndo it myself and own and operate",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 509879,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "properties but it kind of happened\nbecause the stock market blew up and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 513440,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's how I went there so when you're\nan investor or actually when you're an",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 517000,
+    "dDurationMs": 4519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrepreneur you don't necessarily know\nwhat the next step will be you just got",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 519959,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to keep taking steps and I'll lead you\nthere now to fast forward once I got in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 524839,
+    "dDurationMs": 4761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it and I started taking over I knew I\nhad to do more and people asked me for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 528279,
+    "dDurationMs": 5321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "help and I started current Capital\nManagement back then over 20 years ago",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 531680,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and I did more and more and more and I\nloved it and there's nothing else I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 534959,
+    "dDurationMs": 4681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "would do and people ask me is there\nsomething else you'd want to do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 537560,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "absolutely not but if you you asked me\nthis when I was 22 or 23 I wouldn't even",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 542839,
+    "dDurationMs": 4721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have known real estate that's the truth\nit seems like a lot of the properties",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 545760,
+    "dDurationMs": 4759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that you bought early on were Buy and\nHold to be able to help build that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 548720,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "portfolio so what would your advice to\nbe for people getting into real estate",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 552040,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "investing that are looking to either Buy\nand Hold or just do Fix and Flip all",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 556519,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right Fix and Flip is not investing you\ncould Fix and Flip anything I know a guy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 560640,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "who flips his boats I know a guy who\nsells watches I know guys who Fix and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 563720,
+    "dDurationMs": 5119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Flip anything so that's a sales thing\nthere's nothing wrong with that cuz you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 566880,
+    "dDurationMs": 6399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "got to make money investing in real\nestate means you're buying properties",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 570760,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and you're holding them that's investing\nso that's like I could relate very",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 574880,
+    "dDurationMs": 3959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "simple to stocks if you tell me you\nbought Amazon this morning and told it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 577600,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sold it tonight you're not an investor\nin the company you're a day trader so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 580640,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's the same thing neither one is wrong\nthey're both right but to invest you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 584519,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "need patience and if you want to build\ngenerational wealth and you really want",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 588000,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "these properties to mature you have to\nbe willing to hold them and yeah that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 592320,
+    "dDurationMs": 6519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "property like I said that I purchased I\nrefinanced it for 600,000 it appraised",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 596360,
+    "dDurationMs": 6919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for $800,000 so I very easily could have\nbeen 25-year-old kid and said you know",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 600720,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what it's worth 800,000 if someone gives\nme 800,000 I bought it for 575 maybe",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 606079,
+    "dDurationMs": 5801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "after commissions and everything I'll\nclear 175 that would have been a lot of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 609880,
+    "dDurationMs": 6519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "money to clear and I would have been out\nbut I didn't do it and that same",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 613600,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "property pays me almost triple that a\nyear right now in cash flow but it takes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 618839,
+    "dDurationMs": 4881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "time so you have to have some patience\nso you brought up patience and I wanted",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 621920,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to ask you like what has been the\nimportance of learning to have that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 625480,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "delayed gratification with everything\nespecially in today's world with kids",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 629240,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "age you know you see the the 20 30y olds\nthat are that are driving around the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 633000,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Lamborghinis and and it's easy to get\ndiscouraged and we we talked about this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 636240,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a lot about how you know you don't want\nto necessarily like focus on what other",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 639560,
+    "dDurationMs": 4519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people are doing and just focus on what\nyou're doing but how important has that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 642160,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "delayed gratification been and how\nimportant is it to develop that into",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 645920,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your skill set that's a great question\nand I'm glad you actually asked it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 650000,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because delayed\ngratification is it's it's one of the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 654480,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "most important things when you're\ninvesting and it's funny because now I'm",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 658120,
+    "dDurationMs": 4719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "kind of to the other side of the\nspectrum obviously I was your age and I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 661279,
+    "dDurationMs": 5761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "went through this I'm only giving my\nopinion and my experience but so many",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 665600,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people think that when they start to\nmake it I got to go out and buy a fancy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 669079,
+    "dDurationMs": 5241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Watcher I got to go out and buy a car\nbecause I want to look as if and I want",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 672839,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to impress people and I'm going to tell\nyou nobody's really impressed by your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 676839,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "car because you have it and I know this\nnow too when I was young I would look at",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 681279,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people in fancy cars and I didn't really\nknow what the guy was or the girl",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 684639,
+    "dDurationMs": 5521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "driving it was I want to know how do I\nget that car so I was more impressed",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 688200,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with the car than the person having it\nso people get caught up in buying stuff",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 692399,
+    "dDurationMs": 5801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but if you ever figured out what even\njust buying yourself a $10,000 watch is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 696200,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to cost you a 25 years old when\nyou could have invested that money it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 700600,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Insanity so you got to delay these kind\nof things until you could really afford",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 704600,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "them and there will come a time and the\nsooner you start investing your money",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 708800,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the sooner you'll be able to have it\nforever and here's where the other side",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 711680,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of the cycle is so now I'm 50 years old\nand I could buy any damn thing I want",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 716120,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and I sit here now and I don't even wear\na watch it's unimpressive so once you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 720320,
+    "dDurationMs": 4639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "could have everything you want material\nobjects will mean nothing to you no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 723560,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "one's going to impress me by pulling up\nin a fancy car it it just doesn't mean",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 726720,
+    "dDurationMs": 6119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "anything what will impress you is when\nyou know that you could help so many",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 731360,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people and you could take care of so\nmuch stuff because you know every month",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 735160,
+    "dDurationMs": 5119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your Investments whether it's real\nestate you know index funds whatever it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 738360,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "could be is going to give you so much\nmoney you couldn't possibly spend it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 742320,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's you want to flex know that when\nyour kids are going to go to college one",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 745240,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "day no problem your parents need help no\nproblem let guini go rent it for the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 750480,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "week and get it out of your system\nthat's amazing I feel like a very common",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 754480,
+    "dDurationMs": 5159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thing that a lot of people are told\nespecially growing up is like should you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 757880,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "buy a rent a home and people are like oh\nI'd rather buy you know buy my house",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 761240,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because I'd rather pay my mortgage than\npay someone else pay someone else what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 765279,
+    "dDurationMs": 7841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "are your thoughts on buying your home\nand just kind of like that debate you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 770320,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know I get that to this day I presently\nrent my apartment where I live I've been",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 774600,
+    "dDurationMs": 6679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "renting now for over 10 years the last\nhome I owned is when I had little kids",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 778560,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so a home serves a purpose because at\nsome point you may want to have kids and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 782680,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know maybe you want stability and\nyou don't like to move a home is a nice",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 785959,
+    "dDurationMs": 6281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thing to have but it's certainly not an\ninvestment now I'm not anti-home",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 789839,
+    "dDurationMs": 5961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ownership I'm anti- beinging delusional\nthinking it's an investment and I hear",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 793959,
+    "dDurationMs": 5481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the same thing and people say it to me\nand I can't even imagine the effect it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 797880,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "has on someone young and just coming up\nwhen they're like outed for being a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 801160,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "renter because sometimes people come to\nmake oh you're a renter I'm like I'll",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 804320,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tell you what let's pull out Deeds let's\nsee how it's working out for you and me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 808120,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but when you're younger you get insecure\nabout this kind of stuff but all these",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 812800,
+    "dDurationMs": 5479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people who own homes they don't own the\nhomes they're just renting them from the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 815600,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bank the bank owns the home unless they\nown It Free and Clear which would again",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 820079,
+    "dDurationMs": 5601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not be a good investment either but if\nBank of America has a mortgage there's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 824399,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no damn difference between you giving it\nto Bank of America or me giving it to a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 827120,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "landlord either way there's a cost to\nown the house it's not wrong some people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 831199,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "say the house will appreciate it will\nbut historically not as fast as other",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 834959,
+    "dDurationMs": 6601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "investments will but also you have to\nreally want to live in this house for a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 839279,
+    "dDurationMs": 6881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "different purpose it's not an investment\nif it goes up that's great but you paid",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 843079,
+    "dDurationMs": 6721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it off my commercial properties these\nare paid for by the tenants so if I want",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 848120,
+    "dDurationMs": 5719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to go ski for two weeks or go to Bali\nBali for two weeks whatever I want to do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 851600,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "my tenants will pay rent you still have\nto pay the mortgage on your house so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 855399,
+    "dDurationMs": 6761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's not an investment wow and I wanted\nto ask you so you were almost treating",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 860199,
+    "dDurationMs": 4921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "real estate initially when you were\nstill a stock broker as if it was kind",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 863839,
+    "dDurationMs": 4161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of like a side Hustle but you were\ntreating it as kind of like a baby you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 866720,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "were feeding that baby constantly you\nwere getting money you're putting it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 869120,
+    "dDurationMs": 4839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "into real estate so for someone out\nthere who maybe they're working a job",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 872199,
+    "dDurationMs": 4801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right now they're starting to make some\ngood money make some good income what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 875639,
+    "dDurationMs": 4200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "would you say are some of those first\napplicable moves that they can make in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 878360,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "their career to start creating wealth in\nreal estate so maybe they can't go carp",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 881680,
+    "dDurationMs": 4399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "launch and go all in but there is a\nmisconception in today's world that you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 884800,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have to have a ton of money to start\nbuying property getting into real estate",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 887639,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what are some of those first steps and\napplicable steps that people can",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 890519,
+    "dDurationMs": 4961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Implement to what they're doing in their\ncareer to really start building a solid",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 893320,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "real estate portfolio you're entirely\nright it's not easy or cheap to get into",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 897920,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "real estate and if if it was everybody\nwould do it so it's not easy it's not",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 901199,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cheap the first thing you got to do and\nI tell everybody this before you go buy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 904800,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yourself a fancy watch or car go invest\nin yourself go learn skills go invest in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 909519,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programs go read books you know take\nmasterminds whatever you got to do to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 912920,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "learn because what you learn will pay\nyou back tfold so I know it's not as",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 916480,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sexy to go maybe spend your $10,000 on\nsome sort of course to learn how to do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 920519,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "something but if it's teaching you or\nstarting a drop ship business but get",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 924440,
+    "dDurationMs": 5399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "side hustles if you want to get into\nreal estate I tell everybody the easiest",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 928800,
+    "dDurationMs": 3640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "way to get into real estate and\nespecially when you're young like you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 931040,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "guys right now you don't have as many\nresponsibilities there's no reason why",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 934560,
+    "dDurationMs": 4639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you guys wouldn't get real estate\nlicenses and learn how to lease and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 937319,
+    "dDurationMs": 5161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "broker deals because that is what an\ninvestor is ultimately going to do down",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 940560,
+    "dDurationMs": 6519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the road so you could do things like\nthat now you could go out and Source",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 945360,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "deals for people and you might not be\nthe owner of them but you're learning",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 948440,
+    "dDurationMs": 3680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "how to do it so if you're learning\nthere's always someone who will buy a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 951040,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "deal from you even if you're not a\nbroker you you could wholesale the deal",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 954199,
+    "dDurationMs": 5281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but you could also put groups of people\ntogether and get your family your aunt",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 957720,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your uncle your cousin to chip in and\nbuy the property there's a million",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 960959,
+    "dDurationMs": 4721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "different ways to skin the cat when you\nwant to buy a property but you don't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 964680,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have to go out and look at this\nbeautiful 20 million doll property and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 967560,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "say I'm going to start here you could\nbuy a little $300,000 property so if you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 971440,
+    "dDurationMs": 3759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "could have bought a house or you could\nhave bought an investment property I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 973800,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "would choose the investment property any\nday of the week but it's not going to be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 977480,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "easy but yeah but there's a million ways\nto get it done just start small for for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 981160,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "somebody watching this they they have no\nmoney and they're like you know real",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 984319,
+    "dDurationMs": 3880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estate something that they're passionate\nabout that they've heard about and and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 986920,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they want to go all into the business\none of the things that you talked about",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 989519,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is one of the most important things that\nyou can bring to somebody that has money",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 992759,
+    "dDurationMs": 5121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is bring them that deal so like what\nadvice would you give to someone who is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 996120,
+    "dDurationMs": 4279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trying to find deals and how have you\nthroughout your company throughout your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 998920,
+    "dDurationMs": 3919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "30 years in real estate what are some of\nthose things that you've seen that have",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1001600,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "led to successful people that are trying\nto acquire actively and build deals that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1004680,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have came to you all right so if I was\nstarting over again and I was not in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1009959,
+    "dDurationMs": 6921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "real estate had no experience in real\nestate what I would absolutely want to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1013440,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do is learn the business and if you want\nto be in real estate or whatever",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1018160,
+    "dDurationMs": 3960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business you want to be and it's really\nirrelevant but if you want to be in real",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1020639,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estate for argument sake you got to\nimmerse yourself in the real estate",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1023399,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "world so what would you do if you had\nthe money to buy the property and that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1027799,
+    "dDurationMs": 4841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "becomes a question so maybe you can't\nbut start playing games like you know",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1031679,
+    "dDurationMs": 3921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when I was a little kid I used to love\nto play Monopoly I really couldn't do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1034319,
+    "dDurationMs": 4561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "anything but play the game and then pack\nit up at the end of the night but go out",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1037360,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and underwrite Deals and figure out what\ndeals make sense start reading the local",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1040839,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "business newspapers for real estate\ndeals what deals are working who's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1044280,
+    "dDurationMs": 5639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "buying what why are they buying it get\nout there now I would even take a step",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1048559,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "further if you're really serious not\njust is doing this as a hobby but if",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1051760,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're really serious you got to get out\nthere and get in the game and by getting",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1054960,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in the game start talking to Brokers\nfinding out what's for sale start",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1058200,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "calling about properties that are off\nmarket and putting deals together now",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1061880,
+    "dDurationMs": 3679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's very easy to to go into any\ncommunity and find out who the real",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1064360,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estate players are because if you're\nreading the news I can tell you who",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1066799,
+    "dDurationMs": 7161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everybody is it's all public information\nso if you know I buy this type of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1071400,
+    "dDurationMs": 5159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "property and you come across one all you\ngot to do is call and say Todd I'm not",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1075240,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "licensed in real estate but I know this\nproperty is for sale and I'd love to be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1079000,
+    "dDurationMs": 4919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your partner on the deal I have an an\noffer in and bl like maybe I'll give you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1082720,
+    "dDurationMs": 4079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a partnership maybe I'll give you a part\nof the deal maybe I'll just find a way",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1085240,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to pay it there's a million ways to get\nin the game but start acting as if you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1089120,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "could do the deal and it'll start to\nhappen for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1091840,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you one of the one of the best ways to\nget deals is out of Mark off Market",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1097320,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "deals how can someone go about obtaining\nthose deals and just getting those",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1100880,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "contracts in network network network\nit's who you know it's that's an",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1106039,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "expression when I was a kid I remember\nthis everyone say it's who you know not",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1110480,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what you know and I think they told me\nthat to make me feel better cuz I was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1113000,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "terrible in school so they don't make me\nfeel like totally failing so I would go",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1116840,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "meet everybody and the more people you\nknow the more access you have so if you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1121520,
+    "dDurationMs": 5519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want to be the best realtor selling\nluxury houses you need to know everybody",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1125440,
+    "dDurationMs": 6119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in that market and I'm not just talking\nabout the Brokers you need to know the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1129919,
+    "dDurationMs": 5161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "doormen in the buildings you need to\nknow the golf pros because the golf",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1133919,
+    "dDurationMs": 4441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "proos going to find out that this\ncouple's getting divorced before anybody",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1136720,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "else the trainers you need to know\neverybody who's involved in that area",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1140520,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because they'll give you leads and it's\ngreat to meet other Realtors but now",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1144480,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they're your competition but some of you\nmight have just laughed when I said that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1148440,
+    "dDurationMs": 4599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "go meet the golf proo and the trainer\nbut I got news for you the trainer isn't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1151760,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "training the poor person the trainer is\ntraining the multi-millionaire and she's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1154320,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sitting there telling her trainer I'm\ndivorcing this bum I'm getting out I'm",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1157840,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going tell my friend who's a realtor you\ncan get the listing on your house it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1160559,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really true that's what happens so\nsurround yourself with people who have",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1163919,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "access to these wealthy people boat\ncaptains everybody I I want you to walk",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1167799,
+    "dDurationMs": 7401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "us through real quick the story about\nyou know you going to Virginia to meet",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1172159,
+    "dDurationMs": 6121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this you know your Mentor so like could\nyou walk us through that story of how",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1176440,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you found your mentor and any advice you\nwould find for people to be able to go",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1180039,
+    "dDurationMs": 5161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "find a mentor out there well the first\nanswer to that is me two parts because",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1183360,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the first answer is everybody could be\nyour mentor and what I love about",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1186400,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "programs like this and social medias you\ncould follow people stalk them on social",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1190480,
+    "dDurationMs": 5319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "media see everything they're doing and\nif they're doing what you want to do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1193600,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like I always say if you want to be in\nshape find a guy or girl who's doing you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1198400,
+    "dDurationMs": 4040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want to do is fit the way you want to be\nfit and you could follow they're usually",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1201440,
+    "dDurationMs": 5119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "giving it to you for free they're\nshowing you their workouts for free so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1204520,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that is a mentor without even speaking\nto the person that person is your Mentor",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1208120,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because you're following them when I\nfound my first live Mentor so to speak",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1212760,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was kind of on accident too I was at a\nreal estate conference which is again",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1216200,
+    "dDurationMs": 5719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "putting yourself where you're supposed\nto be and I went to one of the courses",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1220159,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and the guy was speaking in the program\nit was a 45 minute 1 hour lecture at the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1223919,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "end of the lecture he said what I'm\ngoing to do is I leave my cards in the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1227039,
+    "dDurationMs": 6361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "front and the back and the side of this\nroom and there must have been four five",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1230840,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "600 people in the room and uh he said I\nleave the cards he goes from experience",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1235520,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I've been doing this a long time all the\ncards will be gone and none of you will",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1238120,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "call me or email me but but really guys\nif you want to reach out to me I'm happy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1242120,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to help you guys and he was about 25 26\nyears older than me and this was years",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1246919,
+    "dDurationMs": 6361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "back so he was at the point where he\nwanted to get back he was already very",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1250360,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "very rich so I said I got to meet this\nguy he does everything I want to do he",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1255120,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "runs a management company he buys\nproperties he does it all and and I was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1258440,
+    "dDurationMs": 6359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like Fanning so I said I got to meet him\nso I followed him in the convention to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1263039,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "where his company had a booth and I was\nwatching him and people would come by",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1266679,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and I knew a lot of people like what are\nyou doing I'm like I'm waiting for him",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1269600,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and they're like why I'm like because I\nwant to go talk to him like Okay and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1273600,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like that's weird but okay and I just\nstood outside his Booth waiting because",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1276240,
+    "dDurationMs": 5559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I didn't want to walk up to the booth\nand say I want to speak to him because",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1279520,
+    "dDurationMs": 5399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they'd say no is what I thought in which\ncase I was sent away so I stood there",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1283440,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and waited in the second he was done\ntalking to someone it was only about 10",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1286600,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "15 minutes I made a beline right for him\nand I introduced myself and I said hello",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1291000,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Mr rapid Port my name is Todd napola and\nI'm do what you do but just a minuscule",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1295520,
+    "dDurationMs": 4759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "amount compared to you and I'm so\nintrigued by what you run and your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1298480,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "operations I said it would mean the\nworld to me if I could come meet you in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1302400,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your office one day and take you to\nlunch and see what you do and you give",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1305200,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me some advice and he said well where\nyou coming from and I said Florida he",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1308360,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "goes well I'm in Virginia I said I'll\nfly up and he said if you fly up I'll",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1312640,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "buy you lunch I said okay deal so I came\nback from that was a Vegas conference I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1317360,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "came back got on a plane flew up to\nWashington DC I took my wife with me so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1321559,
+    "dDurationMs": 5881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it was a nice weekend as well and then I\ntook an Uber over to his office and he",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1326000,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "couldn't have been Kinder and he didn't\nspend five minutes with me he brought me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1329480,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "into his office he toured me it was a\ntwo-story building he had probably 100 a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1333520,
+    "dDurationMs": 5639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "twostory office in an office building\nhad at least 150 employees and these",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1337559,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people do this and this one does this\nand it made what I do so much easier",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1343120,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because I said now I see he's really\ndoing everything that I'm doing just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1347640,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bigger\nthat's it it's the same thing I'm doing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1350720,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he's just had more time and he's doing\nbigger deals so it made me build my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1354440,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "company easier and we spent all this\ntime together and I'm saying hours and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1358320,
+    "dDurationMs": 6959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hours we went to lunch he did let me buy\nhim lunch I insisted on it and we went",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1362679,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "back and the guy must have given me five\nor six hours one-on-one time with him",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1367640,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just because I asked that was it now you\nhad a mentor who was a billionaire and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1372400,
+    "dDurationMs": 4279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you spent the entire day with him when\nyou flew out to Virginia to meet him",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1375559,
+    "dDurationMs": 3841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what was the number one lesson that you\nlearned from him like what was the best",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1378080,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "piece of advice that youed from this\nbillionaire Mentor can't remember",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1381520,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "exactly how he put it but the the gist\nof his thing was don't hold back too",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1387159,
+    "dDurationMs": 4921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "many people hold back from going for the\nbigger deals and you get in a comfort",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1390480,
+    "dDurationMs": 4679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "zone so if you used to buying deals that\nare 10 million and 10 million and 10",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1393480,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "million maybe you go to 11 and 12 he's\nlike push it go harder because what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1397360,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're doing is right and the same way\nwell real estate's an easy one to align",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1400880,
+    "dDurationMs": 7679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it to the same way my company has 30\nemployees and his has 150 I know how to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1406240,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "push it to 150 now because I know how to\nI saw it I actually witnessed it being",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1410440,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "done and it's no different than what I\ndo just bigger it's the same way I can",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1414480,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "go from a $10 million property to a 20\nto a $50 million you just got to push it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1418400,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because the $50 million property is run\nthe same way the $10 million one is the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1422480,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "150 employees is run the same way the 30\nis so the illusion became reality and I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1427640,
+    "dDurationMs": 4200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "had one more follow-up question because\nyou brought up networking one of your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1430520,
+    "dDurationMs": 4159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "previous answers you talked about\nwhatever industry that you're in you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1433159,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "need to meet the top people in your city\nand what industry that that is but it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1437360,
+    "dDurationMs": 4559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "one thing to meet meet these people but\nwhat is something that you see when",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1440440,
+    "dDurationMs": 4599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people come to you that makes them stand\nout so like how can someone you know",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1443600,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when they're trying to establish and\nbuild these relationships what is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1446679,
+    "dDurationMs": 5401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "something that you see if it's a skill\nset if it's a mindset that that you see",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1450360,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in people that that shows the value in\nthem and that makes you willing to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1453679,
+    "dDurationMs": 4961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "continue to connect with that person I\nguess the answer that probably be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1456520,
+    "dDurationMs": 6639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "authenticity you know are they really\nlooking for help or they really just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1460440,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lost in looking for a therapist and I'm\nnot a therapist I'm not in that business",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1465679,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but if after speaking to some or texting\nor DM on someone for a very short time I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1471279,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know if they really want to do this now\nthey may have no clue how to do it which",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1474760,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is fine but I could tell and if I really\nthink I could add value and help them",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1478840,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and motivate them I want to do that\nthat's the same thing my mentors have",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1482480,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "done for me and not just in that\nbusiness many people have done this I've",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1486760,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "been having people my whole life that\nwould given me good advice even though I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1489520,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "had no interest in their businesses but\nif I know somebody really wants to do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1493559,
+    "dDurationMs": 7281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this I'm more than happy to help them\nalso make it easy for the person who you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1499000,
+    "dDurationMs": 5559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want help from to give you the help\ndon't make it hard don't ask them to can",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1502799,
+    "dDurationMs": 4201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I invite you to dinner that's hard like\nthey don't know you like they don't have",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1505840,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "time for that really and I hate to be\nrude but what's in it for them so you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1508840,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want to make yourself accessible to them\nand what I mean is a lot of people will",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1512600,
+    "dDurationMs": 4559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ask me different things like oh I'd like\nto invite you to dinner at this fancy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1515600,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "restaurant do I was like I don't have\ntime to leave my wife and kids to go",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1518559,
+    "dDurationMs": 5881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "meet a Strang like really don't I if I\ndid that for everyone I'd never see my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1521640,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "family but when someone says hey can I\njust come by your office bring you a cup",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1525880,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of coffee and meet you for 15 minutes\nit's never been 15 minutes but I'm",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1529520,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "always saying I got 15 minutes for\neverybody but it'll never be 15 minutes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1533240,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so make it easy for that person you need\nhelp from to give you the help and even",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1536799,
+    "dDurationMs": 5281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "though you have great intentions and you\nwant to do something nice recognize that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1540760,
+    "dDurationMs": 6039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's very nice gesture but it's\ncomplicated for that person so make it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1543799,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "easy for them that is awesome and\nmentorship I feel like comes in a lot of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1548240,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "forms there's people there's social\nmedia there's also a biger one which is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1552000,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "books and I know you love to read and\nI'm just curious what would you say has",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1556320,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "been the most impactful book that you've\nread just throughout your life okay so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1560399,
+    "dDurationMs": 5801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I've read hundreds and hundreds and\nhundreds of books since I was probably",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1565000,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about your ages when I started really\ngetting hooked on books probably my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1567320,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "early 20s 21 22 years old prior to that\nI never read any books in school I was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1571320,
+    "dDurationMs": 7239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "supposed to but we didn't really read uh\nthe number one book that had the biggest",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1575640,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "impact on me for me personally was Tony\nRobbins awaken the giant within he",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1580840,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really made me believe that anything was\npossible and it didn't matter to me",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1584520,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "honestly if I went into real estate or I\nwound up running an investment fund or I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1588919,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "became a textile Magnet or a shipping it\ndidn't matter because I didn't know what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1593000,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I was going to do at that point anyway I\nwas a stock broker but he makes you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1596799,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "believe and it's not some fuu motivation\nthat goes away he makes you realize what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1601480,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're capable of accomplishing if you\nfollow you know routines so that book",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1606279,
+    "dDurationMs": 4681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "had the biggest impact on my life I'm a\nhuge fan of Tony Robbins for those",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1609520,
+    "dDurationMs": 4639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reasons I've had the the gift and\npleasure and honor meeting him and in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1612559,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "person he's even way more sincere than\nyou could ever imagine but there's tools",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1617000,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like that\nafter that I started reading everything",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1619880,
+    "dDurationMs": 6519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and I tell people depends on what your\nmood is of the day so if I want to learn",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1625000,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about business I'll read business books\nif I want to learn lessons from",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1627520,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "businessmen I'll read about people who\nhave run businesses even if they're no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1630960,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "longer on this earth like you know\nCarnegie or Rockefeller I want to learn",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1634120,
+    "dDurationMs": 5679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "how they built their business so I want\nto learn about that if I'm we say if I'm",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1638600,
+    "dDurationMs": 4319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "having a fight with my wife maybe I'll\nget a book on relationships if I want to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1641559,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "learn more about running marathons and\ntriathon I get a book on Fitness So",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1645799,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reading is like when people what's the\nhack the hack is reading because every",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1650159,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "book will give you about 25 35 years of\nexperience from an author that you could",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1653919,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "get in two to 300 pages and they're\ngoing to give it all to you there",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1657279,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because they want their book to sell so\nthey're going to give you everything",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1660279,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they got in 200 Pages approximately and\nif you're a fair reader you should be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1664399,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "able to get that done in two weeks so\nyou could read 26 books 24 books a year",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1669600,
+    "dDurationMs": 4919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I mean it's tremendous but reading is\nthe shortcut you brought up reading and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1672960,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's one of the most fundamental\nskills that someone will develop in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1676240,
+    "dDurationMs": 4559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "school and I wanted to ask you cuz you\nalso brought up Rockefeller and he was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1679000,
+    "dDurationMs": 5159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "one of the guys who created the origins\nof the school system are there any",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1682640,
+    "dDurationMs": 4919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "changes like let's say that you were in\ncharge of the education system what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1686039,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "changes would you make to it today for\nkids that are going through middle",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1688799,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "school high school and college today or\nis there anything that stands out that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1691360,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you would do completely differently and\nthat you think schools are doing wrong",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1694480,
+    "dDurationMs": 6039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "great question so I'll be careful how I\nanswer this because I love Educators and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1698240,
+    "dDurationMs": 8960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I love teachers but I really don't love\nthe system uh a guy like me when I was a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1704320,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "kid was canceled out of the system and\nto today they'd say I have ADHD because",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1709279,
+    "dDurationMs": 5321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I just talk too much the truth is I was\njust bored and back then they did want",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1712840,
+    "dDurationMs": 5319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to drug me but there was no thing for it\nyou know just to calm your child down so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1716279,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he just you know conformed to what the\nschool wanted you to do my parents",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1719960,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "didn't go along with that I was bored I\nwas uninterested and it was really",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1723960,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nothing the school system had for me\nbecause I wasn't interested in learning",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1727440,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about geometry I didn't really care\nabout a shape I mean I still to this day",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1730600,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "don't have any use for I sauc triangle\nso you didn't stimulate my brain that a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1735679,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "good so\nwe have to learn that today on your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1740679,
+    "dDurationMs": 7321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "little cell phone the greatest mind in\nthe planet couldn't remotely keep up so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1746080,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we have access to things so you just\nneed to learn how to use the things more",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1749640,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so learning how to learn it so it's just\na different system and although I give",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1754919,
+    "dDurationMs": 5161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "teachers a lot of credit I find that\nthere are a lot of teachers",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1758360,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "unfortunately that just want to go with\nthe program they're more concerned with",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1761399,
+    "dDurationMs": 4601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "their school getting good rankings and\ngetting good funding and not what's best",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1764440,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for the kids and you know I've heard\nstories of kids that want to apply for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1767440,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "colleges and maybe it's a reach and the\nschools actually say no you can't even",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1770640,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apply to those colleges and some schools\nhave a say where you could apply so I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1775360,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think a lot of teachers unfortunately\nmaybe they're tired of the career I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1779039,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "don't know what it could be but the\nsystem as a whole isn't teaching what a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1782279,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lot of people need to know and the\nschool system in Beverly Hills shouldn't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1788360,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "be teaching the same thing necessarily\nas the school system in in a very poor",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1792320,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "neighborhood because these poor kids\nneed to learn a lot of different life",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1795720,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "skills than the kid who's coming from a\nmulti millionaire family and although",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1799000,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they both have to learn math and science\nand all that kind of basic stuff there",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1802799,
+    "dDurationMs": 5641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "has to be different fundamentals and so\nmany kids you know the these young kids",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1807080,
+    "dDurationMs": 5079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that the from these poor schools I hear\nabout all the time and I'll compare them",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1809799,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to the rich kids schools the rich kids\nthey have tutors they have coaches I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1814360,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mean I see kids that are 12 years old\nwith coaches and they want to play",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1817960,
+    "dDurationMs": 5439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "football like where do you think you're\ngoing with that like you get coaches for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1821200,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "football already for $200 an hour it's\ninsane yet you go to the poor",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1824880,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "neighborhoods these kids don't have sat\ncoaches they can't afford courses they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1828200,
+    "dDurationMs": 6599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can't afford tutors they got to struggle\nso more has to be done to that side to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1832720,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "level the playing field so to speak they\nhave to learn different skills because",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1837159,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when the rich lawyer is going to send\nthis kid to college he's going to hire",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1840600,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the best college you know counselor and\nhe's going to pay thousands and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1843840,
+    "dDurationMs": 5559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thousands of dollars with a poor kid is\nnot even sure he can go to college the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1847240,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "school system has to be designed to help\neverybody and it's really not it's one",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1851080,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "program you learn this stuff you get to\nthis grade then you graduate and then",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1854480,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're on your own and that's not going\nto work I want to go back real quick to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1858279,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the the book aspect more so in the sales\ndepartment so You' heard a couple people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1864320,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they talk that like hey if you want to\nlearn sales don't necessarily look to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1867480,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sales books you got to actually put in\nthe Reps and like go learn through that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1870679,
+    "dDurationMs": 4201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "way so I'd love to get your perspective\non if someone's getting into sales today",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1873880,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they're in a sales role or they're\nrunning a company you got to be good at",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1876200,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sales you know should you look to books\nshould you look to just like getting on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1879720,
+    "dDurationMs": 5319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the phone start call calling people\nlearn through that way and if it books",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1882880,
+    "dDurationMs": 7679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is the route uh what's what's your top\nsales book recommendation right first",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1887320,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "off great question and I understand that\ntoo people say no you you got to go out",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1892039,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and do it but that would be like me\ntrying to tell you like okay I'd like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1896440,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you to create all the stuff that has\nbeen done for you and not take advantage",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1898960,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of what's done so if the best sales\ncoaches have written books and they have",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1902919,
+    "dDurationMs": 6681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "online audio courses and there's so many\nbecause sales isn't new I mean some of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1908240,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the biggest books on sales were written\nin the 1930s because sales has always",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1912120,
+    "dDurationMs": 7279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "been a thing why would you not want that\nshortcut I mean why would you not want",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1917200,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want that it's like you could be someone\nwho's never gone to the gym and say I'm",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1921320,
+    "dDurationMs": 3719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to go to the gym and figure out\nhow to use this stuff and you're going",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1923600,
+    "dDurationMs": 5079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to get hurt but yeah you can put in the\ntime and eventually you're going to get",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1926240,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really good at it or you could go there\nwith the trainer and be an expert in a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1930120,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "couple of weeks so you want to utilize\nall those tools you want to take",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1934120,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "advantage of everything people have\nlearned that they will to share with you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1937840,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to expedite and get it done faster you\nwill learn it it's true you could just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1941440,
+    "dDurationMs": 4239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "go out there and fumble and bumble or\nyou could read a couple of books and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1944240,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "take a few sales courses and get ahead\nof the game uh as for sales coaches",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1948480,
+    "dDurationMs": 8199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sales is a lot of psychology so there's\na lot of books you could read uh I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1953919,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there's so many that you can look at but\nwhen it comes to reading I always tell",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1958000,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people the best thing to do for reading\nbecause there's so many great books I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1960760,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "couldn't even think of a hundred on the\ntop of my head but go on Amazon look up",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1965320,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sales books Look for covers that catch\nyour attention and then you can go into",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1969000,
+    "dDurationMs": 4639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the book and you can read the first\ncouple of pages and if you're not going",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1971760,
+    "dDurationMs": 5639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to read Audi book is fine here too\nlisten to it in the car but see the way",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1975720,
+    "dDurationMs": 4679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's written and the way it's going and\nif it resonates with you if it does",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1978840,
+    "dDurationMs": 5319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's the book but there's a million\npeople and I won't say names because I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1982000,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "don't want to say one and someone will\nsay something else but there's so many",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1986360,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "books on sales and psychology of selling\nyou'd be a fool not to use that right",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1991120,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and I wanted to ask you since we're kind\nof talking about sales you've been able",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1993919,
+    "dDurationMs": 4401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to close some massive deals over the\nlast 30 years you know throughout your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1997120,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "career you've closed some pretty amazing\ndeals but in order to get people to sign",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2000720,
+    "dDurationMs": 4839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the dotted line to trust you through\nnegotiations and all that they have to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2003880,
+    "dDurationMs": 4759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ultimately trust you they have to they\nhave to people buy from people that they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2007080,
+    "dDurationMs": 5079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like and that they trust so how\nimportant has it been being able to be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2010880,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "being able to build like a personal\nbrand for yourself uh that's you know",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2014279,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "made a lot of people not only respect\nyou but also trust you to work with you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2018200,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "well your reputation is everything and I\ntell people takes a lifetime to build a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2022360,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reputation and one stupid mistake to\nruin your reputation so be careful with",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2025760,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that but you're always selling and I'm\nno different than the billionaires",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2030399,
+    "dDurationMs": 3760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "buying real estate today that are buying\nyou know I'm buying properties for tens",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2033279,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of millions and they're buying\nproperties for you know Blackstone of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2035519,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "those guys for billions they have to\nsell the seller then they got to sell",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2039559,
+    "dDurationMs": 5881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the investor to invest and then they got\nto sell the banks to lend so it's always",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2043600,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to be a sale and guess what then\nwhen they want to go build a building",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2046960,
+    "dDurationMs": 5719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you can think of your biggest developers\nyou don't just have to sell the cities",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2050800,
+    "dDurationMs": 4799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and the counties and the towns the right\nto build this building and for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2053879,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "permission you now got to sell the whole\nneighborhood and why your building is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2056839,
+    "dDurationMs": 5481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to be a plus for the community so\nthe larger you are and the more wealth",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2060839,
+    "dDurationMs": 6121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you have and the more responsibility you\nhave the more you have to be selling and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2064679,
+    "dDurationMs": 5801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it it's everything is a sale so you have\nto learn how to sell yourself and the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2068240,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "best way to sell is to sell the truth\nthat's it tell the damn truth and it'll",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2072200,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "help you out so much but selling is\neverything at every level of the game I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2077800,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just want to hop back back to the books\njust for one second and I know books",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2081359,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have been pivotal throughout your life\ntime and you actually have a copy of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2084440,
+    "dDurationMs": 5479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your book right here on the table show\nthat to the camera so could you go ahead",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2088000,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and tell us a little bit about that book\nand after that also like to hear maybe",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2091919,
+    "dDurationMs": 5481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your advice uh maybe someone who aspires\nto be an author one day or maybe write",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2095399,
+    "dDurationMs": 5481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "their own book all right kind of goes\nback to what we said earlier never",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2098760,
+    "dDurationMs": 6359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dreamed I would be an author and I\nactually wrote this this was before chat",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2102240,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "GPT came around so I really wrote a book\nand like I said I never even read books",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2107200,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "until my 20s but what happened for me\nwas I was helping a lot of people in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2110920,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "real estate and it was really beneficial\nand rewarding so I said great so from",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2114839,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there I started doing some podcast they\nsaid wow it's a bigger audience I said I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2118480,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "should write a book so I'd come into\nthis office right here and sit down and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2122440,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "start working on this book and I'd come\nto work beforehand I would come here on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2126040,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Saturday and Sunday and I had the whole\nbook and I hired and editor and I did",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2129240,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everything and I sent them and he said\nyour book is so good and he sent me the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2132119,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "book back and I read it and I said and\nthat sucks and I started all over again",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2136720,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and then someone gave me a tip that said\nyou got to write the book as if you're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2140160,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "writing to someone who you writing it to\nso I rewrote the whole book basically as",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2144200,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if I was writing it to someone who's\nnever been in real estate so I wrote",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2147800,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this book for that belief that this\nisn't just if you want to learn about",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2151560,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what I do this is to tell you every\ndifferent way you can invest in real",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2154680,
+    "dDurationMs": 4080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estate whether you want to buy stocks\nthat invest in real estate State you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2157079,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want to invest in someone else's deal\nyou want to buy trip net properties you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2160319,
+    "dDurationMs": 5361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want to buy multif family just my\nopinion but because I wanted to give",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2164319,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "back and I'm a real estate guy and I'm\nnot trying to be an author and make a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2166800,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lot of money I said to be authentic with\nthis book I don't want to make any money",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2170599,
+    "dDurationMs": 5321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so all the proceeds of this book go to\ncharity so the last batch that I sent",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2174560,
+    "dDurationMs": 4279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "went over to crew Network which gets\nminorities and females involved in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2177319,
+    "dDurationMs": 5641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "commercial real estate so I don't want\nto make anything off the book so when",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2181200,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people read my opinion they know I just\noffered this for free it actually cost",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2184280,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me a lot of money to write this book and\na lot of time but that's the value of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2187760,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reading someone could read this book and\nthey say oh you know they want to come",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2190760,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "meet me I always say did you read my\nbook because this is a better way to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2193880,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "meet me this will answer everything I\ncould think of that took me about 18",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2197560,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "months to write which I could never tell\nyou in four hours so if you want to sit",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2200760,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "down and start reading it they\nwant yeah I think uh I think uh one of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2205400,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "one of my favorite pictures I've ever\nseen is Todd recreated the Money",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2209240,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Mayweather the money table and he just\nreplaced all the the money that Floyd",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2213640,
+    "dDurationMs": 5439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "had on on the table just with books I\nthink that's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2217400,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really really metaphorical honestly it's\njust like before you get to that picture",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2220560,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you got to have this one so but but\nkeeping it real on Commercial Real",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2223720,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Estate maybe you're top three takeaways\nto someone that ends up reading that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2226839,
+    "dDurationMs": 4161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "book it took you 18 months to write it\nbut if you could give three big",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2229800,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "takeaways that somebody's going to get\nout of that book what would you tell",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2232560,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "them biggest takeaways is I'm an amazing\nauthor took a great picture I'm",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2236880,
+    "dDurationMs": 5239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "kidding no uh the biggest takeaways from\nthe book is that anyone could do real",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2240680,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estate and you know I tell people about\nmy past I said I didn't come from a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2243599,
+    "dDurationMs": 4041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "broken home and I've heard hardship\nstories I didn't have any of that I came",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2246319,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "from a good family my parents were\nalways involved I was very lucky but I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2249680,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wasn't into school and many teachers\nsaid many things to my parents and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2254079,
+    "dDurationMs": 5881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "myself about my future which was not\nvery optimistic but I did it you know I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2258200,
+    "dDurationMs": 4639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "went to Community College and here I am\ntoday like I said at 50 years old with",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2261560,
+    "dDurationMs": 4519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hundreds of millions of dollars worth of\nreal estate and I have bankers and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2264280,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lawyers and everybody and I and like I\nkind of joke around that I'm like it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2267960,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "funny because I have people from Harvard\nworking for me now but Harvard wouldn't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2271760,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "even let me come visit the campus if I\nwanted to so real estate is accessible",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2275960,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to everybody now you don't have to want\nto be me and you may not get addicted to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2279280,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it but if you just own one or two\ninvestment properties great so takeaway",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2283000,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "number one is real estate's for anybody\ntakeaway number two from the book would",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2287160,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "be if it's not going to be real estate\nthis will open your mind up to figure",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2291040,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "out something that'll benefit your\nfuture because I talk a lot about that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2294359,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in the book too how it's great to have a\nfantastic job and be the best lawyer the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2298560,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "best doctor the best scientist and God\nwilling you making millions of dollars",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2302640,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but that's going to stop unless you\ndon't want to stop but at some point",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2306000,
+    "dDurationMs": 5079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're all going to stop whether you\nwant to believe it or not and then what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2309839,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so you have to take financial\nresponsibility for yourself for your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2312760,
+    "dDurationMs": 7319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "future down the road and takeaway number\nthree would be is it's easy it's really",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2318280,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really easy to own an operate property\nand I spell it out in the book it's easy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2322400,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people over complicate it they overthink\nit yeah I I think uh one of the cool",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2325920,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "things if people that you know follow\nyou on Instagram will frequently see and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2329359,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you brought this earlier it's really\ncool that you give the proceeds away the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2332440,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "book the charity it's a way for you to\ngive back your knowledge over 25 years",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2336160,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of commcial commercial real estate uh\nbut for people that follow you on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2338800,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Instagram they'll frequently see people\nflying to your office coming and meeting",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2342839,
+    "dDurationMs": 6681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with you why do you do that why do you\nyou know take the time to allow people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2347400,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to just come from all over and come meet\nyou that they might not have achieved",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2351480,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like an En numerous amount of success\nmaybe they're they're hustling they're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2354480,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going but they haven't made it yet uh\nwhy do you take the time out of your day",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2358520,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh to be able to meet with them and\ninvite them to come meet with you I'm",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2362960,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "probably more in the phase of my life\nnow where giving back is more fun than",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2366040,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "even earning and growing my own business\nat this point I've been doing it so long",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2370160,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there's no shot I'm slowing down in\nbusiness but it's really really",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2374240,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "rewarding to help other people and when\nyou see that they really want something",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2377160,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to get them on the straight course and\nto help them out uh everybody has time",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2381280,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to help everybody and like I quasi\nidolize my older brother because he",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2386599,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gives so much time to charity his whole\nlife he's an attorney by trade but 80%",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2390960,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of his day has SP giving back this guy\nevery weekend is giving back I mean he",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2394480,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "went to Habitat for Humanity he traveled\nfor a week to go build houses and I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2398200,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "don't do that and I would look at him\nand he'd go clean the beach and he'd go",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2401359,
+    "dDurationMs": 6521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "load dumpsters and I don't do any of\nthat and I'd say man I suck I got to do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2405280,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "more but this is a way for me to help\npeople cuz my value isn't cleaning the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2410520,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "beach my value is trying to be an\neducator which is why I wrote the book",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2413280,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for charity and give back so I want to\nuse those skills but it's very very",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2417359,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "rewarding when people come in here and\nand they really want to learn something",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2420760,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and you know you have good intentions to\nhelp them I always tell them it's just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2423560,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "my opinion take all the good and\nanything you don't agree with like just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2427359,
+    "dDurationMs": 4441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "keep moving just take all the good out\nof it and go but it's really a pleasure",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2430200,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to work with young people and it's you\nlearn a lot from them too it's very",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2433640,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "rewarding for me too I hear things and\nlearn things and about towns and places",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2438079,
+    "dDurationMs": 5721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I never plan on going and it's really\nexciting so it's a win for both of us",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2441839,
+    "dDurationMs": 5121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "now I had a question for you so you know\nyou you've bought youve sold tens of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2445599,
+    "dDurationMs": 4641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "millions of dollars in real estate\nthroughout your career and you've had an",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2448440,
+    "dDurationMs": 6919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "extremely successful career you built a\nreal estate Empire in South Florida",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2452680,
+    "dDurationMs": 5639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but every successful entrepreneur you\nknow will tell you that there's tons of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2457160,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "challenges that come with that and\nfailure is very common in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2459599,
+    "dDurationMs": 5441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrepreneurship you know there's times\nwhere you don't get the deal that you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2462720,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wanted or a certain Market crashes where\nyou were investing or looking to buy and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2466599,
+    "dDurationMs": 5361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sell property in how have you been able\nto overcome setbacks and challenges",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2471079,
+    "dDurationMs": 3561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "throughout your career and any\nentrepreneur out there a young",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2473160,
+    "dDurationMs": 5679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrepreneur who's dealing with some\nadversity any advice to them going",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2476119,
+    "dDurationMs": 2720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "through the storm right",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2479640,
+    "dDurationMs": 8479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "now yes answers uh the first thing I\nwould say to that is did you really get",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2486440,
+    "dDurationMs": 5879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "setback or did you just not get what you\nwere trying to get as easy as you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2489520,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thought and you know I relate this to a\nlot of things and I actually made a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2494280,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "video on this and I said my daughter be\nmad because she studied for her her real",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2498480,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "estate course and she failed you need a\n75 she winds up with a 74 and she's like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2503200,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "God I didn't pass I like so what you\njust didn't get it today get back to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2508359,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "work and she got back and she studied in\nthe week lady she passed it she did not",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2512800,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "get it the first time she just didn't\nget it as easy as she thought it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2515680,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "required more more work and most very\nsuccessful people will tell you it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2520640,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just the little extra push that'll make\nall the difference in the world most",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2524560,
+    "dDurationMs": 8039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people will give up most people will hit\nadversity and stop most people do not",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2529200,
+    "dDurationMs": 8159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want to fight but that's what it takes\nto win I mean that's really what it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2535160,
+    "dDurationMs": 6679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "takes man I know you guys are big into\nbaseball you fail 70% of the time and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2540160,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're a superstar hitter but you're\ngoing to miss 70% and you're the best so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2545160,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you are not going to get everything you\nwant in business I still don't get",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2548559,
+    "dDurationMs": 4481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everything I want not even a remote shot\nand let me tell you the more deals I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2551839,
+    "dDurationMs": 5641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want to do the more I'm not going to be\nable to get it gets harder and harder",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2555400,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but you cannot get hit down one time and\njust say okay that's it that was it for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2558720,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me I give up I'm done I'm going to go\nhome you can't do that you got to keep",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2561599,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fighting through never give up some\nsomething I find that's very interesting",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2565800,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about you and how you personally invest\nin real estate is you really only invest",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2569760,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in real estate that's close to home and\nreally in South Florida why is that and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2574359,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what advice would you have for someone\nin picking their own real estate market",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2578839,
+    "dDurationMs": 5801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "exactly the same stay close to home stay\nout of South Florida because I'm there",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2581960,
+    "dDurationMs": 5639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no kid stay close to home that's your\nEdge certainly in the beginning now I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2586200,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "could obviously go buy a property\nanybody could 2,000 miles I could buy a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2590160,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "property in a foreign country but that's\neven riskier I don't know anything about",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2594040,
+    "dDurationMs": 5559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "those countries but for me to have an\nedge on real estate it has to be in my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2598000,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "neighborhoods and it doesn't mean my\nneighborhood where I live but the State",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2601440,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of Florida is what I call my\nneighborhood I understand the politics I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2604520,
+    "dDurationMs": 4839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "understand the weather patterns I\nunderstand the economies I understand",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2607319,
+    "dDurationMs": 5561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everything I can't know everywhere so if\nI was to want to go out and buy a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2610480,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "shopping center in Cleveland Ohio I\ndon't know anything about Cleveland Ohio",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2614760,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "maybe the center is beautiful but I\ndidn't know that right down the street",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2617640,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they're about to knock things down and\nbuild a prison I mean I don't know this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2621359,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stuff but I know in my home state what's\ngoing on so the biggest Edge you'll have",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2625680,
+    "dDurationMs": 5879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is to buy in your own backyard so to\nspeak so my thing is I got to be able to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2630000,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "leave my house in the morning drive to\nmy property and just be home for a late",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2633440,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dinner so I keep everything about zero\nto 400 miles away yeah and so you know",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2639200,
+    "dDurationMs": 5359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you brought up that your daughter's\ngetting into real estate would love to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2641640,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ask you it's just like what like as of\nlike what would be your best advice for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2645960,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people that are you know fathers out\nthere they're maybe they're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2649040,
+    "dDurationMs": 3600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entrepreneurs maybe they're not but\nthey're high level individuals and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2651480,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they're building families what would\nyour best piece of advice for uh you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2655160,
+    "dDurationMs": 5439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know people that are young and they want\nto start a family and just fatherhood",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2659079,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "advice what's your best advice as a\nfather kids learn by example so you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2663400,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "could tell them anything you want\nthey're not listening they're watching",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2666920,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh so my kids in a sense of business\nhave had a very good upbringing because",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2671640,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they've watched me work they at this\npoint pretty well aware and known that I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2675800,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "don't really need to work they've done\ninternships here they've done everything",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2679000,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in my company they've worked here uh but\nsince the time they were this big and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2684280,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they're only a year and a half apart I\nwould take them to job sites they'd see",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2687720,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it they were too young to understand I\nwould take them when I would go collect",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2690760,
+    "dDurationMs": 4559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "rents or meet someone I'd make them sit\nin meetings we have Monday meetings here",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2694280,
+    "dDurationMs": 4319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I'd bring them in when they didn't have\nschool they' sit in the Monday meetings",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2696920,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when they were very very little so they\nwere always raised around that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2699920,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "environment and they watched how I\nbehaved and from working here when they",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2704359,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "were older obviously the older you get\nthe more you figure out wealth and money",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2708040,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they figured quite a bit out and they\nlook how I live and they Mentor that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2712839,
+    "dDurationMs": 5961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they model that and that's what they're\ngoing to do so a lot of people may think",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2717040,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I'm wrong but I tell my kids yes to\nalmost everything because I want it to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2720920,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "be their life it's not my life I'm not\ngoing to live vicariously through my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2724160,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "kids I'm going to live my own life I\njust want them to go out and take risk",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2727720,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "try things if they're going to do\nsomething stupid I'm going to stop it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2731200,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but at this stage they're you know 17\nand 19 years old they got to go figure",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2735720,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the world out it's on them and if they\ngo out and try something and don't like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2738920,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it I'll help them fix it but it's on\nthem but when it comes to business the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2743760,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "greatest advice I have for everybody is\nfrom the time your kids are little bring",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2747280,
+    "dDurationMs": 6279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "them to work I tell everybody in my\noffice bring your kids to work and some",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2751359,
+    "dDurationMs": 5121,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of them don't believe it at first like\nwell you mean I could have them come",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2755200,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "here instead of after to care for an\nhour or two I'm like absolutely and I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2758520,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have kids in here I can show you my desk\nright now I got kids making me little",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2761280,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pictures cuz they're just coloring CU\nthey're one of them's like seven years",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2763920,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "old they come here they're watching\ntheir parent work and they're building a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2768319,
+    "dDurationMs": 5401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "new level of respect for their parent\nand that carries a long way as they get",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2771920,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "older they saying now I realize what you\ndid and they'll model it but they'll",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2775800,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "also model the bad behavior too so make\nsure you're making them see the good",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2778520,
+    "dDurationMs": 5799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stuff too yeah absolutely and so like\nbringing that up you know you allowing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2782760,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people to bring their kids to the office\nyou know similar to how you did uh as an",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2786680,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "operator what has been the leadership\ntechniques uh that you have implemented",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2791520,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "within current capital with you know\nyour team and your employees here that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2795760,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you would you know give to other people\nlike leadership advice for an operator",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2799839,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "leadership to me means that I help\neverybody be better at their job now I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2804520,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "could obviously do everybody's job here\nbecause I've done it for so long and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2808760,
+    "dDurationMs": 5799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this is what I started in I just\ncouldn't do it as well as them anymore",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2812520,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because they're experts at it and in our\ncompany there's obviously a leasing team",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2816440,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a property management the field team a\nproperty management in the office team",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2819599,
+    "dDurationMs": 5201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "an accounting team an operations team a\nlease renewal team there's many",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2823079,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "different components and they're all\nexperts so my only job is to make them",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2827200,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "better same as my kids where I let them\nsay yes to everything I am the anti",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2832040,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "micromanager I tell them figure it out\nand when you come to me I don't want to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2835880,
+    "dDurationMs": 4199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know the problem unless you have the\nsolution and you better have one or two",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2838720,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "options if it's a big problem I I need\nmultiple choices to get out of this mess",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2842160,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but I just want to motivate them to be\nbetter at their jobs I'm not the I'm not",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2846240,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "looking for credit in fact I don't even\ndo the work here per se I just assist",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2851720,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everybody so I'm kind of on the sideline\nand people will come in and out of my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2855839,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "office all day long asking for things\nbut ultimately they're running the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2858839,
+    "dDurationMs": 10041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "company not me so leadership really is\nmaking other people better what they do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2864680,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yeah absolutely and you know it's really\ncool that the you know we always talk",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2870960,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about business and on these side of\nthings but you know you've also you've",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2874480,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "had some time being being on TV as well\num what has that process been like you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2879040,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know like do you ever get recognized in\npublic for for you know being on TV oh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2883319,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yeah of course uh especially with my\nwife we get recognized all the time with",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2887520,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "her uh and she tries to be nice to\neverybody when she can obviously at some",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2890960,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "point you might get a little tired but\nyou know you got to treat every fan her",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2894200,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "world you know she's the star of that\nshow so she's gets that attention uh but",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2899119,
+    "dDurationMs": 6561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interestingly enough yeah you do get\nrecognized the best part about the show",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2904200,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is it teaches you you better be nice to\nto people cuz you really don't know if",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2907040,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the person knows who you are it doesn't\nmean they want to talk to you but I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2910000,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "always say it's kind of like I know who\nmy guy is on the news at night the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2913720,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sports caster if I see him somewhere I'm\nnot going to say anything to him but I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2917240,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know it's him because I've seen him yeah\nso you know you're recognized and you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2920359,
+    "dDurationMs": 6601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know people know who you are so you got\nto watch your behavior the downside is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2924119,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I'm on a show where they want to preach\nall the bad stuff so unfortunately",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2928960,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there's a downside so you're always\nexplaining stuff but there's a good and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2932119,
+    "dDurationMs": 5081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bad yeah it's a NE it's a neat\nexperience that not everybody uh you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2935119,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know is able a part take on yeah yeah\nall right I'm I'm going just ask you a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2938599,
+    "dDurationMs": 6361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "few rapid fire questions that I think uh\nwould would be would be cool to know so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2942839,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "first one is uh favorite restaurant in\nFlorida favorite restaurant in south",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2947040,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Florida right now for me would be\nCarbone in Miami Beach awesome uh",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2951119,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "favorite country that you've traveled to\nin the last decade Italy Italy Italy",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2954760,
+    "dDurationMs": 3920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "over and over and over again do you have\nany advice for anybody going to Italy go",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2957760,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to\nItaly every part of Italy is fantastic",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2961760,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh favorite movie favorite movie for me\nwould probably still be Wall Street Wall",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2966559,
+    "dDurationMs": 6921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Street yeah wow the original number one\nuh and then uh last question would",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2971400,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "probably just be uh how do you want to\nbe remembered Ah that's a hard one I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2976119,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want to be remember as someone who\nreally cared about people and gave back",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2979119,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's the Legacy that I'm a great dad\nand I cared about people and I serve the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2983400,
+    "dDurationMs": 4679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "purpose here way bigger than real estate\nbecause ultimately nobody will care",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2986359,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about the real estate a few years later\nso ultim I'll make sure I made a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2989240,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "difference in some people's lives\nawesome beautiful and we always end",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2993040,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "these off with uh kind of like one last\nquestion but if you have any guiding",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 2997119,
+    "dDurationMs": 4601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "principles out there what is the best\npiece of advice that you would tell to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3000160,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the younger generation today what's the\nblueprint to creating and living a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3003599,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "successful life if you can leave them\noff with some guiding principles that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3007119,
+    "dDurationMs": 4641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can you SE led to your success to all\nthe people in your circle that have that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3010799,
+    "dDurationMs": 5401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have really created some of the most\nsuccessful people what does it take the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3014520,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "best advice I could give young people it\nwon't be the the fluff of saying work",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3017839,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hard because we all know that would be\nfocus on your mindset you know don't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3022319,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "beat up on yourself you're not doing\nanything wrong have some patience don't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3025960,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "compare yourself to people 10 15 years\ndown the road you'll get there so have a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3029640,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "little patience but stay positive and\nstay motivated and stay committed you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3034440,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know it's not going to be easy and I\ndon't care what it is in life it's not",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3037480,
+    "dDurationMs": 5119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to be easy to join a gym for the\nfirst time it sure as hell isn't going",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3040559,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to be easy to become a millionaire so\nstick with it stick with the program and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3044720,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stay true to your mindset because if you\nstart beating up in yourself and start",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3047599,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "getting negative you're going down the\nwrong hole continually stay positive I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3051680,
+    "dDurationMs": 5879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "love it guys that wraps up today's\nepisode it was awesome to come out here",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3055720,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to shoot with Todd man we always love\nconnecting with you but be sure to leave",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3059079,
+    "dDurationMs": 5961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a like And subscribe for amazing content\non the way at the School of Hard KN and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3062559,
+    "dDurationMs": 5961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Todd for those that don't know not only\neverybody keeping real on Commercial",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3067119,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Real Estate but where can everybody find\nyou outside of this podcast you can find",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3070559,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me on social media through life\naccording to Todd you could find my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3074119,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "books for sale anywhere uh you can go on\nmy link it's available there you can get",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3078160,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it through Amazon Target everybody has\nthe book available uh and if you really",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3082680,
+    "dDurationMs": 8960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do need help in real estate you can\nreach out to me at Todd at cc- r.com you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 3087680,
+    "dDurationMs": 3960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can call my office at 954-966-8822",
+      "acAsrConf": 0
+    } ]
+  } ]
+}
