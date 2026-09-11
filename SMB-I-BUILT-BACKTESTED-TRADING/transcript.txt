@@ -1,0 +1,700 @@
+Most traders are asking AI the wrong
+questions. They're asking it what stock to buy. Better question is, can you do
+hundreds of hours of research for today? We're talking with a 20-year veteran
+systematic trading about how he's using Claude to build and test trading
+strategies in a fraction of the time and why that changes what one trader can
+accomplish. Welcome to episode 20 of the trading floor podcast. Our guest today a
+systematic day trader since 2005 currently trading 30 plus proprietary
+strategies every day. His name is Dave maybe founder of maybe
+kit the number one strategy optimizer and automation tool for systematic
+traders host of line your own pocket podcast former CTO of trade ideas and
+he's on a mission to turn 10,000 hobbyist into full-time traders doing it
+for a living. Dave, thank you for joining us. This is the second time.
+We're so psyched to have you on again. >> Yeah, thanks so much for having me. I'm
+excited to be here. >> So Dave
+as many know who have been in the bionic meetings where Dave has joined us and
+I've introduced Dave Dave is a mentor to Tim and I when it
+comes to everything automation and everything strategy optimization. And so
+when Dave when you told me that you wanted to
+come on and talk about how you're using Claude automate backtesting and strategy
+development. I got really excited because Tim and I haven't done this yet.
+So what drove you down this path? >> Yeah, so I've got four bullet points
+that you know, I've been listening to your podcast. You guys have been doing a
+great job with this and so to inspire me to to think about this.
+Um, you know, I've always
+I've always automated stuff like if from the career I had before trading
+Uh, I was all about automating stuff and it's just the next iteration of, you
+know, uh, from automating strategies now to
+trying to automate as much as I can of doing backtesting.
+So, I'm it's it's you know, when I when I first started
+using Claude code about 8 months ago, it was
+a trader friend of mine said, "Dave, you should really start using this." I was
+like, "Well, I mean, I'm using ChatGPT. I mean, what's what's really the big
+difference?" But man, once I started using it, I was
+like, "Oh my gosh, this is really great."
+So, it really opened up a whole new world,
+but you know, one thing that I think about,
+you know, from my CTO days, just because Claude can do all these
+things for you, it doesn't mean the rules of software development have
+changed. Like, there's still basic rules that
+people have to follow and and and it's good practices to follow.
+So, there's lots of things that there there's
+there's lots of ways that you can get into a trap if you're not careful. And
+and I've just known this from being a software developer for so many years.
+Uh, so yeah, it's an exciting time to be a trader, it's exciting time to be a
+developer. Um,
+but yeah, there's there's certain guardrails you need to impose on
+yourself with this this amazing tool. >> I 100% agree and I feel like not a lot
+of people are talking about those traps in general. But I'm excited to get into
+these bullet points as well. >> Uh, first bullet point here, the first
+step you could do to automate the backtesting and systematic trading that
+you're doing is have give Claude the path to be able to
+run a backtest on your behalf. So, may maybe you've already got a
+backtest and
+give it the tools to actually run it without intervention. You can say,
+"Okay, just go run the back test." And that means like the tool I use is
+AmiBroker. So, that means run the back test,
+save the CSV results to the standard place,
+and not all back testing tools allow you to
+do this. So, you can't even use Claude code to run
+back tests in most back testing software out there. So, the only ones I know, in
+fact, I think you can't do it in TradeIdeas.
+The only ones that can do it, I believe, are AmiBroker and RealTest.
+Uh and Kite, the tool that you guys have access to, but retail traders don't have
+access to that tool. >> That makes a lot of sense. I wasn't sure
+when you were coming on uh with back testing with Claude if it was going to
+be that you gave Claude like a ton, like an entire CSV of all minute bar data for
+a ton of stocks, and then it was able to like do some sort of its own makeshift
+back testing, or if it was this link. So, you're linking it with AmiBroker.
+Would you like to gain the biggest edge a retail trader can get? All of our
+daily and weekly in-house trader meetings are now available to you. Just
+head over to smbtrainingfloor.com to find out more.
+>> A lot of traders come to me and have tried the route of having Claude do
+everything. And it's tempting to do that. I
+I totally get the draw of doing that, but it's sort of like
+it's sort of like wanting to use a spreadsheet and then like building your
+own Excel and not just using Excel. I mean, why would you want to do that?
+Well, Claude could build you an Excel, right?
+>> Yeah. >> But that's No, it makes no sense to do
+that. And that's the trap I see a lot of
+traders fall into. They think they can do it all with Claude.
+And there's just AmiBroker's been around for like 30 years now, if you can
+believe me, a long time. And it's the most efficient way to do this
+for the retail trader. And there you know, there's just been so
+many lessons learned. The same developer the whole time, same interface the whole
+time. And you know, you're going to some
+people look at the interface was like, man, this looks like it's from
+30 years ago. So, well, yeah, it is. So, that's a good thing.
+>> And for you, how easy was linking it? Um, is that something that you even ask
+Claude on how to do it? Or like, how would you go about that?
+>> So, there is So, AmiBroker has an interface, a standard interface that
+Windows had and has had in there for years of
+like automating software. So, it's a standard interface for
+basically performing the functions in AmiBroker
+outside of AmiBroker via a Python script. There's a really good example
+this that I have on my mailing list. We can put a link in the show notes to it.
+Um, it's standard Python code for doing [clears throat] this exact function.
+So, it's and you know, this has been in AmiBroker for
+years, but and I've used it for years just, you know, writing my own Python
+scripts to you know, run back test for certain
+things. But now it's just, okay,
+it's unlocked to non-developers via Claude. So, you can have teach Claude
+how to do it. And the next few bullet points I'll talk
+about is specific things you can teach Claude to
+do to actually help you develop a strategy. So, that's what that's what I
+want to talk about next. >> That's great. So, step one, link it.
+And start back testing. >> Yeah, so most traders probably already
+have a back test that they're using or they're close to having one.
+Um, and that's sort of the first or they can come up with one, you know, a
+sort of a stock one pretty quickly. Uh, just to get that function working.
+So, what one example, I mean, one of the things this unlocks is
+you know, a lot of these back tests can take, you
+know, an hour to run. So, you're you're you're
+you know, you've written some code, you're you think it's right, you you run
+the back test, it takes an hour, then you get your results. Well,
+yeah, that's not immediate, so you know, you're out of the context, you
+go off doing something else waiting for it to finish.
+So, it's sort of an inefficient thing. So, a lot of traders that I work with I
+show them this workflow and then they can run four or five back tests
+overnight and then then it's there waiting for them when they wake up.
+>> Is that because they're queued one after another?
+>> Do you want to sit in on all of our daily and weekly in-house trader
+meetings? There's no bigger edge retail traders can get. Visit
+smbtradingfloor.com to learn more.
+>> Yeah, so there's a way to parameterize certain things in a back test
+let's say you want to run different versions of a back test and you've
+created parameters in there that, you know, do slightly
+different versions of it and you're trying to figure out which one's best.
+You can have it run each iteration of those parameters and then you have, you
+know, however many back tests waiting for you when you wake up based on that.
+So, it's a much more efficient workflow than, you know, clicking the button,
+trying to remember to come back and see when it's complete, then manually saving
+the results to a CSV file and, you know, maybe doing that in a
+non-standard way. If you standardize a lot of this, it becomes a lot easier and
+your whole workflow for coming up with strategies
+gets a lot easier. >> There would be certain models when we
+were looking to backtest, we just knew the backtest would take so long where we
+would try to get everything done by Friday so you can put it in over the
+weekend. And the overnight is I mean that's a
+small Chico but it's like it's an easy fix but such a massive difference like
+>> Yeah. >> It's like four to five x probably the
+amount you're able to backtest. >> Yeah and I mean it takes a little bit of
+planning but once you get this workflow going to see what's possible then you
+start thinking okay if I can do it this way then I can set up parameters for
+this and you know have this running while I sleep
+and I can wake up and you know optimize the strategy in the morning.
+>> What a time saver. Yeah what what a what an amazing time saver. All right so so
+how are you leveraging this? Is are we on the step two now?
+>> So >> [clears throat]
+>> that's sort of the basic step.
+Um step two I want to talk about
+how to actually create a strategy have Claude and I'm using Claude you know
+you can use chat GPT in the same way or Codex.
+Um have Claude create a strategy for you.
+So you give it the parameters, you give it
+the outline okay this is what the strategy is supposed to do
+and then it come it writes the code for you for the actual backtest.
+And the the most important thing to do here cuz
+I've seen a lot of traders try this especially with Amibroker
+there's there's lots of different ways to write
+a strategy and
+if you don't streamline it or
+give Claude a reference of a good you know this is the way I I'm
+talking about when I say come up with a strategy write it in this way
+it it kind of gets lost and it'll come back
+with many different ways. Like it could be any number of different ways. And
+it's more expensive those requests, you know, it's going to cost more tokens
+for you to do that. So, if you give it a reference, if you say, "Okay, here's a
+strategy that I've created. Use this as a reference and but do this
+instead." That's going to be a huge time saver and
+it's going to you know, this comes from
+my day, you know, many years being a CTO.
+A a big part of when I was at TradeOut is
+when I became CTO, a big thing I could see was like everybody was writing code
+in silos. There was no standardization.
+Uh you would look at somebody else's code and you were like, "Oh my gosh,
+this is this looks so foreign to what I do. This
+is not conforming to a standard." So, a big part of it was coming up with
+a style guide and really enforcing it, saying that any new code that we submit
+is going to be in this standard and it's going to be in the standard of the
+language that we're writing in. So, and that just becomes it it smooths
+things out. It's a little it takes a little bit of effort, you know, some
+people think it's like busy work, but it was a huge thing because it just every
+everything gets more cohesive and and gets easier.
+>> Is it enough to just give it the example uh script, the Python script, or are you
+really like telling the methodology of how you're writing it before?
+>> All right. So, in Amber Broker, there's like I said,
+lots of different ways to come up with a strategy.
+But I have used so many different ways and I've
+finalized on what I think is the right way to do it because there's one there's
+only one way to do it where you can add custom columns to your backtest, which
+is such an important part of I mean you know
+preaching to the choir here, but it's such an important part of coming up
+with a strategy that it's
+it's almost impossible to come up with a strategy without doing that.
+>> 100% >> And
+and there's you know most traders don't realize so
+I mean I've
+created an AFL generator that does it in the right way.
+And and it uses Claude on the back end. This
+comes with Maybank and I've heard from traders that have
+used it like they were trying to get Claude to write AFL before.
+Once they started using this as a reference
+Claude became much much better at writing AFL because it's using it you
+know it's doing it the right way. It knows what you're it knows the context
+with which you're asking it to do. So it's
+giving it a reference is is just super important.
+>> I've noticed that even with writing alerts
+like I've used the first like project that I took on with Claude was
+just trying to script up a bunch of these alerts that I had on a to-do list
+that I never got to and I gave it one of my alerts
+the scripts for it and that helped a ton.
+But I haven't done on the model side. >> It's going to be I mean that is a very
+important thing to have it do. Like you want to I mean every have you ever
+looked at somebody else's code that you didn't write?
+>> It's it's kind of jarring when it's not you
+know it's written a little bit differently they do things differently.
+But imagine you know if both people are writing with the same style and the same
+Like you may you may think well this is Claude writing the code. Does it really
+matter? Well yeah I mean it does matter and and it does make it
+more efficient. So if you give it
+uh you know
+the the strategies that you run, here's how I write them.
+It's going to be a lot more efficient because it knows what to do. It doesn't
+doesn't have to guess. >> Jared, you'll remember too when we were
+working with Nick, this is when we were like just starting out coding.
+Um Nick would look at our code and be like, "What is this?"
+>> [laughter] >> Like
+>> And you're putting in nice like >> read this at all.
+>> Yeah, and you're you're you're making this PG for the for the
+>> Oh, he would yeah, he would >> [laughter]
+>> kind of get a little mad at us. >> I mean, that's how we learned how to
+code though. He'd be like, "Oh, this is garbage." And he'd be like
+>> To your point him uh that's really how we learned how to
+code because Nick was so hard on us when we would just write spaghetti code.
+And we'd ask him, "Hey, uh
+this thing is not like working, you know, can you just cuz we knew he knew
+everything. Can you just look at this and you know, kind of tell us what to
+do?" And he'd be like "Just put in print statements." And he'd
+just yell at us to like he'd be like, "This is what I would be doing, so you
+guys should just do it." And it was great. That's how we learned how
+to do it, you know, and it's just it's funny and now I guess you don't need to
+know how to do any of this, but the thing Dave that
+that I'm kind of getting out of what you're saying is that it still does pay
+off to kind of have some level of understanding of like how this sort of
+like back end like programming stuff works when you're doing this.
+>> Oh, yeah, then no question about it. I mean, there So, there's this concept in
+software development called technical debt.
+And the way you should think about it is,
+you know, junior developers, new developers might
+write code. And you might have a senior person like Nick look at it and say
+"You know, this needs to be better." And the developer might say, "Well, it works
+right here. It's doing what it's supposed to do."
+But the senior developer might look at it and say, "Yeah, okay, it works, but I
+can tell from my experience that eventually
+this is going to be a a big pain to maintain. It's written in
+a non-standard way. You could write this in a lot fewer lines. You could You
+could make that You've done it like in a very convoluted way.
+And it's it's good to uh
+It's good to sort of respect and understand where that senior developer's
+coming from because they've been through this and they see what can happen over
+time as technical debt develops. So,
+and it's uh I mean
+I'm really interested to see how this whole Claude thing plays out because
+there's so many people now who think they're developers, right? And really a
+lot of what I can see a lot of people doing
+is creating technical debt very quickly and they have no idea that they're doing
+it. So, it's just I'm very curious to see
+how it plays out. Yeah, Claude can help with that if you
+know what you're doing, but it's still like people ask like people take on
+bigger projects than they should. It's It's just I'm very
+curious as as a long-time software developer to see
+how this plays out. >> I'm probably guilty of that as well. Not
+to deviate too much, but I wonder there has to be a way of trying [snorts] to
+get Claude to continually review, like almost debug for technical debt.
+>> Yeah, there is no question that you can set that up.
+Um so
+you know, I coach a lot of traders who want to get into systematic trading.
+The very first thing that we focus on or one of the first things is how to use
+GitHub well. Um
+I see so many traders I I haven't seen a trader yet that uses GitHub the right
+way. And it may not be a big deal in the you
+know, when they get started, but once you start putting code into production,
+you know, once you have a strategy live, and you go to start making changes to
+it, if you don't have good version control practices, if you don't
+have good uh
+practices for using GitHub in its sort of a standard way, you're going to get
+yourself into a problem. I can guarantee it. It may not be today, it may not be
+tomorrow, it may not be next week, but you're going to get yourself into a
+pickle if you don't have good software development practices.
+And like I said, I haven't seen a trader yet
+that uses GitHub the right way, and there's just a few
+steps to a a few principles
+to to really use it the right way and to set up your process so that you avoid
+these pitfalls. >> What are those principles?
+>> Um well,
+using branches well in the way they're intended. So, there's what's called the
+main branch. Most people are just committing to the
+main branch. And the reason that's bad is
+it's not like >> [clears throat]
+>> the way you want to do it and when you create a change, like you you you get
+your code into main, and now let's it's in production. Let's
+say you've got a strategy running and it's making trades for you.
+And now you want to make a change to it. Well,
+you don't want to develop right in that main branch. You want to create another
+branch, which is basically a copy of the main branch. It doesn't affect the main
+branch. And you want to make your change, do all
+your testing in there, do all your commits into that branch. It doesn't
+affect the main branch in your production code.
+You can do all your testing there, and then when you're ready to get it into
+the main branch, you do a pull request. And the pull request is basically, all
+right, I'm I've done all my testing. I'm comfortable with it getting into
+production. And
+that pull request is an important thing, and you can do code reviews there. You
+can have You can have Claude do code reviews, which is
+a a really nice thing for it to be able to do. You can have other team members
+look at the code to make, you know, to double-check, and you should be doing
+that. And then, once it gets into the main
+branch, okay, it's live. It's It can go to production.
+That step is such an important thing, but it because it encourages
+the right use of of GitHub in a way that uh
+uh you know, it it is going to get keep you
+out of trouble. The other important thing is
+people take, you know, uh
+it it's good to do smaller bite-size projects.
+Especially with Claude now and and new developers, I can see them like taking
+on like doing adding more and more stuff when they really should think about,
+okay, I want to do this first, and it should be a bite-size thing.
+Create a branch for that, get it live, and then go and maybe create version two
+of that. Having bite-size
+pieces of work is going to be super important, and and
+it it's a lot easier because the problem is people get
+uh you know, create uh you know, try to do a project that's
+really big and keep adding stuff, and they're committing it to the main
+branch. They've got changes in the main branch that are separate from the new
+project. It becomes a bear to to merge. So, if if you keep these
+uh development hygiene principles in place, it makes your life so much
+easier. >> It makes a ton of sense. And if you're
+making too many changes and something goes wrong, you can't even pinpoint what
+the change that messed everything up was.
+>> Absolutely. >> Yeah, that's that's great.
+>> where, you know, imagine you're you know, you're trying to get this new
+project in and it's affecting some production code. You've broken some
+production code by what you're doing. And you know, Monday's rolling around
+and you and the strategy needs to run. I mean, that's that's the kind of
+scenario that is a nightmare to have to deal with.
+>> All right. So, you're to to bring it back to the strategy. So, you're you're
+giving it a an example of a script that is in your style that's
+that that it can use as a model to create this new script. So, is that
+Does that mean that you're giving it the actual code for an existing script that
+you have, like say in production? And then you're on the on the other hand,
+you're giving it an idea, like a new idea, saying like, "Here's the criteria,
+here are the variables. I want you to implement this strategy idea with in the
+in the form of of this model script?" >> Yes, exactly. So, you know, it's
+it could be a completely different concept, completely different strategy.
+>> Right. >> But the the basic structure, the basic
+uh uh
+conventions, the way you make trades, the way you
+uh the way you capture columns, um
+everything about the sort of the style of the this the
+strategy is in there and and it just gives it a much better
+way to get started and and and to do the work.
+>> Here's a mind-bending stat for you. SMB traders have 20x to 40x higher odds of
+success than independent traders. Find out why and how to greatly increase
+your odds by visiting smbtradingfloor.com.
+>> I mean, you mentioned like the way the way it captures trades, the way it makes
+trades, the way it executes. Like I'm thinking about our platform and just,
+you know, the data, not only the collection of the data, but the
+the algos, the actual algos that are taking the trades. Like there are
+idiosyncratic things that you end up doing that are either maybe specific to
+your platform's API or maybe specific to your
+best practices, they might be risk checks, like things that you might not
+even think about telling Cloud about the strategy that it would be good to teach
+it. And, you know, for me, like now thinking about this, it's like there's
+no way I don't think I don't think I could just give it
+like a strategy idea and then have it kind of do what we do.
+>> Yeah, I mean, just like how you do position sizing. What's the variable
+name you use for position sizing? If you make all that consistent, your
+life you know, your life becomes easier later on, like if you need to make a
+change across all the strategies. You can search for one variable name because
+you know you're been using that consistent variable name across all the
+all the strategies. >> So, where do you go from there? Because
+now you've got you've got an ability to basically like
+automate the back test that you're going to run.
+So, you can do different iterations. And then now you have the ability to
+automate the the writing of these script ideas. So, you can easily create
+different iterations. Um are you doing some
+like master automation that sort of then like iterates through things and back
+tests and you can just go sailing for the weekend?
+>> Well, you you certainly can. I mean, once you get in this workflow, you can
+and I do have back tests that run every day and and update the back test
+automatically. So,
+but the but there's still a couple more important things about
+workflows I've set up to help it
+do kind of the grunt work of like making sure the strategy is written
+correctly and doing what it's supposed to do.
+So, I'm going to go on to step three here.
+>> Yeah. >> Which is give it away, give Claude away. So, I've
+got a skill in there that basically allows it to run a smoke test. And what
+I mean by this is when you run when you create a strategy
+and then you run it across all market, like I said, it's going to take 40
+minutes to an hour maybe to run. Well,
+you don't need to run that whole back test to have it
+to give it some feedback to see if it's working or not.
+So, I have the smoke test where
+I say, "Okay, only run a certain day or only
+run on a certain symbol." So, I've I've set up a skill so it knows how to do
+that. And so, it can run and that that takes
+like less than a minute, like seconds to run
+that. So, it's it can quickly run a back test
+on a like on a specific symbol or specific day
+and quickly get back results and then verify and see, "Okay, oh well, you
+know, I often times it can do all this on its own." I would you know, I got no
+results there. Let me see what's going on. Um
+I I got a whole bunch of results. Obviously, something's wrong. So, you
+you're And a lot of this is tedious kind of
+grunt work that you need to do you would be doing on your own. But if you give
+Claude tools to be able to do some of this on its own, this is the kind of
+grunt work that it's really good at and can really
+save a lot of effort and uh pain in creating a strategy.
+>> So, the purpose of this is that you're trying to just see if it's doing what
+you think it's doing before you like run it
+full back test. >> Right.
+>> Okay. And you're able to Are you able to kind of cuz you said you're creating
+skills, like cloud skills. What are those? Are you able to kind of
+automate the whole chain where it's like, "Okay, do the smoke test and then
+like if it's kind of doing what it's supposed to be doing, then run the back
+test." So, you don't really have to be there in
+the middle. >> Yeah, so the
+I want to bring it back to software development one more time to It's a bit
+of an esoteric topic, but I think it's useful.
+So, there's a concept in software development called unit testing. And
+what that is is when you write a feature,
+you can create what's called a unit test. And that's basically saying,
+"Okay, this function needs to be you know, when you give it this
+these parameters, it should come out with this result."
+And each time you do a build in software, it'll run it can run all the
+unit tests and make sure they pass. If they don't pass, something's wrong.
+So, where that comes in handy is >> [clears throat]
+>> if you got all your unit tests, you've been you've been writing this
+building the software, and you want to add a new feature to it.
+You add the new feature and you run the test to make sure this
+feature didn't break anything. And you can verify that by seeing that did the
+unit test pass? Often times you will break a former unit
+test that you had no idea you were affecting.
+And then that's an indication that, "Okay, that did something wrong."
+Where if you didn't have that, you would that
+code would get into production and you would a user would call you and say,
+"Hey, something's wrong." So,
+giving Claude a way to do that and to verify itself is extremely important.
+And that's actually step four. Give it away, like similar to a unit
+test, to verify its correctness.
+And the way I do that with strategies is All right, let's say let's say I'm
+creating an opening range breakout strategy.
+I've I've given it the reference. One of the things I do is in the
+description of what I want it to do is I tell it, "Okay, I know
+that if you've written the strategy correctly, it should be matching, say,
+Microsoft on this day. That trade should appear in the back
+test. And
+now, sort of like that unit test, you've given Claude a way to actually verify
+that it's correct. So, it could go run a back test and
+gosh, Microsoft didn't show up that day. I know I've done something wrong.
+Um so, I've got skills for the smoke test.
+There's also a way for it to pull market data more generally
+for, say, Microsoft on a given day. So, it can actually go do some
+troubleshooting and like tell me why Microsoft isn't appearing.
+Or, you know, maybe something about the prompt is
+you know, I didn't realize or you know, I just you know, wasn't precise enough
+or you know, something about it can give me
+some feedback about that and say, "Oh, well, it's not in there because this."
+Like the candle so-and-so isn't is causing it not to be in the back
+test. What do you want to do about it? >> That's specifically cool. I love how you
+keep relating it back to software development though, because it's just
+the opposite of live coding. It like you said the technical debt like just piles
+up. This is the exact opposite. With real world like the analogies they make
+perfect sense. It's doing the exact same thing and you're treating it just the
+same as if you were a software developer.
+>> Yeah, so it's and it is
+and another fundamental thing that I
+would do at Trade Ideas is so I would really
+encourage the development staff to
+think about work they could do to make somebody else
+on the team better. So, a lot of times you have software
+developers, you know, they're they're in their silos, they're doing they want to
+do work on their own. But I really encourage people what can
+you do to make somebody else on the team better? And that might be
+write some code to and make it in a library so that other
+people can use it to make their lives better. So now I
+think the way I'm thinking about that the
+analogy is what can you do to make your AI agent's life a little better?
+And that's like giving it away to verify
+itself. Giving it a um
+a certain function that you know it's going to need to be
+able to use over and over and like in a very efficient way to do it.
+That's going to be it's going to make your whole workflow better. Like like
+often times you'll like I'll have it I'll have called say you know, search
+for something on my computer. Now if you just if you don't give it any
+parameters, it's going to take forever to come back with and find something
+on your computer, right? But if you say all right, look for a file it's going to
+start with, you know, log. It's going to end with txt. It's going to be somewhere
+here. You know, give it a folder. It's going
+to find it really fast. So
+it's kind of the same concept for having it do its work. When when you notice
+it's taking a little bit longer than it
+should to do something or it's doing that over and over and
+over like step back and figure out, okay, how can
+I make it go faster? And, you know, essentially, how can you make your AI
+agent's life a little better? >> This makes it so much more efficient.
+It's like this is genius because I mean to me this there's two things going on
+here. There's probably two things going on
+here cuz I'm an idiot, but like A, it's like you're outlining developer best
+practices. And then B, you are basically then going
+ahead and implementing that into the code so that those things are automated.
+So like it sounds like these are things developers, like good developers, have
+just been doing like for years. We need to make Claude do them.
+Tim and I, I mean, we're just we're homegrown, you know, developers. Like we
+figured this stuff out on our own. So we have some of our best practices and it's
+all learned from like making mistakes, right? And like we've I can't tell you
+how many times we've been sitting there coding
+and it gets to the end of the day and we want to finish this model
+and, you know, Tim is starting to press his foot on the gas. And it's like make
+this change, make this change, and I'm like, Tim, like we might need to like
+back test this or slow down. He's like, "No, no, no, we're good." And then
+we back test it and like something's broken and now we just made 15 changes
+and we have no idea what like what broke it, you know? So then we start to like
+create rules like, okay, you know, let's um
+if we make a big change, we need to like test it and and that sounds like, you
+know, kind of like your unit test or you know, something something along
+those lines. And it's like automate It sounds like you're finding ways to
+automate these types of practices directly into Claude, which
+is, you know, genius cuz I haven't done any of that. Like even as I
+develop my trading assistant and my research tool,
+um those are fairly big jobs. Like you kind of said it yourself. Like people
+are taking on these big like all-encompassing jobs where like I have
+no idea what's going on in the code. Like I'll ask Claude to like spit
+back to me what is in the code base and like what's changed, but like ultimately
+like I'm not reading it the same way that I would read a script.
+You know, with Tim. And so I could probably be using some of these best
+practices in my own projects. Like even if they
+aren't um actual algo scripts. >> You bring up a good point because
+some projects aren't super like mission critical, right? Some of them
+aren't actually making trades. They're just nice-to-haves. Which those are
+great. I mean, it's great that you've got I know I'll I'll listen to those
+episodes. That that is such a cool thing that you're able to do.
+A lot of these dashboards are really important for trading.
+Um but it you know, if it was down
+and you it was broken for some reason, is it actually mission critical compared
+to something you know, strategies making
+trades? That's a completely different thing. And it so it takes a different
+bit of a bit of context and it's more important.
+>> It's true, but like I guess what I'm thinking of as mission critical is time.
+Cuz like that's what I'm hearing here. Like cuz all this stuff takes so much
+time. And like you know, Tim like before AI came, Tim and I spent a lot of time
+coding and learning and then doing it.
+And it's you know, it takes hours. And like it still does. And now we can do
+bigger and better things. So now we're spending, you know, hours on maybe more
+grand projects, but we're still debugging and we're still doing all this
+stuff. And it sounds to me like what you're doing is just saving
+tons of time by implementing these things. Like and
+so so to me like that that would be one reason to
+to maybe like take take these best practices into like just the general use
+of like any large project. >> Have you heard this study of tens of
+millions of traders which shows that only 1% of retail traders actually make
+it? Don't be a statistic. Visit
+smbtradingfloor.com to greatly increase your odds.
+>> Yeah, I think I I think some of the main takeaways
+like if you if you only take away one thing from this
+uh it's like give Claude as much context as you can
+to actually do something. So there's this
+I don't know if you've heard the term one shot. I've started hearing this this
+term one shot that's coming out since uh uh you know
+since Claude has come out and it basically means I was able to one shot
+this thing which means I was able to come up with one prompt and Claude did
+the whole thing with that one shot, right? And so that that's kind of what
+you're trying to set up. And I realized this when I created the AFL generator
+it uses Claude as the back end. So I and I did not when I created that
+I didn't want to have a chat interface. I didn't want it
+to you know have a back and forth. So I was like okay, how can I set up
+the form and give it the prompt in such a way to actually give it an answer with
+just one click. You know what what do I need to have? What what are the inputs
+need to be for me to be able to be able to do that?
+And I learned a lot doing that because I realized the more context you give it
+the cheaper the requests were. So I have to pay you know that you're paying for
+these requests that you send to Claude. And
+the the more context you give it, the more specific
+you are, the better off the the cheaper the request and the better the the
+result is going to be. And
+I was I have I have a really good example from
+uh the Bionic webinar I did on I think it was in March where I
+went over this. >> Mhm.
+>> An example was like the more specific the better. I'm looking at this slide
+right now. Like when you want to create a strategy,
+this is a bad way to do it. I'm going to give you the prompt. Create a strategy
+that trades opening range breakouts. Like that's not very specific, right? A
+way better one is create a strategy that goes long opening range breakouts on the
+10-minute time frame starting at 9:40 ending at 10:30 using a stop at the low
+of the day and hold until 3:50 if the stop isn't
+hit. It's a lot more context that you sort of
+gloss over with that first request, but the more specific you get it you can
+just tell like imagine if if I told you to tell me to come up with
+that strategy, like you're going to have a lot more stuff to go on and there's
+going to be a lot less back and forth with the more specific you're able to
+make the request. >> Dave, if you just emailed me create an
+opening range break strategy, I would say is this actually Dave?
+>> [laughter] >> Also, one shot, that's going to be my
+new favorite term. >> [laughter]
+>> That's great. And I think another whole episode cuz I feel like I could just
+keep asking questions about the skills, but that might even be a whole another
+episode on all of the skills that you could build cuz the smoke test is one of
+them, but I like I'm thinking about like potential like
+I don't know, just the stuff that you care about live even too. Like you have
+a skill that somehow takes your live trades and does slippage. And it's like
+a slippage skill. Or like, we talked in the past about like what happens if your
+model doesn't take a trade and like has a skill to deal with that. And all of
+that we talked about in the last bionic. But, I feel like that's a whole 'nother
+world, too. >> Yeah, I mean, similar to what we were
+talking about earlier, you know, when you see a trade that you think
+should should be in the strategy and your strategy didn't take it, it's often
+a lot of debugging going on there to figure out why.
+And if like I've got a skill that, you know, it's able to pull the market data.
+So, I can quickly say, "Okay, hey, why didn't this show up in the strategy
+today?" And it can quickly tell me exactly the bars, you know, exactly the
+logic that would need to be in place for that to
+have been caught. So, yeah, there's so much you can do here
+to to uh
+to really make your trading better in a way that
+most, you know, most traders are they using Claude now and just, "Hey, give me
+a strategy that works, right?" But, that's not how you're going to get the
+most power out of it. You can say, "Okay,
+help me make my trading better in this way. Here's this little process I do
+that I know is a little bit tedious or I know can be
+automated. Let's figure out a way to streamline that."
+>> Yeah, I mean, it just >> strikes me as like ultimately like the
+more things you're able to test in a short amount of time, the better.
+Because we never know what's going to work. And if we have our process for
+testing like the strategy cruncher, right? Looking at
+the columns. Like the first thing we mentioned, I think, when we got on here,
+which is as Dave pointed out, was like preaching to the choir. Like it's all
+about looking at those features and like
+optimizing those columns and and and trying different iterations. And
+obviously the strategy cruncher is a way to do that. Like we have a tool for
+that. But it all takes time. So it's like if
+you can just do a hundred of those, if you can in a short amount of time, I
+think that that's like the key here because it's like I the the big
+constraint with strategy testing and automated
+trading for me so far has been time.
+You know, it hasn't been like we have the right process.
+It's just how many strategies can I test?
+>> You know, I I I can imagine there's some traders listening now that are saying,
+"Man, I wish I had that many ideas. I mean, the problem is I don't have the
+ideas to be able to test. I would love ideas to test." And that's a common
+pattern that I see. New traders don't have the ideas yet.
+But at some point, when they get experience, they realize you sort of
+convert to the bigger problem, which is you have
+too many ideas. So as you progress as a trader, that is
+going to be the ultimate bottleneck. You're going to have too many ideas.
+It's really hard for some new traders to really understand and imagine that, but
+that's what happens as you progress as a trader.
+>> Absolutely. Well, Dave Dave, we'd love to have you on again
+to get deeper into like Tim said, like these skills and maybe just try to
+unpack like some of the specifics because this
+is just this conversation could go on for a
+while, and it's kind of outside the scope of like the points you wanted to
+make today, but I mean, as far as the actual takeaways of this, I think that
+like there's there's probably like another layer
+that if traders are really interested, cuz I know I am,
+um could probably get a little bit more specific to figure out, okay, like what
+are these skills that I can create? Like how do I do that?
+>> Yeah, I'm happy to come back on and we can talk through that. I mean just the
+process of you know, listening to your podcast and
+what you've the good work you've put out about how you're you know, your
+dashboards you're creating using Claude um
+got me thinking about this and yeah, I mean this was useful for me
+and I know I'm going to start thinking now about okay, how I'm probably going
+to make some some of these skills available on my mailing list. So
+and and then I've got this bigger project that's in the back of my mind.
+So so my real goal here we're talking about one shotting. So so
+my real goal ultimate goal here is to create a tool
+that you can give it a chart and then it can come up with
+different starting point strategies based on that chart that would capture
+that move. >> That's pretty sick.
+>> And I'm close like I'm close to being able to do that. I just need to carve
+out some time for myself to put that together, but I can see a path for that
+working and that's I'm excited about that.
+>> Okay, yeah, I want to talk about that. >> Yeah, that gets me that gets me thinking
+a lot, so we'll be we'll have to talk again.
+>> Yeah, yeah, and I'd I'd love to get your feedback [snorts] on that. Like we
+should talk offline about that project and what I'm thinking, so.
+>> Yeah, definitely. Well, thank you again for coming on, Dave. As always, this is
+so much fun for us. >> Oh, thanks for having me. Yeah, it's my
+honor to be on here. This is a great You guys are doing such a good job.
+>> Yeah, and and congrats on getting to 100 podcasts of of your your own. That's
+great. I heard the I heard the news there. That's a big feat.
+>> Yeah, thanks. I can't believe we did that.
+>> Yeah, that's very impressive. Congrats. We're on your tail, but not we're far
+away. We got a little little ways. >> Yeah, well, we're hitting the
+inflection. Um all right, thanks, Dave. We'll talk to you soon and and hopefully
+on here uh not too far into the distant future
+again so we can we can continue this conversation.
+>> All right, great guys. Thanks for having me.
+>> All right, thanks guys.

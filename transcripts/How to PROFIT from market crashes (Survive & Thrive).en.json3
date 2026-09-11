@@ -1,0 +1,4719 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 0,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So, we're halfway through the week\nfollowing the what I would call the"
+    } ]
+  }, {
+    "tStartMs": 4160,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Armageddon Friday that we just had in\nthe market. Apparently, everyone lost"
+    } ]
+  }, {
+    "tStartMs": 8560,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eight figures Friday then turned into\nphilosophers. You forget that some"
+    } ]
+  }, {
+    "tStartMs": 12880,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people do trade so levered and without\nstops. And then there was just [music]"
+    } ]
+  }, {
+    "tStartMs": 17200,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "an unbelievable liquidation event in the\ncrypto market. But 19 billion is insane"
+    } ]
+  }, {
+    "tStartMs": 22360,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and I think it comes back down to the\nleverage. Right. He says, \"Our number"
+    } ]
+  }, {
+    "tStartMs": 25360,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "one job is to make sure that we have a\njob tomorrow.\""
+    } ]
+  }, {
+    "tStartMs": 29400,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Welcome to episode three of the Trading\nFloor podcast. I'm here with my partner"
+    } ]
+  }, {
+    "tStartMs": 36040,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Tim. I'm Garrett Drinan and we've got\nKurt as always doing things behind the"
+    } ]
+  }, {
+    "tStartMs": 39960,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "scenes. So, it's October 15th right now.\nSo, it's What is it? Wednesday? And so,"
+    } ]
+  }, {
+    "tStartMs": 45960,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we're halfway through the week\nfollowing the what I would call the"
+    } ]
+  }, {
+    "tStartMs": 51120,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Armageddon Friday that we just had in\nthe market. You can call it that."
+    } ]
+  }, {
+    "tStartMs": 55560,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yeah. So, I mean, there's been"
+    } ]
+  }, {
+    "tStartMs": 59720,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Let's just start here for a second. Um\nthis was the day that Trump in the"
+    } ]
+  }, {
+    "tStartMs": 64320,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "morning called out China for imposing\nexport controls on production of rare"
+    } ]
+  }, {
+    "tStartMs": 69640,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "earth and minerals. And so,\nhe basically said one of the policies"
+    } ]
+  }, {
+    "tStartMs": 73240,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that we're calculating at this moment is\na massive increase of tariffs on Chinese"
+    } ]
+  }, {
+    "tStartMs": 77840,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "products coming into the United States.\nSo, that sent the market in a tailspin."
+    } ]
+  }, {
+    "tStartMs": 82560,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Trade war's back?\nYeah."
+    } ]
+  }, {
+    "tStartMs": 85120,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Trade war's back? Question mark? Who\nreally knows? But, there was a trade on"
+    } ]
+  }, {
+    "tStartMs": 89920,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this day\nA. But B, which I actually find way more"
+    } ]
+  }, {
+    "tStartMs": 94120,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interesting, was how dramatic this day\nwas. Like Tim, like I'm I'm kind of"
+    } ]
+  }, {
+    "tStartMs": 99160,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thinking\nthat this might have been the most"
+    } ]
+  }, {
+    "tStartMs": 101440,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dramatic 3% drop that we've ever seen in\nthe market. What do you think about"
+    } ]
+  }, {
+    "tStartMs": 105560,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that? Part of me thinks they're going to\nkeep feeling more and more dramatic, but"
+    } ]
+  }, {
+    "tStartMs": 109280,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in the moment, yeah, it felt that way.\nAnd then you look back on Sunday"
+    } ]
+  }, {
+    "tStartMs": 113560,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and a lot happened, which we'll get to.\nBut, then you think less dramatic. It"
+    } ]
+  }, {
+    "tStartMs": 117960,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wasn't that bad. It was just 3%. Right.\nJust 3%, but there was a lot under the"
+    } ]
+  }, {
+    "tStartMs": 122480,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hood that was a lot was more than 3%.\nSo, for example, the crypto market"
+    } ]
+  }, {
+    "tStartMs": 128080,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Just insane. took a tailspin, especially\nafter the close, right? When he when"
+    } ]
+  }, {
+    "tStartMs": 132160,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when Trump finally came out with\nimposing 100% additional tariffs on"
+    } ]
+  }, {
+    "tStartMs": 136160,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "China and export control on critical\nsoftware. That That really I mean, they"
+    } ]
+  }, {
+    "tStartMs": 140920,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "were already selling off and then there\nwas just an unbelievable liquidation"
+    } ]
+  }, {
+    "tStartMs": 144600,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "event\nin the crypto market. Um so, this thing"
+    } ]
+  }, {
+    "tStartMs": 147880,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lasted into the after hours. And\nthe thing that I find most interesting"
+    } ]
+  }, {
+    "tStartMs": 152480,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about it was like beyond the fact that\nthere was a trade and it was a it was a"
+    } ]
+  }, {
+    "tStartMs": 156720,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "great breaking news trade. It was a\ntrend day in the market. And we'll get"
+    } ]
+  }, {
+    "tStartMs": 160880,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to that. We'll talk about how we traded\nit. There were those on our desk who,"
+    } ]
+  }, {
+    "tStartMs": 164920,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, made over seven figures on\nthis trade and it was a fantastic"
+    } ]
+  }, {
+    "tStartMs": 168680,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "opportunity, but\nthe thing that I find the most"
+    } ]
+  }, {
+    "tStartMs": 171440,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interesting about this was it wasn't\nuntil I got home and started looking at"
+    } ]
+  }, {
+    "tStartMs": 176080,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Twitter\nand realized, \"Hey, like"
+    } ]
+  }, {
+    "tStartMs": 179840,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this this is a\nthis is causing waves through the"
+    } ]
+  }, {
+    "tStartMs": 184840,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trading community, right? Like people\nwere"
+    } ]
+  }, {
+    "tStartMs": 188120,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people were upset. People were\ndepressed. There were some people who"
+    } ]
+  }, {
+    "tStartMs": 190400,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "were blown out. Um and I think a lot of\nit had to do with the fact that we were"
+    } ]
+  }, {
+    "tStartMs": 194360,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trading at all-time highs in kind of a\nmoment in time where"
+    } ]
+  }, {
+    "tStartMs": 198520,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no one was worried about anything.\"\nYeah. Everything just kept going up."
+    } ]
+  }, {
+    "tStartMs": 202720,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Things were just doubling like crazy.\nEvery stock. And so, I mean,"
+    } ]
+  }, {
+    "tStartMs": 207760,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just some of the facts about this this\ncrypto scenario, right? So,"
+    } ]
+  }, {
+    "tStartMs": 212600,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this was actually the largest\nliquidation event in history,"
+    } ]
+  }, {
+    "tStartMs": 217640,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "which is mind-blowing considering that\nit was bigger than"
+    } ]
+  }, {
+    "tStartMs": 221880,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the\num well, it was 10 times bigger than the"
+    } ]
+  }, {
+    "tStartMs": 225520,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "major past liquidation events,\nfor example, like the 2020 COVID crash"
+    } ]
+  }, {
+    "tStartMs": 230840,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "or the FTX collapse in\nin 2022, right? It just it blew those"
+    } ]
+  }, {
+    "tStartMs": 235400,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "away. And for for what reason? I mean,\nFTX was a was a way bigger catalyst. And"
+    } ]
+  }, {
+    "tStartMs": 241160,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and it sounds like this was just due to\nover-leverage. Like people were just"
+    } ]
+  }, {
+    "tStartMs": 244480,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "levered up in all of this stuff at\nall-time highs. And, you know, we had a"
+    } ]
+  }, {
+    "tStartMs": 249560,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "surprise news event out of nowhere and\nthat really sent a lot of stuff"
+    } ]
+  }, {
+    "tStartMs": 253960,
+    "dDurationMs": 5559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "spinning. When I saw that stat, too, I\nalmost couldn't believe that that was"
+    } ]
+  }, {
+    "tStartMs": 257280,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the largest one. But, 19 billion is\ninsane and I think it yeah, it comes"
+    } ]
+  }, {
+    "tStartMs": 260840,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "back down to the leverage. Where\nleverage and the market that we had been"
+    } ]
+  }, {
+    "tStartMs": 266160,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in\nwith crypto ripping a lot of large P\u0026Ls."
+    } ]
+  }, {
+    "tStartMs": 270600,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yeah.\nYeah. And and and it it it's psychology,"
+    } ]
+  }, {
+    "tStartMs": 273800,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right? Cuz like in the\nthe market's been climbing and we have"
+    } ]
+  }, {
+    "tStartMs": 276880,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "some absurd asset classes like gold that\nhave that just can't go down. We've got"
+    } ]
+  }, {
+    "tStartMs": 282280,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the quantum stocks that just can't go\ndown. And it's very easy to look over"
+    } ]
+  }, {
+    "tStartMs": 286400,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your shoulder to, you know, your\nbrother-in-law or your neighbor, you"
+    } ]
+  }, {
+    "tStartMs": 290440,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know, and they're they're crushing these\nnames. They don't even know why. And,"
+    } ]
+  }, {
+    "tStartMs": 294600,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, everyone jumps in like at the\nhighs and over-levers and then bam. Like"
+    } ]
+  }, {
+    "tStartMs": 300440,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "every everything gets smoked. So, um\nthis this was like you said,"
+    } ]
+  }, {
+    "tStartMs": 306080,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the the crypto sell-off erased over 19\nbillion dollars. And this this happened"
+    } ]
+  }, {
+    "tStartMs": 311680,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "over\nover minutes, which is just like"
+    } ]
+  }, {
+    "tStartMs": 315120,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "absolutely ridiculous.\nAnd they sold intraday as well."
+    } ]
+  }, {
+    "tStartMs": 319680,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Ethereum and Bitcoin, too. Yeah. So, at\nthat point, it was a capitulation"
+    } ]
+  }, {
+    "tStartMs": 325200,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and a liquidation.\nAnd there there's a tweet by"
+    } ]
+  }, {
+    "tStartMs": 329960,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "someone called Simple Swings that I just\nfound"
+    } ]
+  }, {
+    "tStartMs": 334520,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "extremely relevant. And this is\nobviously satire, but um he says,"
+    } ]
+  }, {
+    "tStartMs": 338720,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\"Apparently, everyone lost eight figures\nFriday then turned into philosophers.\""
+    } ]
+  }, {
+    "tStartMs": 343640,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And that's the What do you take from\nthat? That's the way it felt. Well,"
+    } ]
+  }, {
+    "tStartMs": 346600,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because\nlike you go on Twitter and everyone's"
+    } ]
+  }, {
+    "tStartMs": 350320,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like rationalizing and and starting to\nget spiritual about it cuz it it it was"
+    } ]
+  }, {
+    "tStartMs": 354800,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "one of those uh\nthere there are more important things in"
+    } ]
+  }, {
+    "tStartMs": 358320,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "life than than money moments, right? You\nhad to you had to stop"
+    } ]
+  }, {
+    "tStartMs": 362600,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e a walk outside and yeah.\nExactly. Exactly. And and and I find it",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 366920,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interesting and I know like we talked\nabout this a little bit um where I mean,"
+    } ]
+  }, {
+    "tStartMs": 371400,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hey, like we've we've all taken losses\nand and at some point we're definitely"
+    } ]
+  }, {
+    "tStartMs": 374960,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to\ncover like maybe one of our best losses"
+    } ]
+  }, {
+    "tStartMs": 378480,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on one of these episodes for sure. We've\ntalked about that."
+    } ]
+  }, {
+    "tStartMs": 381480,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Um but, you know, with the way that we\ntrade, like that like we"
+    } ]
+  }, {
+    "tStartMs": 386400,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we're not going to get wiped out.\nWe always have stops in place. You you"
+    } ]
+  }, {
+    "tStartMs": 390840,
+    "dDurationMs": 8840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "forget that some people do trade so\nlevered"
+    } ]
+  }, {
+    "tStartMs": 395320,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and without stops, also. Right. Um so,\nlike let's think about this crypto thing"
+    } ]
+  }, {
+    "tStartMs": 401920,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for a second because\nTim, like one of the things that I found"
+    } ]
+  }, {
+    "tStartMs": 406120,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interesting and again, this is this is\nagain, this is like rumors. This is"
+    } ]
+  }, {
+    "tStartMs": 409520,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Twitter. But, Unusual Whales says,\n\"Check this out."
+    } ]
+  }, {
+    "tStartMs": 414000,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "A new crypto account was opened\nyesterday morning"
+    } ]
+  }, {
+    "tStartMs": 417520,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "30 minutes before Trump's announcement\nof 100% tariffs on China. It added a"
+    } ]
+  }, {
+    "tStartMs": 422040,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "huge multi-million dollar levered\nBitcoin short position."
+    } ]
+  }, {
+    "tStartMs": 426160,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "The market dumped. The trader made a\nprofit of 192 million dollars in two"
+    } ]
+  }, {
+    "tStartMs": 431320,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hours.\" And then he just writes,\n\"Unusual.\""
+    } ]
+  }, {
+    "tStartMs": 434200,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yeah, unusual. No, I remember seeing\nthat, too, over the weekend. And just to"
+    } ]
+  }, {
+    "tStartMs": 438600,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "add to all the emotions already going\non, like you said, like a lot of big"
+    } ]
+  }, {
+    "tStartMs": 442560,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "losses in on Twitter, you're seeing, you\nknow, huge losses, people losing"
+    } ]
+  }, {
+    "tStartMs": 447160,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everything. Add to the emotion is\nsomeone getting in early potentially"
+    } ]
+  }, {
+    "tStartMs": 451280,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with the news. Right. And Twitter ran\nwith that. Of course, everyone's calling"
+    } ]
+  }, {
+    "tStartMs": 455560,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "out Trump and and Exactly.\n\u003e\u003e saying, you know, [laughter] it's it's"
+    } ]
+  }, {
+    "tStartMs": 459160,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Barron right in there or or Eric. It's\nsomebody"
+    } ]
+  }, {
+    "tStartMs": 462840,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh in the Trump camp who knew about it,\nright? That's always the the reaction."
+    } ]
+  }, {
+    "tStartMs": 466480,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Who really knows? That that hasn't been\nconfirmed. I don't want to Yeah. Yeah,"
+    } ]
+  }, {
+    "tStartMs": 470360,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we're not confirming or breaking the\nnews here, you know, that's a different"
+    } ]
+  }, {
+    "tStartMs": 473480,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "source. But, I mean, you do have\ngovernment influence. We have seen it"
+    } ]
+  }, {
+    "tStartMs": 477160,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with some front running, you know, with\nPelosi. So, it just adds to this whole"
+    } ]
+  }, {
+    "tStartMs": 481000,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "suspicion\nthat people kind of have. But, I mean,"
+    } ]
+  }, {
+    "tStartMs": 484920,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the the timing, you know, could have\nbeen a coincidence, but it is"
+    } ]
+  }, {
+    "tStartMs": 488120,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interesting. Yeah. So, so let's let's\njust rewind a little bit and kind of"
+    } ]
+  }, {
+    "tStartMs": 492800,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "walk this back and just talk about\nFriday. And there was a series of"
+    } ]
+  }, {
+    "tStartMs": 497600,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "events, right? Because there was the\noriginal tweet that dropped the market."
+    } ]
+  }, {
+    "tStartMs": 501720,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And then right after the market closed,\nit was the 100% tariffs."
+    } ]
+  }, {
+    "tStartMs": 506320,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And then it was And then and then of\ncourse, we get the taco rewind. Right?"
+    } ]
+  }, {
+    "tStartMs": 511360,
+    "dDurationMs": 4080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "You get the\n\u003e\u003e Exactly. We get we get the uh the walk"
+    } ]
+  }, {
+    "tStartMs": 514000,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "back, you know, which rallies the\nmarket, right? So, it's almost like"
+    } ]
+  }, {
+    "tStartMs": 517000,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "after all of this drama,\nthere there was a moment where it was"
+    } ]
+  }, {
+    "tStartMs": 520280,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like, \"Wow, like nothing ever happened.\"\nNow, of course, we're still I I think"
+    } ]
+  }, {
+    "tStartMs": 524039,
+    "dDurationMs": 5081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what I find interesting, too, is like\nwe're still on a more volatile tape"
+    } ]
+  }, {
+    "tStartMs": 527440,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right now than we were before this\nannouncement. So,"
+    } ]
+  }, {
+    "tStartMs": 530600,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we're a little bit back in that\nheadline-driven market that"
+    } ]
+  }, {
+    "tStartMs": 535840,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, if you're a breaking news\ntrader, you're looking for the next"
+    } ]
+  }, {
+    "tStartMs": 538680,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Trump tweet and you know, could we be\nback in a"
+    } ]
+  }, {
+    "tStartMs": 542280,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a tariff situation? I mean, I think that\nat at some point, like people just have"
+    } ]
+  }, {
+    "tStartMs": 546840,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a tough time believing that like we're\nactually going to put these kinds of"
+    } ]
+  }, {
+    "tStartMs": 550880,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tariffs on, right? Because it's been so\nmuch talk, but it does spook the market."
+    } ]
+  }, {
+    "tStartMs": 555040,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And I think especially when there are\nzero worries and we're trading at"
+    } ]
+  }, {
+    "tStartMs": 558440,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all-time highs. Everyone's just\ncruising. And then all of a sudden,"
+    } ]
+  }, {
+    "tStartMs": 561960,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you've got\nflashes of April in your head. You know,"
+    } ]
+  }, {
+    "tStartMs": 566000,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like, \"Oh man, like you know, is this on\nagain?\" Right? So, it's"
+    } ]
+  }, {
+    "tStartMs": 569520,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's sell now, ask questions later. And\nit's Friday."
+    } ]
+  }, {
+    "tStartMs": 574480,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yeah. Like that's that's a big deal\nbecause I know that we were talking"
+    } ]
+  }, {
+    "tStartMs": 578240,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about this on the call. So, the initial\ntweet comes out. Qs drop like a rock."
+    } ]
+  }, {
+    "tStartMs": 583800,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Huge volume comes in.\nWe're looking at the news."
+    } ]
+  }, {
+    "tStartMs": 587600,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Um you could you could put this together\nlike very fast, right? Cuz it it all it"
+    } ]
+  }, {
+    "tStartMs": 591600,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was was a tweet. So, you can you can get\nthat headline quickly. You see the"
+    } ]
+  }, {
+    "tStartMs": 594800,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "volume and you see that we're still not\nthat far off all-time highs, there's a"
+    } ]
+  }, {
+    "tStartMs": 599240,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lot of room to run to the downside and\nthe fact that it's Friday immediately"
+    } ]
+  }, {
+    "tStartMs": 603880,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puts in your head like who's going to\nwho's going to hold long over the"
+    } ]
+  }, {
+    "tStartMs": 608360,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "weekend after a tweet like that,\nespecially when we're at all-time highs."
+    } ]
+  }, {
+    "tStartMs": 613360,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Exactly. And it's been so long since we\ngot any escalation in the trade"
+    } ]
+  }, {
+    "tStartMs": 618520,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "headlines.\nRight. Yeah, yeah."
+    } ]
+  }, {
+    "tStartMs": 622240,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yeah.\n\u003e\u003e At that moment too, with room to the"
+    } ]
+  }, {
+    "tStartMs": 625360,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "downside, I remember like our first\ninstinct too was our long portfolio and"
+    } ]
+  }, {
+    "tStartMs": 629880,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just immediately getting out of those\nin terms of risk management and then at"
+    } ]
+  }, {
+    "tStartMs": 635200,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the same time quickly interpreting the\nnews and then since it was Friday 0 DTE"
+    } ]
+  }, {
+    "tStartMs": 640000,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puts were on the table and trying to get\nin those."
+    } ]
+  }, {
+    "tStartMs": 644160,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "That's a great point because this is one\nof those days where"
+    } ]
+  }, {
+    "tStartMs": 648280,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everything goes out the window.\nYeah."
+    } ]
+  }, {
+    "tStartMs": 650920,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Including including your portfolio,\nright? Like we were long a bunch of",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 654600,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stuff and the first thing that you do is\nyou look at your book and say"
+    } ]
+  }, {
+    "tStartMs": 660200,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what do I got to get rid of?\nRight? And then"
+    } ]
+  }, {
+    "tStartMs": 662960,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yes. And then you're thinking, in fact\nyou might be shorting first. I think we",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 666160,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "shorted first and then you're thinking,\nwhat do we got to get rid of? And so you"
+    } ]
+  }, {
+    "tStartMs": 670680,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "kind of go from like it's so interesting\nbecause there's no there's no plan for"
+    } ]
+  }, {
+    "tStartMs": 674480,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this. Like you know, whatever we were\nplanning in the pre-market and looking"
+    } ]
+  }, {
+    "tStartMs": 678200,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "at stock A and stock B, like that's that\nstuff just immediately becomes"
+    } ]
+  }, {
+    "tStartMs": 683400,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "irrelevant and like I think I traded\nAklo in the morning. Long."
+    } ]
+  }, {
+    "tStartMs": 688800,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah, you did. I remember that trade,\nthat opening drive and yeah. Yeah, and",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 692360,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there was there was a 0 DTE opportunity\nin that and it was pretty and so it was"
+    } ]
+  }, {
+    "tStartMs": 696800,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like halfway through the morning, it\nstill felt like the old market. Like all"
+    } ]
+  }, {
+    "tStartMs": 700920,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right, we're cruising, we're getting\nwe're getting long stuff."
+    } ]
+  }, {
+    "tStartMs": 703680,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And and then bam and all of a sudden\nlike you're you're not thinking about"
+    } ]
+  }, {
+    "tStartMs": 709120,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "any plan you had in the morning.\nYou're trying to"
+    } ]
+  }, {
+    "tStartMs": 713720,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mitigate risk in your current positions\nand you're trying to capitalize off of"
+    } ]
+  }, {
+    "tStartMs": 718640,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this new\nnews event. Yeah, I remember I was"
+    } ]
+  }, {
+    "tStartMs": 722160,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "looking at like just not significant\nhigher lows in the stock, you know, in"
+    } ]
+  }, {
+    "tStartMs": 727320,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "range. I think it was Core Weave that I\nwas watching and then boom. Yeah,"
+    } ]
+  }, {
+    "tStartMs": 731920,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "breaking news, you know, now the market\nis in play immediately, what's next to"
+    } ]
+  }, {
+    "tStartMs": 736400,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do? But it changes quick.\nIt does and so so there are there are"
+    } ]
+  }, {
+    "tStartMs": 740320,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "some other movers off of this that were\npretty interesting. So"
+    } ]
+  }, {
+    "tStartMs": 744160,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, like the critical\nuh the rare earth"
+    } ]
+  }, {
+    "tStartMs": 747440,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "um stocks, right? Like they're So part\nof the part of the thing is Trump is"
+    } ]
+  }, {
+    "tStartMs": 752080,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "challenging China,\nright? On"
+    } ]
+  }, {
+    "tStartMs": 755680,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "um\nimposing export controls on the"
+    } ]
+  }, {
+    "tStartMs": 758160,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "production of rare earth. So China has a\na big stronghold on that"
+    } ]
+  }, {
+    "tStartMs": 763200,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on that production, right? And so there\nare only a few US companies that we can"
+    } ]
+  }, {
+    "tStartMs": 767240,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "rely on\nif that's the case and so one of the"
+    } ]
+  }, {
+    "tStartMs": 770800,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "knee-jerk reactions is to look at those\ncompanies, right? So like we we were"
+    } ]
+  }, {
+    "tStartMs": 774800,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actually looking at MP because it had a\nnice chart and then all of a sudden"
+    } ]
+  }, {
+    "tStartMs": 778360,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e yeah. I thought\nLike that was actually one of my morning",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 781280,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ideas somehow. Just for a breakout and\nthen I you might have even said uh I"
+    } ]
+  }, {
+    "tStartMs": 787080,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like this a lot better if it has a\ncatalyst too. I did. You might have said"
+    } ]
+  }, {
+    "tStartMs": 791560,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that. Yeah, I know. And so China, yeah,\nhas 70% of the global supply."
+    } ]
+  }, {
+    "tStartMs": 797240,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "If they were to put in these um export\nbans, then you know, we would have to go"
+    } ]
+  }, {
+    "tStartMs": 801880,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "somewhere else for the supply in\nsomething like MP."
+    } ]
+  }, {
+    "tStartMs": 805640,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Um might be one of the stocks you go to.\nSo we had a price alert out, we see MP"
+    } ]
+  }, {
+    "tStartMs": 811000,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going\num and that was one of the um"
+    } ]
+  }, {
+    "tStartMs": 815080,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "other sectors that were moving. What I\nfind interesting, Gary, and I just want"
+    } ]
+  }, {
+    "tStartMs": 818880,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to bring it up before we get too in the\nweeds is that we got the news from China"
+    } ]
+  }, {
+    "tStartMs": 824360,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the day before\nand the market didn't react until Trump"
+    } ]
+  }, {
+    "tStartMs": 828040,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tweeted on Friday morning, but we knew\nthe news"
+    } ]
+  }, {
+    "tStartMs": 831720,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that China was looking into these export\ncontrols before and then we saw some of"
+    } ]
+  }, {
+    "tStartMs": 835920,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the strength earlier in MP and the rare\nearth minerals, but it wasn't until"
+    } ]
+  }, {
+    "tStartMs": 840280,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Trump confirmed it and escalated it in\nhis usual way did the market really"
+    } ]
+  }, {
+    "tStartMs": 845040,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "react. You're right. This this was\nactually it this was something that if"
+    } ]
+  }, {
+    "tStartMs": 848960,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're a really savvy breaking news\ntrader, you could have there was a way"
+    } ]
+  }, {
+    "tStartMs": 853320,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to tee this up if you were paying very\nclose attention. It actually kind of"
+    } ]
+  }, {
+    "tStartMs": 856880,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reminds me of the Musk Trump feud,\nremember that?"
+    } ]
+  }, {
+    "tStartMs": 860240,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Oh, I was thinking of something else.\nYou go first. Yeah, I remember it, of",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 863240,
+    "dDurationMs": 8680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "course. Yeah, so so yeah, of course so\nthat that day that Tesla just tanked"
+    } ]
+  }, {
+    "tStartMs": 868680,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because Trump and Musk were having a\na Twitter battle on X, right? And you"
+    } ]
+  }, {
+    "tStartMs": 875320,
+    "dDurationMs": 4759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "could if you were really paying close\nattention and I know there were some on"
+    } ]
+  }, {
+    "tStartMs": 878400,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "our desk who were,\nyou could have seen this coming"
+    } ]
+  }, {
+    "tStartMs": 882000,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yes.\n\u003e\u003e because Musk was kind of mouthing off a"
+    } ]
+  }, {
+    "tStartMs": 885360,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lot in the days leading up to this\nparticular day where Tesla sold off. It"
+    } ]
+  }, {
+    "tStartMs": 890120,
+    "dDurationMs": 4959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wasn't until\nTrump joined in, started challenging him"
+    } ]
+  }, {
+    "tStartMs": 893640,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and then they started going back and\nforth and then, you know, the whole"
+    } ]
+  }, {
+    "tStartMs": 896760,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "world realizes uh-oh, like they're\nbreaking up. Yeah, they're fighting."
+    } ]
+  }, {
+    "tStartMs": 901680,
+    "dDurationMs": 4040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Parents are fighting. Parents are\nfighting, that's not going to be good"
+    } ]
+  }, {
+    "tStartMs": 904520,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for uh\nfor Tesla at least for for 6 and 1/2"
+    } ]
+  }, {
+    "tStartMs": 908360,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hours, right? I think that was the low.\n\u003e\u003e Yeah."
+    } ]
+  }, {
+    "tStartMs": 910680,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Um it's so true though, you can kind of\nstart getting that feeling of like where"
+    } ]
+  }, {
+    "tStartMs": 915520,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this could go. Where I was going to go\nand I remember we reviewed this a ton,"
+    } ]
+  }, {
+    "tStartMs": 919800,
+    "dDurationMs": 3159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but liberation"
+    } ]
+  }, {
+    "tStartMs": 1084480,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "day. When Trump gets on and\n\u003e\u003e this and these options are not priced"
+    } ]
+  }, {
+    "tStartMs": 1088240,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like for these kinds of moves.\nUm so I think that that was a really"
+    } ]
+  }, {
+    "tStartMs": 1091840,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "good opportunity. You could have done\nthat in the Qs, you could have done that"
+    } ]
+  }, {
+    "tStartMs": 1095280,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in VXX. Um and then of course there's\nthe short"
+    } ]
+  }, {
+    "tStartMs": 1099360,
+    "dDurationMs": 3880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in terms of the trend day that we were\nabout to have and I think"
+    } ]
+  }, {
+    "tStartMs": 1102640,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yes.\nin that respect, you know, you could do",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1105560,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that with 0 DTEs, but I'm much more\nliable to play momentum with those and"
+    } ]
+  }, {
+    "tStartMs": 1109919,
+    "dDurationMs": 6921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and I want to get out at some point, so\nto play a trend day like our team was"
+    } ]
+  }, {
+    "tStartMs": 1114640,
+    "dDurationMs": 5519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "buying puts that expired the following\nweek"
+    } ]
+  }, {
+    "tStartMs": 1117880,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and I think\none of the things that we were talking"
+    } ]
+  }, {
+    "tStartMs": 1122240,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about in real time\nthat really played into this trade and"
+    } ]
+  }, {
+    "tStartMs": 1127200,
+    "dDurationMs": 5479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the and the the a variable that helped\nus hold was the fact that it was Friday,"
+    } ]
+  }, {
+    "tStartMs": 1131720,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right? And\nwe were watching the market sell off"
+    } ]
+  }, {
+    "tStartMs": 1135720,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and every time it tried to bounce, it\ncouldn't reverse."
+    } ]
+  }, {
+    "tStartMs": 1139040,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And the later and later and later it\ngets in the day, you're starting to"
+    } ]
+  }, {
+    "tStartMs": 1142760,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think to yourself\nwho's going to buy this"
+    } ]
+  }, {
+    "tStartMs": 1146440,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going into the weekend? Of course unless\nthere's a reversal in the news, but"
+    } ]
+  }, {
+    "tStartMs": 1150919,
+    "dDurationMs": 5801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "otherwise\nI who who is it? Linda Raschke says"
+    } ]
+  }, {
+    "tStartMs": 1154520,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "something like never fade a weak market\non a Friday or something like that."
+    } ]
+  }, {
+    "tStartMs": 1158159,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah, I've heard that saying from her.\nYeah. Yeah. And it it makes a lot of",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1161880,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sense. So so that's that helped us hold\nthose"
+    } ]
+  }, {
+    "tStartMs": 1165000,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And the change in character because the\nmarket's been thrown negative headlines"
+    } ]
+  }, {
+    "tStartMs": 1169280,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "during this like last part of this bull\nrun and every time it's been able to"
+    } ]
+  }, {
+    "tStartMs": 1173240,
+    "dDurationMs": 6679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reclaim.\nSo Friday was different in that sense"
+    } ]
+  }, {
+    "tStartMs": 1176800,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and it was the first major headline\nthat, you know, caused a pull in where"
+    } ]
+  }, {
+    "tStartMs": 1182520,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like a lot of guys were thinking this\ncould close at lows."
+    } ]
+  }, {
+    "tStartMs": 1186200,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Right. All right. And we and we have a\nlot of"
+    } ]
+  }, {
+    "tStartMs": 1189120,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "breaking news traders on our desk who do\nvery well with that playbook. And so I"
+    } ]
+  }, {
+    "tStartMs": 1194240,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wouldn't call breaking news my bread and\nbutter, but when it's this big"
+    } ]
+  }, {
+    "tStartMs": 1198760,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're going to take it, right? You're\nnot like as a team we're not we're not"
+    } ]
+  }, {
+    "tStartMs": 1203320,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "looking every day for like the next\nbreaking news thing, but there's some"
+    } ]
+  }, {
+    "tStartMs": 1207120,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "breaking news trades where just as a\ntrader you're there."
+    } ]
+  }, {
+    "tStartMs": 1210640,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "That's what's happening right now. You\nwant to take advantage of it, but there"
+    } ]
+  }, {
+    "tStartMs": 1214040,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "were some traders on our desk who like\nspecialized in this kind of moment who"
+    } ]
+  }, {
+    "tStartMs": 1219000,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "who really really crushed this trade.\n100% And I think there were a lot of"
+    } ]
+  }, {
+    "tStartMs": 1223720,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reasons\nthat made this crushable."
+    } ]
+  }, {
+    "tStartMs": 1226840,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Like upon review, it wasn't just the\nnews, but it was"
+    } ]
+  }, {
+    "tStartMs": 1230640,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the sentiment and the vibe of the market\nand how everything was kind of priced"
+    } ]
+  }, {
+    "tStartMs": 1235520,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going into the news like you already\nmentioned"
+    } ]
+  }, {
+    "tStartMs": 1238120,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that it wasn't like we were already in a\nvolatile tape where people were"
+    } ]
+  }, {
+    "tStartMs": 1242160,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "concerned.\nWe were at all I think we were we were"
+    } ]
+  }, {
+    "tStartMs": 1245200,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "literally at all-time highs. We were\nmaking new highs as this happened. So"
+    } ]
+  }, {
+    "tStartMs": 1249880,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "When you get that initial flush\nif you're staring at like a 1-minute"
+    } ]
+  }, {
+    "tStartMs": 1253720,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "chart it it might look like you're\nchasing but when you see that volume"
+    } ]
+  }, {
+    "tStartMs": 1259120,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and you understand the news that came\nout and realize this is something that"
+    } ]
+  }, {
+    "tStartMs": 1262840,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the market can really react to\nand then you kind of look at a little"
+    } ]
+  }, {
+    "tStartMs": 1266320,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bit of a higher time frame chart and\njust realize like we're not that far off"
+    } ]
+  }, {
+    "tStartMs": 1270520,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of all-time highs. There's so much room\nbelow to fall on a Friday before people"
+    } ]
+  }, {
+    "tStartMs": 1276400,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have to go home for the weekend and\npeople just like us are going to be"
+    } ]
+  }, {
+    "tStartMs": 1280240,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "puking all of their swing longs\nwhen they see this."
+    } ]
+  }, {
+    "tStartMs": 1284080,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Exactly.\nAnd yeah, like you said, really hasn't",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1288280,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pulled in well above the moving\naverages."
+    } ]
+  }, {
+    "tStartMs": 1291920,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Very speculative market as well.\nYeah, the nature of it's changed and we"
+    } ]
+  }, {
+    "tStartMs": 1296440,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we talked about that and I think this is\nsomething that for me"
+    } ]
+  }, {
+    "tStartMs": 1300560,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like needs to\ndictate how I adjust my trading."
+    } ]
+  }, {
+    "tStartMs": 1305040,
+    "dDurationMs": 3560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Like would you you would probably agree\nwith me, right?"
+    } ]
+  }, {
+    "tStartMs": 1306840,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e 100% yeah.\nI I I think before we were looking for a",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1311040,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lot more\nI wouldn't say"
+    } ]
+  }, {
+    "tStartMs": 1315240,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like less\nlongs. Like we were looking for longs,"
+    } ]
+  }, {
+    "tStartMs": 1319440,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but we were willing to hold. That's the\nbig difference. Like I was much more"
+    } ]
+  }, {
+    "tStartMs": 1323280,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "willing to swing trade.\nAnd then when we get this kind of"
+    } ]
+  }, {
+    "tStartMs": 1326560,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "volatility and we realize we're kind of\nback in a headline driven market"
+    } ]
+  }, {
+    "tStartMs": 1331280,
+    "dDurationMs": 6399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I'm I'm much less\nwilling to"
+    } ]
+  }, {
+    "tStartMs": 1335000,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "build into swing trades especially with\nwhere we are in the market at this point"
+    } ]
+  }, {
+    "tStartMs": 1339360,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and the way things are moving back and\nforth. You know, we're super strong one"
+    } ]
+  }, {
+    "tStartMs": 1343560,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "day\nsuper strong super super weak the next"
+    } ]
+  }, {
+    "tStartMs": 1347000,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "day even today. Like we were really\nreally weak and then we were really"
+    } ]
+  }, {
+    "tStartMs": 1351120,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really strong like in the afternoon. So\num shortening the time frame is"
+    } ]
+  }, {
+    "tStartMs": 1355880,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "something that\nthat I'm interested in doing in this"
+    } ]
+  }, {
+    "tStartMs": 1358920,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "market now. And that transition's\ndifficult because long momentum swinging"
+    } ]
+  }, {
+    "tStartMs": 1363320,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "momentum stocks last month was the\ntrade. You know, that was the best trade"
+    } ]
+  }, {
+    "tStartMs": 1368120,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in the market. You know, you get this\nheadline and it switches things."
+    } ]
+  }, {
+    "tStartMs": 1372040,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Going back though, I want to talk a\nlittle bit more about that actual trade"
+    } ]
+  }, {
+    "tStartMs": 1377520,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because zero DTEs are the way to crush\nthat trade. And usually that's because"
+    } ]
+  }, {
+    "tStartMs": 1382840,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you want to trade them when there is\nmomentum"
+    } ]
+  }, {
+    "tStartMs": 1385400,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and you expect momentum to continue\nimmediately. Like you said, you don't"
+    } ]
+  }, {
+    "tStartMs": 1389000,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want to sit in those.\nUm but it's interesting because there"
+    } ]
+  }, {
+    "tStartMs": 1392400,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was a lot of things, you know, you could\npick you can pick market stocks, you can"
+    } ]
+  }, {
+    "tStartMs": 1396080,
+    "dDurationMs": 9760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pick VIX, you can pick Qs, but there is\num or there was a conversation of where"
+    } ]
+  }, {
+    "tStartMs": 1403040,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we should go on our team and in those\nkind of market plays it is best using"
+    } ]
+  }, {
+    "tStartMs": 1408160,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "those um market instruments rather than,\nyou know, trying to"
+    } ]
+  }, {
+    "tStartMs": 1413040,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "almost reinvent the wheel.\nSo how would you how would you define"
+    } ]
+  }, {
+    "tStartMs": 1416960,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reinvent the wheel? What do you mean?\nSo I always think, you know"
+    } ]
+  }, {
+    "tStartMs": 1421400,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on big market sell-offs like that one to\ngive an idea too. I think it was like a"
+    } ]
+  }, {
+    "tStartMs": 1425520,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "negative thousand tick on the immediate\num news maybe even got down to like"
+    } ]
+  }, {
+    "tStartMs": 1431000,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "-1600 which is significant. I think, you\nknow, usually correlations go to one"
+    } ]
+  }, {
+    "tStartMs": 1436000,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there and it is best to trade, you know,\nthe indices, trade VIX."
+    } ]
+  }, {
+    "tStartMs": 1440480,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Okay.\nI've made the mistake sometimes too"
+    } ]
+  }, {
+    "tStartMs": 1443720,
+    "dDurationMs": 5959,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "where, you know, maybe I'm going to pick\none of the stronger tech stocks that"
+    } ]
+  }, {
+    "tStartMs": 1448160,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really hasn't pulled back. It's a\nrelatively strong stock. You're like, oh"
+    } ]
+  }, {
+    "tStartMs": 1451640,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "now the risk reward's great.\nUm and then it doesn't pull in or sell"
+    } ]
+  }, {
+    "tStartMs": 1456360,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "off nearly as much as the market does\nand you're like, why did I go with AMD?"
+    } ]
+  }, {
+    "tStartMs": 1460440,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "It reminds me actually of the market\nbounce day, dude."
+    } ]
+  }, {
+    "tStartMs": 1463840,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Way back in April.\nYeah. Yeah, because you were in the the"
+    } ]
+  }, {
+    "tStartMs": 1468240,
+    "dDurationMs": 8680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wrong horse on that day, right? What was\nAMU? Yeah, AMU which like, you know,"
+    } ]
+  }, {
+    "tStartMs": 1474080,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "technically speaking it was very ripe\nfor a reversal."
+    } ]
+  }, {
+    "tStartMs": 1478880,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Risk reward was there. It was, you know,\ncapitulating like crazy, but yeah, it"
+    } ]
+  }, {
+    "tStartMs": 1483480,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ended up being relatively weak to Qs\nthat day."
+    } ]
+  }, {
+    "tStartMs": 1486480,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So I have nothing wrong with trading a\nhigh beta name to express a market play"
+    } ]
+  }, {
+    "tStartMs": 1491720,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "whatsoever, but\nmy rule to your point is"
+    } ]
+  }, {
+    "tStartMs": 1497160,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if it's a market play at least\nget long or short the market."
+    } ]
+  }, {
+    "tStartMs": 1501800,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yes. Right? [laughter] Buy Qs or VIX. Do\nsomething there and then, you know, you",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1505960,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can pick and choose, you know, if you\nlike certain stocks cuz like to your"
+    } ]
+  }, {
+    "tStartMs": 1509320,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "point you never know if they're going to\nunderperform or outperform"
+    } ]
+  }, {
+    "tStartMs": 1513679,
+    "dDurationMs": 6601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the market, right? And I've been in that\nthat position too where you you have the"
+    } ]
+  }, {
+    "tStartMs": 1518600,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you have the perfect call on the market\nand you choose like Nvidia."
+    } ]
+  }, {
+    "tStartMs": 1522440,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yeah, exactly. You're like\nYeah. Yeah."
+    } ]
+  }, {
+    "tStartMs": 1527679,
+    "dDurationMs": 7841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "But the VIX zero DTEs that you got, I I\nthink that was one of the better trades"
+    } ]
+  }, {
+    "tStartMs": 1532360,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with the Qs zero DTEs. Like in those\nmoments what I sometimes find difficult,"
+    } ]
+  }, {
+    "tStartMs": 1538200,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like we were kind of talking about with\nour long portfolio, is just making sure"
+    } ]
+  }, {
+    "tStartMs": 1542000,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're not caught flat-footed and you're\nable to make that decision quick."
+    } ]
+  }, {
+    "tStartMs": 1545360,
+    "dDurationMs": 8920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Because we initially went with some of\nthe next week calls. Um and I think that"
+    } ]
+  }, {
+    "tStartMs": 1550880,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is one of the areas um\nwhere, you know, the zero DTEs are"
+    } ]
+  }, {
+    "tStartMs": 1555960,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "great.\nYou're expecting momentum, play that"
+    } ]
+  }, {
+    "tStartMs": 1558920,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "first initial drive. It ended up kind of\ngrinding the rest of the day, closing at"
+    } ]
+  }, {
+    "tStartMs": 1562560,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lows, but it wasn't as um\nI would say opportunistic for a trade."
+    } ]
+  }, {
+    "tStartMs": 1568360,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Right, in terms of the the convexity\nthat you're going to get from those"
+    } ]
+  }, {
+    "tStartMs": 1571960,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "options and how long you're going to\nhold them. You know, I think you could"
+    } ]
+  }, {
+    "tStartMs": 1575640,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "go with Monday's puts in the Qs too.\nThat would be good cuz then you have"
+    } ]
+  }, {
+    "tStartMs": 1579640,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "something to hold overnight and of\ncourse we got the we got the reversal."
+    } ]
+  }, {
+    "tStartMs": 1584000,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "At least at least over the weekend,\nright? So what what came out over the"
+    } ]
+  }, {
+    "tStartMs": 1587600,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "weekend that reversed everything? The\n100% we get right after the close"
+    } ]
+  }, {
+    "tStartMs": 1593200,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and then later that day we get that the\nmeeting with Xi Jinping is not canceled."
+    } ]
+  }, {
+    "tStartMs": 1599200,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So that was one of the first eggs. And\nthen Trump on Sunday reiterated it."
+    } ]
+  }, {
+    "tStartMs": 1604840,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Don't worry about China. It will all be\nfine."
+    } ]
+  }, {
+    "tStartMs": 1608360,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "On social. Yeah, and that's a that's a\ntechnical term, right?"
+    } ]
+  }, {
+    "tStartMs": 1612080,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yes, of course. Yeah.\n\u003e\u003e That's a that's an [laughter] official",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1614640,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it will all be fine. Yeah.\nOh, yeah. So this uh"
+    } ]
+  }, {
+    "tStartMs": 1618760,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e had a bad moment. Right? Let me let me\nread a tweet from you from this this guy",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1625480,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that I really enjoy. He's this is really\nlike a satire account."
+    } ]
+  }, {
+    "tStartMs": 1629400,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "It's called depressed options trader.\nAnd the the the handle"
+    } ]
+  }, {
+    "tStartMs": 1634320,
+    "dDurationMs": 7359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the handle is at account blown.\nOh my god. account underscore blown."
+    } ]
+  }, {
+    "tStartMs": 1639040,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e and better. Yeah. He says he says, you\ngot liquidated for 5 million in less",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1644560,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "than 10 minutes. Lost your life savings.\nDon't worry, it was all just a"
+    } ]
+  }, {
+    "tStartMs": 1649040,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "misunderstanding.\nCuz that's like he tweeted this once"
+    } ]
+  }, {
+    "tStartMs": 1652679,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Trump walked it back, right? Because\nbecause this was after the entire crypto"
+    } ]
+  }, {
+    "tStartMs": 1656920,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "market like blew out and then Trump was\njust like never mind. And of course it's"
+    } ]
+  }, {
+    "tStartMs": 1660560,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not his responsibility to\nyou know, hold the market up or prevent"
+    } ]
+  }, {
+    "tStartMs": 1665320,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "these things, but it just shows um\nit just shows how risk management is so"
+    } ]
+  }, {
+    "tStartMs": 1670560,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "important in this game. I mean it really\nreally is because in in our team leader"
+    } ]
+  }, {
+    "tStartMs": 1675720,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "who's who's been our team leader from\nthe very beginning K Fitz. What's he"
+    } ]
+  }, {
+    "tStartMs": 1679840,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "always say, right? He says our number\none job is to make sure that we have a"
+    } ]
+  }, {
+    "tStartMs": 1684360,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "job tomorrow.\nYes."
+    } ]
+  }, {
+    "tStartMs": 1686960,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Right? And it's it's basically like stay\nalive, stay in the game. You know,",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1691040,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's that's number one. I'm trying to\nremember what he says a lot of times"
+    } ]
+  }, {
+    "tStartMs": 1694640,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when we get off our call. It has to do\nwith risk every time."
+    } ]
+  }, {
+    "tStartMs": 1698000,
+    "dDurationMs": 5679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yeah. Yeah, so, you know, it's it's\nimportant to have a process for this"
+    } ]
+  }, {
+    "tStartMs": 1701640,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because I think I think Lance had a nice\ntweet which you might want to refer to,"
+    } ]
+  }, {
+    "tStartMs": 1705880,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but Yeah. But he you know,\nto to this point of"
+    } ]
+  }, {
+    "tStartMs": 1711159,
+    "dDurationMs": 8721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you you need to have a plan, but you\nalso need to have the the foundation to"
+    } ]
+  }, {
+    "tStartMs": 1716640,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to follow it and to not get caught up in\ndeer in a headlight situation um in"
+    } ]
+  }, {
+    "tStartMs": 1722560,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "these especially in these moments.\nYeah, let me let me read some of this"
+    } ]
+  }, {
+    "tStartMs": 1726679,
+    "dDurationMs": 7361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tweet. It's a longer tweet, um but I\nthought some of it was interesting. And"
+    } ]
+  }, {
+    "tStartMs": 1731200,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Lance's main take was, you know, you\ncould just say it's all about leverage,"
+    } ]
+  }, {
+    "tStartMs": 1736080,
+    "dDurationMs": 8079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but there is a big psychological\ncomponent that led to this liquidation"
+    } ]
+  }, {
+    "tStartMs": 1741360,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and why it was so dramatic. Um and he\nreferred to a lot of Morgan Housel's"
+    } ]
+  }, {
+    "tStartMs": 1746000,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "psychology of money, a great book. But\none thought one part I thought was"
+    } ]
+  }, {
+    "tStartMs": 1751200,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interesting is he goes, the real cause\nis psychology. Even the best traders"
+    } ]
+  }, {
+    "tStartMs": 1755679,
+    "dDurationMs": 6321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "build risk systems, but those systems\ncan often fail when the mind that built"
+    } ]
+  }, {
+    "tStartMs": 1759679,
+    "dDurationMs": 6041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "them starts overriding them.\nAnd then he goes on to say, you know,"
+    } ]
+  }, {
+    "tStartMs": 1763360,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there's a notable crypto rail on a race\nto 100 million profits. You know, you"
+    } ]
+  }, {
+    "tStartMs": 1768120,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "start anchoring yourself to that goal.\nAnd Morgan Housel um the tweety"
+    } ]
+  }, {
+    "tStartMs": 1774840,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "basically or the quote he included by\nMorgan Housel"
+    } ]
+  }, {
+    "tStartMs": 1778280,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "um is the hardest financial skill is\ngetting the goal post to stop moving."
+    } ]
+  }, {
+    "tStartMs": 1783560,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And the idea of greed and envy, you\nstart looking at, you know, other people"
+    } ]
+  }, {
+    "tStartMs": 1788000,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on Twitter making a ton, and it just\nleads to this exuberance that really"
+    } ]
+  }, {
+    "tStartMs": 1792320,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "isn't stable. But, what is the I I found\nthat quote pretty interesting. The"
+    } ]
+  }, {
+    "tStartMs": 1795840,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hardest financial skill is getting the\ngoalpost to stop moving. And I'm kind of"
+    } ]
+  }, {
+    "tStartMs": 1800280,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "curious what you kind of think of that.\nYeah, you bring up a really good point"
+    } ]
+  }, {
+    "tStartMs": 1804080,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because I think that this transcends\njust like the drama that we're talking"
+    } ]
+  }, {
+    "tStartMs": 1807680,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about, to me. So, like when you say\nthat, I I relate to that personally,"
+    } ]
+  }, {
+    "tStartMs": 1811840,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "even though I'm not putting myself in a\nposition where I'm going to blow up."
+    } ]
+  }, {
+    "tStartMs": 1816840,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "It's so easy to compare yourself to\nthose around you. Like I think every"
+    } ]
+  }, {
+    "tStartMs": 1821440,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "human does it. It's human nature, no\nmatter what field we're in, right? And"
+    } ]
+  }, {
+    "tStartMs": 1825600,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and I think that we're all trying to get\nbetter, right? We're working our butts"
+    } ]
+  }, {
+    "tStartMs": 1830040,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "off here, dedicating our lives to this\ngame, and we're really competing against"
+    } ]
+  }, {
+    "tStartMs": 1835560,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ourselves.\nRight? That's We're we're trying to"
+    } ]
+  }, {
+    "tStartMs": 1838600,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "grow. And everyone has different\nstrategies, different playbooks,"
+    } ]
+  }, {
+    "tStartMs": 1843680,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "different strategies and playbooks that\nperform differently in different"
+    } ]
+  }, {
+    "tStartMs": 1847720,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "environments, right? Like I might be\ngreat in one environment, and you might"
+    } ]
+  }, {
+    "tStartMs": 1851720,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "be great in another environment, right?\nSo, that's a perfect example of how like"
+    } ]
+  }, {
+    "tStartMs": 1855760,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "why would I be comparing myself to you\non an emotional level. And so, I think"
+    } ]
+  }, {
+    "tStartMs": 1860920,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "as a human,\nI've definitely dealt with this, right?"
+    } ]
+  }, {
+    "tStartMs": 1863960,
+    "dDurationMs": 3600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Like I mean\nSame."
+    } ]
+  }, {
+    "tStartMs": 1865440,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e I'm on I'm on a trading desk surrounded\nby like unbelievable talent. And so,",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1871240,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's\nlike every time that I do something"
+    } ]
+  }, {
+    "tStartMs": 1875120,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "where I feel like, wow, I really grew. I\nreally had a great trade. Wow, that was"
+    } ]
+  }, {
+    "tStartMs": 1878920,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a record trade.\nLike you look over your shoulder, and"
+    } ]
+  }, {
+    "tStartMs": 1882920,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "someone made more. Right? You see the\nP\u0026L. Yeah, and so, it it that kind of"
+    } ]
+  }, {
+    "tStartMs": 1888120,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thing and can really get to you if you\ndon't watch out because you start"
+    } ]
+  }, {
+    "tStartMs": 1892440,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thinking about that, and now all of a\nsudden you're not thinking about your"
+    } ]
+  }, {
+    "tStartMs": 1895560,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "process,\nright? You're not thinking about"
+    } ]
+  }, {
+    "tStartMs": 1898120,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "following your rules. You might be just\nthinking about oh man, like I need to"
+    } ]
+  }, {
+    "tStartMs": 1902240,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just totally change what I'm doing. Like\nyou're you're kind of chasing this thing"
+    } ]
+  }, {
+    "tStartMs": 1905840,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that doesn't exist. Um and I think\npsychologically it can be a trap, and so"
+    } ]
+  }, {
+    "tStartMs": 1911440,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's the similar idea of like you know,\neveryone's been talking about"
+    } ]
+  }, {
+    "tStartMs": 1915280,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all this leverage,\nthe fact that we're at all-time highs,"
+    } ]
+  }, {
+    "tStartMs": 1918720,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and the fact that we have we have all\nthese quantums going crazy, all these"
+    } ]
+  }, {
+    "tStartMs": 1923320,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "high flyers that are way above, you\nknow, where they should be trading in"
+    } ]
+  }, {
+    "tStartMs": 1926640,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "terms of value.\nAnd a lot of people are probably doing"
+    } ]
+  }, {
+    "tStartMs": 1931240,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really well, and there are probably\nthere are a lot of talented traders that"
+    } ]
+  }, {
+    "tStartMs": 1934600,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "are doing really well, and there are\nprobably a lot of people doing really"
+    } ]
+  }, {
+    "tStartMs": 1937640,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "well accidentally. And it's very easy to\nlook at your neighbor or your"
+    } ]
+  }, {
+    "tStartMs": 1942480,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, brother-in-law\nwho just bought"
+    } ]
+  }, {
+    "tStartMs": 1946600,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, the quantum names at at five\nbucks and and are still holding and say,"
+    } ]
+  }, {
+    "tStartMs": 1951200,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "oh man, like I'm missing out on this.\nLike I got to get I've I got to get in"
+    } ]
+  }, {
+    "tStartMs": 1955400,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "now. Like they they can't go down. Let\nme Let me lever up. Like I'll I'll show"
+    } ]
+  }, {
+    "tStartMs": 1959800,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "them.\nAnd um that's going to be like the the"
+    } ]
+  }, {
+    "tStartMs": 1963000,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "worst possible time to do so, and and\nprobably the the worst trade that you"
+    } ]
+  }, {
+    "tStartMs": 1967480,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can make because you're not making a\ntrade based off of the market telling"
+    } ]
+  }, {
+    "tStartMs": 1971880,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you something. It's not based on a\nplaybook. It's just pure emotion."
+    } ]
+  }, {
+    "tStartMs": 1976200,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And you really do see that the most or\nit's the most exaggerated in the"
+    } ]
+  }, {
+    "tStartMs": 1980520,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cryptosphere.\nYeah. With the fancy cars, you know,"
+    } ]
+  }, {
+    "tStartMs": 1984120,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fancy watches people post, you know,\nhuge profits."
+    } ]
+  }, {
+    "tStartMs": 1988040,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Um\nBut, yeah. I everyone deals with the"
+    } ]
+  }, {
+    "tStartMs": 1991440,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comparison bias. Um\nand you need to just keep it you versus"
+    } ]
+  }, {
+    "tStartMs": 1995920,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you.\nYeah, well said."
+    } ]
+  }, {
+    "tStartMs": 1998760,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Well, absolutely well said. So, this\nthis same"
+    } ]
+  }, {
+    "tStartMs": 2002720,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "depressed options trader had a tweet.\n\u003e\u003e I love him."
+    } ]
+  }, {
+    "tStartMs": 2006440,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "He says, as as the years go by,\nevery 2% crash gets worse."
+    } ]
+  }, {
+    "tStartMs": 2012280,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I'm seeing people on here claiming\nthey've lost everything and their lives"
+    } ]
+  }, {
+    "tStartMs": 2015440,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have been destroyed on a 2% drop.\nThe leverage in the system is historic."
+    } ]
+  }, {
+    "tStartMs": 2020640,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "That's why the next real crash won't be\n10% or 20%. Get ready for 50%."
+    } ]
+  }, {
+    "tStartMs": 2026960,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yeah, I saw\nI just said that."
+    } ]
+  }, {
+    "tStartMs": 2029640,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e 50% would be\ntough. That'd be ugly for a lot of",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2033800,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people, but it's true. I think it just\nhas to do with the leverage. Like my"
+    } ]
+  }, {
+    "tStartMs": 2037840,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "immediate thought is we just saw they're\ncoming out with 5x levered ETFs of"
+    } ]
+  }, {
+    "tStartMs": 2042960,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "single stocks. Literally this week.\nI mean, how how does that work"
+    } ]
+  }, {
+    "tStartMs": 2047320,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "structurally?\nLike if if a if a stock goes down 10%,"
+    } ]
+  }, {
+    "tStartMs": 2052440,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "those are going to go down 50, right?\nYeah. A a lot are going to go to zero, I"
+    } ]
+  }, {
+    "tStartMs": 2056480,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think.\n\u003e\u003e If something goes down, what happens if"
+    } ]
+  }, {
+    "tStartMs": 2058919,
+    "dDurationMs": 6521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the stock goes down 20% a day? They go\nto zero?"
+    } ]
+  }, {
+    "tStartMs": 2062800,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yeah. Yeah. Like in that I mean, for a\nstock like PLTR or any of these like"
+    } ]
+  }, {
+    "tStartMs": 2067720,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "growth stocks, that's not crazy. Like\nRight. Especially, I mean, hopefully"
+    } ]
+  }, {
+    "tStartMs": 2072879,
+    "dDurationMs": 5881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they don't come out with quantum 5x cuz\nyeah, who knows."
+    } ]
+  }, {
+    "tStartMs": 2076520,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yeah. Yeah, it it it is like a a thing\nof the time right now."
+    } ]
+  }, {
+    "tStartMs": 2081000,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "But, it it goes back to us asking, you\nknow, how dramatic this 3% felt. Um and"
+    } ]
+  }, {
+    "tStartMs": 2087720,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that might just be a sign of the times.\nIt also might have to do with the trend"
+    } ]
+  }, {
+    "tStartMs": 2091640,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that started in COVID, you know, a lot\nmore retail participation. It adds a"
+    } ]
+  }, {
+    "tStartMs": 2095879,
+    "dDurationMs": 9601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dynamic, especially I would say in these\ntype of breaking news panic moments."
+    } ]
+  }, {
+    "tStartMs": 2102800,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "It it it's true. And and\ndid I read somewhere that that retail"
+    } ]
+  }, {
+    "tStartMs": 2108320,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "put more money into the market over the\nlast like month or so than than ever"
+    } ]
+  }, {
+    "tStartMs": 2112400,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "before?\nI Yeah, I used to say that. Yeah. Do we"
+    } ]
+  }, {
+    "tStartMs": 2116960,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have that there? I can't remember. Um I\ndon't know. I I don't know how much it"
+    } ]
+  }, {
+    "tStartMs": 2120920,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is, but people have been talking about\nthat. And I think"
+    } ]
+  }, {
+    "tStartMs": 2124920,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "something that\nsomething that keeps coming to my mind,"
+    } ]
+  }, {
+    "tStartMs": 2129400,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and I might just start waving a flag for\nthis. Yeah."
+    } ]
+  }, {
+    "tStartMs": 2134640,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Everyone loves to say that retail is the\ndumb money."
+    } ]
+  }, {
+    "tStartMs": 2137760,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Like that's like the old-school\ninterpretation, right? Like, oh, retail"
+    } ]
+  }, {
+    "tStartMs": 2142359,
+    "dDurationMs": 5361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just bought. It's got to be the end.\nYeah."
+    } ]
+  }, {
+    "tStartMs": 2145720,
+    "dDurationMs": 3880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e I mean, retail's been buying since the\nApril low.",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2149040,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Oh, 100%.\n\u003e\u003e Pretty pretty big. So,"
+    } ]
+  }, {
+    "tStartMs": 2152320,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I'm going to start saying\nthat retail's not the dumb money."
+    } ]
+  }, {
+    "tStartMs": 2157440,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I think that with today's technology,\nthe information flow out there,"
+    } ]
+  }, {
+    "tStartMs": 2163280,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there are a lot of really talented\nretail traders. And I think that I think"
+    } ]
+  }, {
+    "tStartMs": 2168359,
+    "dDurationMs": 4561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that it's just missing something to just\nassume Now, of course, like we're"
+    } ]
+  }, {
+    "tStartMs": 2171440,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "talking about like people who are\nover-leveraged, and"
+    } ]
+  }, {
+    "tStartMs": 2174760,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there's the good and the bad, but you\nknow, these days like what if what if"
+    } ]
+  }, {
+    "tStartMs": 2179480,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "retail's not wrong\nall the time anymore? And and what if we"
+    } ]
+  }, {
+    "tStartMs": 2183680,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can like I'm\nI I'm sticking up for retail. That's"
+    } ]
+  }, {
+    "tStartMs": 2188480,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just that's my stance. I I think there\nare a lot of good retail traders that"
+    } ]
+  }, {
+    "tStartMs": 2191640,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bought the April low tactically for a\nreason, and they've got information, and"
+    } ]
+  }, {
+    "tStartMs": 2196000,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they're reading books and and and using\num tools and technology. What do you"
+    } ]
+  }, {
+    "tStartMs": 2201359,
+    "dDurationMs": 4361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think?\nYeah, I agree. I mean, first off, if"
+    } ]
+  }, {
+    "tStartMs": 2204440,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're going to make a flag, you need a\nbetter saying, I think. We need"
+    } ]
+  }, {
+    "tStartMs": 2207080,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "something catchier cuz I did I don't\nknow what's on the flag, but"
+    } ]
+  }, {
+    "tStartMs": 2211160,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yeah, I think that's a very interesting\nstance, and I think where that stemmed"
+    } ]
+  }, {
+    "tStartMs": 2215440,
+    "dDurationMs": 9560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "from is, you know, the GME AMC.\nSo, I don't know if you're fully backing"
+    } ]
+  }, {
+    "tStartMs": 2221840,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the um army that was behind open\nwith this statement. I didn't say I'm"
+    } ]
+  }, {
+    "tStartMs": 2227400,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "defending Reddit. Okay. Yeah, yeah,\nyeah. Of course."
+    } ]
+  }, {
+    "tStartMs": 2230359,
+    "dDurationMs": 8201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e saying retail as a whole. But, no,\nretail, yeah, they've been buying a lot.",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2236440,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And I mean, some of the\nhigh retail names are like Tesla,"
+    } ]
+  }, {
+    "tStartMs": 2240720,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Nvidia.\nUm and I I could get behind that stance."
+    } ]
+  }, {
+    "tStartMs": 2245160,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I think the bigger thing with\nunderstanding and not going in with any"
+    } ]
+  }, {
+    "tStartMs": 2250520,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bias of like, you know, smart or dumb,\nis just knowing um that it does add a"
+    } ]
+  }, {
+    "tStartMs": 2256280,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dynamic in certain market environments\nlike the one we're in, it's um more"
+    } ]
+  }, {
+    "tStartMs": 2262320,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "significant, I would say.\nYeah, it's true. And at certain points"
+    } ]
+  }, {
+    "tStartMs": 2265760,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in the market at like All right, so\ncheck out this"
+    } ]
+  }, {
+    "tStartMs": 2269359,
+    "dDurationMs": 6881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I I've got a I've got a blurb from I\nthink this is Financial Times,"
+    } ]
+  }, {
+    "tStartMs": 2274280,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and it says the headline, and this came\nout yesterday."
+    } ]
+  }, {
+    "tStartMs": 2278920,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "The headline is short sellers blame\nretail investors for worst returns since"
+    } ]
+  }, {
+    "tStartMs": 2284400,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "2020.\nThat's interesting. I mean,"
+    } ]
+  }, {
+    "tStartMs": 2289120,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "short sellers, depending on which theme,\num a lot of those stocks, you know,"
+    } ]
+  }, {
+    "tStartMs": 2294800,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "doubled, tripled, 50x'd.\nSo,"
+    } ]
+  }, {
+    "tStartMs": 2298440,
+    "dDurationMs": 3040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e That's That's like saying That's like\nsaying",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2300240,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e for a scapegoat, kind of.\n\u003e\u003e That's like saying like these stocks are",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2303120,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "only up because of retail, so it didn't\nhappen."
+    } ]
+  }, {
+    "tStartMs": 2306880,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yeah. Like that's that's poor trading.\nLike if that's the stance you're taking,"
+    } ]
+  }, {
+    "tStartMs": 2311280,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in my opinion. I mean, imagine not\ntaking the quantum breakout last month,"
+    } ]
+  }, {
+    "tStartMs": 2315720,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and it's like, yeah, I don't know. Yeah,\nI don't want it, but retail, the"
+    } ]
+  }, {
+    "tStartMs": 2318400,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "technical breakout. Yeah, I mean, it the\nmarket is the market. And of course,"
+    } ]
+  }, {
+    "tStartMs": 2322320,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like this is the kind of attitude that\nI'm trying to"
+    } ]
+  }, {
+    "tStartMs": 2325840,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "This is my campaign. I'm trying to\ndispel this. I think that"
+    } ]
+  }, {
+    "tStartMs": 2329920,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Look, there are a lot of stocks right\nnow that and we can talk about this, but"
+    } ]
+  }, {
+    "tStartMs": 2333800,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, everybody knows like the\nquantum stocks are overvalued if you're"
+    } ]
+  }, {
+    "tStartMs": 2337680,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a fundamental guy, and you're looking at\nvaluations, and they just keep going"
+    } ]
+  }, {
+    "tStartMs": 2341720,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "higher and keep going higher, and we've\ngot"
+    } ]
+  }, {
+    "tStartMs": 2344840,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, Martin Shkreli raising money\nto to short more, and"
+    } ]
+  }, {
+    "tStartMs": 2349640,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it you're not um\ncrazy for looking for the short in"
+    } ]
+  }, {
+    "tStartMs": 2354080,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "these. Like I know We're we're looking\nfor the short in these."
+    } ]
+  }, {
+    "tStartMs": 2357720,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "There's a lot There are a lot of high\nflyers right now, and in a in a market"
+    } ]
+  }, {
+    "tStartMs": 2361760,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's theme-driven,\nfull of growth stocks that are running"
+    } ]
+  }, {
+    "tStartMs": 2366320,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that tend to trade well above their\nvaluation, and things can get out of"
+    } ]
+  }, {
+    "tStartMs": 2369960,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hand, and everyone likes to reference\nthe dot-com bubble, and and it it's not"
+    } ]
+  }, {
+    "tStartMs": 2374480,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "inappropriate to do so in these cases.\nBut, the fact is is that"
+    } ]
+  }, {
+    "tStartMs": 2380440,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "no matter who's driving these higher,\nretail or whoever. Like these are the"
+    } ]
+  }, {
+    "tStartMs": 2384600,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "kind of things that happen in a market.\nAnd so to blame to blame the people on"
+    } ]
+  }, {
+    "tStartMs": 2389240,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the other side of the trade, I think is\nis pretty absurd. And there's this"
+    } ]
+  }, {
+    "tStartMs": 2395200,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Let me read you another tweet. I I went\nnuts on X. I love it. I love it. I mean,"
+    } ]
+  }, {
+    "tStartMs": 2399600,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there was enough to pick from. It was\nactive. All right. So this this guy"
+    } ]
+  }, {
+    "tStartMs": 2403400,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Taylor, t l a m b 91, said, and I just\nhad to laugh. He says, every stock I"
+    } ]
+  }, {
+    "tStartMs": 2409120,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thought was ex tended last week has\ndoubled."
+    } ]
+  }, {
+    "tStartMs": 2412440,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yeah. Going to go do a bunch of whippets\nto hopefully lower my [laughter] IQ a"
+    } ]
+  }, {
+    "tStartMs": 2416160,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bit.\nThat's absurd. I mean,"
+    } ]
+  }, {
+    "tStartMs": 2420000,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but but this is the kind of thing\nbecause it is it's it's dumbfounding to"
+    } ]
+  }, {
+    "tStartMs": 2424200,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "see some of these names at these levels.\nAnd I And I think that like one of the"
+    } ]
+  }, {
+    "tStartMs": 2428600,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "things that I appreciate\num like on our team on our desk"
+    } ]
+  }, {
+    "tStartMs": 2434200,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "um at our firm, just the mentality of\nbeing a trader. The mentality of And"
+    } ]
+  }, {
+    "tStartMs": 2438800,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what does that mean to me?\nIt means"
+    } ]
+  }, {
+    "tStartMs": 2442240,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "letting the stock tell you what it wants\nto do."
+    } ]
+  }, {
+    "tStartMs": 2445080,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Like we all have ideas about\nwhat we think should happen and we can"
+    } ]
+  }, {
+    "tStartMs": 2449840,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "try to predict stuff, but\nthat's, you know, part of having the"
+    } ]
+  }, {
+    "tStartMs": 2454760,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "context and and maybe the\nthe understanding of the catalyst or the"
+    } ]
+  }, {
+    "tStartMs": 2459200,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "understanding of the fundamentals. I'm\nnot saying is not important. It"
+    } ]
+  }, {
+    "tStartMs": 2461880,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "absolutely is. But then\nto be able to watch the tape and the"
+    } ]
+  }, {
+    "tStartMs": 2466200,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "chart and kind of understand the dynamic\nthat's going on and being able to trade"
+    } ]
+  }, {
+    "tStartMs": 2470720,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "under the the system of letting the\nstock tell me like when it's ready to go"
+    } ]
+  }, {
+    "tStartMs": 2476720,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "down versus\nI have this opinion and I'm going to"
+    } ]
+  }, {
+    "tStartMs": 2480640,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "express this until I\nYeah, until I blow up. What What do you"
+    } ]
+  }, {
+    "tStartMs": 2485040,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "What do you think of that?\nI think especially at our firm, um let"
+    } ]
+  }, {
+    "tStartMs": 2489680,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "price action confirm.\nThat's a big thing."
+    } ]
+  }, {
+    "tStartMs": 2493200,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "When you just said that tweet, too, like\neverything honestly has doubled. And"
+    } ]
+  }, {
+    "tStartMs": 2498280,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "another aspect I think of trading this\nmarket and what our firm does well and"
+    } ]
+  }, {
+    "tStartMs": 2502800,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like what you've been doing a good job,\ntoo, of is keeping the bandwidth pretty"
+    } ]
+  }, {
+    "tStartMs": 2507000,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tight. Because you look everywhere and\nstuff's breaking out, you know, you have"
+    } ]
+  }, {
+    "tStartMs": 2510520,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your watch list and you're like, all\nright, like I made a priority list."
+    } ]
+  }, {
+    "tStartMs": 2514000,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "These are game plan. They could set up,\nwho knows. And then you start scanning"
+    } ]
+  }, {
+    "tStartMs": 2517880,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and you're like, oh, yeah, that that\nripped. You know, that's up three ATRs."
+    } ]
+  }, {
+    "tStartMs": 2521880,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And\nyou know, at our firm, you know, one of"
+    } ]
+  }, {
+    "tStartMs": 2525520,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Bella's, it's one of the best books, you\nknow, trading books out there. One good"
+    } ]
+  }, {
+    "tStartMs": 2529960,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trade. We have the poster. But focusing\non, you know,"
+    } ]
+  }, {
+    "tStartMs": 2533680,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your pitch, you know, the next big pitch\nand your best trades like isn't always"
+    } ]
+  }, {
+    "tStartMs": 2538400,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "easy when everything's doubling.\nRight. It's very easy to get overwhelmed"
+    } ]
+  }, {
+    "tStartMs": 2542920,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in a market like this.\nBecause like we've talked about this. It"
+    } ]
+  }, {
+    "tStartMs": 2546360,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "seems like So there all these growth\nstocks, these theme stocks. So What like"
+    } ]
+  }, {
+    "tStartMs": 2550840,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "list the themes, Tim.\nSo yeah, quantum, robotics, rare earth."
+    } ]
+  }, {
+    "tStartMs": 2556360,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Those are the big ones. Batteries.\nUh drones."
+    } ]
+  }, {
+    "tStartMs": 2560840,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Drones. Yeah.\n\u003e\u003e Nuclear energy. That Yeah, nuclear"
+    } ]
+  }, {
+    "tStartMs": 2564240,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "energy with OKL.\n\u003e\u003e like the AI data centers and and all"
+    } ]
+  }, {
+    "tStartMs": 2567400,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "these crypto uh mining companies are\nturning into AI data data centers now."
+    } ]
+  }, {
+    "tStartMs": 2573000,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And so So those are running.\nSo"
+    } ]
+  }, {
+    "tStartMs": 2576280,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's like you look at your charts and\nyou plan for one name and then it's like"
+    } ]
+  }, {
+    "tStartMs": 2580000,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "some other name,\nyou know, out of the the 100 names in"
+    } ]
+  }, {
+    "tStartMs": 2583360,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this in this list that pops off the day.\nSo So to me like that highlights like"
+    } ]
+  }, {
+    "tStartMs": 2587960,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the use of, you know, the the importance\nof having technology, the importance of"
+    } ]
+  }, {
+    "tStartMs": 2591520,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "having price alerts because there is a\nlot moving in this market and it can be"
+    } ]
+  }, {
+    "tStartMs": 2595160,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "overwhelming and it makes me kind of\ncome back to that whole like comparing"
+    } ]
+  }, {
+    "tStartMs": 2598840,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yourself to others. It's very easy to\nalso see stocks go that you missed and,"
+    } ]
+  }, {
+    "tStartMs": 2603840,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, get pissed and then you just\nhit the next one and maybe that wasn't"
+    } ]
+  }, {
+    "tStartMs": 2607520,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the right spot to hit it because you're\nthinking about the last the last trade"
+    } ]
+  }, {
+    "tStartMs": 2610920,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you missed. So I find this market really\nhelps if I if I kind of double down on"
+    } ]
+  }, {
+    "tStartMs": 2616760,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "um\nrelaxing and not not having FOMO. It's"
+    } ]
+  }, {
+    "tStartMs": 2619960,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "very easy to have FOMO. What's the most\ninteresting thing in the market right"
+    } ]
+  }, {
+    "tStartMs": 2623800,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "now?\nGoing forward."
+    } ]
+  }, {
+    "tStartMs": 2626400,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Oh, yeah.\nUh I would say quantum names still."
+    } ]
+  }, {
+    "tStartMs": 2630560,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Right now. Yeah. Um you could argue with\nthe market, too, but really looking at"
+    } ]
+  }, {
+    "tStartMs": 2635120,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "RGTI.\nUm you know, the past 3 days have been"
+    } ]
+  }, {
+    "tStartMs": 2638840,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "crazy, you know, we had\nI'm just looking at the chart right now,"
+    } ]
+  }, {
+    "tStartMs": 2642320,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, 2 days ago strong close, 55.\nWe get no real Well, we get a gap up,"
+    } ]
+  }, {
+    "tStartMs": 2648920,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pulls in.\nOnly pulls in the 2 day, which is crazy."
+    } ]
+  }, {
+    "tStartMs": 2653720,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Holds 2 day, reclaims, and then today it\nlooked like there was a top. Like I"
+    } ]
+  }, {
+    "tStartMs": 2658840,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mean, it looked like they could have\npotentially topped, but it never got"
+    } ]
+  }, {
+    "tStartMs": 2662440,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "below the previous day's range. And then\nwhat did it do? It It rips off the lows"
+    } ]
+  }, {
+    "tStartMs": 2667440,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and closes back at highs.\nSo that's the main watch. Um I still"
+    } ]
+  }, {
+    "tStartMs": 2673680,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, with that watching all the\nother quantum, IONQ, QBTS, QBT, and I"
+    } ]
+  }, {
+    "tStartMs": 2680040,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think the big question at this point is\nlike, is it going to have to end with a"
+    } ]
+  }, {
+    "tStartMs": 2684240,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "parabolic move? Um it's been, you know,\nit's at the phase of the squeeze where"
+    } ]
+  }, {
+    "tStartMs": 2690200,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "these failed short setups\nlook so juicy"
+    } ]
+  }, {
+    "tStartMs": 2695320,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and you almost have to really fight the\nFOMO of trying to short lows there. But"
+    } ]
+  }, {
+    "tStartMs": 2699600,
+    "dDurationMs": 6759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "then we have rules like it's still in\nrange that help with that. Um but yeah,"
+    } ]
+  }, {
+    "tStartMs": 2703720,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I'm wondering if that's the case or, you\nknow, is it going to be one of those"
+    } ]
+  }, {
+    "tStartMs": 2708440,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "where, you know, we break a prior bar\nlow and it's kind of no parabolic and we"
+    } ]
+  }, {
+    "tStartMs": 2714120,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just get, you know, first red day follow\nthrough. Right. So that that would be"
+    } ]
+  }, {
+    "tStartMs": 2717520,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like And again, this is Wednesday. So by\nthe time this comes out, who knows what"
+    } ]
+  }, {
+    "tStartMs": 2722000,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "happened. But that would be like RGTI\nthrough 50 today. Like cuz that was"
+    } ]
+  }, {
+    "tStartMs": 2727520,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yesterday's low and basically today's\nlow. Or"
+    } ]
+  }, {
+    "tStartMs": 2731680,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "these things go parabolic, which would\nbe the best case scenario because that"
+    } ]
+  }, {
+    "tStartMs": 2735160,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "would give us a like a nice technical\nsignal to say, okay, these are blowing"
+    } ]
+  }, {
+    "tStartMs": 2739840,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "up. Right? Maybe um\nmaybe Scraley's finally covering. I"
+    } ]
+  }, {
+    "tStartMs": 2744280,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "don't know. Maybe\nWho knows? Maybe he's hedged. We know"
+    } ]
+  }, {
+    "tStartMs": 2747240,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he's short. I I saw a funny I saw\n\u003e\u003e tweeting. I saw a hilarious tweet from"
+    } ]
+  }, {
+    "tStartMs": 2752320,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "him the other day where he he posted a a\nphoto of his face with a sticky Oh,"
+    } ]
+  }, {
+    "tStartMs": 2758240,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yeah. on his head\nand it said and it said bag holder. So"
+    } ]
+  }, {
+    "tStartMs": 2762240,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he's got a he's got a good sense of\nhumor. He's He's making fun fun of"
+    } ]
+  }, {
+    "tStartMs": 2765840,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "himself and, you know, he's he's up for\nthe year, too, cuz he's in a bunch of"
+    } ]
+  }, {
+    "tStartMs": 2769240,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "other stuff, too.\nUm I agree with you about the quantum. I"
+    } ]
+  }, {
+    "tStartMs": 2773080,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think that\nI think it's interesting because it's"
+    } ]
+  }, {
+    "tStartMs": 2776000,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "one of these situations and we've seen\nthese before, right? We saw"
+    } ]
+  }, {
+    "tStartMs": 2780400,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, SMCI get get nuts last year.\nWe saw MSTR get nuts last year."
+    } ]
+  }, {
+    "tStartMs": 2785960,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "This is something that this same story\nplays out over and over in the market."
+    } ]
+  }, {
+    "tStartMs": 2790000,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "It just so happens that it's it's\nquantum right now. But one of the"
+    } ]
+  }, {
+    "tStartMs": 2793160,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interesting things about it is that the\nhigher it goes, the more emotional the"
+    } ]
+  }, {
+    "tStartMs": 2796720,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stock gets. You can just see it on the\ntape because you've got so many people"
+    } ]
+  }, {
+    "tStartMs": 2800600,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "shorting it.\nUm maybe people still holding long. I"
+    } ]
+  }, {
+    "tStartMs": 2804160,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mean, apparently.\nIf you're long from 10, K Fits, our team"
+    } ]
+  }, {
+    "tStartMs": 2807920,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "leader, earlier was thinking about what\ndoes this selling look like? Is this the"
+    } ]
+  }, {
+    "tStartMs": 2812080,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "panic selling that you need to top\nthese?"
+    } ]
+  }, {
+    "tStartMs": 2814800,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And then the comparison he used was if\nyou're long from 30, are you afraid of"
+    } ]
+  }, {
+    "tStartMs": 2818320,
+    "dDurationMs": 5039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the pullback that happened today\nearlier?"
+    } ]
+  }, {
+    "tStartMs": 2820920,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And the answer is probably no. No. And\nAnd that that's notable because"
+    } ]
+  }, {
+    "tStartMs": 2825600,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it was a very controlled pullback. It\nwas very weak today. The tape was was"
+    } ]
+  }, {
+    "tStartMs": 2830400,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "very weak the first half of the day.\nUm but it wasn't that kind of panic"
+    } ]
+  }, {
+    "tStartMs": 2836040,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "backside day one type of day that we\nlook for where we're like, okay, this is"
+    } ]
+  }, {
+    "tStartMs": 2840040,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this is finally unwinding. Right? Just\nbids dropping. No. People have been"
+    } ]
+  }, {
+    "tStartMs": 2844960,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "looking for this trade for a while\nbecause if you look at the companies and"
+    } ]
+  }, {
+    "tStartMs": 2848960,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the\nlack of lack of revenue and the"
+    } ]
+  }, {
+    "tStartMs": 2852600,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like their offices are in like garages\nand stuff. Like it's"
+    } ]
+  }, {
+    "tStartMs": 2856800,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "There are There have been a million\nreasons to short these for quite some"
+    } ]
+  }, {
+    "tStartMs": 2860800,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "time. So\nit has to be something else. And so, you"
+    } ]
+  }, {
+    "tStartMs": 2865120,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know, to us that's that's a setup.\nThat's like usually like a technical"
+    } ]
+  }, {
+    "tStartMs": 2868880,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "setup. Again, it comes back to\nwhen is the market going to tell you"
+    } ]
+  }, {
+    "tStartMs": 2874359,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "um\nthat it that it wants to go down, right?"
+    } ]
+  }, {
+    "tStartMs": 2877320,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And so one of the ways that that could\nset up, as you mentioned, is that they"
+    } ]
+  }, {
+    "tStartMs": 2882720,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "start to squeeze and speed up and go\nparabolic. And you finally get some"
+    } ]
+  }, {
+    "tStartMs": 2888080,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "volatility to the upside that does not\ndigest and consolidate and go sideways,"
+    } ]
+  }, {
+    "tStartMs": 2892800,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but instead you get spray and then you\nget a gap and then you get like another"
+    } ]
+  }, {
+    "tStartMs": 2897520,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "big move and then maybe a gap, right?\nThe the same kind of way that like SMCI"
+    } ]
+  }, {
+    "tStartMs": 2901560,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "topped out and MSTR topped out last year\nand and we could go on and on. There are"
+    } ]
+  }, {
+    "tStartMs": 2906280,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a million examples like this.\nThat's the kind of thing that to me I'd"
+    } ]
+  }, {
+    "tStartMs": 2910240,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "be looking for for\nmy favorite setup. Um or maybe it just"
+    } ]
+  }, {
+    "tStartMs": 2915280,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "breaks support and goes or maybe there's\nsome breaking news."
+    } ]
+  }, {
+    "tStartMs": 2919600,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yeah. Which could always happen as well.\nSo"
+    } ]
+  }, {
+    "tStartMs": 2922480,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "um it'll be super interesting to see how\nthis plays out because"
+    } ]
+  }, {
+    "tStartMs": 2926680,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "at some point um\nthey're going to tick down."
+    } ]
+  }, {
+    "tStartMs": 2930440,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "But [snorts] we just don't know.\n\u003e\u003e question from where?"
+    } ]
+  }, {
+    "tStartMs": 2932880,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "The question is, I'm just looking at it,\nyou know, right before we had that um"
+    } ]
+  }, {
+    "tStartMs": 2937200,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "day one\nthat got to 55, there was a lot of"
+    } ]
+  }, {
+    "tStartMs": 2940840,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people still looking for the short and\nit kind of just consolidated, digested,"
+    } ]
+  }, {
+    "tStartMs": 2946160,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and now you're looking at the past 2\ndays and is it doing that again? Yeah,"
+    } ]
+  }, {
+    "tStartMs": 2949960,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "exactly. So it's like looking for those\nshort traps and those are, you know,"
+    } ]
+  }, {
+    "tStartMs": 2953720,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "short-term longs sometimes and\num you can you can kind of use that as"
+    } ]
+  }, {
+    "tStartMs": 2958600,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "information and then hopefully they go a\nlot higher. We're We're praying. So"
+    } ]
+  }, {
+    "tStartMs": 2962040,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we'll see. Maybe Maybe by the time this\ncomes out, something will have happened."
+    } ]
+  }, {
+    "tStartMs": 2966080,
+    "dDurationMs": 9480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Thank you everybody for tuning in. We\nreally appreciate you and we'll see you"
+    } ]
+  }, {
+    "tStartMs": 2971680,
+    "dDurationMs": 3880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "next week. Stay safe out there."
+    } ]
+  }, {
+    "tStartMs": 2982640,
+    "dDurationMs": 2040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Mhm.",
+      "isSpeakerChange": 1
+    } ]
+  } ]
+}

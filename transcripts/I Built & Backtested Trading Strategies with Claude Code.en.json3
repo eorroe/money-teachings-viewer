@@ -1,0 +1,4974 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 0,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Most traders are asking AI the wrong\nquestions. They're asking it what stock"
+    } ]
+  }, {
+    "tStartMs": 5440,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to buy. Better question is, can you do\nhundreds of hours of research for today?"
+    } ]
+  }, {
+    "tStartMs": 10840,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "We're talking with a 20-year veteran\nsystematic trading about how he's using"
+    } ]
+  }, {
+    "tStartMs": 16040,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Claude to build and test trading\nstrategies in a fraction of the time and"
+    } ]
+  }, {
+    "tStartMs": 21600,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "why that changes what one trader can\naccomplish. Welcome to episode 20 of the"
+    } ]
+  }, {
+    "tStartMs": 27080,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trading floor podcast. Our guest today a\nsystematic day trader since 2005"
+    } ]
+  }, {
+    "tStartMs": 33360,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "currently trading 30 plus proprietary\nstrategies every day."
+    } ]
+  }, {
+    "tStartMs": 37600,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "His name is Dave maybe founder of maybe\nkit the number one strategy optimizer"
+    } ]
+  }, {
+    "tStartMs": 42080,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and automation tool for systematic\ntraders host of line your own pocket"
+    } ]
+  }, {
+    "tStartMs": 46800,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podcast former CTO of trade ideas and\nhe's on a mission to turn 10,000"
+    } ]
+  }, {
+    "tStartMs": 52120,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hobbyist into full-time traders doing it\nfor a living. Dave, thank you for"
+    } ]
+  }, {
+    "tStartMs": 56480,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "joining us. This is the second time.\nWe're so psyched to have you on again."
+    } ]
+  }, {
+    "tStartMs": 61000,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah, thanks so much for having me. I'm\nexcited to be here.",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 63720,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e So Dave\nas many know who have been in the bionic",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 67680,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "meetings where Dave has joined us and\nI've introduced Dave"
+    } ]
+  }, {
+    "tStartMs": 71480,
+    "dDurationMs": 8960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Dave is a mentor to Tim and I when it\ncomes to everything automation and"
+    } ]
+  }, {
+    "tStartMs": 76520,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everything strategy optimization. And so\nwhen"
+    } ]
+  }, {
+    "tStartMs": 81600,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Dave when you told me that you wanted to\ncome on and talk about how you're using"
+    } ]
+  }, {
+    "tStartMs": 85280,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Claude automate backtesting and strategy\ndevelopment. I got really excited"
+    } ]
+  }, {
+    "tStartMs": 90000,
+    "dDurationMs": 9480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because Tim and I haven't done this yet.\nSo what drove you down this path?"
+    } ]
+  }, {
+    "tStartMs": 96320,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah, so I've got four bullet points\nthat you know, I've been listening to",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 100680,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your podcast. You guys have been doing a\ngreat job with this and so to inspire me"
+    } ]
+  }, {
+    "tStartMs": 105040,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to to think about this.\nUm,"
+    } ]
+  }, {
+    "tStartMs": 108720,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, I've always\nI've always automated stuff like if from"
+    } ]
+  }, {
+    "tStartMs": 114080,
+    "dDurationMs": 9320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the career I had before trading\nUh, I was all about automating stuff and"
+    } ]
+  }, {
+    "tStartMs": 120080,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's just the next iteration of, you\nknow,"
+    } ]
+  }, {
+    "tStartMs": 124320,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh, from automating strategies now to\ntrying to automate as much as I can of"
+    } ]
+  }, {
+    "tStartMs": 129600,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "doing backtesting.\nSo, I'm it's it's"
+    } ]
+  }, {
+    "tStartMs": 134880,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, when I when I first started\nusing Claude code about 8 months ago, it"
+    } ]
+  }, {
+    "tStartMs": 139440,
+    "dDurationMs": 3720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was\na trader friend of mine said, \"Dave, you"
+    } ]
+  }, {
+    "tStartMs": 141880,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "should really start using this.\" I was\nlike, \"Well, I mean, I'm using ChatGPT."
+    } ]
+  }, {
+    "tStartMs": 145560,
+    "dDurationMs": 3760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I mean, what's what's really the big\ndifference?\""
+    } ]
+  }, {
+    "tStartMs": 148000,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "But man, once I started using it, I was\nlike, \"Oh my gosh, this is really"
+    } ]
+  }, {
+    "tStartMs": 150840,
+    "dDurationMs": 4119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "great.\"\nSo, it really opened up a whole new"
+    } ]
+  }, {
+    "tStartMs": 153800,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "world,\nbut"
+    } ]
+  }, {
+    "tStartMs": 156600,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, one thing that I think about,\nyou know, from my CTO days,"
+    } ]
+  }, {
+    "tStartMs": 161080,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just because Claude can do all these\nthings for you, it doesn't mean the"
+    } ]
+  }, {
+    "tStartMs": 164400,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "rules of software development have\nchanged. Like, there's still basic rules"
+    } ]
+  }, {
+    "tStartMs": 169360,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that\npeople have to follow and and and it's"
+    } ]
+  }, {
+    "tStartMs": 173959,
+    "dDurationMs": 6361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "good practices to follow.\nSo, there's lots of things that"
+    } ]
+  }, {
+    "tStartMs": 179120,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there there's\nthere's lots of ways that you can get"
+    } ]
+  }, {
+    "tStartMs": 183480,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "into a trap if you're not careful. And\nand I've just known this from being a"
+    } ]
+  }, {
+    "tStartMs": 187720,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "software developer for so many years.\nUh, so yeah, it's an exciting time to be"
+    } ]
+  }, {
+    "tStartMs": 193600,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a trader, it's exciting time to be a\ndeveloper."
+    } ]
+  }, {
+    "tStartMs": 196840,
+    "dDurationMs": 4200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Um,\nbut yeah, there's there's certain"
+    } ]
+  }, {
+    "tStartMs": 199120,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "guardrails you need to impose on\nyourself with this this amazing tool."
+    } ]
+  }, {
+    "tStartMs": 203880,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e I 100% agree and I feel like not a lot\nof people are talking about those traps",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 208239,
+    "dDurationMs": 4961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in general. But I'm excited to get into\nthese bullet points as well."
+    } ]
+  }, {
+    "tStartMs": 211760,
+    "dDurationMs": 6759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Uh, first bullet point here, the first\nstep you could do to automate the",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 216760,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "backtesting and systematic trading that\nyou're doing is"
+    } ]
+  }, {
+    "tStartMs": 219800,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have give Claude the path to be able to\nrun a backtest on your behalf."
+    } ]
+  }, {
+    "tStartMs": 225640,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So, may maybe you've already got a\nbacktest"
+    } ]
+  }, {
+    "tStartMs": 228800,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and\ngive it the tools to actually run it"
+    } ]
+  }, {
+    "tStartMs": 232000,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "without intervention. You can say,\n\"Okay, just go run the back test.\" And"
+    } ]
+  }, {
+    "tStartMs": 235720,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that means like the tool I use is\nAmiBroker."
+    } ]
+  }, {
+    "tStartMs": 239800,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So, that means run the back test,\nsave the CSV results to the standard"
+    } ]
+  }, {
+    "tStartMs": 245920,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "place,\nand"
+    } ]
+  }, {
+    "tStartMs": 249840,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not all back testing tools allow you to\ndo this. So,"
+    } ]
+  }, {
+    "tStartMs": 254840,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you can't even use Claude code to run\nback tests in most back testing software"
+    } ]
+  }, {
+    "tStartMs": 260200,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "out there. So, the only ones I know, in\nfact, I think you can't do it in"
+    } ]
+  }, {
+    "tStartMs": 263880,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "TradeIdeas.\nThe only ones that can do it, I believe,"
+    } ]
+  }, {
+    "tStartMs": 267640,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "are AmiBroker and RealTest.\nUh and Kite, the tool that you guys have"
+    } ]
+  }, {
+    "tStartMs": 273240,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "access to, but retail traders don't have\naccess to that tool."
+    } ]
+  }, {
+    "tStartMs": 276960,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e That makes a lot of sense. I wasn't sure\nwhen you were coming on uh with back",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 280600,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "testing with Claude if it was going to\nbe that you gave Claude like a ton, like"
+    } ]
+  }, {
+    "tStartMs": 285760,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "an entire CSV of all minute bar data for\na ton of stocks, and then it was able to"
+    } ]
+  }, {
+    "tStartMs": 290919,
+    "dDurationMs": 6361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like do some sort of its own makeshift\nback testing, or if it was this link."
+    } ]
+  }, {
+    "tStartMs": 295600,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So, you're linking it with AmiBroker.\nWould you like to gain the biggest edge"
+    } ]
+  }, {
+    "tStartMs": 300160,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a retail trader can get? All of our\ndaily and weekly in-house trader"
+    } ]
+  }, {
+    "tStartMs": 304720,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "meetings are now available to you. Just\nhead over to smbtrainingfloor.com"
+    } ]
+  }, {
+    "tStartMs": 310640,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to find out more.\n\u003e\u003e A lot of traders come to me and have"
+    } ]
+  }, {
+    "tStartMs": 314680,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tried the route of having Claude do\neverything."
+    } ]
+  }, {
+    "tStartMs": 318280,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And it's tempting to do that. I\nI totally get the draw of doing that,"
+    } ]
+  }, {
+    "tStartMs": 323800,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but it's sort of like\nit's sort of like wanting to use a"
+    } ]
+  }, {
+    "tStartMs": 328760,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "spreadsheet and then like building your\nown Excel and not just using Excel. I"
+    } ]
+  }, {
+    "tStartMs": 333760,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mean, why would you want to do that?\nWell, Claude could build you an Excel,"
+    } ]
+  }, {
+    "tStartMs": 337200,
+    "dDurationMs": 2560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right?\n\u003e\u003e Yeah."
+    } ]
+  }, {
+    "tStartMs": 338440,
+    "dDurationMs": 4200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e But that's No, it makes no sense to do\nthat.",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 340919,
+    "dDurationMs": 6281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And that's the trap I see a lot of\ntraders fall into. They think they can"
+    } ]
+  }, {
+    "tStartMs": 344720,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do it all with Claude.\nAnd there's just AmiBroker's been around"
+    } ]
+  }, {
+    "tStartMs": 349880,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for like 30 years now, if you can\nbelieve me, a long time. And it's the"
+    } ]
+  }, {
+    "tStartMs": 354400,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "most efficient way to do this\nfor the retail trader."
+    } ]
+  }, {
+    "tStartMs": 359040,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And there you know, there's just been so\nmany lessons learned. The same developer"
+    } ]
+  }, {
+    "tStartMs": 363920,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the whole time, same interface the whole\ntime."
+    } ]
+  }, {
+    "tStartMs": 367440,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And you know, you're going to some\npeople look at the interface was like,"
+    } ]
+  }, {
+    "tStartMs": 370600,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "man, this looks like it's from\n30 years ago. So, well, yeah, it is. So,"
+    } ]
+  }, {
+    "tStartMs": 375880,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's a good thing.\n\u003e\u003e And for you, how easy was linking it?"
+    } ]
+  }, {
+    "tStartMs": 381760,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Um, is that something that you even ask\nClaude on how to do it? Or like, how"
+    } ]
+  }, {
+    "tStartMs": 386200,
+    "dDurationMs": 7719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "would you go about that?\n\u003e\u003e So, there is So, AmiBroker has an"
+    } ]
+  }, {
+    "tStartMs": 391160,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interface, a standard interface that\nWindows had and has had in there for"
+    } ]
+  }, {
+    "tStartMs": 395880,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "years of\nlike automating software."
+    } ]
+  }, {
+    "tStartMs": 400280,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So, it's a standard interface for\nbasically"
+    } ]
+  }, {
+    "tStartMs": 404720,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "performing the functions in AmiBroker\noutside of AmiBroker via a Python"
+    } ]
+  }, {
+    "tStartMs": 409080,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "script. There's a really good example\nthis that I have on my mailing list. We"
+    } ]
+  }, {
+    "tStartMs": 413040,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can put a link in the show notes to it.\nUm, it's standard Python code for doing"
+    } ]
+  }, {
+    "tStartMs": 417894,
+    "dDurationMs": 6866,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[clears throat] this exact function.\nSo, it's and"
+    } ]
+  }, {
+    "tStartMs": 422840,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, this has been in AmiBroker for\nyears, but and I've used it for years"
+    } ]
+  }, {
+    "tStartMs": 427880,
+    "dDurationMs": 4280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just, you know, writing my own Python\nscripts to"
+    } ]
+  }, {
+    "tStartMs": 430760,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, run back test for certain\nthings."
+    } ]
+  }, {
+    "tStartMs": 433400,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "But now it's just, okay,\nit's unlocked to non-developers via"
+    } ]
+  }, {
+    "tStartMs": 438560,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Claude. So, you can have teach Claude\nhow to do it. And"
+    } ]
+  }, {
+    "tStartMs": 442720,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the next few bullet points I'll talk\nabout is"
+    } ]
+  }, {
+    "tStartMs": 447000,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "specific things you can teach Claude to\ndo to actually help you develop a"
+    } ]
+  }, {
+    "tStartMs": 451840,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "strategy. So, that's what that's what I\nwant to talk about next."
+    } ]
+  }, {
+    "tStartMs": 456640,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e That's great. So, step one, link it.\nAnd start back testing.",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 461080,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah, so most traders probably already\nhave a back test that they're using or",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 465120,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they're close to having one.\nUm, and that's sort of the first or they"
+    } ]
+  }, {
+    "tStartMs": 470080,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can come up with one, you know, a\nsort of a stock one pretty quickly."
+    } ]
+  }, {
+    "tStartMs": 474960,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Uh, just to get that function working.\nSo, what one example, I mean, one of the"
+    } ]
+  }, {
+    "tStartMs": 479800,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "things this unlocks is\nyou know,"
+    } ]
+  }, {
+    "tStartMs": 484200,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a lot of these back tests can take, you\nknow, an hour to run. So, you're"
+    } ]
+  }, {
+    "tStartMs": 489000,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're you're\nyou know, you've written some code,"
+    } ]
+  }, {
+    "tStartMs": 492000,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're you think it's right, you you run\nthe back test, it takes an hour, then"
+    } ]
+  }, {
+    "tStartMs": 496240,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you get your results. Well,\nyeah, that's not immediate, so"
+    } ]
+  }, {
+    "tStartMs": 500560,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, you're out of the context, you\ngo off doing something else waiting for"
+    } ]
+  }, {
+    "tStartMs": 504240,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it to finish.\nSo, it's sort of an inefficient thing."
+    } ]
+  }, {
+    "tStartMs": 507840,
+    "dDurationMs": 6879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So, a lot of traders that I work with I\nshow them this workflow and then they"
+    } ]
+  }, {
+    "tStartMs": 512400,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can run four or five back tests\novernight and then then it's there"
+    } ]
+  }, {
+    "tStartMs": 516560,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "waiting for them when they wake up.\n\u003e\u003e Is that because they're queued one after"
+    } ]
+  }, {
+    "tStartMs": 520120,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "another?\n\u003e\u003e Do you want to sit in on all of our"
+    } ]
+  }, {
+    "tStartMs": 522919,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "daily and weekly in-house trader\nmeetings? There's no bigger edge retail"
+    } ]
+  }, {
+    "tStartMs": 527000,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "traders can get. Visit\nsmbtradingfloor.com"
+    } ]
+  }, {
+    "tStartMs": 530400,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to learn more.\n\u003e\u003e Yeah, so there's a way to parameterize"
+    } ]
+  }, {
+    "tStartMs": 533480,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "certain things in a back test\nlet's say you want to run different"
+    } ]
+  }, {
+    "tStartMs": 538000,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "versions of a back test and you've\ncreated parameters"
+    } ]
+  }, {
+    "tStartMs": 541680,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in there that, you know, do slightly\ndifferent versions of it and you're"
+    } ]
+  }, {
+    "tStartMs": 544760,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trying to figure out which one's best.\nYou can have it run each iteration of"
+    } ]
+  }, {
+    "tStartMs": 549600,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "those parameters and then you have, you\nknow, however many back tests waiting"
+    } ]
+  }, {
+    "tStartMs": 554200,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for you when you wake up based on that.\nSo, it's a much more efficient workflow"
+    } ]
+  }, {
+    "tStartMs": 559440,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "than, you know, clicking the button,\ntrying to remember to come back and see"
+    } ]
+  }, {
+    "tStartMs": 563080,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when it's complete, then manually saving\nthe results to a CSV file and,"
+    } ]
+  }, {
+    "tStartMs": 568320,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, maybe doing that in a\nnon-standard way. If you standardize a"
+    } ]
+  }, {
+    "tStartMs": 571600,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lot of this, it becomes a lot easier and\nyour whole"
+    } ]
+  }, {
+    "tStartMs": 575800,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "workflow for coming up with strategies\ngets a lot easier."
+    } ]
+  }, {
+    "tStartMs": 578720,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e There would be certain models when we\nwere looking to backtest, we just knew",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 582320,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the backtest would take so long where we\nwould try to get everything done by"
+    } ]
+  }, {
+    "tStartMs": 586160,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Friday so you can put it in over the\nweekend."
+    } ]
+  }, {
+    "tStartMs": 589360,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And the overnight is I mean that's a\nsmall Chico but it's like it's an easy"
+    } ]
+  }, {
+    "tStartMs": 595000,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fix but such a massive difference like\n\u003e\u003e Yeah."
+    } ]
+  }, {
+    "tStartMs": 598200,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e It's like four to five x probably the\namount you're able to backtest.",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 601720,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah and I mean it takes a little bit of\nplanning but once you get this workflow",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 605680,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to see what's possible then you\nstart thinking okay if I can do it this"
+    } ]
+  }, {
+    "tStartMs": 609840,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "way then I can set up parameters for\nthis and"
+    } ]
+  }, {
+    "tStartMs": 613240,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know have this running while I sleep\nand I can wake up and you know optimize"
+    } ]
+  }, {
+    "tStartMs": 617920,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the strategy in the morning.\n\u003e\u003e What a time saver. Yeah what what a what"
+    } ]
+  }, {
+    "tStartMs": 622520,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "an amazing time saver. All right so so\nhow are you leveraging this? Is are we"
+    } ]
+  }, {
+    "tStartMs": 626120,
+    "dDurationMs": 2840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on the step two now?\n\u003e\u003e So"
+    } ]
+  }, {
+    "tStartMs": 628807,
+    "dDurationMs": 3393,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e [clears throat]\n\u003e\u003e that's sort of the basic",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 630920,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "step.\nUm"
+    } ]
+  }, {
+    "tStartMs": 633200,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "step two I want to talk about\nhow to actually create a strategy have"
+    } ]
+  }, {
+    "tStartMs": 638160,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Claude and I'm using Claude you know\nyou can use chat GPT in the same way or"
+    } ]
+  }, {
+    "tStartMs": 643120,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Codex.\nUm"
+    } ]
+  }, {
+    "tStartMs": 645880,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have Claude create a strategy for you.\nSo"
+    } ]
+  }, {
+    "tStartMs": 651880,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you give it the parameters, you give it\nthe outline okay this is what the"
+    } ]
+  }, {
+    "tStartMs": 655000,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "strategy is supposed to do\nand then it come it writes the code for"
+    } ]
+  }, {
+    "tStartMs": 658800,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you for the actual backtest.\nAnd the"
+    } ]
+  }, {
+    "tStartMs": 663560,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the most important thing to do here cuz\nI've seen a lot of traders try this"
+    } ]
+  }, {
+    "tStartMs": 667000,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "especially with Amibroker\nthere's"
+    } ]
+  }, {
+    "tStartMs": 670920,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there's lots of different ways to write\na strategy"
+    } ]
+  }, {
+    "tStartMs": 674480,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and\nif you don't"
+    } ]
+  }, {
+    "tStartMs": 678200,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "streamline it or\ngive Claude a reference"
+    } ]
+  }, {
+    "tStartMs": 682839,
+    "dDurationMs": 7281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of a good you know this is the way I I'm\ntalking about when I say come up with a"
+    } ]
+  }, {
+    "tStartMs": 687040,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "strategy write it in this way\nit"
+    } ]
+  }, {
+    "tStartMs": 691520,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it kind of gets lost and it'll come back\nwith many different ways. Like it could"
+    } ]
+  }, {
+    "tStartMs": 694680,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "be any number of different ways. And\nit's more expensive those requests, you"
+    } ]
+  }, {
+    "tStartMs": 698680,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know, it's going to cost more tokens\nfor you to do that. So, if you give it a"
+    } ]
+  }, {
+    "tStartMs": 703680,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reference, if you say, \"Okay, here's a\nstrategy that I've created."
+    } ]
+  }, {
+    "tStartMs": 708320,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Use this as a reference and but do this\ninstead.\""
+    } ]
+  }, {
+    "tStartMs": 712560,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "That's going to be a huge time saver and\nit's going to"
+    } ]
+  }, {
+    "tStartMs": 716240,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, this comes from\nmy day, you know,"
+    } ]
+  }, {
+    "tStartMs": 720480,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "many years being a CTO.\nA a big part of when I was at TradeOut"
+    } ]
+  }, {
+    "tStartMs": 725160,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is\nwhen I became CTO, a big thing I could"
+    } ]
+  }, {
+    "tStartMs": 729400,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "see was like everybody was writing code\nin silos."
+    } ]
+  }, {
+    "tStartMs": 733120,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "There was no standardization.\nUh you would look at somebody else's"
+    } ]
+  }, {
+    "tStartMs": 737360,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "code and you were like, \"Oh my gosh,\nthis is"
+    } ]
+  }, {
+    "tStartMs": 740040,
+    "dDurationMs": 8840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this looks so foreign to what I do. This\nis not conforming to a standard.\""
+    } ]
+  }, {
+    "tStartMs": 745920,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So, a big part of it was coming up with\na style guide and really enforcing it,"
+    } ]
+  }, {
+    "tStartMs": 751520,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "saying that any new code that we submit\nis going to be in this standard and it's"
+    } ]
+  }, {
+    "tStartMs": 755440,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to be in the standard of the\nlanguage that we're writing in."
+    } ]
+  }, {
+    "tStartMs": 759839,
+    "dDurationMs": 6441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So, and that just becomes it it smooths\nthings out. It's a little it takes a"
+    } ]
+  }, {
+    "tStartMs": 764560,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "little bit of effort, you know, some\npeople think it's like busy work, but it"
+    } ]
+  }, {
+    "tStartMs": 768800,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was a huge thing because it just every\neverything gets more cohesive and and"
+    } ]
+  }, {
+    "tStartMs": 773760,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gets easier.\n\u003e\u003e Is it enough to just give it the example"
+    } ]
+  }, {
+    "tStartMs": 778800,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh script, the Python script, or are you\nreally like telling the methodology of"
+    } ]
+  }, {
+    "tStartMs": 783120,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "how you're writing it before?\n\u003e\u003e All right. So,"
+    } ]
+  }, {
+    "tStartMs": 789000,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in Amber Broker, there's like I said,\nlots of different ways to come up with a"
+    } ]
+  }, {
+    "tStartMs": 792800,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "strategy.\nBut I have used so many different ways"
+    } ]
+  }, {
+    "tStartMs": 798080,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and I've\nfinalized on what I think is the right"
+    } ]
+  }, {
+    "tStartMs": 801960,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "way to do it because there's one there's\nonly one way to do it where you can add"
+    } ]
+  }, {
+    "tStartMs": 805839,
+    "dDurationMs": 5721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "custom columns to your backtest, which\nis such an important part of I mean you"
+    } ]
+  }, {
+    "tStartMs": 810640,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know\npreaching to the choir here, but"
+    } ]
+  }, {
+    "tStartMs": 813800,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's such an important part of coming up\nwith a strategy"
+    } ]
+  }, {
+    "tStartMs": 817000,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that it's\nit's almost impossible to come up with a"
+    } ]
+  }, {
+    "tStartMs": 821400,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "strategy without doing that.\n\u003e\u003e 100%"
+    } ]
+  }, {
+    "tStartMs": 824840,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e And\nand there's you know most traders don't",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 827840,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "realize so\nI mean"
+    } ]
+  }, {
+    "tStartMs": 831040,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I've\ncreated an AFL generator that does it in"
+    } ]
+  }, {
+    "tStartMs": 835040,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the right way.\nAnd"
+    } ]
+  }, {
+    "tStartMs": 838280,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and it uses Claude on the back end. This\ncomes with Maybank"
+    } ]
+  }, {
+    "tStartMs": 841760,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and I've heard from traders that have\nused it like they were trying to get"
+    } ]
+  }, {
+    "tStartMs": 845320,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Claude to write AFL before.\nOnce they started using this as a"
+    } ]
+  }, {
+    "tStartMs": 849720,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reference\nClaude became much much better at"
+    } ]
+  }, {
+    "tStartMs": 853960,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "writing AFL because it's using it you\nknow it's doing it the right way. It"
+    } ]
+  }, {
+    "tStartMs": 858080,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "knows what you're it knows the context\nwith which you're asking it to do. So"
+    } ]
+  }, {
+    "tStartMs": 863360,
+    "dDurationMs": 4080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's\ngiving it a reference is is just super"
+    } ]
+  }, {
+    "tStartMs": 866640,
+    "dDurationMs": 3680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "important.\n\u003e\u003e I've noticed that even with writing"
+    } ]
+  }, {
+    "tStartMs": 869080,
+    "dDurationMs": 5759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "alerts\nlike I've used the first like"
+    } ]
+  }, {
+    "tStartMs": 872400,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "project that I took on with Claude was\njust trying to script up a bunch of"
+    } ]
+  }, {
+    "tStartMs": 876440,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "these alerts that I had on a to-do list\nthat I never got to and I gave it one of"
+    } ]
+  }, {
+    "tStartMs": 881440,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "my alerts\nthe scripts for it and that helped a"
+    } ]
+  }, {
+    "tStartMs": 884160,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ton.\nBut I haven't done on the model side."
+    } ]
+  }, {
+    "tStartMs": 887520,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e It's going to be I mean that is a very\nimportant thing to have it do. Like you",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 892240,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want to I mean every have you ever\nlooked at somebody else's code that you"
+    } ]
+  }, {
+    "tStartMs": 896000,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "didn't write?\n\u003e\u003e It's"
+    } ]
+  }, {
+    "tStartMs": 899680,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's kind of jarring when it's not you\nknow it's written a little bit"
+    } ]
+  }, {
+    "tStartMs": 903040,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "differently they do things differently.\nBut imagine you know if both people are"
+    } ]
+  }, {
+    "tStartMs": 907360,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "writing with the same style and the same\nLike you may you may think well this is"
+    } ]
+  }, {
+    "tStartMs": 912560,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Claude writing the code. Does it really\nmatter? Well yeah I mean"
+    } ]
+  }, {
+    "tStartMs": 916000,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it does matter and and it does make it\nmore efficient. So"
+    } ]
+  }, {
+    "tStartMs": 920720,
+    "dDurationMs": 3600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if you give it\nuh"
+    } ]
+  }, {
+    "tStartMs": 923160,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know\nthe the strategies that you run, here's"
+    } ]
+  }, {
+    "tStartMs": 926800,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "how I write them.\nIt's going to be a lot more efficient"
+    } ]
+  }, {
+    "tStartMs": 930320,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because it knows what to do. It doesn't\ndoesn't have to guess."
+    } ]
+  }, {
+    "tStartMs": 933720,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Jared, you'll remember too when we were\nworking with Nick, this is when we were",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 937280,
+    "dDurationMs": 5275,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like just starting out coding.\nUm Nick would look at our code and be"
+    } ]
+  }, {
+    "tStartMs": 940920,
+    "dDurationMs": 2480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like, \"What is this?\"\n\u003e\u003e [laughter]"
+    } ]
+  }, {
+    "tStartMs": 942680,
+    "dDurationMs": 2760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Like\n\u003e\u003e And you're putting in nice like",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 944280,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e read this at all.\n\u003e\u003e Yeah, and you're you're you're making",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 946960,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this PG for the for the\n\u003e\u003e Oh, he would yeah, he would"
+    } ]
+  }, {
+    "tStartMs": 951070,
+    "dDurationMs": 4090,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e [laughter]\n\u003e\u003e kind of get a little mad at us.",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 954080,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e I mean, that's how we learned how to\ncode though. He'd be like, \"Oh, this is",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 956280,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "garbage.\" And he'd be like\n\u003e\u003e To your point him"
+    } ]
+  }, {
+    "tStartMs": 960320,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh that's really how we learned how to\ncode because Nick was so hard on us when"
+    } ]
+  }, {
+    "tStartMs": 964640,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we would just write spaghetti code.\nAnd we'd ask him, \"Hey,"
+    } ]
+  }, {
+    "tStartMs": 969280,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh\nthis thing is not like working, you"
+    } ]
+  }, {
+    "tStartMs": 971720,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know, can you just cuz we knew he knew\neverything. Can you just look at this"
+    } ]
+  }, {
+    "tStartMs": 975160,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and you know, kind of tell us what to\ndo?\" And he'd be like"
+    } ]
+  }, {
+    "tStartMs": 978520,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\"Just put in print statements.\" And he'd\njust yell at us to like he'd be like,"
+    } ]
+  }, {
+    "tStartMs": 982320,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\"This is what I would be doing, so you\nguys should just do it.\" And"
+    } ]
+  }, {
+    "tStartMs": 985760,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it was great. That's how we learned how\nto do it, you know, and it's just it's"
+    } ]
+  }, {
+    "tStartMs": 989000,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "funny and now I guess you don't need to\nknow how to do any of this, but the"
+    } ]
+  }, {
+    "tStartMs": 991839,
+    "dDurationMs": 5481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thing Dave that\nthat I'm kind of getting out of what"
+    } ]
+  }, {
+    "tStartMs": 994680,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're saying is that it still does pay\noff to kind of have some level of"
+    } ]
+  }, {
+    "tStartMs": 999800,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "understanding of like how this sort of\nlike back end like programming stuff"
+    } ]
+  }, {
+    "tStartMs": 1004320,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "works when you're doing this.\n\u003e\u003e Oh, yeah, then no question about it. I"
+    } ]
+  }, {
+    "tStartMs": 1007720,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mean, there So, there's this concept in\nsoftware development called technical"
+    } ]
+  }, {
+    "tStartMs": 1011160,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "debt.\nAnd"
+    } ]
+  }, {
+    "tStartMs": 1014480,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the way you should think about it is,\nyou know,"
+    } ]
+  }, {
+    "tStartMs": 1017440,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "junior developers, new developers might\nwrite code. And you might have a senior"
+    } ]
+  }, {
+    "tStartMs": 1022839,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "person like Nick look at it and say\n\"You know, this needs to be better.\" And"
+    } ]
+  }, {
+    "tStartMs": 1027560,
+    "dDurationMs": 4399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the developer might say, \"Well, it works\nright here. It's doing what it's"
+    } ]
+  }, {
+    "tStartMs": 1030400,
+    "dDurationMs": 6439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "supposed to do.\"\nBut the senior developer might look at"
+    } ]
+  }, {
+    "tStartMs": 1033680,
+    "dDurationMs": 8279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it and say, \"Yeah, okay, it works, but I\ncan tell from my experience that"
+    } ]
+  }, {
+    "tStartMs": 1040199,
+    "dDurationMs": 6401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eventually\nthis is going to be a"
+    } ]
+  }, {
+    "tStartMs": 1044079,
+    "dDurationMs": 8041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a big pain to maintain. It's written in\na non-standard way. You could write this"
+    } ]
+  }, {
+    "tStartMs": 1049000,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in a lot fewer lines. You could You\ncould make that You've done it like in a"
+    } ]
+  }, {
+    "tStartMs": 1053720,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "very convoluted way.\nAnd"
+    } ]
+  }, {
+    "tStartMs": 1057640,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's it's good to uh\nIt's good to sort of respect and"
+    } ]
+  }, {
+    "tStartMs": 1063040,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "understand where that senior developer's\ncoming from because they've been through"
+    } ]
+  }, {
+    "tStartMs": 1066520,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this and they see what can happen over\ntime"
+    } ]
+  }, {
+    "tStartMs": 1069640,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "as technical debt develops. So,\nand it's uh"
+    } ]
+  }, {
+    "tStartMs": 1075960,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I mean\nI'm really interested to see how this"
+    } ]
+  }, {
+    "tStartMs": 1079080,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "whole Claude thing plays out because\nthere's so many people now who think"
+    } ]
+  }, {
+    "tStartMs": 1082680,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they're developers, right? And really a\nlot of what I can see a lot of people"
+    } ]
+  }, {
+    "tStartMs": 1086720,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "doing\nis creating technical debt very quickly"
+    } ]
+  }, {
+    "tStartMs": 1091240,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and they have no idea that they're doing\nit."
+    } ]
+  }, {
+    "tStartMs": 1093840,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So, it's just I'm very curious to see\nhow it plays out."
+    } ]
+  }, {
+    "tStartMs": 1098000,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yeah, Claude can help with that if you\nknow what you're doing, but it's still"
+    } ]
+  }, {
+    "tStartMs": 1102520,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like people ask like people take on\nbigger projects than"
+    } ]
+  }, {
+    "tStartMs": 1107960,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they should. It's It's just I'm very\ncurious as"
+    } ]
+  }, {
+    "tStartMs": 1111600,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "as a long-time software developer to see\nhow this plays out."
+    } ]
+  }, {
+    "tStartMs": 1113960,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e I'm probably guilty of that as well. Not\nto deviate too much, but I wonder there",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1118640,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "has to be a way of trying [snorts] to\nget Claude to continually review, like"
+    } ]
+  }, {
+    "tStartMs": 1124560,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "almost debug for technical debt.\n\u003e\u003e Yeah, there is no question that you can"
+    } ]
+  }, {
+    "tStartMs": 1129080,
+    "dDurationMs": 3320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "set that up.\nUm"
+    } ]
+  }, {
+    "tStartMs": 1131320,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so\nyou know, I coach a lot of traders who"
+    } ]
+  }, {
+    "tStartMs": 1134040,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want to get into systematic trading.\nThe very first thing that we focus on or"
+    } ]
+  }, {
+    "tStartMs": 1139440,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "one of the first things is how to use\nGitHub well."
+    } ]
+  }, {
+    "tStartMs": 1143920,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Um\nI see so many traders I I haven't seen a"
+    } ]
+  }, {
+    "tStartMs": 1147720,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trader yet that uses GitHub the right\nway."
+    } ]
+  }, {
+    "tStartMs": 1151600,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And it may not be a big deal in the you\nknow, when they get started, but once"
+    } ]
+  }, {
+    "tStartMs": 1156560,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you start putting code into production,\nyou know, once you have a strategy live,"
+    } ]
+  }, {
+    "tStartMs": 1161640,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and you go to start making changes to\nit, if you don't have good"
+    } ]
+  }, {
+    "tStartMs": 1166640,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "version control practices, if you don't\nhave good"
+    } ]
+  }, {
+    "tStartMs": 1170680,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh\npractices for using GitHub in its sort"
+    } ]
+  }, {
+    "tStartMs": 1173760,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of a standard way, you're going to get\nyourself into a problem. I can guarantee"
+    } ]
+  }, {
+    "tStartMs": 1178160,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it. It may not be today, it may not be\ntomorrow, it may not be next week,"
+    } ]
+  }, {
+    "tStartMs": 1182000,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but you're going to get yourself into a\npickle if you don't have good"
+    } ]
+  }, {
+    "tStartMs": 1186080,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "software development practices.\nAnd"
+    } ]
+  }, {
+    "tStartMs": 1189800,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like I said, I haven't seen a trader yet\nthat uses GitHub the right way, and"
+    } ]
+  }, {
+    "tStartMs": 1194280,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there's just a few\nsteps to"
+    } ]
+  }, {
+    "tStartMs": 1198280,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a a few principles\nto to really use it the right way and to"
+    } ]
+  }, {
+    "tStartMs": 1203760,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "set up your process so that you avoid\nthese pitfalls."
+    } ]
+  }, {
+    "tStartMs": 1207320,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e What are those principles?\n\u003e\u003e Um",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1212240,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "well,\nusing branches well in the way they're"
+    } ]
+  }, {
+    "tStartMs": 1215840,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "intended. So, there's what's called the\nmain branch."
+    } ]
+  }, {
+    "tStartMs": 1221040,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Most people are just committing to the\nmain branch."
+    } ]
+  }, {
+    "tStartMs": 1225040,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And the reason that's bad is\nit's not like"
+    } ]
+  }, {
+    "tStartMs": 1230104,
+    "dDurationMs": 6376,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e [clears throat]\n\u003e\u003e the way you want to do it and when you",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1233480,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "create a change, like you you you get\nyour code into main,"
+    } ]
+  }, {
+    "tStartMs": 1238360,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and now let's it's in production. Let's\nsay you've got a strategy running and"
+    } ]
+  }, {
+    "tStartMs": 1241040,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's making trades for you.\nAnd now you want to make a change to it."
+    } ]
+  }, {
+    "tStartMs": 1246080,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Well,\nyou don't want to develop right in that"
+    } ]
+  }, {
+    "tStartMs": 1249240,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "main branch. You want to create another\nbranch, which is basically a copy of the"
+    } ]
+  }, {
+    "tStartMs": 1253720,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "main branch. It doesn't affect the main\nbranch."
+    } ]
+  }, {
+    "tStartMs": 1256880,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And you want to make your change, do all\nyour testing in there, do all your"
+    } ]
+  }, {
+    "tStartMs": 1260800,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "commits into that branch. It doesn't\naffect the main branch in your"
+    } ]
+  }, {
+    "tStartMs": 1264320,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "production code.\nYou can do all your testing there, and"
+    } ]
+  }, {
+    "tStartMs": 1268000,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "then when you're ready to get it into\nthe main branch, you do a pull request."
+    } ]
+  }, {
+    "tStartMs": 1272480,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And the pull request is basically, all\nright, I'm I've done all my testing. I'm"
+    } ]
+  }, {
+    "tStartMs": 1278200,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comfortable with it getting into\nproduction."
+    } ]
+  }, {
+    "tStartMs": 1281360,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And\nthat pull request is an important thing,"
+    } ]
+  }, {
+    "tStartMs": 1285320,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and you can do code reviews there. You\ncan have You can have Claude do code"
+    } ]
+  }, {
+    "tStartMs": 1289120,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reviews, which is\na a really nice thing for it to be able"
+    } ]
+  }, {
+    "tStartMs": 1292760,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to do. You can have other team members\nlook at the code to make, you know, to"
+    } ]
+  }, {
+    "tStartMs": 1296640,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "double-check, and you should be doing\nthat."
+    } ]
+  }, {
+    "tStartMs": 1299520,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And then, once it gets into the main\nbranch, okay, it's live. It's It can go"
+    } ]
+  }, {
+    "tStartMs": 1303560,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to production.\nThat step is such an important thing,"
+    } ]
+  }, {
+    "tStartMs": 1307280,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but it because it encourages\nthe right use of of GitHub in a way that"
+    } ]
+  }, {
+    "tStartMs": 1313680,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh\nuh"
+    } ]
+  }, {
+    "tStartMs": 1316400,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, it it is going to get keep you\nout of trouble. The other important"
+    } ]
+  }, {
+    "tStartMs": 1320200,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thing is\npeople take, you know,"
+    } ]
+  }, {
+    "tStartMs": 1324400,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh\nit it's good to do smaller bite-size"
+    } ]
+  }, {
+    "tStartMs": 1329160,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "projects.\nEspecially with Claude now and and new"
+    } ]
+  }, {
+    "tStartMs": 1333480,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "developers, I can see them like taking\non like doing adding more and more stuff"
+    } ]
+  }, {
+    "tStartMs": 1338720,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when they really should think about,\nokay, I want to do this first, and it"
+    } ]
+  }, {
+    "tStartMs": 1341760,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "should be a bite-size thing.\nCreate a branch for that, get it live,"
+    } ]
+  }, {
+    "tStartMs": 1346920,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and then go and maybe create version two\nof that."
+    } ]
+  }, {
+    "tStartMs": 1350200,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Having bite-size\npieces of work"
+    } ]
+  }, {
+    "tStartMs": 1354400,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is going to be super important, and and\nit it's a lot easier because the problem"
+    } ]
+  }, {
+    "tStartMs": 1357920,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is people get\nuh you know, create"
+    } ]
+  }, {
+    "tStartMs": 1361560,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh you know, try to do a project that's\nreally big and keep adding stuff,"
+    } ]
+  }, {
+    "tStartMs": 1366080,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and they're committing it to the main\nbranch. They've got changes in the main"
+    } ]
+  }, {
+    "tStartMs": 1369520,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "branch that are separate from the new\nproject. It becomes a bear to to merge."
+    } ]
+  }, {
+    "tStartMs": 1374800,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So, if if you keep these\nuh development hygiene principles in"
+    } ]
+  }, {
+    "tStartMs": 1380320,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "place, it makes your life so much\neasier."
+    } ]
+  }, {
+    "tStartMs": 1383040,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e It makes a ton of sense. And if you're\nmaking too many changes and something",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1386760,
+    "dDurationMs": 4080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "goes wrong, you can't even pinpoint what\nthe change that messed everything up"
+    } ]
+  }, {
+    "tStartMs": 1390280,
+    "dDurationMs": 3040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was.\n\u003e\u003e Absolutely."
+    } ]
+  }, {
+    "tStartMs": 1392040,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah, that's that's great.\n\u003e\u003e where, you know, imagine you're",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1395880,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, you're trying to get this new\nproject in and it's affecting some"
+    } ]
+  }, {
+    "tStartMs": 1398800,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "production code. You've broken some\nproduction code by what you're doing."
+    } ]
+  }, {
+    "tStartMs": 1402480,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And you know, Monday's rolling around\nand you and the strategy needs to run."
+    } ]
+  }, {
+    "tStartMs": 1406760,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I mean, that's that's the kind of\nscenario that is a nightmare to have to"
+    } ]
+  }, {
+    "tStartMs": 1411560,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "deal with.\n\u003e\u003e All right. So, you're to to bring it"
+    } ]
+  }, {
+    "tStartMs": 1414120,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "back to the strategy. So, you're you're\ngiving it a an example"
+    } ]
+  }, {
+    "tStartMs": 1419040,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of a script that is in your style that's\nthat that it can use as a model"
+    } ]
+  }, {
+    "tStartMs": 1425320,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to create this new script. So, is that\nDoes that mean that you're giving it the"
+    } ]
+  }, {
+    "tStartMs": 1429200,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actual code for an existing script that\nyou have, like say in production? And"
+    } ]
+  }, {
+    "tStartMs": 1434160,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "then you're on the on the other hand,\nyou're giving it an idea, like a new"
+    } ]
+  }, {
+    "tStartMs": 1438200,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "idea, saying like, \"Here's the criteria,\nhere are the variables. I want you to"
+    } ]
+  }, {
+    "tStartMs": 1442560,
+    "dDurationMs": 12320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "implement this strategy idea with in the\nin the form of of this model script?\""
+    } ]
+  }, {
+    "tStartMs": 1450720,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yes, exactly. So, you know, it's\nit could be a completely different",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1456520,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "concept, completely different strategy.\n\u003e\u003e Right."
+    } ]
+  }, {
+    "tStartMs": 1459080,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e But the the basic structure, the basic\nuh",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1463880,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh\nconventions,"
+    } ]
+  }, {
+    "tStartMs": 1467120,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the way you make trades, the way you\nuh the way you capture columns,"
+    } ]
+  }, {
+    "tStartMs": 1474160,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "um\neverything about the"
+    } ]
+  }, {
+    "tStartMs": 1476920,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sort of the style of the this the\nstrategy is in there and and it just"
+    } ]
+  }, {
+    "tStartMs": 1482440,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gives it a much better\nway to get started and and and to do the"
+    } ]
+  }, {
+    "tStartMs": 1486480,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "work.\n\u003e\u003e Here's a mind-bending stat for you. SMB"
+    } ]
+  }, {
+    "tStartMs": 1489840,
+    "dDurationMs": 9520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "traders have 20x to 40x higher odds of\nsuccess than independent traders."
+    } ]
+  }, {
+    "tStartMs": 1496480,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Find out why and how to greatly increase\nyour odds by visiting"
+    } ]
+  }, {
+    "tStartMs": 1500600,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "smbtradingfloor.com.\n\u003e\u003e I mean, you mentioned like the way the"
+    } ]
+  }, {
+    "tStartMs": 1504800,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "way it captures trades, the way it makes\ntrades, the way it executes. Like I'm"
+    } ]
+  }, {
+    "tStartMs": 1508080,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thinking about our platform and just,\nyou know, the data, not only the"
+    } ]
+  }, {
+    "tStartMs": 1511600,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "collection of the data, but the\nthe algos, the actual algos that are"
+    } ]
+  }, {
+    "tStartMs": 1515480,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "taking the trades. Like there are\nidiosyncratic things that you end up"
+    } ]
+  }, {
+    "tStartMs": 1518320,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "doing that are either maybe specific to\nyour platform's API or maybe specific to"
+    } ]
+  }, {
+    "tStartMs": 1523360,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your\nbest practices, they might be risk"
+    } ]
+  }, {
+    "tStartMs": 1526400,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "checks, like things that you might not\neven think about telling Cloud about the"
+    } ]
+  }, {
+    "tStartMs": 1531640,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "strategy that it would be good to teach\nit. And, you know, for me, like now"
+    } ]
+  }, {
+    "tStartMs": 1536440,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thinking about this, it's like there's\nno way I don't think I don't think I"
+    } ]
+  }, {
+    "tStartMs": 1539160,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "could just give it\nlike a strategy idea and then have it"
+    } ]
+  }, {
+    "tStartMs": 1543160,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "kind of do what we do.\n\u003e\u003e Yeah, I mean, just like how you do"
+    } ]
+  }, {
+    "tStartMs": 1545800,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "position sizing. What's the variable\nname you use for position sizing?"
+    } ]
+  }, {
+    "tStartMs": 1550680,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "If you make all that consistent, your\nlife you know, your life becomes easier"
+    } ]
+  }, {
+    "tStartMs": 1554240,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "later on, like if you need to make a\nchange across all the strategies. You"
+    } ]
+  }, {
+    "tStartMs": 1557800,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can search for one variable name because\nyou know you're been using that"
+    } ]
+  }, {
+    "tStartMs": 1562080,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "consistent variable name across all the\nall the strategies."
+    } ]
+  }, {
+    "tStartMs": 1565080,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e So, where do you go from there? Because\nnow you've got",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1568320,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you've got an ability to basically like\nautomate the back test that you're going"
+    } ]
+  }, {
+    "tStartMs": 1572240,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to run.\nSo, you can do different iterations. And"
+    } ]
+  }, {
+    "tStartMs": 1575240,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "then now you have the ability to\nautomate the the writing of these script"
+    } ]
+  }, {
+    "tStartMs": 1580360,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ideas. So, you can easily create\ndifferent iterations."
+    } ]
+  }, {
+    "tStartMs": 1584360,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Um are you doing some\nlike master automation that sort of then"
+    } ]
+  }, {
+    "tStartMs": 1590240,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like iterates through things and back\ntests and you can just go sailing for"
+    } ]
+  }, {
+    "tStartMs": 1593840,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the weekend?\n\u003e\u003e Well, you you certainly can. I mean,"
+    } ]
+  }, {
+    "tStartMs": 1596640,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "once you get in this workflow, you can\nand I do have back tests that run"
+    } ]
+  }, {
+    "tStartMs": 1602440,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "every day and and update the back test\nautomatically."
+    } ]
+  }, {
+    "tStartMs": 1606680,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So,\nbut the but there's still"
+    } ]
+  }, {
+    "tStartMs": 1609760,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a couple more important things about\nworkflows I've set up"
+    } ]
+  }, {
+    "tStartMs": 1614440,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to help it\ndo kind of the grunt work of"
+    } ]
+  }, {
+    "tStartMs": 1619520,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like making sure the strategy is written\ncorrectly and doing what it's supposed"
+    } ]
+  }, {
+    "tStartMs": 1623800,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to do.\nSo,"
+    } ]
+  }, {
+    "tStartMs": 1626400,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I'm going to go on to step three here.\n\u003e\u003e Yeah."
+    } ]
+  }, {
+    "tStartMs": 1628880,
+    "dDurationMs": 2800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Which is",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1632760,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "give it away, give Claude away. So, I've\ngot a skill in there that basically"
+    } ]
+  }, {
+    "tStartMs": 1638240,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "allows it to run a smoke test. And what\nI mean by this is"
+    } ]
+  }, {
+    "tStartMs": 1643040,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when you run when you create a strategy\nand then you run it across all market,"
+    } ]
+  }, {
+    "tStartMs": 1646440,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like I said, it's going to take 40\nminutes to an hour maybe to run."
+    } ]
+  }, {
+    "tStartMs": 1650800,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Well,\nyou don't need to run that whole back"
+    } ]
+  }, {
+    "tStartMs": 1654880,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "test to have it\nto give it some feedback to see if it's"
+    } ]
+  }, {
+    "tStartMs": 1660040,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "working or not.\nSo,"
+    } ]
+  }, {
+    "tStartMs": 1662840,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I have the smoke test where\nI say,"
+    } ]
+  }, {
+    "tStartMs": 1666960,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\"Okay, only run a certain day or only\nrun on a certain symbol.\" So, I've I've"
+    } ]
+  }, {
+    "tStartMs": 1672120,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "set up a skill so it knows how to do\nthat."
+    } ]
+  }, {
+    "tStartMs": 1676160,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And so, it can run and that that takes\nlike"
+    } ]
+  }, {
+    "tStartMs": 1680080,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "less than a minute, like seconds to run\nthat."
+    } ]
+  }, {
+    "tStartMs": 1683560,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So, it's it can quickly run a back test\non a like on a specific symbol or"
+    } ]
+  }, {
+    "tStartMs": 1688240,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "specific day\nand quickly get back results and then"
+    } ]
+  }, {
+    "tStartMs": 1692120,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "verify and see, \"Okay, oh well, you\nknow, I often times it can do all this"
+    } ]
+  }, {
+    "tStartMs": 1695800,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on its own.\" I would you know, I got no\nresults there. Let me see what's going"
+    } ]
+  }, {
+    "tStartMs": 1700160,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on. Um\nI I got a whole bunch of results."
+    } ]
+  }, {
+    "tStartMs": 1704240,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Obviously, something's wrong. So, you\nyou're"
+    } ]
+  }, {
+    "tStartMs": 1707240,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And a lot of this is tedious kind of\ngrunt work that you need to do you would"
+    } ]
+  }, {
+    "tStartMs": 1711640,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "be doing on your own. But if you give\nClaude tools to be able to do some of"
+    } ]
+  }, {
+    "tStartMs": 1717040,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this on its own, this is the kind of\ngrunt work that it's really good at and"
+    } ]
+  }, {
+    "tStartMs": 1721480,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can really\nsave a lot of effort and"
+    } ]
+  }, {
+    "tStartMs": 1727440,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh pain in creating a strategy.\n\u003e\u003e So, the purpose of this is that you're"
+    } ]
+  }, {
+    "tStartMs": 1732160,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trying to just see if it's doing what\nyou think it's doing before you like run"
+    } ]
+  }, {
+    "tStartMs": 1735680,
+    "dDurationMs": 3080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it\nfull back test."
+    } ]
+  }, {
+    "tStartMs": 1738200,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Right.\n\u003e\u003e Okay. And you're able to Are you able to",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1742600,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "kind of cuz you said you're creating\nskills, like cloud skills."
+    } ]
+  }, {
+    "tStartMs": 1746480,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "What are those? Are you able to kind of\nautomate the whole chain where it's"
+    } ]
+  }, {
+    "tStartMs": 1750280,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like, \"Okay, do the smoke test and then\nlike if it's kind of doing what it's"
+    } ]
+  }, {
+    "tStartMs": 1753480,
+    "dDurationMs": 4040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "supposed to be doing, then run the back\ntest.\""
+    } ]
+  }, {
+    "tStartMs": 1755880,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So, you don't really have to be there in\nthe middle."
+    } ]
+  }, {
+    "tStartMs": 1758600,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah, so the\nI want to bring it back to software",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1763320,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "development one more time to It's a bit\nof an esoteric topic, but I think it's"
+    } ]
+  }, {
+    "tStartMs": 1767800,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "useful.\nSo, there's a concept in software"
+    } ]
+  }, {
+    "tStartMs": 1770960,
+    "dDurationMs": 9160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "development called unit testing. And\nwhat that is is"
+    } ]
+  }, {
+    "tStartMs": 1777320,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when you write a feature,\nyou can create what's called a unit"
+    } ]
+  }, {
+    "tStartMs": 1782040,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "test. And that's basically saying,\n\"Okay, this function needs to be you"
+    } ]
+  }, {
+    "tStartMs": 1788000,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know, when you give it this\nthese parameters, it should come out"
+    } ]
+  }, {
+    "tStartMs": 1791320,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with this result.\"\nAnd each time you do a build in"
+    } ]
+  }, {
+    "tStartMs": 1795320,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "software, it'll run it can run all the\nunit tests and make sure they pass. If"
+    } ]
+  }, {
+    "tStartMs": 1799640,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they don't pass, something's wrong.\nSo, where that comes in handy is"
+    } ]
+  }, {
+    "tStartMs": 1805200,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e [clears throat]\n\u003e\u003e if you got all your unit tests, you've",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1808600,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "been you've been writing this\nbuilding the software, and you want to"
+    } ]
+  }, {
+    "tStartMs": 1812440,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "add a new feature to it.\nYou add the new feature"
+    } ]
+  }, {
+    "tStartMs": 1817320,
+    "dDurationMs": 8600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and you run the test to make sure this\nfeature didn't break anything. And you"
+    } ]
+  }, {
+    "tStartMs": 1822240,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can verify that by seeing that did the\nunit test pass?"
+    } ]
+  }, {
+    "tStartMs": 1827720,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Often times you will break a former unit\ntest that you had no idea you were"
+    } ]
+  }, {
+    "tStartMs": 1832120,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "affecting.\nAnd then that's an indication that,"
+    } ]
+  }, {
+    "tStartMs": 1835320,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\"Okay, that did something wrong.\"\nWhere"
+    } ]
+  }, {
+    "tStartMs": 1838600,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if you didn't have that, you would that\ncode would get into production and you"
+    } ]
+  }, {
+    "tStartMs": 1842480,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "would a user would call you and say,\n\"Hey, something's wrong.\""
+    } ]
+  }, {
+    "tStartMs": 1845840,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So,\ngiving Claude a way to do that and to"
+    } ]
+  }, {
+    "tStartMs": 1849800,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "verify itself is extremely important.\nAnd that's actually step four."
+    } ]
+  }, {
+    "tStartMs": 1855920,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Give it away, like similar to a unit\ntest,"
+    } ]
+  }, {
+    "tStartMs": 1859600,
+    "dDurationMs": 8600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to verify its correctness.\nAnd the way I do that with strategies is"
+    } ]
+  }, {
+    "tStartMs": 1866480,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "All right, let's say let's say I'm\ncreating an opening range breakout"
+    } ]
+  }, {
+    "tStartMs": 1869960,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "strategy.\nI've I've given it the reference."
+    } ]
+  }, {
+    "tStartMs": 1874120,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "One of the things I do is in the\ndescription of what I want it to do is"
+    } ]
+  }, {
+    "tStartMs": 1879360,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I tell it, \"Okay, I know\nthat if you've written the strategy"
+    } ]
+  }, {
+    "tStartMs": 1883360,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "correctly, it should be matching, say,\nMicrosoft on this day."
+    } ]
+  }, {
+    "tStartMs": 1887960,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "That trade should appear in the back\ntest."
+    } ]
+  }, {
+    "tStartMs": 1891200,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And\nnow, sort of like that unit test, you've"
+    } ]
+  }, {
+    "tStartMs": 1895640,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "given Claude a way to actually verify\nthat it's correct."
+    } ]
+  }, {
+    "tStartMs": 1900600,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So, it could go run a back test and\ngosh, Microsoft didn't show up that day."
+    } ]
+  }, {
+    "tStartMs": 1904960,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I know I've done something wrong.\nUm so, I've got skills for the smoke"
+    } ]
+  }, {
+    "tStartMs": 1910520,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "test.\nThere's also a way for it to"
+    } ]
+  }, {
+    "tStartMs": 1914800,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pull market data more generally\nfor, say, Microsoft on a given day. So,"
+    } ]
+  }, {
+    "tStartMs": 1921080,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it can actually go do some\ntroubleshooting and like tell me why"
+    } ]
+  }, {
+    "tStartMs": 1925040,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Microsoft isn't appearing.\nOr, you know, maybe something about the"
+    } ]
+  }, {
+    "tStartMs": 1928440,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "prompt is\nyou know, I didn't realize or you know,"
+    } ]
+  }, {
+    "tStartMs": 1932680,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I just you know, wasn't precise enough\nor"
+    } ]
+  }, {
+    "tStartMs": 1936520,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, something about it can give me\nsome feedback about that and say, \"Oh,"
+    } ]
+  }, {
+    "tStartMs": 1939320,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "well, it's not in there because this.\"\nLike the candle so-and-so isn't"
+    } ]
+  }, {
+    "tStartMs": 1946080,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is causing it not to be in the back\ntest. What do you want to do about it?"
+    } ]
+  }, {
+    "tStartMs": 1949320,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e That's specifically cool. I love how you\nkeep relating it back to software",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1953240,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "development though, because it's just\nthe opposite of live coding. It like you"
+    } ]
+  }, {
+    "tStartMs": 1958880,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "said the technical debt like just piles\nup. This is the exact opposite. With"
+    } ]
+  }, {
+    "tStartMs": 1963160,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "real world like the analogies they make\nperfect sense. It's doing the exact same"
+    } ]
+  }, {
+    "tStartMs": 1967120,
+    "dDurationMs": 3400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thing and you're treating it just the\nsame as if you were a software"
+    } ]
+  }, {
+    "tStartMs": 1969840,
+    "dDurationMs": 3880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "developer.\n\u003e\u003e Yeah, so it's"
+    } ]
+  }, {
+    "tStartMs": 1972080,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and it is\nand another"
+    } ]
+  }, {
+    "tStartMs": 1975200,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fundamental thing that I\nwould"
+    } ]
+  }, {
+    "tStartMs": 1979040,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do at Trade Ideas is so I would really\nencourage the development staff"
+    } ]
+  }, {
+    "tStartMs": 1984040,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to\nthink about"
+    } ]
+  }, {
+    "tStartMs": 1987720,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "work they could do to make somebody else\non the team better."
+    } ]
+  }, {
+    "tStartMs": 1992640,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So, a lot of times you have software\ndevelopers, you know, they're they're in"
+    } ]
+  }, {
+    "tStartMs": 1995600,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "their silos, they're doing they want to\ndo work on their own."
+    } ]
+  }, {
+    "tStartMs": 1999320,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "But I really encourage people what can\nyou do to make somebody else on the team"
+    } ]
+  }, {
+    "tStartMs": 2003160,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "better? And that might be\nwrite some code to"
+    } ]
+  }, {
+    "tStartMs": 2007640,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and make it in a library so that other\npeople can use it"
+    } ]
+  }, {
+    "tStartMs": 2011240,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to make their lives better. So now I\nthink"
+    } ]
+  }, {
+    "tStartMs": 2014680,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the way I'm thinking about that the\nanalogy is what can you do to make your"
+    } ]
+  }, {
+    "tStartMs": 2018000,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "AI agent's life a little better?\nAnd"
+    } ]
+  }, {
+    "tStartMs": 2022760,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's like giving it away to verify\nitself."
+    } ]
+  }, {
+    "tStartMs": 2025640,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Giving it a um\na certain function"
+    } ]
+  }, {
+    "tStartMs": 2030280,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that you know it's going to need to be\nable to use over and over and like in a"
+    } ]
+  }, {
+    "tStartMs": 2035120,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "very efficient way to do it.\nThat's going to be it's going to make"
+    } ]
+  }, {
+    "tStartMs": 2039440,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your whole workflow better. Like like\noften times you'll like I'll have it"
+    } ]
+  }, {
+    "tStartMs": 2044800,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I'll have called say you know, search\nfor something on my computer."
+    } ]
+  }, {
+    "tStartMs": 2049639,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Now if you just if you don't give it any\nparameters, it's going to take forever"
+    } ]
+  }, {
+    "tStartMs": 2052600,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to come back with and find something\non your computer, right? But if you say"
+    } ]
+  }, {
+    "tStartMs": 2058120,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all right, look for a file it's going to\nstart with, you know, log. It's going to"
+    } ]
+  }, {
+    "tStartMs": 2062280,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "end with txt. It's going to be somewhere\nhere."
+    } ]
+  }, {
+    "tStartMs": 2065560,
+    "dDurationMs": 5319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "You know, give it a folder. It's going\nto find it really fast."
+    } ]
+  }, {
+    "tStartMs": 2069320,
+    "dDurationMs": 5319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So\nit's kind of the same concept for having"
+    } ]
+  }, {
+    "tStartMs": 2073080,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it do its work. When when you notice\nit's"
+    } ]
+  }, {
+    "tStartMs": 2076240,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "taking a little bit longer than it\nshould to do something"
+    } ]
+  }, {
+    "tStartMs": 2079480,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "or it's doing that over and over and\nover like"
+    } ]
+  }, {
+    "tStartMs": 2082120,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "step back and figure out, okay, how can\nI make it go faster? And, you know,"
+    } ]
+  }, {
+    "tStartMs": 2088840,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "essentially, how can you make your AI\nagent's life a little better?"
+    } ]
+  }, {
+    "tStartMs": 2092080,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e This makes it so much more efficient.\nIt's like this is genius because I mean",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2095480,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to me this there's two things going on\nhere."
+    } ]
+  }, {
+    "tStartMs": 2098560,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "There's probably two things going on\nhere cuz I'm an idiot, but like A, it's"
+    } ]
+  }, {
+    "tStartMs": 2102120,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like you're outlining developer best\npractices."
+    } ]
+  }, {
+    "tStartMs": 2106160,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And then B, you are basically then going\nahead and implementing that into the"
+    } ]
+  }, {
+    "tStartMs": 2111560,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "code so that those things are automated.\nSo like it sounds like these are things"
+    } ]
+  }, {
+    "tStartMs": 2116000,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "developers, like good developers, have\njust been doing like for years."
+    } ]
+  }, {
+    "tStartMs": 2120800,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "We need to make Claude do them.\nTim and I, I mean, we're just we're"
+    } ]
+  }, {
+    "tStartMs": 2124160,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "homegrown, you know, developers. Like we\nfigured this stuff out on our own. So we"
+    } ]
+  }, {
+    "tStartMs": 2127760,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have some of our best practices and it's\nall learned from like making mistakes,"
+    } ]
+  }, {
+    "tStartMs": 2131360,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right? And like we've I can't tell you\nhow many times we've been sitting there"
+    } ]
+  }, {
+    "tStartMs": 2134840,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "coding\nand it gets to the end of the day and we"
+    } ]
+  }, {
+    "tStartMs": 2137800,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want to finish this model\nand, you know, Tim is starting to press"
+    } ]
+  }, {
+    "tStartMs": 2142720,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "his foot on the gas. And it's like make\nthis change, make this change, and I'm"
+    } ]
+  }, {
+    "tStartMs": 2147080,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like, Tim, like we might need to like\nback test this or slow down. He's like,"
+    } ]
+  }, {
+    "tStartMs": 2151400,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\"No, no, no, we're good.\" And then\nwe back test it and like something's"
+    } ]
+  }, {
+    "tStartMs": 2155440,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "broken and now we just made 15 changes\nand we have no idea what like what broke"
+    } ]
+  }, {
+    "tStartMs": 2160320,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it, you know? So then we start to like\ncreate rules like, okay, you know, let's"
+    } ]
+  }, {
+    "tStartMs": 2164560,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "um\nif we make a big change, we need to like"
+    } ]
+  }, {
+    "tStartMs": 2168320,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "test it and and that sounds like, you\nknow, kind of like your unit test or"
+    } ]
+  }, {
+    "tStartMs": 2173960,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, something something along\nthose lines. And it's like automate It"
+    } ]
+  }, {
+    "tStartMs": 2177680,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sounds like you're finding ways to\nautomate these types of"
+    } ]
+  }, {
+    "tStartMs": 2182240,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "practices directly into Claude, which\nis, you know, genius cuz I haven't done"
+    } ]
+  }, {
+    "tStartMs": 2187680,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "any of that. Like even as I\ndevelop my trading assistant and my"
+    } ]
+  }, {
+    "tStartMs": 2192880,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "research tool,\num those are fairly big jobs. Like you"
+    } ]
+  }, {
+    "tStartMs": 2197840,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "kind of said it yourself. Like people\nare taking on these big like"
+    } ]
+  }, {
+    "tStartMs": 2200920,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all-encompassing jobs where like I have\nno idea what's going on in the code."
+    } ]
+  }, {
+    "tStartMs": 2205000,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Like I'll ask Claude to like spit\nback to me what is in the code base and"
+    } ]
+  }, {
+    "tStartMs": 2210320,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like what's changed, but like ultimately\nlike I'm not reading it the same way"
+    } ]
+  }, {
+    "tStartMs": 2214200,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that I would read a script.\nYou know, with Tim. And so I could"
+    } ]
+  }, {
+    "tStartMs": 2218080,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "probably be using some of these best\npractices"
+    } ]
+  }, {
+    "tStartMs": 2221280,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in my own projects. Like even if they\naren't um actual algo scripts."
+    } ]
+  }, {
+    "tStartMs": 2226640,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e You bring up a good point because\nsome projects aren't super like",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2232880,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mission critical, right? Some of them\naren't actually making trades. They're"
+    } ]
+  }, {
+    "tStartMs": 2236400,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just nice-to-haves. Which those are\ngreat. I mean, it's great that you've"
+    } ]
+  }, {
+    "tStartMs": 2239360,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "got I know I'll I'll listen to those\nepisodes. That that is such a cool thing"
+    } ]
+  }, {
+    "tStartMs": 2242840,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that you're able to do.\nA lot of these dashboards are really"
+    } ]
+  }, {
+    "tStartMs": 2246360,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "important for trading.\nUm"
+    } ]
+  }, {
+    "tStartMs": 2249880,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but it you know, if it was down\nand you it was broken for some reason,"
+    } ]
+  }, {
+    "tStartMs": 2255280,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is it actually mission critical compared\nto"
+    } ]
+  }, {
+    "tStartMs": 2259000,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "something you know, strategies making\ntrades? That's a completely different"
+    } ]
+  }, {
+    "tStartMs": 2262760,
+    "dDurationMs": 3760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thing. And it so it takes a different\nbit of a bit of context and it's more"
+    } ]
+  }, {
+    "tStartMs": 2266040,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "important.\n\u003e\u003e It's true, but like I guess what I'm"
+    } ]
+  }, {
+    "tStartMs": 2268080,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thinking of as mission critical is time.\nCuz like that's what I'm hearing here."
+    } ]
+  }, {
+    "tStartMs": 2272680,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Like cuz all this stuff takes so much\ntime. And like you know, Tim like before"
+    } ]
+  }, {
+    "tStartMs": 2276600,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "AI came, Tim and I spent a lot of time\ncoding"
+    } ]
+  }, {
+    "tStartMs": 2280640,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and learning and then doing it.\nAnd it's you know, it takes hours. And"
+    } ]
+  }, {
+    "tStartMs": 2286080,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like it still does. And now we can do\nbigger and better things. So now we're"
+    } ]
+  }, {
+    "tStartMs": 2289280,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "spending, you know, hours on maybe more\ngrand projects, but we're still"
+    } ]
+  }, {
+    "tStartMs": 2294080,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "debugging and we're still doing all this\nstuff. And it sounds to me like what"
+    } ]
+  }, {
+    "tStartMs": 2297920,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're doing is just saving\ntons of time"
+    } ]
+  }, {
+    "tStartMs": 2301720,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "by implementing these things. Like and\nso so to me like that that would be one"
+    } ]
+  }, {
+    "tStartMs": 2305920,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reason to\nto maybe like take take these best"
+    } ]
+  }, {
+    "tStartMs": 2310200,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "practices into like just the general use\nof like any large project."
+    } ]
+  }, {
+    "tStartMs": 2314480,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Have you heard this study of tens of\nmillions of traders which shows that",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2318280,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "only 1% of retail traders actually make\nit?"
+    } ]
+  }, {
+    "tStartMs": 2322600,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Don't be a statistic. Visit\nsmbtradingfloor.com"
+    } ]
+  }, {
+    "tStartMs": 2327160,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to greatly increase your odds.\n\u003e\u003e Yeah, I think"
+    } ]
+  }, {
+    "tStartMs": 2330680,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I I think some of the main takeaways\nlike if you if you only take away one"
+    } ]
+  }, {
+    "tStartMs": 2335520,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thing from this\nuh it's like"
+    } ]
+  }, {
+    "tStartMs": 2339240,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "give Claude as much context as you can\nto actually do something."
+    } ]
+  }, {
+    "tStartMs": 2346880,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So there's this\nI don't know if you've heard the term"
+    } ]
+  }, {
+    "tStartMs": 2350000,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "one shot. I've started hearing this this\nterm one shot that's coming out since uh"
+    } ]
+  }, {
+    "tStartMs": 2355000,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh you know\nsince Claude has come out and it"
+    } ]
+  }, {
+    "tStartMs": 2358360,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "basically means I was able to one shot\nthis thing which means I was able to"
+    } ]
+  }, {
+    "tStartMs": 2362800,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "come up with one prompt and Claude did\nthe whole thing with that one shot,"
+    } ]
+  }, {
+    "tStartMs": 2367240,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right? And so that that's kind of what\nyou're trying to set up. And I realized"
+    } ]
+  }, {
+    "tStartMs": 2372640,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this when I created the AFL generator\nit uses Claude as the back end. So I and"
+    } ]
+  }, {
+    "tStartMs": 2377720,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I did not when I created that\nI didn't want to"
+    } ]
+  }, {
+    "tStartMs": 2382520,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have a chat interface. I didn't want it\nto you know have a back and forth. So I"
+    } ]
+  }, {
+    "tStartMs": 2387320,
+    "dDurationMs": 9640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was like okay, how can I set up\nthe form and give it the prompt in such"
+    } ]
+  }, {
+    "tStartMs": 2394160,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a way to actually give it an answer with\njust one click. You know what what do I"
+    } ]
+  }, {
+    "tStartMs": 2398960,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "need to have? What what are the inputs\nneed to be for me to be able to be able"
+    } ]
+  }, {
+    "tStartMs": 2401880,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to do that?\nAnd I learned a lot doing that because"
+    } ]
+  }, {
+    "tStartMs": 2406360,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I realized the more context you give it\nthe cheaper the requests were. So I have"
+    } ]
+  }, {
+    "tStartMs": 2411440,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to pay you know that you're paying for\nthese requests that you send to Claude."
+    } ]
+  }, {
+    "tStartMs": 2415360,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And\nthe the more"
+    } ]
+  }, {
+    "tStartMs": 2418520,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "context you give it, the more specific\nyou are, the better off the the cheaper"
+    } ]
+  }, {
+    "tStartMs": 2424600,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the request and the better the the\nresult is going to be."
+    } ]
+  }, {
+    "tStartMs": 2428320,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And\nI was I have"
+    } ]
+  }, {
+    "tStartMs": 2432160,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I have a really good example from\nuh the Bionic webinar I did on I think"
+    } ]
+  }, {
+    "tStartMs": 2438880,
+    "dDurationMs": 3880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it was in March where I\nwent over this."
+    } ]
+  }, {
+    "tStartMs": 2441440,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Mhm.\n\u003e\u003e An example was like the more specific",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2444720,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the better. I'm looking at this slide\nright now. Like when you want to create"
+    } ]
+  }, {
+    "tStartMs": 2447400,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a strategy,\nthis is a bad way to do it. I'm going to"
+    } ]
+  }, {
+    "tStartMs": 2450200,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "give you the prompt. Create a strategy\nthat trades opening range breakouts."
+    } ]
+  }, {
+    "tStartMs": 2454720,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Like that's not very specific, right? A\nway better one is create a strategy that"
+    } ]
+  }, {
+    "tStartMs": 2460360,
+    "dDurationMs": 9080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "goes long opening range breakouts on the\n10-minute time frame starting at 9:40"
+    } ]
+  }, {
+    "tStartMs": 2466920,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ending at 10:30 using a stop at the low\nof the day"
+    } ]
+  }, {
+    "tStartMs": 2471240,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and hold until 3:50 if the stop isn't\nhit."
+    } ]
+  }, {
+    "tStartMs": 2475720,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "It's a lot more context that you sort of\ngloss over with that first request, but"
+    } ]
+  }, {
+    "tStartMs": 2480680,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the more specific you get it you can\njust tell like imagine if"
+    } ]
+  }, {
+    "tStartMs": 2484480,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if I told you to tell me to come up with\nthat strategy, like you're going to have"
+    } ]
+  }, {
+    "tStartMs": 2487720,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a lot more stuff to go on and there's\ngoing to be a lot less back and forth"
+    } ]
+  }, {
+    "tStartMs": 2493320,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with the more specific you're able to\nmake the request."
+    } ]
+  }, {
+    "tStartMs": 2497000,
+    "dDurationMs": 5783,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Dave, if you just emailed me create an\nopening range break strategy, I would",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2500640,
+    "dDurationMs": 4163,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "say is this actually Dave?\n\u003e\u003e [laughter]"
+    } ]
+  }, {
+    "tStartMs": 2505000,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Also, one shot, that's going to be my\nnew favorite term.",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2508678,
+    "dDurationMs": 5482,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e [laughter]\n\u003e\u003e That's great. And I think another whole",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2512240,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "episode cuz I feel like I could just\nkeep asking questions about the skills,"
+    } ]
+  }, {
+    "tStartMs": 2516560,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but that might even be a whole another\nepisode on all of the skills that you"
+    } ]
+  }, {
+    "tStartMs": 2521080,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "could build cuz the smoke test is one of\nthem, but I like I'm thinking about like"
+    } ]
+  }, {
+    "tStartMs": 2526000,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "potential like\nI don't know, just the stuff that you"
+    } ]
+  }, {
+    "tStartMs": 2529680,
+    "dDurationMs": 8680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "care about live even too. Like you have\na skill that somehow takes your live"
+    } ]
+  }, {
+    "tStartMs": 2535440,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trades and does slippage. And it's like\na slippage skill. Or like, we talked in"
+    } ]
+  }, {
+    "tStartMs": 2541320,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the past about like what happens if your\nmodel doesn't take a trade and like has"
+    } ]
+  }, {
+    "tStartMs": 2545600,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a skill to deal with that. And all of\nthat we talked about in the last bionic."
+    } ]
+  }, {
+    "tStartMs": 2550360,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "But, I feel like that's a whole 'nother\nworld, too."
+    } ]
+  }, {
+    "tStartMs": 2553600,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah, I mean, similar to what we were\ntalking about earlier, you know,",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2557800,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when you see a trade that you think\nshould should be in the strategy and"
+    } ]
+  }, {
+    "tStartMs": 2562080,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your strategy didn't take it, it's often\na lot of debugging going on there to"
+    } ]
+  }, {
+    "tStartMs": 2567800,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "figure out why.\nAnd if like I've got a skill that, you"
+    } ]
+  }, {
+    "tStartMs": 2572400,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know, it's able to pull the market data.\nSo, I can quickly say, \"Okay, hey, why"
+    } ]
+  }, {
+    "tStartMs": 2576560,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "didn't this show up in the strategy\ntoday?\" And it can quickly tell me"
+    } ]
+  }, {
+    "tStartMs": 2579920,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "exactly the bars, you know, exactly the\nlogic that would need to be in place for"
+    } ]
+  }, {
+    "tStartMs": 2583560,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that to\nhave been caught. So,"
+    } ]
+  }, {
+    "tStartMs": 2586480,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yeah, there's so much you can do here\nto to"
+    } ]
+  }, {
+    "tStartMs": 2590600,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh\nto really"
+    } ]
+  }, {
+    "tStartMs": 2594880,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "make your trading better in a way that\nmost, you know, most traders are they"
+    } ]
+  }, {
+    "tStartMs": 2598960,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "using Claude now and just, \"Hey, give me\na strategy that works, right?\" But,"
+    } ]
+  }, {
+    "tStartMs": 2602880,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's not how you're going to get the\nmost power out of it. You can say,"
+    } ]
+  }, {
+    "tStartMs": 2605520,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\"Okay,\nhelp me make my trading better in this"
+    } ]
+  }, {
+    "tStartMs": 2610120,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "way. Here's this little process I do\nthat I know"
+    } ]
+  }, {
+    "tStartMs": 2613720,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is a little bit tedious or I know can be\nautomated. Let's figure out a way to"
+    } ]
+  }, {
+    "tStartMs": 2617960,
+    "dDurationMs": 3920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "streamline that.\"\n\u003e\u003e Yeah, I mean, it just"
+    } ]
+  }, {
+    "tStartMs": 2620040,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e strikes me as like ultimately like the\nmore things you're able to test in a",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2624240,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "short amount of time, the better.\nBecause we never know what's going to"
+    } ]
+  }, {
+    "tStartMs": 2627600,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "work. And if we have our process for\ntesting like"
+    } ]
+  }, {
+    "tStartMs": 2630840,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the strategy cruncher, right? Looking at\nthe columns. Like the first thing we"
+    } ]
+  }, {
+    "tStartMs": 2634640,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mentioned, I think, when we got on here,\nwhich is as Dave pointed out, was like"
+    } ]
+  }, {
+    "tStartMs": 2638040,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "preaching to the choir. Like it's all\nabout"
+    } ]
+  }, {
+    "tStartMs": 2640880,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "looking at those features and like\noptimizing those columns and and"
+    } ]
+  }, {
+    "tStartMs": 2645320,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and trying different iterations. And\nobviously the strategy cruncher is a way"
+    } ]
+  }, {
+    "tStartMs": 2649080,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to do that. Like we have a tool for\nthat."
+    } ]
+  }, {
+    "tStartMs": 2652320,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "But it all takes time. So it's like if\nyou can just do a hundred of those, if"
+    } ]
+  }, {
+    "tStartMs": 2656040,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you can in a short amount of time, I\nthink that that's like the key here"
+    } ]
+  }, {
+    "tStartMs": 2659800,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because it's like I the the big\nconstraint with strategy testing and"
+    } ]
+  }, {
+    "tStartMs": 2665920,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "automated\ntrading for me"
+    } ]
+  }, {
+    "tStartMs": 2669880,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so far has been time.\nYou know, it hasn't been like we have"
+    } ]
+  }, {
+    "tStartMs": 2674640,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the right process.\nIt's just how many strategies can I"
+    } ]
+  }, {
+    "tStartMs": 2678960,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "test?\n\u003e\u003e You know, I I I can imagine there's some"
+    } ]
+  }, {
+    "tStartMs": 2681880,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "traders listening now that are saying,\n\"Man, I wish I had that many ideas. I"
+    } ]
+  }, {
+    "tStartMs": 2687240,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mean, the problem is I don't have the\nideas to be able to test. I would love"
+    } ]
+  }, {
+    "tStartMs": 2690600,
+    "dDurationMs": 9400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ideas to test.\" And that's a common\npattern that I see."
+    } ]
+  }, {
+    "tStartMs": 2696320,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "New traders don't have the ideas yet.\nBut at some point, when they get"
+    } ]
+  }, {
+    "tStartMs": 2701880,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "experience, they realize you sort of\nconvert to"
+    } ]
+  }, {
+    "tStartMs": 2706800,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the bigger problem, which is you have\ntoo many ideas."
+    } ]
+  }, {
+    "tStartMs": 2710200,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So as you progress as a trader, that is\ngoing to be the ultimate bottleneck."
+    } ]
+  }, {
+    "tStartMs": 2715560,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "You're going to have too many ideas.\nIt's really hard for some new traders to"
+    } ]
+  }, {
+    "tStartMs": 2719360,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really understand and imagine that, but\nthat's what happens as you"
+    } ]
+  }, {
+    "tStartMs": 2723840,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "progress as a trader.\n\u003e\u003e Absolutely. Well, Dave Dave, we'd love"
+    } ]
+  }, {
+    "tStartMs": 2728040,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to have you on again\nto get deeper into like Tim said, like"
+    } ]
+  }, {
+    "tStartMs": 2732560,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "these skills and maybe just try to\nunpack"
+    } ]
+  }, {
+    "tStartMs": 2736160,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like some of the specifics because this\nis just"
+    } ]
+  }, {
+    "tStartMs": 2740120,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this conversation could go on for a\nwhile, and it's kind of outside the"
+    } ]
+  }, {
+    "tStartMs": 2743080,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "scope of like the points you wanted to\nmake today, but I mean, as far as the"
+    } ]
+  }, {
+    "tStartMs": 2746800,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actual takeaways of this, I think that\nlike there's there's probably like"
+    } ]
+  }, {
+    "tStartMs": 2750640,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "another layer\nthat if traders are really interested,"
+    } ]
+  }, {
+    "tStartMs": 2754520,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuz I know I am,\num could probably get a little bit more"
+    } ]
+  }, {
+    "tStartMs": 2758240,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "specific to figure out, okay, like what\nare these skills that I can create? Like"
+    } ]
+  }, {
+    "tStartMs": 2762640,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "how do I do that?\n\u003e\u003e Yeah, I'm happy to come back on and we"
+    } ]
+  }, {
+    "tStartMs": 2765480,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can talk through that. I mean just the\nprocess of"
+    } ]
+  }, {
+    "tStartMs": 2769200,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, listening to your podcast and\nwhat you've the good work you've put out"
+    } ]
+  }, {
+    "tStartMs": 2772880,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about how you're you know, your\ndashboards you're creating using Claude"
+    } ]
+  }, {
+    "tStartMs": 2776600,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "um\ngot me thinking about this"
+    } ]
+  }, {
+    "tStartMs": 2780120,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and yeah, I mean this was useful for me\nand I know I'm going to start thinking"
+    } ]
+  }, {
+    "tStartMs": 2783800,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "now about okay, how I'm probably going\nto make some some of these skills"
+    } ]
+  }, {
+    "tStartMs": 2787280,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "available on my mailing list. So\nand and then I've got this bigger"
+    } ]
+  }, {
+    "tStartMs": 2792840,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "project that's in the back of my mind.\nSo so my real goal here"
+    } ]
+  }, {
+    "tStartMs": 2798360,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we're talking about one shotting. So so\nmy real goal"
+    } ]
+  }, {
+    "tStartMs": 2802040,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ultimate goal here is to create a tool\nthat you can give it a chart"
+    } ]
+  }, {
+    "tStartMs": 2808760,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and then it can come up with\ndifferent starting point strategies"
+    } ]
+  }, {
+    "tStartMs": 2813640,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "based on that chart that would capture\nthat move."
+    } ]
+  }, {
+    "tStartMs": 2817080,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e That's pretty sick.\n\u003e\u003e And I'm close like I'm close to being",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2820040,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "able to do that. I just need to carve\nout some time for myself to put that"
+    } ]
+  }, {
+    "tStartMs": 2823120,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "together, but I can see a path for that\nworking and that's"
+    } ]
+  }, {
+    "tStartMs": 2827120,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I'm excited about that.\n\u003e\u003e Okay, yeah, I want to talk about that."
+    } ]
+  }, {
+    "tStartMs": 2831640,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah, that gets me that gets me thinking\na lot, so we'll be we'll have to talk",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2836400,
+    "dDurationMs": 3120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "again.\n\u003e\u003e Yeah, yeah, and I'd I'd love to get your"
+    } ]
+  }, {
+    "tStartMs": 2838440,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "feedback [snorts] on that. Like we\nshould talk offline about that project"
+    } ]
+  }, {
+    "tStartMs": 2842280,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and what I'm thinking, so.\n\u003e\u003e Yeah, definitely. Well, thank you again"
+    } ]
+  }, {
+    "tStartMs": 2845680,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for coming on, Dave. As always, this is\nso much fun for us."
+    } ]
+  }, {
+    "tStartMs": 2849240,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Oh, thanks for having me. Yeah, it's my\nhonor to be on here. This is a great You",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2852120,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "guys are doing such a good job.\n\u003e\u003e Yeah, and and congrats on getting to 100"
+    } ]
+  }, {
+    "tStartMs": 2855960,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "podcasts of of your your own. That's\ngreat. I heard the I heard the news"
+    } ]
+  }, {
+    "tStartMs": 2860480,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there. That's a big feat.\n\u003e\u003e Yeah, thanks. I can't believe we did"
+    } ]
+  }, {
+    "tStartMs": 2863840,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that.\n\u003e\u003e Yeah, that's very impressive. Congrats."
+    } ]
+  }, {
+    "tStartMs": 2866400,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "We're on your tail, but not we're far\naway. We got a little little ways."
+    } ]
+  }, {
+    "tStartMs": 2871120,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah, well, we're hitting the\ninflection. Um all right, thanks, Dave.",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2874200,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "We'll talk to you soon and and hopefully\non here"
+    } ]
+  }, {
+    "tStartMs": 2878000,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh not too far into the distant future\nagain so we can we can continue this"
+    } ]
+  }, {
+    "tStartMs": 2882360,
+    "dDurationMs": 3760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conversation.\n\u003e\u003e All right, great guys. Thanks for having"
+    } ]
+  }, {
+    "tStartMs": 2885760,
+    "dDurationMs": 3120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "me.\n\u003e\u003e All right, thanks guys."
+    } ]
+  } ]
+}

@@ -1,0 +1,7194 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 0,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "All right, guys. Get ready. We got Jack\nSchwager on the podcast today."
+    } ]
+  }, {
+    "tStartMs": 5480,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I literally don't know a single trader\nwho has not read at least one volume"
+    } ]
+  }, {
+    "tStartMs": 10520,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "from his Market Wizards series. For over\n35 years, Jack has been the guy sitting"
+    } ]
+  }, {
+    "tStartMs": 16040,
+    "dDurationMs": 9160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "down with the absolute Mount Rushmore of\nmarkets. We're talking Paul Tudor Jones,"
+    } ]
+  }, {
+    "tStartMs": 21720,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Stanley Druckenmiller, Ray Dalio, Bill\nO'Neil, cracking the code on how the"
+    } ]
+  }, {
+    "tStartMs": 27320,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "greatest actually print money. And\njoining him is George Cole, a 20-year"
+    } ]
+  }, {
+    "tStartMs": 33040,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "market veteran who's done it all in the\ntrenches."
+    } ]
+  }, {
+    "tStartMs": 36920,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Together, they have a new installment of\nthe Market Wizards franchise coming out"
+    } ]
+  }, {
+    "tStartMs": 41720,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on June 9th called Market Wizards: The\nNext Generation."
+    } ]
+  }, {
+    "tStartMs": 46920,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And here's the absolute best part. Our\nvery own SMB heavy hitter, Kenny"
+    } ]
+  }, {
+    "tStartMs": 52160,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sharkness, is one of the Market Wizards\nin the new book. [music]"
+    } ]
+  }, {
+    "tStartMs": 56240,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "We brought Jack and George on the show\nto pull back the curtain on what they"
+    } ]
+  }, {
+    "tStartMs": 60120,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "learned from studying today's elite\nperformers. [music] And let me tell you,"
+    } ]
+  }, {
+    "tStartMs": 64519,
+    "dDurationMs": 8001,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this conversation did not disappoint.\nIn this episode, we dive into Jack's"
+    } ]
+  }, {
+    "tStartMs": 70000,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ultimate warning after 40 years of\nstudying legends, and the one"
+    } ]
+  }, {
+    "tStartMs": 74560,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personality trait that guarantees you\nwill go bust, no matter how good your"
+    } ]
+  }, {
+    "tStartMs": 79680,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "strategy is.\nThe one specific interview in the book"
+    } ]
+  }, {
+    "tStartMs": 84320,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that completely changed the way Jack\nlooks at risk, and the actual win rate"
+    } ]
+  }, {
+    "tStartMs": 90000,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of these elite performers. Spoiler\nalert, it's way lower than you think,"
+    } ]
+  }, {
+    "tStartMs": 95520,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and why it doesn't matter at all. The\nmost respected voice in trading"
+    } ]
+  }, {
+    "tStartMs": 100800,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "literature, best known as the author of\nthe iconic Market Wizards series with"
+    } ]
+  }, {
+    "tStartMs": 104960,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "over four decades of experience as both\na practitioner and a writer, this man"
+    } ]
+  }, {
+    "tStartMs": 110200,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "needs no introduction. If you've spent\nany serious time in markets, you know"
+    } ]
+  }, {
+    "tStartMs": 114760,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this name. Jack Schwager basically\ninvented the genre of sitting down"
+    } ]
+  }, {
+    "tStartMs": 119800,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with the greatest traders alive and\nasking them how they actually do it."
+    } ]
+  }, {
+    "tStartMs": 124320,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Schwager has served as director of\nfutures research at several leading Wall"
+    } ]
+  }, {
+    "tStartMs": 127600,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Street firms.\nSpent a decade as a partner at a hedge"
+    } ]
+  }, {
+    "tStartMs": 131400,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fund advisory firm. Market Wizard series\nhas been on the nightstand of serious"
+    } ]
+  }, {
+    "tStartMs": 135520,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "traders for over 35 years.\nAnd with him today is George Coyle with"
+    } ]
+  }, {
+    "tStartMs": 139720,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "over two decades of experience across\nhedge funds, research firms, and family"
+    } ]
+  }, {
+    "tStartMs": 144240,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "offices.\nHaving served in roles ranging from"
+    } ]
+  }, {
+    "tStartMs": 147160,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "chief investment officer to systematic\ntrading designer, Coyle's also the"
+    } ]
+  }, {
+    "tStartMs": 152160,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "author of Principles of Great Traders\nand has written extensively on the"
+    } ]
+  }, {
+    "tStartMs": 156640,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "habits and mindsets of elite market\nperformers,"
+    } ]
+  }, {
+    "tStartMs": 160560,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "one of the most curious minds in the\ntrading space. Together they authored"
+    } ]
+  }, {
+    "tStartMs": 165200,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Market Wizards, The Next Generation,\nthe new book, a fresh installment in the"
+    } ]
+  }, {
+    "tStartMs": 170320,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "legendary series that profiles some of\ntoday's most extraordinary"
+    } ]
+  }, {
+    "tStartMs": 175160,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "solo traders.\nGentlemen, thank you so much for joining"
+    } ]
+  }, {
+    "tStartMs": 179320,
+    "dDurationMs": 6199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "us. We are very excited to have you\nhere."
+    } ]
+  }, {
+    "tStartMs": 183000,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Tim, good to see you as well. Long time\nno see."
+    } ]
+  }, {
+    "tStartMs": 186040,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Always a pleasure, but thank you guys\nfor joining. Very excited.",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 190560,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yeah, so so Jack, I I can I can\nlegitimately, and I know I'm not alone"
+    } ]
+  }, {
+    "tStartMs": 195400,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "here, I can legitimately blame you for\nfor getting me into this game."
+    } ]
+  }, {
+    "tStartMs": 199720,
+    "dDurationMs": 8799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Um I remember a time coming back from\nwhere I grew up in around Boston on the"
+    } ]
+  }, {
+    "tStartMs": 206320,
+    "dDurationMs": 5199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Amtrak, my dad had handed me over the\nholidays this"
+    } ]
+  }, {
+    "tStartMs": 210000,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "book called\nThe Little Book of Market Wizards. And"
+    } ]
+  }, {
+    "tStartMs": 213239,
+    "dDurationMs": 7681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this was like a\nthis was like a shorter highlight reel,"
+    } ]
+  }, {
+    "tStartMs": 217720,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like greatest hits package of whatever\nhad come out at that point. And it"
+    } ]
+  }, {
+    "tStartMs": 223600,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really just had a bunch of just amazing\nquotes from these amazing traders, and"
+    } ]
+  }, {
+    "tStartMs": 228280,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's what got me from being really\ncurious about markets,"
+    } ]
+  }, {
+    "tStartMs": 232840,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "studying but it was like a hobby to\nman, I want to become a trader."
+    } ]
+  }, {
+    "tStartMs": 238880,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And so, I can I can both blame and thank\nyou for that at the same time, and I"
+    } ]
+  }, {
+    "tStartMs": 243240,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know I'm not the only one.\nUm"
+    } ]
+  }, {
+    "tStartMs": 246320,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Thanks, Phil.\nWe Tim and I have a little bit of a"
+    } ]
+  }, {
+    "tStartMs": 251520,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "unique perspective on this\nbook that you guys just put out because"
+    } ]
+  }, {
+    "tStartMs": 257560,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we interact with a couple of the\ncharacters in your book um fairly"
+    } ]
+  }, {
+    "tStartMs": 263040,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "regularly, right? Lance, who\ncomes into our office,"
+    } ]
+  }, {
+    "tStartMs": 268080,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "participates in our monthly meetings,\nserves as a mentor,"
+    } ]
+  }, {
+    "tStartMs": 272000,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "um a trading coach for a lot of us. We\nreach out to him if we have issues."
+    } ]
+  }, {
+    "tStartMs": 276800,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "He's a great guy to talk to. Shark, been\non the desk since I got here."
+    } ]
+  }, {
+    "tStartMs": 282160,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "We've observed him not only on the desk,\nbut through our blotter, which shows his"
+    } ]
+  }, {
+    "tStartMs": 286480,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trades, and we're able to follow his\npositions, and see what he's doing. We"
+    } ]
+  }, {
+    "tStartMs": 290720,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hear him in the AM meeting\nevery single morning talking about his"
+    } ]
+  }, {
+    "tStartMs": 294880,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "game plan, talking about his trades.\nOne of the things that has always stood"
+    } ]
+  }, {
+    "tStartMs": 300080,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "out to me about Shark\nis that"
+    } ]
+  }, {
+    "tStartMs": 303680,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "A, he's a great guy.\nB,"
+    } ]
+  }, {
+    "tStartMs": 307240,
+    "dDurationMs": 7679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he's so level-headed.\nAnd C, he has an unbelievable amount of"
+    } ]
+  }, {
+    "tStartMs": 312560,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bandwidth as a trader. Like, we'll see\nhim manage many, many positions at the"
+    } ]
+  }, {
+    "tStartMs": 318160,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "same time, and trading many strategies\nat the same time."
+    } ]
+  }, {
+    "tStartMs": 321520,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I mean, I remember one time there was a\ngold trade. He top-ticked out of it. He"
+    } ]
+  }, {
+    "tStartMs": 326440,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was short, got stopped out. And this was\na big trade that he was hawking. And I"
+    } ]
+  }, {
+    "tStartMs": 330400,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "remember in the morning meeting, he was\njust like,"
+    } ]
+  }, {
+    "tStartMs": 333160,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\"Yeah, got got stopped out, going to\nhave to reset. You know, we'll we'll"
+    } ]
+  }, {
+    "tStartMs": 336800,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "look to get back in.\" And it was like\nnothing ever happened, and he's he's so"
+    } ]
+  }, {
+    "tStartMs": 341240,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "steady. And we always we always pick up\non these traits even from the desk, just"
+    } ]
+  }, {
+    "tStartMs": 345919,
+    "dDurationMs": 7001,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "kind of being like, \"You know what?\nLike, I I strive to be that that steady"
+    } ]
+  }, {
+    "tStartMs": 349520,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "as I trade. Um so, my question for you\nuh for both of you"
+    } ]
+  }, {
+    "tStartMs": 354640,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "um at this point is like, trading\nrequires an immense self-awareness,"
+    } ]
+  }, {
+    "tStartMs": 359280,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right? But, expressing that\nyou know, thing that makes you great is"
+    } ]
+  }, {
+    "tStartMs": 363880,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is entirely a different thing. So,\ndoes your impression of what makes Shark"
+    } ]
+  }, {
+    "tStartMs": 369280,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "great align with what we see on the\nfloor, or did you observe like,"
+    } ]
+  }, {
+    "tStartMs": 373120,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "different a different side to his\ntrading style and what drives his"
+    } ]
+  }, {
+    "tStartMs": 376920,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "success?\nActually, uh I think you've"
+    } ]
+  }, {
+    "tStartMs": 380960,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you really hit it on hit you really got\nit correct. Uh the one thing that I"
+    } ]
+  }, {
+    "tStartMs": 385640,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "would say about Sharkness is that\nmaybe more than any other trader I've"
+    } ]
+  }, {
+    "tStartMs": 389960,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ever interviewed, he just had a\ngreater variety of different types of"
+    } ]
+  }, {
+    "tStartMs": 394160,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trades and\ngoing through"
+    } ]
+  }, {
+    "tStartMs": 396960,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "more changes per year, you know,\nuh than anybody I've ever met who's been"
+    } ]
+  }, {
+    "tStartMs": 402480,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a successful trader.\nUh so, most people have a style. They"
+    } ]
+  }, {
+    "tStartMs": 406960,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they might and they might change,\nevolve, pick up something else, but"
+    } ]
+  }, {
+    "tStartMs": 411560,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sharkness, first of all, he's done he's\ngone through numerous styles, still"
+    } ]
+  }, {
+    "tStartMs": 416560,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "using lots of them, and using them\nsimultaneously."
+    } ]
+  }, {
+    "tStartMs": 420280,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So, not only different strategies, but\ndifferent time lengths, and then to"
+    } ]
+  }, {
+    "tStartMs": 425120,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "throw into the mix\ncombining some of those with options uh"
+    } ]
+  }, {
+    "tStartMs": 430320,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "various option strategies, both selling\nand buying options to create a type of"
+    } ]
+  }, {
+    "tStartMs": 435840,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "position that has a profile that he\nwants. So, there's a lot of complexity"
+    } ]
+  }, {
+    "tStartMs": 440120,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in what he does, and uh seems to come\nnatural to him, but I think you really"
+    } ]
+  }, {
+    "tStartMs": 444120,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "got\nthe thing that makes him"
+    } ]
+  }, {
+    "tStartMs": 446840,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "kind of uh different than\nuh than than most traders,"
+    } ]
+  }, {
+    "tStartMs": 451800,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "even successful ones.\nYou know, I think you did a good job of"
+    } ]
+  }, {
+    "tStartMs": 455800,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "summarizing it, but one of the things\nthat you find again and again is traders"
+    } ]
+  }, {
+    "tStartMs": 459840,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have to find a style style that uh suits\ntheir personality. And Kenny, I guess I"
+    } ]
+  }, {
+    "tStartMs": 465400,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "call him Kenny Sharkness, but uh he\nreally has been a multitasker from the"
+    } ]
+  }, {
+    "tStartMs": 470960,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "beginning. At one point in the\ninterview, he tells us that when he was"
+    } ]
+  }, {
+    "tStartMs": 473280,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in college, he'd be I think it was\nwriting a paper on one screen and"
+    } ]
+  }, {
+    "tStartMs": 477200,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "playing poker on another. So, he really\nfound a style that um fits his"
+    } ]
+  }, {
+    "tStartMs": 482240,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personality and works well. You know,\none of the other things we we're"
+    } ]
+  }, {
+    "tStartMs": 485400,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actually editing uh the audio book at\nthe moment, so I listened to his chapter"
+    } ]
+  }, {
+    "tStartMs": 490360,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "earlier today, and it's it's fresh in my\nmind. And we really dug in because on"
+    } ]
+  }, {
+    "tStartMs": 495320,
+    "dDurationMs": 5599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the surface what he does to to us at\nleast look like kind of chaos. Just so"
+    } ]
+  }, {
+    "tStartMs": 499360,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "many different strategies and trades and\nso much going on. But one of the the"
+    } ]
+  }, {
+    "tStartMs": 503600,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "things that I think we did that was\ngreat in the book is we dug in and found"
+    } ]
+  }, {
+    "tStartMs": 506520,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "out that, you know, most of the money\nthat he makes relates to a few days a"
+    } ]
+  }, {
+    "tStartMs": 510520,
+    "dDurationMs": 6079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "year and a few different trading styles.\nSo, I I think people that read the book"
+    } ]
+  }, {
+    "tStartMs": 514919,
+    "dDurationMs": 5201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "will find a lot of benefit in that and\njust seeing how where he's making the"
+    } ]
+  }, {
+    "tStartMs": 518760,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bulk of his money comes from a certain\ncouple styles, a couple days, and how"
+    } ]
+  }, {
+    "tStartMs": 522280,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the the larger amount of trading that he\ndoes fits into that mosaic cuz it is"
+    } ]
+  }, {
+    "tStartMs": 526560,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "relevant to how he does what he does,\nbut it's not driving the bulk of his"
+    } ]
+  }, {
+    "tStartMs": 529560,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "profits.\nDefinitely. I wondered too, cuz he has"
+    } ]
+  }, {
+    "tStartMs": 533080,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "definitely adapted through his years,\nand it's interesting in this new Market"
+    } ]
+  }, {
+    "tStartMs": 537560,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Wizards, we know a couple of them, and\nthey do talk like pretty regularly as a"
+    } ]
+  }, {
+    "tStartMs": 543120,
+    "dDurationMs": 9719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pod. Um where I would imagine some of\nthe newer strategies that Shark or Kenny"
+    } ]
+  }, {
+    "tStartMs": 549960,
+    "dDurationMs": 8760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh developed was as a result of that\npod. And I'm curious if that was ever"
+    } ]
+  }, {
+    "tStartMs": 555880,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "um as much of a dynamic like 20, 30\nyears ago with the Market Wizards."
+    } ]
+  }, {
+    "tStartMs": 561720,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "No, I don't think so. Um\nthey're pretty much so, you know, I"
+    } ]
+  }, {
+    "tStartMs": 565400,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "always think of them as solo players.\nUh although you you have somebody like"
+    } ]
+  }, {
+    "tStartMs": 570920,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Dennis, of course he had the whole\nturtle book, but he was he was being a"
+    } ]
+  }, {
+    "tStartMs": 574760,
+    "dDurationMs": 9560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mentor. Um not so much getting ideas\nfrom anybody. So, I think in"
+    } ]
+  }, {
+    "tStartMs": 581560,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in almost all the Market Wizards books\nprior, you're basically dealing more"
+    } ]
+  }, {
+    "tStartMs": 586760,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with solo solo\nactors"
+    } ]
+  }, {
+    "tStartMs": 591360,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in terms of the trading rather than a\ngroup exchanging ideas. And I know in"
+    } ]
+  }, {
+    "tStartMs": 597400,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this book a number\na number of the Wizards know each other"
+    } ]
+  }, {
+    "tStartMs": 601000,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "very well.\nAnd"
+    } ]
+  }, {
+    "tStartMs": 603400,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's not a coincidence. That's because\none of the things we one of the things"
+    } ]
+  }, {
+    "tStartMs": 607760,
+    "dDurationMs": 9160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I've done and we did again in this book\nis I will ask people I am interviewing"
+    } ]
+  }, {
+    "tStartMs": 614760,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "who do you know who's really good who\nshould be in this book? And"
+    } ]
+  }, {
+    "tStartMs": 619680,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so, a number names come that way. So,\nit's not a coincidence that they know"
+    } ]
+  }, {
+    "tStartMs": 624000,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "each other, you know, so.\nOkay. Cuz I was I was curious because,"
+    } ]
+  }, {
+    "tStartMs": 628600,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, back in the day like these\nnames were"
+    } ]
+  }, {
+    "tStartMs": 631360,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I assume like large, well-known because\nthey're they're managing funds, they're"
+    } ]
+  }, {
+    "tStartMs": 635480,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in the public eye.\nA lot of these try I mean Shark is"
+    } ]
+  }, {
+    "tStartMs": 638440,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fairly unknown. Like a few of these have\ntraders have have very large social"
+    } ]
+  }, {
+    "tStartMs": 642680,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "media presences, but do you think you\nwould have discovered this class without"
+    } ]
+  }, {
+    "tStartMs": 648160,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "social media?\nUh"
+    } ]
+  }, {
+    "tStartMs": 652160,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "well,\nspecifically some of these traders"
+    } ]
+  }, {
+    "tStartMs": 655080,
+    "dDurationMs": 9920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "probably not.\nAnd like I say, asking"
+    } ]
+  }, {
+    "tStartMs": 661120,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Lance in fact was was the first key of\ncorrect in recommending a few of the"
+    } ]
+  }, {
+    "tStartMs": 668120,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "other traders and uh\nthat led to a number of the interviews."
+    } ]
+  }, {
+    "tStartMs": 671720,
+    "dDurationMs": 7119,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So, Lance was kind of linchpin on that.\nOkay."
+    } ]
+  }, {
+    "tStartMs": 676560,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yeah, that's right. Although,\nDr. Brett Steenbarger reached out about"
+    } ]
+  }, {
+    "tStartMs": 682280,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Kenny, so that's how we found him.\nBut I it turns out that Lance and Kenny"
+    } ]
+  }, {
+    "tStartMs": 687120,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "are Should I call him Shark or Kenny or\ndoes it matter? Yeah, whatever whatever"
+    } ]
+  }, {
+    "tStartMs": 690960,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you call him. Shark on the desk. That's\nwhat he is for us."
+    } ]
+  }, {
+    "tStartMs": 694000,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Okay. Well, [clears throat] is Kenny for\nbut you know, obviously Lance and and"
+    } ]
+  }, {
+    "tStartMs": 697840,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Kenny are friends. So but he did not get\nintroduced through Lance. In terms of"
+    } ]
+  }, {
+    "tStartMs": 702960,
+    "dDurationMs": 10440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Shark um we've we've noticed that like I\nsaid, he's he's very level-headed and he"
+    } ]
+  }, {
+    "tStartMs": 708840,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he really keeps um a steady posture\nwhen he's on the morning call and it's"
+    } ]
+  }, {
+    "tStartMs": 715640,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like it's really hard to tell whether\nhe's"
+    } ]
+  }, {
+    "tStartMs": 718720,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "winning or losing.\nUm"
+    } ]
+  }, {
+    "tStartMs": 722160,
+    "dDurationMs": 9080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Did did you find that like he was um\nhe was a trader who was particularly"
+    } ]
+  }, {
+    "tStartMs": 729720,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "steady\namongst all of these traders? Was that"
+    } ]
+  }, {
+    "tStartMs": 733360,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like something that stood out to you or\nwas this a Is this a quality that that"
+    } ]
+  }, {
+    "tStartMs": 738280,
+    "dDurationMs": 3960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everybody\nhas?"
+    } ]
+  }, {
+    "tStartMs": 740960,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Well,\nyou know, um"
+    } ]
+  }, {
+    "tStartMs": 743960,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "being kind of\ncalm"
+    } ]
+  }, {
+    "tStartMs": 746680,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and controlled\nuh"
+    } ]
+  }, {
+    "tStartMs": 749400,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trading even if you have a lot going on\nand your markets moving against you,"
+    } ]
+  }, {
+    "tStartMs": 754520,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's kind of been a theme all through\nthe books. Going all the way back to the"
+    } ]
+  }, {
+    "tStartMs": 758480,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "first Market Wizards book, Paul Tudor\nJones, I still remember Paul Tudor Jones"
+    } ]
+  }, {
+    "tStartMs": 762920,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "talking about his idol,\nuh Eli Tullis, and talking about how he"
+    } ]
+  }, {
+    "tStartMs": 768480,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was in Eli Tullis's office on the day\nand"
+    } ]
+  }, {
+    "tStartMs": 771400,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Tullis had had a really bad day and lost\nmillions and he had some guests in the"
+    } ]
+  }, {
+    "tStartMs": 774520,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "afternoon and\nyou know,"
+    } ]
+  }, {
+    "tStartMs": 777560,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what really struck uh Paul was that uh\nyou know, you couldn't tell. I mean, uh"
+    } ]
+  }, {
+    "tStartMs": 784800,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he was completely cordial, he was in a\ngood mood and his visitors could never"
+    } ]
+  }, {
+    "tStartMs": 788320,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tell that they were having a bad day or\na good day. Uh and I've seen that"
+    } ]
+  }, {
+    "tStartMs": 792320,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "repeatedly. I I think of uh\nanother good example like a pops in my"
+    } ]
+  }, {
+    "tStartMs": 797040,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mind but there's there's tons of them.\nUh Balau Demus uh Jimmy Balau Demus"
+    } ]
+  }, {
+    "tStartMs": 802240,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "who's a very unusual trader, real\ncontrarian, always going against the"
+    } ]
+  }, {
+    "tStartMs": 805839,
+    "dDurationMs": 8361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "market. But I remember going to his\noffice on a day where he had been short"
+    } ]
+  }, {
+    "tStartMs": 811920,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he's so contrarian. He was short kept on\nshorting them shorting stocks in a month"
+    } ]
+  }, {
+    "tStartMs": 816720,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "where the where you couldn't get more\nthan two days down in a row."
+    } ]
+  }, {
+    "tStartMs": 820480,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And the last day of the month there was\na good good day for him. The market went"
+    } ]
+  }, {
+    "tStartMs": 824760,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "down a couple of percent. There was some\nnews item. And the whole screen was red,"
+    } ]
+  }, {
+    "tStartMs": 829040,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "which was really good for him. But,\nhey, you couldn't you couldn't tell that"
+    } ]
+  }, {
+    "tStartMs": 833560,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he had just recouped his month losses or\nanything, you know, it's"
+    } ]
+  }, {
+    "tStartMs": 837040,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he was just kind of completely calm.\nIt's like I mean no I'm not saying calm,"
+    } ]
+  }, {
+    "tStartMs": 841200,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but\nthe what what was going on in the"
+    } ]
+  }, {
+    "tStartMs": 843040,
+    "dDurationMs": 8520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "markets was just unrelated to his mood.\nAnd I've seen it over and over."
+    } ]
+  }, {
+    "tStartMs": 848200,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And and the the classic tale of nerves\nof steel is Stanley Druckenmiller"
+    } ]
+  }, {
+    "tStartMs": 854080,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "who\nwho did the worst"
+    } ]
+  }, {
+    "tStartMs": 857440,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the worst trade ever\nuh that could you could imagine, which"
+    } ]
+  }, {
+    "tStartMs": 861880,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was switching from\nfrom short to long the day before the"
+    } ]
+  }, {
+    "tStartMs": 865720,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "October 19 1987 crash.\nAnd"
+    } ]
+  }, {
+    "tStartMs": 870320,
+    "dDurationMs": 8960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the next that Monday morning being\nhaving the presence of mind to go in and"
+    } ]
+  }, {
+    "tStartMs": 875160,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cover his entire leveraged long position\nand go back short again. Uh right you"
+    } ]
+  }, {
+    "tStartMs": 882040,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know right in the\nthe instant the market was tradeable."
+    } ]
+  }, {
+    "tStartMs": 886240,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So, you have that repeatedly. I think\nthat's a that's that's a characteristic"
+    } ]
+  }, {
+    "tStartMs": 890680,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that that uh\nand it's kind of came up in this book a"
+    } ]
+  }, {
+    "tStartMs": 893680,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "number of times.\nuh as well."
+    } ]
+  }, {
+    "tStartMs": 896839,
+    "dDurationMs": 4401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yeah, one trader mentioning that it was\nuh"
+    } ]
+  }, {
+    "tStartMs": 899680,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that he he doesn't know what it is, but\nhe was always he always had this ability"
+    } ]
+  }, {
+    "tStartMs": 903720,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to be calm\nwherever people would panic and"
+    } ]
+  }, {
+    "tStartMs": 907080,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in\nnothing like it phased him. And this was"
+    } ]
+  }, {
+    "tStartMs": 911120,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a trader who took some who had some\nreally nerve-racking drawdowns, but"
+    } ]
+  }, {
+    "tStartMs": 916600,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "apparently was able to kind of\njust had the mental fortitude to not let"
+    } ]
+  }, {
+    "tStartMs": 921720,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it affect him. He also blew up a few\ntimes before he finally got it going."
+    } ]
+  }, {
+    "tStartMs": 927000,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "But all in all, he ends up being maybe\nthe most successful trader in the book."
+    } ]
+  }, {
+    "tStartMs": 933480,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "That that subject of blowing up comes up\na lot in your books, I've noticed."
+    } ]
+  }, {
+    "tStartMs": 937760,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah.\nThis kind of idea of",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 941240,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of overcoming adversity early.\nAnd and this question goes goes for both"
+    } ]
+  }, {
+    "tStartMs": 946400,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of you, but I'm curious if\nif A, George, if if you find that to be"
+    } ]
+  }, {
+    "tStartMs": 951400,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a common theme as well, but also in\nterms of these this new class of"
+    } ]
+  }, {
+    "tStartMs": 954880,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "traders,\nis is this"
+    } ]
+  }, {
+    "tStartMs": 958320,
+    "dDurationMs": 8440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is this even more of a theme with with\nthe loan traders than than even ever has"
+    } ]
+  }, {
+    "tStartMs": 964040,
+    "dDurationMs": 2720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "been before?"
+    } ]
+  }, {
+    "tStartMs": 967040,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yeah, I mean, these guys are persistent\nand they tend to have faith in"
+    } ]
+  }, {
+    "tStartMs": 971520,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "themselves even when there's zero\nevidence to support that faith. And"
+    } ]
+  }, {
+    "tStartMs": 976200,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that that shows up in these guys and it\nshows up in guys historically."
+    } ]
+  }, {
+    "tStartMs": 980880,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "To a degree that you just we've asked\nthem like, how did you you blew up your"
+    } ]
+  }, {
+    "tStartMs": 984520,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "account three times, four times,\nwhatever it may be."
+    } ]
+  }, {
+    "tStartMs": 987440,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Your family's telling you do something\nelse, you know, the entire world, your"
+    } ]
+  }, {
+    "tStartMs": 991000,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "results, everything is telling you\nyou're not cut out for this and then"
+    } ]
+  }, {
+    "tStartMs": 993640,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they persist. And\nusually they don't have a good answer as"
+    } ]
+  }, {
+    "tStartMs": 997920,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to why they have faith in themselves\nthat I guess at least to me is"
+    } ]
+  }, {
+    "tStartMs": 1001680,
+    "dDurationMs": 5159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "convincing, but they do. So, where does\nthat deep faith come from? I mean, I"
+    } ]
+  }, {
+    "tStartMs": 1005839,
+    "dDurationMs": 4921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "guess you could turn that into where\ndoes any deep faith come from? But"
+    } ]
+  }, {
+    "tStartMs": 1009080,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "regardless, they have deep faith in\ntheir abilities despite no evidence. You"
+    } ]
+  }, {
+    "tStartMs": 1013240,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know, as to whether it was more present\nin this book than others, I'd say maybe"
+    } ]
+  }, {
+    "tStartMs": 1017880,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "only in as much as I think that it's a\ndifferent trajectory for independent"
+    } ]
+  }, {
+    "tStartMs": 1022520,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "traders or prop traders than it is for\nhedge fund managers. It's kind of a"
+    } ]
+  }, {
+    "tStartMs": 1026439,
+    "dDurationMs": 5961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "different game. And there's\nsimilarities, but these guys to a degree"
+    } ]
+  }, {
+    "tStartMs": 1029959,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's them against the world. And so, I\nthink that the faith"
+    } ]
+  }, {
+    "tStartMs": 1034560,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "their goals are different and the faith\nprobably is more present there whereas"
+    } ]
+  }, {
+    "tStartMs": 1039120,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you get a guy who launches a hedge fund\na lot of times they're coming out of a"
+    } ]
+  }, {
+    "tStartMs": 1042160,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "prior hedge fund and they have faith in\nthemselves but"
+    } ]
+  }, {
+    "tStartMs": 1045439,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but usually they're more proven I guess\nin the modern era. So I would say"
+    } ]
+  }, {
+    "tStartMs": 1049520,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the the pattern exists over since the\nbeginning of the series but I think that"
+    } ]
+  }, {
+    "tStartMs": 1054600,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you see a little bit more of it in this\none but maybe that's just because it's"
+    } ]
+  }, {
+    "tStartMs": 1057320,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "more independent traders.\nYeah, I mean the the fact that you guys"
+    } ]
+  }, {
+    "tStartMs": 1061680,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "went out and\nstudied"
+    } ]
+  }, {
+    "tStartMs": 1065360,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "these loan traders, these these retail\ntraders, prop traders. I mean"
+    } ]
+  }, {
+    "tStartMs": 1069360,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's\nlike what a great thing to expose these"
+    } ]
+  }, {
+    "tStartMs": 1073480,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "these types of traders to the world who\nwho typically don't get a lot of screen"
+    } ]
+  }, {
+    "tStartMs": 1077600,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "time and I suppose today in terms of\nsocial media like some do but"
+    } ]
+  }, {
+    "tStartMs": 1081680,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's that's a very different thing.\nIt's obviously like a like a"
+    } ]
+  }, {
+    "tStartMs": 1085640,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a brand new element\nto the to the series and so"
+    } ]
+  }, {
+    "tStartMs": 1090360,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Tim and I were talking about this you\nknow before we got on today"
+    } ]
+  }, {
+    "tStartMs": 1094400,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and one of the things that we were most\ninterested in finding out was"
+    } ]
+  }, {
+    "tStartMs": 1100160,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the question of what makes these traders\ngreat has always been a question that"
+    } ]
+  }, {
+    "tStartMs": 1104200,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "runs throughout. Like we all know that.\nAnyone who's read these books"
+    } ]
+  }, {
+    "tStartMs": 1107520,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "understands that like that's what that's\none of the things that we're we're"
+    } ]
+  }, {
+    "tStartMs": 1110960,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trying to answer all the time.\nUm"
+    } ]
+  }, {
+    "tStartMs": 1114400,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is the has that has the answer to that\nquestion evolved over time and is the"
+    } ]
+  }, {
+    "tStartMs": 1119520,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "answer to that question different with\nthis new class?"
+    } ]
+  }, {
+    "tStartMs": 1125800,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Well, you know, a lot of the elements\nare are the same"
+    } ]
+  }, {
+    "tStartMs": 1130160,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "even though the styles are different. We\nand in this book what you do have"
+    } ]
+  }, {
+    "tStartMs": 1134960,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "different is the strategies.\nYou do have"
+    } ]
+  }, {
+    "tStartMs": 1139240,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people in this book doing stuff that\nnot only"
+    } ]
+  }, {
+    "tStartMs": 1143480,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wasn't done by any of the other\nby any of the other traders in the"
+    } ]
+  }, {
+    "tStartMs": 1148360,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "previous Market Wizards books but would\nalmost be"
+    } ]
+  }, {
+    "tStartMs": 1153200,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "anathema to those traders. So, so one\ncommon theme you'll find in"
+    } ]
+  }, {
+    "tStartMs": 1158160,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all the prior Wizards books is there's a\nlarge percentage of the traders that one"
+    } ]
+  }, {
+    "tStartMs": 1163160,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "way or the other, yeah, they're all\ndoing different things, but when you"
+    } ]
+  }, {
+    "tStartMs": 1166480,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "boil it down to its simplest profile,\nthey're doing asymmetric trades in their"
+    } ]
+  }, {
+    "tStartMs": 1172760,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "own way. They're\nIt's you know, the vast majority have"
+    } ]
+  }, {
+    "tStartMs": 1177120,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "some sort of asymmetric trade. They when\nthey win, they'll win a lot. They're"
+    } ]
+  }, {
+    "tStartMs": 1181360,
+    "dDurationMs": 4000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "setting up trades where if they're\nright, they'll make a lot, and if"
+    } ]
+  }, {
+    "tStartMs": 1184160,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they're wrong, they won't lose that\nmuch. And most of them lose more than"
+    } ]
+  }, {
+    "tStartMs": 1188120,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "half the time. And that's kind of\ncommon. In this book, you had a number"
+    } ]
+  }, {
+    "tStartMs": 1192520,
+    "dDurationMs": 8600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trader start out with a strategy of\nshorting small cap stocks, which is the"
+    } ]
+  }, {
+    "tStartMs": 1198920,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "exact antithesis of\nof a positive asymmetry trade. You can"
+    } ]
+  }, {
+    "tStartMs": 1204280,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "best you can do is the stock goes to\nzero, as some of these stocks will do or"
+    } ]
+  }, {
+    "tStartMs": 1208200,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "go close to it. Uh, but but the worst is\nthese stocks they're they're they're"
+    } ]
+  }, {
+    "tStartMs": 1213000,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "selling stocks that are going up several\nhundred percent, right? Uh,"
+    } ]
+  }, {
+    "tStartMs": 1216960,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nothing stops them from going up a\nthousand percent, right? So, it's it's"
+    } ]
+  }, {
+    "tStartMs": 1220360,
+    "dDurationMs": 8120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "open-ended on the risk side. And even\nthe stop can't totally protect you"
+    } ]
+  }, {
+    "tStartMs": 1225440,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because these type of situations are\nprone to having the market"
+    } ]
+  }, {
+    "tStartMs": 1231360,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know,\njust close because of the trading,"
+    } ]
+  }, {
+    "tStartMs": 1234360,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right? To its certain limits. So, by the\ntime it when it reopens, they're much"
+    } ]
+  }, {
+    "tStartMs": 1238800,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "worse than the stop. So, that's\ndifferent. That type of trading I"
+    } ]
+  }, {
+    "tStartMs": 1243560,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "haven't seen in any in any prior books.\nAnd none of these traders made it work."
+    } ]
+  }, {
+    "tStartMs": 1248600,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "They've most of them evolved out of\nthat. Uh, uh,"
+    } ]
+  }, {
+    "tStartMs": 1252240,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I think only one still does that\nstrategy, but"
+    } ]
+  }, {
+    "tStartMs": 1255640,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but that's different. And and also one\nof the traders um, made most of his"
+    } ]
+  }, {
+    "tStartMs": 1261800,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "money not initially, but after\nafter he'd gotten too large to do a lot"
+    } ]
+  }, {
+    "tStartMs": 1266760,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of small cap shorting\nuh went on to selling"
+    } ]
+  }, {
+    "tStartMs": 1271200,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh\nout of money options, which is not way"
+    } ]
+  }, {
+    "tStartMs": 1274680,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "out of money options, but somewhat out\nof money options. And again, a strategy"
+    } ]
+  }, {
+    "tStartMs": 1279360,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "which most of the Wizards of prior books\nwould have said and I would have said"
+    } ]
+  }, {
+    "tStartMs": 1284480,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, don't do that. It's It's just\nnot worth it, you know, it's uh"
+    } ]
+  }, {
+    "tStartMs": 1288800,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but uh and most people who do that\nstrategy blow up. But this one trader"
+    } ]
+  }, {
+    "tStartMs": 1293840,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "has uh and you know, and the proof the\nproof is you know, people say, \"Well,"
+    } ]
+  }, {
+    "tStartMs": 1298760,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "maybe he's been lucky.\" Well, yeah,\nyeah. But he was he was heavily short"
+    } ]
+  }, {
+    "tStartMs": 1302920,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "options on so-called liberation day. Uh\nfor those of you who forgot already,"
+    } ]
+  }, {
+    "tStartMs": 1308600,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's when we put on tariffs. I'm not\nsure what the connection is with"
+    } ]
+  }, {
+    "tStartMs": 1312120,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "liberation, but uh\nbut uh the market then went down like"
+    } ]
+  }, {
+    "tStartMs": 1316040,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what, 20% or something in very quickly.\nUm"
+    } ]
+  }, {
+    "tStartMs": 1319360,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he he he got out\nwell, with a with a small with a loss,"
+    } ]
+  }, {
+    "tStartMs": 1324240,
+    "dDurationMs": 10320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but but pretty much unscathed because he\nhad that instinct to um just get out"
+    } ]
+  }, {
+    "tStartMs": 1330960,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "immediately uh because he he you know,\nhe's very sensitive to that. So, he's"
+    } ]
+  }, {
+    "tStartMs": 1336360,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "able to pull off the strategy, which is\nunadvisable for most people. So, that's"
+    } ]
+  }, {
+    "tStartMs": 1340160,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "where the differences came in in this\nbook, I think, is some of the strategies"
+    } ]
+  }, {
+    "tStartMs": 1343440,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that were used were different than in\nprior books."
+    } ]
+  }, {
+    "tStartMs": 1347520,
+    "dDurationMs": 8040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "It's interesting cuz the reward is not\nthe same like asymmetry. We hear it a"
+    } ]
+  }, {
+    "tStartMs": 1353280,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "lot on the desk in like Lance has done a\ngood job like putting education out"
+    } ]
+  }, {
+    "tStartMs": 1357320,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there about dynamic bet sizing. Like\nswinging the bat hard on your A+ trades."
+    } ]
+  }, {
+    "tStartMs": 1362920,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And despite maybe they're shorting small\ncaps that like are only going to go back"
+    } ]
+  }, {
+    "tStartMs": 1367840,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to kind of where they started. And you\ndon't have that open-ended. They're"
+    } ]
+  }, {
+    "tStartMs": 1371680,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "putting on so much risk on these A+\nopportunities. Um and we see that all"
+    } ]
+  }, {
+    "tStartMs": 1376440,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the time and I'm kind of curious if that\nbet sizing showed up um in prior books,"
+    } ]
+  }, {
+    "tStartMs": 1382400,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "prior Market wizards, or is that like\nyou said really a new phenomenon? No,"
+    } ]
+  }, {
+    "tStartMs": 1386840,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they bet sizing shows up all the time. I\nmean that's"
+    } ]
+  }, {
+    "tStartMs": 1390320,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that you know,\nsizing the bets I"
+    } ]
+  }, {
+    "tStartMs": 1393600,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I I can't even begin to count how many\ntimes that has come up. So that that is"
+    } ]
+  }, {
+    "tStartMs": 1398640,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "critical. That always most traders\nusually bring that up one way or the"
+    } ]
+  }, {
+    "tStartMs": 1402480,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "other.\nIt's good to know. And this book you"
+    } ]
+  }, {
+    "tStartMs": 1405720,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have\nI think of one Kualalumpur who's the"
+    } ]
+  }, {
+    "tStartMs": 1410400,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "first chapter and\nvery modest guy, you know, kind of uh um"
+    } ]
+  }, {
+    "tStartMs": 1416640,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, says that he hasn't invented\nanything. Everything he does he's"
+    } ]
+  }, {
+    "tStartMs": 1420200,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "learned from other people.\nUm and but but the reason I laugh when I"
+    } ]
+  }, {
+    "tStartMs": 1425320,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think about him is he started out uh he\nstarted out like uh"
+    } ]
+  }, {
+    "tStartMs": 1431080,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "betting everything on a trade. I I I\nliterally said, \"You know, I"
+    } ]
+  }, {
+    "tStartMs": 1434680,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "You literally mean you put all your\nmoney on one trade?\" And he said,"
+    } ]
+  }, {
+    "tStartMs": 1438320,
+    "dDurationMs": 5316,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\"Yeah.\"\nOf course he blew up. I mean, but that's"
+    } ]
+  }, {
+    "tStartMs": 1441240,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "how he started out. He started out\n\u003e\u003e [laughter]"
+    } ]
+  }, {
+    "tStartMs": 1443760,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e I I mean, you get down to the market\nwizards and most of them say keep your",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1447400,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bet size less than 1%. And here you have\na guy who ultimately became a market"
+    } ]
+  }, {
+    "tStartMs": 1451496,
+    "dDurationMs": 6344,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "[clears throat] wizard who\nuh you started out putting 100% of his"
+    } ]
+  }, {
+    "tStartMs": 1455400,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "money in one trade, which is\nwhich is almost laughable. We got the"
+    } ]
+  }, {
+    "tStartMs": 1460000,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "first chapter, which is great. Um I got\na chance to read it and in the intro you"
+    } ]
+  }, {
+    "tStartMs": 1464960,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gave the quick little um\nlike blurbs about all the other traders."
+    } ]
+  }, {
+    "tStartMs": 1470200,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And specifically there's two that really\nhaven't drawn down at all."
+    } ]
+  }, {
+    "tStartMs": 1474240,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And it feels so different than\nKualalumpur who's like more of this"
+    } ]
+  }, {
+    "tStartMs": 1477600,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "explosive home run type trading. And\nthen there is it was a volunteer"
+    } ]
+  }, {
+    "tStartMs": 1482000,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "firefighter that like never had a losing\nmonth in 15 years and then one other"
+    } ]
+  }, {
+    "tStartMs": 1485720,
+    "dDurationMs": 4280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "one. Um\nAnd it's interesting like do you just"
+    } ]
+  }, {
+    "tStartMs": 1489080,
+    "dDurationMs": 3520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "see\na fundamental difference between those"
+    } ]
+  }, {
+    "tStartMs": 1491640,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like\nexplosive traders like Kualalumpur that"
+    } ]
+  }, {
+    "tStartMs": 1494640,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can tolerate a drawdown versus the\nstyles of that firefighter that probably"
+    } ]
+  }, {
+    "tStartMs": 1499760,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hates drawdowns and yeah. Yeah, I mean\nthere were there is a difference. I mean"
+    } ]
+  }, {
+    "tStartMs": 1504040,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh\nyeah, risk the amount that you know, in"
+    } ]
+  }, {
+    "tStartMs": 1507160,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "terms of risk management and and the\nemphasis on risk control."
+    } ]
+  }, {
+    "tStartMs": 1512120,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Uh so, these two traders that you\nmentioned uh"
+    } ]
+  }, {
+    "tStartMs": 1515760,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in one case you can't even measure\nreturn risk cuz guy doesn't have any"
+    } ]
+  }, {
+    "tStartMs": 1519280,
+    "dDurationMs": 3680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "losses. Like\nyou you know, you get an infinite uh"
+    } ]
+  }, {
+    "tStartMs": 1521920,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "number\nuh and in the other case I"
+    } ]
+  }, {
+    "tStartMs": 1525080,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I mean numbers of return risk numbers\nare like crazy. I don't know, like 25,"
+    } ]
+  }, {
+    "tStartMs": 1529680,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "30 Sortino, you know,\nI mean it's just just so completely"
+    } ]
+  }, {
+    "tStartMs": 1534200,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like\nlike"
+    } ]
+  }, {
+    "tStartMs": 1536680,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if you're looking at the solar system\nlike beyond Pluto in terms of compared"
+    } ]
+  }, {
+    "tStartMs": 1540680,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to everybody else's is hovering around\nthe inner planets, you know, they"
+    } ]
+  }, {
+    "tStartMs": 1545240,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they're return risk is sort of like out\nbeyond the uh the furthest planet. So,"
+    } ]
+  }, {
+    "tStartMs": 1551000,
+    "dDurationMs": 3120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "um\nthey"
+    } ]
+  }, {
+    "tStartMs": 1552960,
+    "dDurationMs": 4200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they just\njust can't like any small risk is almost"
+    } ]
+  }, {
+    "tStartMs": 1556360,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like\nthey just have this tremendous risk"
+    } ]
+  }, {
+    "tStartMs": 1559320,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "avoidance. And they couldn't trade like\nanybody any of the other traders. And"
+    } ]
+  }, {
+    "tStartMs": 1563440,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they can't make a lot of money. But what\nthey can do is just make a steady amount"
+    } ]
+  }, {
+    "tStartMs": 1567520,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of money month after month after month\nafter month. The total numbers are not"
+    } ]
+  }, {
+    "tStartMs": 1571520,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "impressive cuz they're not compounding.\nUh"
+    } ]
+  }, {
+    "tStartMs": 1574200,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they keep on trading the same size or\nmaybe uh one of them increased, you"
+    } ]
+  }, {
+    "tStartMs": 1579400,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know, a bit but but still trading way\nsmall. Uh"
+    } ]
+  }, {
+    "tStartMs": 1584920,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, I I've been I yes, I literally\nasked in the interview I said what you"
+    } ]
+  }, {
+    "tStartMs": 1589640,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you've got this incredible return real\nwhy don't you trade why don't you a"
+    } ]
+  }, {
+    "tStartMs": 1594640,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "little bigger.\n\u003e\u003e increase your size?"
+    } ]
+  }, {
+    "tStartMs": 1596640,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And just just comfortable doing it in\nthat way. It doesn't"
+    } ]
+  }, {
+    "tStartMs": 1600640,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's just in their nature, you know, I\nmean that's"
+    } ]
+  }, {
+    "tStartMs": 1603520,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's what gives them that this great\nreturn risk. It's just that's what"
+    } ]
+  }, {
+    "tStartMs": 1607560,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they're that's their great that's their\ngreat talent."
+    } ]
+  }, {
+    "tStartMs": 1611120,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "It sounds like their trading style or\ntrading strategies were born out of the"
+    } ]
+  }, {
+    "tStartMs": 1616760,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the personality of of the trader in\nterms of recognizing a certain level of"
+    } ]
+  }, {
+    "tStartMs": 1621480,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "risk tolerance and then designing\nthis trading strategy around that."
+    } ]
+  }, {
+    "tStartMs": 1626920,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "That's interesting the gamut of See,\npersonality is people think sometimes"
+    } ]
+  }, {
+    "tStartMs": 1630600,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there's common personalities in trading.\nMy God."
+    } ]
+  }, {
+    "tStartMs": 1634240,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "As different as can possibly be among\nthe population. But in the same book"
+    } ]
+  }, {
+    "tStartMs": 1638400,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "here you've you've got one guy\nwho's going through literally"
+    } ]
+  }, {
+    "tStartMs": 1643960,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "150 million drawdown\nuh more than once."
+    } ]
+  }, {
+    "tStartMs": 1648040,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And you have another chief You have\nother traders who like losing $10,000 is"
+    } ]
+  }, {
+    "tStartMs": 1652640,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like mind-boggling to them. So I mean\nthe the range of personalities that can"
+    } ]
+  }, {
+    "tStartMs": 1657760,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do either of those and it also shows you\nhow important trading your personality"
+    } ]
+  }, {
+    "tStartMs": 1662520,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is because picture either those guys\ntrying to trade like the other guy. It's"
+    } ]
+  }, {
+    "tStartMs": 1666400,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just\nit's my you know, you you can't imagine"
+    } ]
+  }, {
+    "tStartMs": 1669080,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it.\nAnd for the personality reason like and"
+    } ]
+  }, {
+    "tStartMs": 1673520,
+    "dDurationMs": 4200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for\nthe reason that there's hundreds of ways"
+    } ]
+  }, {
+    "tStartMs": 1676160,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to make money in the market and\neveryone's always like what's that one"
+    } ]
+  }, {
+    "tStartMs": 1679800,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "recipe? So for both of you I was kind of\ncurious as a fun question. I'm not"
+    } ]
+  }, {
+    "tStartMs": 1684360,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "asking for the one recipe to make money\ncuz there's thousands. But if your"
+    } ]
+  }, {
+    "tStartMs": 1688200,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "neighbor comes to you and asks, \"Oh, I\nwant to get into trading.\" Are you"
+    } ]
+  }, {
+    "tStartMs": 1692760,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "nudging them in any direction?\nUm either George or Jack."
+    } ]
+  }, {
+    "tStartMs": 1698080,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yeah.\nWell"
+    } ]
+  }, {
+    "tStartMs": 1700160,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "We can both answer this but I'll\nMy basic answer is that most people are"
+    } ]
+  }, {
+    "tStartMs": 1704880,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "better off not trading, okay?\nAnd most of the traders we I've"
+    } ]
+  }, {
+    "tStartMs": 1710120,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interviewed and interviewed with George\nin this book uh would agree with that."
+    } ]
+  }, {
+    "tStartMs": 1713840,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "The that most people shouldn't be\nshouldn't be trading. And yeah, you read"
+    } ]
+  }, {
+    "tStartMs": 1718360,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the first chapter Collemacina basically\nsays that, you know?"
+    } ]
+  }, {
+    "tStartMs": 1720800,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yeah. He says, \"Don't do you know, you\nhave his I was brother-in-law I think it",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1724360,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was. He was saying, \"Just don't do it.\"\nHe said, \"You know, all right, when I"
+    } ]
+  }, {
+    "tStartMs": 1727480,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "did this I was a single guy, you know, I\nspent 10 years with 80-hour weeks, and I"
+    } ]
+  }, {
+    "tStartMs": 1733800,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "had no obligations, and I\nyou know, you're going to have like 1"
+    } ]
+  }, {
+    "tStartMs": 1737280,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hour at night if you're lucky to trade.\nYou don't do it.\" So, for most people"
+    } ]
+  }, {
+    "tStartMs": 1741960,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the answer is\nunless it's like you do it small as a"
+    } ]
+  }, {
+    "tStartMs": 1745280,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hobby, and it's certainly certainly\nbetter than gambling or something like"
+    } ]
+  }, {
+    "tStartMs": 1749760,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cuz at least you have a chance to make\nmoney if you if you do it right."
+    } ]
+  }, {
+    "tStartMs": 1754840,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "But, for most people the advice is don't\ndo it cuz you don't have the the"
+    } ]
+  }, {
+    "tStartMs": 1759320,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "commitment and devotion and to do it or\ndo it very small, and if you end up"
+    } ]
+  }, {
+    "tStartMs": 1764480,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "having some sign of success, you can\ngrow it, but really start out small. So,"
+    } ]
+  }, {
+    "tStartMs": 1770040,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yes, I personally\ndon't encourage people to trade."
+    } ]
+  }, {
+    "tStartMs": 1773400,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Although,\nas Garrett said, yeah,"
+    } ]
+  }, {
+    "tStartMs": 1776520,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in this case, and it's I've been told\nthousands of times, so probably"
+    } ]
+  }, {
+    "tStartMs": 1779960,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "literally, people telling me that, you\nknow, I got them into the business."
+    } ]
+  }, {
+    "tStartMs": 1785360,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "For better or for worse, but they're\nstill in the business, so I guess it's"
+    } ]
+  }, {
+    "tStartMs": 1788280,
+    "dDurationMs": 3640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for better.\nIt's all right."
+    } ]
+  }, {
+    "tStartMs": 1790800,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e I guess\nI would my answer would be uh",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 1794640,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, in How to Trade in Stocks by\nJesse Livermore, there's a line where he"
+    } ]
+  }, {
+    "tStartMs": 1797760,
+    "dDurationMs": 4280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "says he's never been to a party where\nsomebody doesn't ask him, \"How do you"
+    } ]
+  }, {
+    "tStartMs": 1800520,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "make money in markets?\" And when he was\nyounger, he would go through all the"
+    } ]
+  }, {
+    "tStartMs": 1803240,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ways, and he says,\n\"As I've gotten older, my ans- my answer"
+    } ]
+  }, {
+    "tStartMs": 1806720,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is a blunt, I don't know.\" And the older\nI get, the more I kind of think about"
+    } ]
+  }, {
+    "tStartMs": 1811480,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that. I was also I read Reminiscences a\nlittle bit almost every day when I'm not"
+    } ]
+  }, {
+    "tStartMs": 1816440,
+    "dDurationMs": 4200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "doing other things. Strange guy, I\nguess."
+    } ]
+  }, {
+    "tStartMs": 1818720,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "But, uh there was a line this morning,\nand he was talking about how if if you"
+    } ]
+  }, {
+    "tStartMs": 1822440,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tell somebody to sell 5,000 steel, which\nwas I think US Steel back in the day,"
+    } ]
+  }, {
+    "tStartMs": 1827120,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "go short, they'll they're happy. But, if\nyou start talking to them about how you"
+    } ]
+  }, {
+    "tStartMs": 1830600,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "should do it and your thoughts on the\nmarkets and how to trade,"
+    } ]
+  }, {
+    "tStartMs": 1834080,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they look at you like you just you did\nsomething terrible to them, you know,"
+    } ]
+  }, {
+    "tStartMs": 1837200,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stepped on their toe. And so, what I\nwould probably tell people is start by"
+    } ]
+  }, {
+    "tStartMs": 1841640,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reading about the consistent principles\nthat are inherent to 100 years of"
+    } ]
+  }, {
+    "tStartMs": 1845440,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "traders. There's always exceptions to\nevery rule in trading, but for the most"
+    } ]
+  }, {
+    "tStartMs": 1849000,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "part, you know, the best guys, they\nrespect price action of the market, they"
+    } ]
+  }, {
+    "tStartMs": 1852680,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stick with their winners, and they cut\ntheir losses, and start with those"
+    } ]
+  }, {
+    "tStartMs": 1856040,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "principles and incorporate them into\nwhat you do, and I think you stand a"
+    } ]
+  }, {
+    "tStartMs": 1859520,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "reasonable chance if you're not too\nleveraged of surviving long enough to"
+    } ]
+  }, {
+    "tStartMs": 1863040,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "learn, but I think most people don't\nwant to hear that. They just want to"
+    } ]
+  }, {
+    "tStartMs": 1866320,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hear Apple's going up three bucks\ntomorrow, get long, sell on close,"
+    } ]
+  }, {
+    "tStartMs": 1870360,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you're good. So, um yeah, I find myself,\nI guess the older I get, sort of"
+    } ]
+  }, {
+    "tStartMs": 1875640,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conflicted as to what to say. I find\nmyself thinking that I don't know. Might"
+    } ]
+  }, {
+    "tStartMs": 1879760,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "read the book, you know, might be a good\nanswer. Um but yeah, it's uh"
+    } ]
+  }, {
+    "tStartMs": 1884040,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Anyway, I would say start with the\nprinciples. Start with the I guess the"
+    } ]
+  }, {
+    "tStartMs": 1886960,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fundamental principles of trading, and\nthen build from there, and read the"
+    } ]
+  }, {
+    "tStartMs": 1890800,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Wizard series cuz you're going to learn\ndifferent styles and try things. Um"
+    } ]
+  }, {
+    "tStartMs": 1895000,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "But uh but yeah, that's that's the best\nI got, I guess. I like both those"
+    } ]
+  }, {
+    "tStartMs": 1898840,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "answers. I mean, I have buddies that\nwill just ask me what's going up, and"
+    } ]
+  }, {
+    "tStartMs": 1903120,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I'm like, that's not even close to what\nwe do at SMB."
+    } ]
+  }, {
+    "tStartMs": 1906400,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And both of you have a very unique,\nvery, very unique perspective because of"
+    } ]
+  }, {
+    "tStartMs": 1910600,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the amount of traders that you've\ninterviewed, and"
+    } ]
+  }, {
+    "tStartMs": 1914680,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I don't Not many people in the business\nprobably have that breadth of"
+    } ]
+  }, {
+    "tStartMs": 1919040,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "perspective, and so\nwhat if I'm just curious like if it What"
+    } ]
+  }, {
+    "tStartMs": 1922800,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if a very dedicated trader comes to you\nwho can do it full time, who"
+    } ]
+  }, {
+    "tStartMs": 1928720,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "has some talent.\nUm but they're looking to find their"
+    } ]
+  }, {
+    "tStartMs": 1932200,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "way, right? They might not have\ncrossed that threshold."
+    } ]
+  }, {
+    "tStartMs": 1937040,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "You know, it sounds like one of the\nthings that keeps coming up is this sort"
+    } ]
+  }, {
+    "tStartMs": 1940480,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of like know who you are, know your\npersonality. A lot of the people who"
+    } ]
+  }, {
+    "tStartMs": 1944360,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have become successful have found what\nworks for them."
+    } ]
+  }, {
+    "tStartMs": 1948720,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "What would your advice be for that\nperson if they're just simply asking you"
+    } ]
+  }, {
+    "tStartMs": 1953160,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like how How do I find my way?\nYeah, so um"
+    } ]
+  }, {
+    "tStartMs": 1957880,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you have to find your own methodology\nand I would say that uh"
+    } ]
+  }, {
+    "tStartMs": 1962800,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "probably, I don't know if it's more than\nhalf the time, but a good percentage of"
+    } ]
+  }, {
+    "tStartMs": 1966200,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "time whatever people start out with is\nnot what they're going to end up with,"
+    } ]
+  }, {
+    "tStartMs": 1970520,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right? So, so it doesn't mean that\nwhatever you land on in the beginning is"
+    } ]
+  }, {
+    "tStartMs": 1975240,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to be the the answer. Uh\nAnd so, but you have to start somewhere"
+    } ]
+  }, {
+    "tStartMs": 1980520,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and you have to find some approach. So,\nI I I advise people, you know,"
+    } ]
+  }, {
+    "tStartMs": 1985560,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "read, you know, read different books. Uh\nNot not to get something on a silver"
+    } ]
+  }, {
+    "tStartMs": 1990960,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "platter, you know, this is how you know,\nyou're not looking for a cookbook."
+    } ]
+  }, {
+    "tStartMs": 1994800,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "You're looking to get ideas.\nAnd I don't I remember who said it, but"
+    } ]
+  }, {
+    "tStartMs": 1999000,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he says, \"If you read a book and you get\none good idea, then you've gotten"
+    } ]
+  }, {
+    "tStartMs": 2002280,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "something of value out of that.\" But all\nyou're trying to do is pull some ideas"
+    } ]
+  }, {
+    "tStartMs": 2006000,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and things that you can maybe test,\ncheck out. Coolamatee, for example,"
+    } ]
+  }, {
+    "tStartMs": 2010840,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mentions that\nwhat he did is like he got to everything"
+    } ]
+  }, {
+    "tStartMs": 2013880,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "from somebody else, but he spent\nthousands of hours checking out anything"
+    } ]
+  }, {
+    "tStartMs": 2018680,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he was considering. Uh so, he would he\nwould check many thousands of trades and"
+    } ]
+  }, {
+    "tStartMs": 2023560,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "see if it's\nif it does really work and so forth. So,"
+    } ]
+  }, {
+    "tStartMs": 2027480,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you books are a good source idea. Of\ncourse, today you have all sorts of"
+    } ]
+  }, {
+    "tStartMs": 2031680,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "social media, which, you know, is a\nsource of ideas. So, you're looking for"
+    } ]
+  }, {
+    "tStartMs": 2035800,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ideas. You're looking at things that\nresonate. You got to go with uh"
+    } ]
+  }, {
+    "tStartMs": 2040200,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what feels right to you, what you\nbelieve in. If you're if you're uh"
+    } ]
+  }, {
+    "tStartMs": 2045200,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh sitting about technical analysis,\ndon't start, you know, try try the"
+    } ]
+  }, {
+    "tStartMs": 2049120,
+    "dDurationMs": 8799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "fundamental approach and vice versa. If\nyou don't like fundamentals, but the the"
+    } ]
+  }, {
+    "tStartMs": 2054600,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quantitative side of technical analysis\nappeals to you, try that. You know, just"
+    } ]
+  }, {
+    "tStartMs": 2059639,
+    "dDurationMs": 6881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "try things that that And the other big\nadvice would be start small."
+    } ]
+  }, {
+    "tStartMs": 2065440,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Um\none thing I I've I've given this advice"
+    } ]
+  }, {
+    "tStartMs": 2069240,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "over and over again. I do it myself,\ntoo. And I'm not a trader, by the way. I"
+    } ]
+  }, {
+    "tStartMs": 2073360,
+    "dDurationMs": 5319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I trade as a hobby. I\nYou know, lately last few months I've"
+    } ]
+  }, {
+    "tStartMs": 2076280,
+    "dDurationMs": 7720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "been trading actively, but I normally\ndon't. I just got into it and things are"
+    } ]
+  }, {
+    "tStartMs": 2081159,
+    "dDurationMs": 7561,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going okay, so I trade. But, uh I can\nstop at any point. And if I get too busy"
+    } ]
+  }, {
+    "tStartMs": 2086360,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with all this stuff, I'll stop. Uh so,\npreface, I'm not a trader. But, one"
+    } ]
+  }, {
+    "tStartMs": 2090560,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thing I've always done is when I when I\ndo start trading again,"
+    } ]
+  }, {
+    "tStartMs": 2094720,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I start with a relatively small amount.\nAnd um I have a number that if I lose a"
+    } ]
+  }, {
+    "tStartMs": 2100680,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "certain small amount, I'll stop. And I\ndo that all the time. I If things are"
+    } ]
+  }, {
+    "tStartMs": 2104440,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not going right, I stop. I come back in\na few months. Doesn't make a difference."
+    } ]
+  }, {
+    "tStartMs": 2107880,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So, I can never lose very, very much.\nAnd that's That's a really good piece of"
+    } ]
+  }, {
+    "tStartMs": 2112080,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "advice, I think, in general.\nParticularly people getting into the"
+    } ]
+  }, {
+    "tStartMs": 2115440,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "into trading, is don't\nIf you got what you think is $500,000 of"
+    } ]
+  }, {
+    "tStartMs": 2120560,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "capital, risk capital, don't take\n$500,000 and open account. You know,"
+    } ]
+  }, {
+    "tStartMs": 2124960,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "take 25,000. I mean, take some small\nParticularly when you're beginning, take"
+    } ]
+  }, {
+    "tStartMs": 2129360,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "some small number. And uh\nand and so you can't"
+    } ]
+  }, {
+    "tStartMs": 2134280,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you can't do too much damage. And you'll\nhave opportunities to try again and"
+    } ]
+  }, {
+    "tStartMs": 2138680,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "again, which is necessary, as we've\ntalked about, for many market wizards as"
+    } ]
+  }, {
+    "tStartMs": 2142840,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "well. They They didn't have If they\ndidn't If they couldn't come back and"
+    } ]
+  }, {
+    "tStartMs": 2146240,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "try several [snorts] times, they\nwouldn't have made it."
+    } ]
+  }, {
+    "tStartMs": 2149720,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "George, you want to\nSure. Uh first, that I took some notes"
+    } ]
+  }, {
+    "tStartMs": 2153800,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "over here that I'll\nuh just with my thoughts. But, that that"
+    } ]
+  }, {
+    "tStartMs": 2157200,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "question is a It's a can of worms, and\nto address it properly would be very"
+    } ]
+  }, {
+    "tStartMs": 2161080,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "difficult quickly. Um\nyou can write books on that. But, I"
+    } ]
+  }, {
+    "tStartMs": 2165960,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think the one thing to me is\nit's a tough Finding the the"
+    } ]
+  }, {
+    "tStartMs": 2170520,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "temperament, the strategy that suits\nyour temperament is very difficult,"
+    } ]
+  }, {
+    "tStartMs": 2173480,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because nothing in trading, any kind of\ntrading, is really inherently"
+    } ]
+  }, {
+    "tStartMs": 2176680,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "comfortable to human beings.\nSo, it becomes sort of a cleanest dirty"
+    } ]
+  }, {
+    "tStartMs": 2180640,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "shirt problem. Like, if you want to wear\na shirt, you got to wear one. They're"
+    } ]
+  }, {
+    "tStartMs": 2183960,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all dirty. Which one are you going to\nwear? I I think one of the best ways to"
+    } ]
+  }, {
+    "tStartMs": 2188120,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do that is to study the different styles\nand, you know, at the risk of plugging"
+    } ]
+  }, {
+    "tStartMs": 2192480,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the book in the books,\none of the great things about the Wizard"
+    } ]
+  }, {
+    "tStartMs": 2195200,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "series is that you get to see a bunch of\ndifferent styles and hear from people"
+    } ]
+  }, {
+    "tStartMs": 2198720,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "first hand, so it gives you ideas um as\nto what you want to do. And then you can"
+    } ]
+  }, {
+    "tStartMs": 2204000,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "start to look at things like do you want\nto live in front of a screen? If you're"
+    } ]
+  }, {
+    "tStartMs": 2207160,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a day trader, you're in front of that\nscreen,"
+    } ]
+  }, {
+    "tStartMs": 2209760,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, eight whatever at least six\nand a half hours a day, potentially"
+    } ]
+  }, {
+    "tStartMs": 2213160,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "eight, 10, whatever it may be. You know,\nthe two guys in the book who never lose"
+    } ]
+  }, {
+    "tStartMs": 2216800,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "money, they're in front of those screens\n14, 16 hours a day. Um and they might"
+    } ]
+  }, {
+    "tStartMs": 2221360,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "get to like go get a coffee or walk\naway, but then they're back. Uh one"
+    } ]
+  }, {
+    "tStartMs": 2225680,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thing I've found over time is if you\nsort of have to ask yourself, \"Well, is"
+    } ]
+  }, {
+    "tStartMs": 2228520,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this right for me?\" And yeah, the\nanswer's probably no. Um so, I would"
+    } ]
+  }, {
+    "tStartMs": 2232760,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "keep that in mind too in whittling down\nthe the universe of options, but there's"
+    } ]
+  }, {
+    "tStartMs": 2236840,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actually this quote that I took a\nscreenshot of. I don't know this guy,"
+    } ]
+  }, {
+    "tStartMs": 2240560,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but I think it's relevant here. His name\nis Jay Yang. Um his Twitter is Jay Yang"
+    } ]
+  }, {
+    "tStartMs": 2244440,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Inspired, and I know nothing about him,\nbut this popped up on my feed the other"
+    } ]
+  }, {
+    "tStartMs": 2248480,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "day and I thought it was a very cool\nquote and I think it's relevant here."
+    } ]
+  }, {
+    "tStartMs": 2252160,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And so, he says, \"A wise mentor once\ntold me, 'Before you play the game,"
+    } ]
+  }, {
+    "tStartMs": 2255640,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "study the winners. If you don't want\ntheir life, don't play their game.'\""
+    } ]
+  }, {
+    "tStartMs": 2259280,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And I think everybody says, \"Well, yeah,\nI want to be rich. That's why I want to"
+    } ]
+  }, {
+    "tStartMs": 2262240,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trade.\" But there there's differences,\nright? I mean, you look at a guy like"
+    } ]
+  }, {
+    "tStartMs": 2265800,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Lance or or Kenny and and they're in\nfront of that screen a lot, and there's"
+    } ]
+  }, {
+    "tStartMs": 2270280,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "definitely other guys like uh Christian\nKlemagi, for example, he went away from"
+    } ]
+  }, {
+    "tStartMs": 2275560,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "day trading cuz he wanted to check in a\ncouple times a day, not sit in front of"
+    } ]
+  }, {
+    "tStartMs": 2279560,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the screen all day. So, I think if you\ntake that quote and that philosophy, you"
+    } ]
+  }, {
+    "tStartMs": 2283640,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know, study the lives of the people that\nyou in theory want to try to be like as"
+    } ]
+  }, {
+    "tStartMs": 2288280,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "traders,\nforget about the money. Just like if you"
+    } ]
+  }, {
+    "tStartMs": 2291360,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everybody got paid the same thing or\nyou'd make the same amount of money,"
+    } ]
+  }, {
+    "tStartMs": 2293760,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like which strategy sounds well suited\nto you? And try to do that. But, you"
+    } ]
+  }, {
+    "tStartMs": 2298840,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know, all that said, we [clears throat]\ncould all read a book about riding a"
+    } ]
+  }, {
+    "tStartMs": 2302240,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bike all the livelong day and it's going\nto help us maybe a little when we get on"
+    } ]
+  }, {
+    "tStartMs": 2305560,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the bike, but you got to ride the bike\nto figure it out. So, you really only"
+    } ]
+  }, {
+    "tStartMs": 2308880,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "learn your own temperament by\nby experience essentially. So, you have"
+    } ]
+  }, {
+    "tStartMs": 2312720,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to kind of start doing things. I think\nyou can narrow it down with what Jack"
+    } ]
+  }, {
+    "tStartMs": 2315920,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "said, what I said, but then maybe you\nget in there and you're like, \"Oh, this"
+    } ]
+  }, {
+    "tStartMs": 2319000,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is terrible. I want to be a day trader.\"\nUm so, I think it's a big as I said at"
+    } ]
+  }, {
+    "tStartMs": 2322880,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the beginning can of worms and there's a\nlot that goes into that. It's"
+    } ]
+  }, {
+    "tStartMs": 2325600,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "unfortunately not just an easy answer.\nAnd that's what they tell us starting at"
+    } ]
+  }, {
+    "tStartMs": 2330600,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "SMB as well. Like right when you enter\nand they're like try a bunch of"
+    } ]
+  }, {
+    "tStartMs": 2334080,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "different strategies, learn from guys on\nthe desk. You've no idea what's going to"
+    } ]
+  }, {
+    "tStartMs": 2337600,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really suit you or where you might have\nedge. Um so, it's good to experiment to"
+    } ]
+  }, {
+    "tStartMs": 2341920,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "start.\nI like that quote though. That's a great"
+    } ]
+  }, {
+    "tStartMs": 2345640,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quote.\nDo you want to play the game? Yeah, do"
+    } ]
+  }, {
+    "tStartMs": 2348840,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you want to play the game?\nYou want their life. Yeah, that's uh"
+    } ]
+  }, {
+    "tStartMs": 2352760,
+    "dDurationMs": 4040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's I think it's important question in\nall aspects of life, not just trading."
+    } ]
+  }, {
+    "tStartMs": 2356717,
+    "dDurationMs": 2803,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e [snorts]\n\u003e\u003e Well, you do have a couple of you do",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2358120,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have a couple of traders in this book,\nWendel."
+    } ]
+  }, {
+    "tStartMs": 2360600,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Uh kind of\nafter making all this money saying,"
+    } ]
+  }, {
+    "tStartMs": 2363880,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\"Hey, do I really want to do this\nanymore? You know, it's uh uh Lance"
+    } ]
+  }, {
+    "tStartMs": 2367840,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "being one of them.\nAnd struggling with it cuz right you got"
+    } ]
+  }, {
+    "tStartMs": 2371920,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this they they deal with this paradox,\nyou know, they're so good at it. You"
+    } ]
+  }, {
+    "tStartMs": 2376000,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know, if they stop trading, they're\nthey're literally walking away from"
+    } ]
+  }, {
+    "tStartMs": 2379000,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "making tens of millions a year. And um\nuh and then the other hand"
+    } ]
+  }, {
+    "tStartMs": 2384560,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they won't they want to they don't want\nto it's not the way they want to devote"
+    } ]
+  }, {
+    "tStartMs": 2387760,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all their time and use their life. And\nand this is a you get the real one of"
+    } ]
+  }, {
+    "tStartMs": 2392040,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the things that comes out in the couple\nof these chapters is the struggle once"
+    } ]
+  }, {
+    "tStartMs": 2395840,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they've been very successful with\ndo they want to continue and how do they"
+    } ]
+  }, {
+    "tStartMs": 2399760,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "balance it? And uh there's more to life\nthan trading. I think that's there's"
+    } ]
+  }, {
+    "tStartMs": 2405040,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "more to life than trading. I think it's\na it's a direct quote that I I end up"
+    } ]
+  }, {
+    "tStartMs": 2408760,
+    "dDurationMs": 3200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "one of my summaries with."
+    } ]
+  }, {
+    "tStartMs": 2412720,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yeah, and then Lance Lance is a he's an\ninteresting case because I mean I have"
+    } ]
+  }, {
+    "tStartMs": 2417120,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to laugh like he I feel like he's kind\nof transitioned into the"
+    } ]
+  }, {
+    "tStartMs": 2420720,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ultra selectivity mode where, you know,\nhe's in there helping us out, giving"
+    } ]
+  }, {
+    "tStartMs": 2425560,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "back to the community,\nyou know, focusing on his health, doing"
+    } ]
+  }, {
+    "tStartMs": 2429240,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all kinds of things and then a a huge\nopportunity will just pop up out of the"
+    } ]
+  }, {
+    "tStartMs": 2433120,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "market\nand then boom, you just you hear from"
+    } ]
+  }, {
+    "tStartMs": 2435880,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Lance and he's trading it. And then he\ngoes back to"
+    } ]
+  }, {
+    "tStartMs": 2437720,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e giving back is also a uh\nit's kind of an odd thing and",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2442120,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "specifically in Lance's case because\nthere are so many charlatans out there"
+    } ]
+  }, {
+    "tStartMs": 2446800,
+    "dDurationMs": 5080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "who uh\nwho are selling their services which are"
+    } ]
+  }, {
+    "tStartMs": 2449840,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not worth much and uh\nthey're they're market wizards in the"
+    } ]
+  }, {
+    "tStartMs": 2454160,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sense that they\nthey make money because they sell their"
+    } ]
+  }, {
+    "tStartMs": 2457720,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "services which is uh\nyou know, I think it's a line that"
+    } ]
+  }, {
+    "tStartMs": 2461280,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Rogers used in my original interview\nwith him. But um"
+    } ]
+  }, {
+    "tStartMs": 2465400,
+    "dDurationMs": 9680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you have that and Lance's motivation is\nhe wants to teach other people but yeah,"
+    } ]
+  }, {
+    "tStartMs": 2472400,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but it's because he's because he's he's\nselling some of the stuff away and some"
+    } ]
+  }, {
+    "tStartMs": 2476280,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of it he charges but because he's\ncharging for some of it, people then"
+    } ]
+  }, {
+    "tStartMs": 2479640,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "throw him in the bucket with uh\nwith with these other guys and and it's"
+    } ]
+  }, {
+    "tStartMs": 2484560,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "kind of crazy. People who've never read\nthe book, don't know Lance, don't know"
+    } ]
+  }, {
+    "tStartMs": 2487600,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "anything but they see that he sells the\nservices kind of assume, \"Hey, you guys"
+    } ]
+  }, {
+    "tStartMs": 2492080,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "are just being hoodwinked here, you\nknow, you're you got a guy in a book uh"
+    } ]
+  }, {
+    "tStartMs": 2495640,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "who's selling the services and you know,\nmeanwhile, we've gone through the"
+    } ]
+  }, {
+    "tStartMs": 2499720,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "statements and we know we know we know\nin in in"
+    } ]
+  }, {
+    "tStartMs": 2503600,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Lance's case uh both by talking to\npeople, you know,"
+    } ]
+  }, {
+    "tStartMs": 2508200,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "at your firm and uh and going through\nstatements and"
+    } ]
+  }, {
+    "tStartMs": 2512440,
+    "dDurationMs": 3720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh\nseeing screenshots from his prop days"
+    } ]
+  }, {
+    "tStartMs": 2515080,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and stuff, you know, lots of different\nsources, tax tax returns, I think even,"
+    } ]
+  }, {
+    "tStartMs": 2518480,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "whatever. But uh\nsome people just go by the fact, \"Oh,"
+    } ]
+  }, {
+    "tStartMs": 2522800,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he's selling the services. He can't be\nreal, you know.\""
+    } ]
+  }, {
+    "tStartMs": 2525440,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Uh and he's not selling the services for\nmoney. He's He's just putting it out and"
+    } ]
+  }, {
+    "tStartMs": 2529400,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "charging for some of it because\nuh it people I think he even says that"
+    } ]
+  }, {
+    "tStartMs": 2534240,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and it's true if you give something away\npeople will value it less. People will"
+    } ]
+  }, {
+    "tStartMs": 2537840,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pay more attention if they're paying\nsomething for it."
+    } ]
+  }, {
+    "tStartMs": 2540800,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "But it's\nin this case he's actually losing money"
+    } ]
+  }, {
+    "tStartMs": 2544840,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because we thought he made this this\nvideo series and"
+    } ]
+  }, {
+    "tStartMs": 2548760,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "while he's doing this video series he's\nleaves a straight along where he's"
+    } ]
+  }, {
+    "tStartMs": 2553040,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he's got this huge trade which is\nimpacting by I don't know tens of"
+    } ]
+  }, {
+    "tStartMs": 2556840,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "millions or whatever and meanwhile he's\ndoing this I mean he's not going to make"
+    } ]
+  }, {
+    "tStartMs": 2561000,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that on selling the course for 5 10\nyears you know so."
+    } ]
+  }, {
+    "tStartMs": 2566320,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "He he doesn't need that that that video\nmoney."
+    } ]
+  }, {
+    "tStartMs": 2570160,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "At all and one interesting part about\nLance too is he's his process to me I've"
+    } ]
+  }, {
+    "tStartMs": 2575200,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "always found it so simple. Like we\ntalked about Shark being this ultra"
+    } ]
+  }, {
+    "tStartMs": 2578480,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "complex\ntrader and and and Lance loves to at"
+    } ]
+  }, {
+    "tStartMs": 2582200,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "least with his communication to us like\ntry to simplify everything down to like"
+    } ]
+  }, {
+    "tStartMs": 2587400,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the the essential elements. Like take a\ntrade what are like the three most"
+    } ]
+  }, {
+    "tStartMs": 2591200,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "important things to do here. I've always\nappreciated that about him. He's always"
+    } ]
+  }, {
+    "tStartMs": 2595160,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "talking about that broken slot machine.\nWhich is a really great concept because"
+    } ]
+  }, {
+    "tStartMs": 2599520,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I think like new traders can relate to\nit. Right? I think if you like if I were"
+    } ]
+  }, {
+    "tStartMs": 2604200,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like I could if like even could explain\nwhat Shark is doing"
+    } ]
+  }, {
+    "tStartMs": 2608280,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I think a new traders eyes would glaze\nover but you can start to talk about"
+    } ]
+  }, {
+    "tStartMs": 2612040,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what Lance is doing and I think it's it\nI've always found it like immediately"
+    } ]
+  }, {
+    "tStartMs": 2616120,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "relatable. Did you pick up on that when\nyou talked to him?"
+    } ]
+  }, {
+    "tStartMs": 2621720,
+    "dDurationMs": 3440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "George?\nUh"
+    } ]
+  }, {
+    "tStartMs": 2624040,
+    "dDurationMs": 3960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I think\nyou know one of the things you find when"
+    } ]
+  }, {
+    "tStartMs": 2626160,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you do these interviews is traders are\noften not the best at articulating"
+    } ]
+  }, {
+    "tStartMs": 2630280,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "themselves and what they do.\nAnd I think that in my opinion the books"
+    } ]
+  }, {
+    "tStartMs": 2635000,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "will always\nhave a special place because you sort of"
+    } ]
+  }, {
+    "tStartMs": 2639080,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have to over time go back to them and\niron out things that um"
+    } ]
+  }, {
+    "tStartMs": 2643480,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "maybe aren't contradictory but it's of\nthey have to fit better together."
+    } ]
+  }, {
+    "tStartMs": 2648080,
+    "dDurationMs": 8600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Uh and I guess as I say that, you know,\nLance in my opinion was one of the"
+    } ]
+  }, {
+    "tStartMs": 2653040,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "better ones in terms of his ability to\narticulate what he does pretty clearly"
+    } ]
+  }, {
+    "tStartMs": 2658760,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and concisely without much necessary\nfollow-up."
+    } ]
+  }, {
+    "tStartMs": 2662000,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Um comparatively, you know, you take a\nguy like Kenny and he's very good at"
+    } ]
+  }, {
+    "tStartMs": 2666200,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "articulating what he does in terms of\ntrade by trade, but getting it the"
+    } ]
+  }, {
+    "tStartMs": 2671040,
+    "dDurationMs": 8600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entire thing took some some doing to\nunderstand. So, um yeah, I guess what I"
+    } ]
+  }, {
+    "tStartMs": 2675920,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "would say is just Lance I think has has\nit is probably by virtue of how much of"
+    } ]
+  }, {
+    "tStartMs": 2681760,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he's out in the public eye, he's gotten\npretty good at at articulating what he"
+    } ]
+  }, {
+    "tStartMs": 2685920,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "does in a fairly succinct way. Um my\npersonal opinion is that even with"
+    } ]
+  }, {
+    "tStartMs": 2690840,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "complexity and you guys might know\nbetter than we do, but um"
+    } ]
+  }, {
+    "tStartMs": 2695360,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I think Kenny what might look like\ncomplexity is really just a lot of"
+    } ]
+  }, {
+    "tStartMs": 2699400,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "different trading styles or trades, if\nyou want to call them strategies,"
+    } ]
+  }, {
+    "tStartMs": 2703320,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "whatever you want to call them, that\nhe's gathered over, you know, 20 years"
+    } ]
+  }, {
+    "tStartMs": 2707080,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of doing this. So, I think that's\nimportant to for people to understand as"
+    } ]
+  }, {
+    "tStartMs": 2710920,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "well. It's not like he just day one had\n50 trading strategies that he pulls from"
+    } ]
+  }, {
+    "tStartMs": 2715520,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if you're in different kinds of\nenvironments. He's gradually built up"
+    } ]
+  }, {
+    "tStartMs": 2719320,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "his repository of trades over time. Um\nso, yeah, hopefully that helps and adds"
+    } ]
+  }, {
+    "tStartMs": 2724400,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a little bit extra. And some of the\ncomplexity is like how he could stay in"
+    } ]
+  }, {
+    "tStartMs": 2728000,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a trade\num in a better way with some of the"
+    } ]
+  }, {
+    "tStartMs": 2731040,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "option strategies. Yeah. So, it's like\nthe still the one trade, but then he's"
+    } ]
+  }, {
+    "tStartMs": 2735520,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just finding better ways to express\nthese trades."
+    } ]
+  }, {
+    "tStartMs": 2739120,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So, I've seen. With that in mind, um I'm\ncurious to ask about like the interview"
+    } ]
+  }, {
+    "tStartMs": 2744120,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "process and the writing process cuz\nthere are different personality types,"
+    } ]
+  }, {
+    "tStartMs": 2748400,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but how did you guys prepare for each of\nthe interviews for this latest book?"
+    } ]
+  }, {
+    "tStartMs": 2753400,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Well, in my case, I\nI don't prepare much at all."
+    } ]
+  }, {
+    "tStartMs": 2757360,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Interesting. And I mean, just the basics\nand uh know about the"
+    } ]
+  }, {
+    "tStartMs": 2762360,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the person to some you know basics but\nnot not a lot."
+    } ]
+  }, {
+    "tStartMs": 2766120,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And I [clears throat] really depend on\nthe interview to try to draw the person"
+    } ]
+  }, {
+    "tStartMs": 2769400,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "out and\nuh and as I told George before we got"
+    } ]
+  }, {
+    "tStartMs": 2772680,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "involved working together that um\nyou try to"
+    } ]
+  }, {
+    "tStartMs": 2776960,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "try to have a conversation. Don't go in\nwith like a list of questions. I mean"
+    } ]
+  }, {
+    "tStartMs": 2780680,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you can have your backup questions but\ntry to pay attention to what the answers"
+    } ]
+  }, {
+    "tStartMs": 2784880,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "are cuz a lot of the best stuff\nwill come by going off tangents of what"
+    } ]
+  }, {
+    "tStartMs": 2789200,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the answers are. And if you're\nuh you know"
+    } ]
+  }, {
+    "tStartMs": 2792680,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the go on a tangent here, you know, one\nof the things I say is if you want to"
+    } ]
+  }, {
+    "tStartMs": 2797040,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "learn something there's two ways of\ndoing it. Watch people who do it well or"
+    } ]
+  }, {
+    "tStartMs": 2800960,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "watch people who do it poorly. Now, the\ninterview process person doing it poorly"
+    } ]
+  }, {
+    "tStartMs": 2805520,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and I've been on the other side of this,\nyou know, sometimes get an interviewer"
+    } ]
+  }, {
+    "tStartMs": 2808680,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and you could you don't see them. It's\nnot like they're it's not a video. But,"
+    } ]
+  }, {
+    "tStartMs": 2812880,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, it's a phone call and you can\njust hear them or see them. I'm saying"
+    } ]
+  }, {
+    "tStartMs": 2816840,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "vision not see them physically but see\nthem in your mind. Ticking off the"
+    } ]
+  }, {
+    "tStartMs": 2820760,
+    "dDurationMs": 4280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "questions, you know, they're they're not\npaying attention to what you're saying."
+    } ]
+  }, {
+    "tStartMs": 2823640,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "They're just getting off their list of\nquestions. That's how not to do it. And"
+    } ]
+  }, {
+    "tStartMs": 2827720,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so\nthe preparation isn't you know, you it's"
+    } ]
+  }, {
+    "tStartMs": 2831800,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "important only to give you topics to\ntalk about but you want to be in the"
+    } ]
+  }, {
+    "tStartMs": 2837280,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "conversation. You don't want to be\noverly prepared in the sense of having a"
+    } ]
+  }, {
+    "tStartMs": 2841480,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "big list of questions and stuff like\nthat. So, that's my my own approach and"
+    } ]
+  }, {
+    "tStartMs": 2846400,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and the conversation I would just say it\nhere that the actual interview itself"
+    } ]
+  }, {
+    "tStartMs": 2851240,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "how many hours it is or whatever is only\nthe beginning process. To get that into"
+    } ]
+  }, {
+    "tStartMs": 2856120,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what you read in the book is 98% of the\nwork. I told that to George. I don't"
+    } ]
+  }, {
+    "tStartMs": 2860000,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think he he believed me in the beginning\nbut I think he does now."
+    } ]
+  }, {
+    "tStartMs": 2864880,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I do. Uh my answer would be I I\nI totally agree with Jack, you know, he"
+    } ]
+  }, {
+    "tStartMs": 2870680,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is the master of knows but I prepare a\nlot for the interviews."
+    } ]
+  }, {
+    "tStartMs": 2875200,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Mainly somewhat to have questions but I\nif there's something that I think"
+    } ]
+  }, {
+    "tStartMs": 2880280,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we should really consider including,\nI'll try to identify that in something"
+    } ]
+  }, {
+    "tStartMs": 2884520,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "somebody has read or said or or sorry,\nwritten or or said uh somewhere before"
+    } ]
+  }, {
+    "tStartMs": 2890440,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we go in. So, I'll try to have\nbackground stuff and try to lead it"
+    } ]
+  }, {
+    "tStartMs": 2894160,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there without steering them into a sort\nof a rapid-fire, you know, da da da da"
+    } ]
+  }, {
+    "tStartMs": 2898960,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "da da type of uh question-style\ninterview. Uh as far as the writing,"
+    } ]
+  }, {
+    "tStartMs": 2903280,
+    "dDurationMs": 4280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yeah, you know, I guess I never really\nthought about it. I was a reader. I"
+    } ]
+  }, {
+    "tStartMs": 2906160,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "never had any intention of writing one\nof these. It's it's great that I am."
+    } ]
+  }, {
+    "tStartMs": 2909240,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "It's the story's in the beginning of the\nbook. But, I guess I kind of figured"
+    } ]
+  }, {
+    "tStartMs": 2913240,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Jack just pressed record on a tape\nrecorder. They had a conversation, and"
+    } ]
+  }, {
+    "tStartMs": 2916680,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "then he went home and transcribed it,\nand that was it. And that's dead wrong."
+    } ]
+  }, {
+    "tStartMs": 2920640,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Uh\nthese things, I don't know if you guys"
+    } ]
+  }, {
+    "tStartMs": 2922720,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ever look at the transcripts of of\npodcasts or interviews that you do, but"
+    } ]
+  }, {
+    "tStartMs": 2927840,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people have vocal disfluencies, the ums,\nthe ahs, the you knows, um there's one I"
+    } ]
+  }, {
+    "tStartMs": 2933000,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just did, but\nwhen you read what people say, it's"
+    } ]
+  }, {
+    "tStartMs": 2936640,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really choppy. It's brutal a lot of the\ntime. And that goes for me as well. And"
+    } ]
+  }, {
+    "tStartMs": 2941680,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so, you have to turn that into something\nthat people can read, and Jack, I think"
+    } ]
+  }, {
+    "tStartMs": 2946560,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your your [clears throat]\ncomment is that about 5% of the work is"
+    } ]
+  }, {
+    "tStartMs": 2950040,
+    "dDurationMs": 3800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the interview, and 95% is what comes\nafter."
+    } ]
+  }, {
+    "tStartMs": 2952680,
+    "dDurationMs": 3720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Yes.\nYep.",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 2954840,
+    "dDurationMs": 4200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yeah, I'd say that's that's about right.\nSometimes it gets a little easier than"
+    } ]
+  }, {
+    "tStartMs": 2957840,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that, but for the most part, there's a\nlot of work to do, and you'll find these"
+    } ]
+  }, {
+    "tStartMs": 2961960,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they're not necessarily, as I was saying\nearlier, contradictions, but they're"
+    } ]
+  }, {
+    "tStartMs": 2964720,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just factors that you have to go back\nand really be like, \"Hey, you said this"
+    } ]
+  }, {
+    "tStartMs": 2969080,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and this, and these don't totally work\ntogether. Make this make sense so that"
+    } ]
+  }, {
+    "tStartMs": 2972760,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we can make it make sense.\" And I think\nthat's, again, part of the reason the"
+    } ]
+  }, {
+    "tStartMs": 2976160,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "books will always be great. It's hard to\ndo that on a podcast without making"
+    } ]
+  }, {
+    "tStartMs": 2979160,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "somebody look like a bozo, and then they\nwon't want to come back on your podcast,"
+    } ]
+  }, {
+    "tStartMs": 2983400,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "or nobody else will. So, that's the\nprocess. There's definitely a lot of um"
+    } ]
+  }, {
+    "tStartMs": 2987360,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "follow-up and clarification necessary,\nessentially, to create the finished"
+    } ]
+  }, {
+    "tStartMs": 2991480,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "product. Right. Hopefully we're doing a\ngood job here. Yeah. [laughter]"
+    } ]
+  }, {
+    "tStartMs": 2995920,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yeah.\nIt's a different medium. So,"
+    } ]
+  }, {
+    "tStartMs": 2998880,
+    "dDurationMs": 8360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what what may sound fine in a podcast if\nor or any verbal exchange, when you"
+    } ]
+  }, {
+    "tStartMs": 3005120,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "transcribe it to paper, believe me, it\nis a goddamn mess."
+    } ]
+  }, {
+    "tStartMs": 3008920,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "It is awful.\nPeople go off, you know, don't finish"
+    } ]
+  }, {
+    "tStartMs": 3012160,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sentences, they they talk about three\nthings in the same, you know, answer."
+    } ]
+  }, {
+    "tStartMs": 3018280,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "The same thing comes up in different\nplaces."
+    } ]
+  }, {
+    "tStartMs": 3021520,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "The sentences are not completed.\nThoughts are not It's a total mess. It"
+    } ]
+  }, {
+    "tStartMs": 3025800,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sounds okay because in conversation\nthat's normal and it doesn't stick out."
+    } ]
+  }, {
+    "tStartMs": 3031320,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "But if you're reading it on a printed\npage, it is awful. And"
+    } ]
+  }, {
+    "tStartMs": 3036280,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you really have to do a lot of work to\ntake anything that was verbal and make"
+    } ]
+  }, {
+    "tStartMs": 3041320,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it\nread well. The um"
+    } ]
+  }, {
+    "tStartMs": 3045040,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know,\nif I use the actual transcriptions of"
+    } ]
+  }, {
+    "tStartMs": 3047800,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the interviews, it would people people\nasleep, you know, it's like"
+    } ]
+  }, {
+    "tStartMs": 3052600,
+    "dDurationMs": 2440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "That's fascinating.\n\u003e\u003e both of you"
+    } ]
+  }, {
+    "tStartMs": 3054680,
+    "dDurationMs": 3480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Thank you.\n\u003e\u003e Is there anything that's ever happened"
+    } ]
+  }, {
+    "tStartMs": 3056400,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in these interviews that\nyou've never written about? The stuff"
+    } ]
+  }, {
+    "tStartMs": 3059720,
+    "dDurationMs": 7480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's that's too raw to put in a book?\nDoes whatever happen?"
+    } ]
+  }, {
+    "tStartMs": 3064960,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Is there anything ever happen in one of\nthese interviews that's that's too raw"
+    } ]
+  }, {
+    "tStartMs": 3069400,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to to to write about? Too raw to put in\na book? It's too too personal, too"
+    } ]
+  }, {
+    "tStartMs": 3074880,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Oh, you know, so\nNo, I mean",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3077920,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh\nOne one of the things"
+    } ]
+  }, {
+    "tStartMs": 3080560,
+    "dDurationMs": 8280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "one of the tricks I use not a trick uh\nBut I I I tell people up front that"
+    } ]
+  }, {
+    "tStartMs": 3086760,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they'll get to see the final version and\nif there's anything that's wrong or"
+    } ]
+  }, {
+    "tStartMs": 3090520,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "anything that's problematic uh you know,\nwe we can we figure out a way to handle"
+    } ]
+  }, {
+    "tStartMs": 3094920,
+    "dDurationMs": 4520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it. In other words, they'll get the\nright of first refusal. Sometimes"
+    } ]
+  }, {
+    "tStartMs": 3098400,
+    "dDurationMs": 3120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they'll want to change something. I say,\n\"Well, I"
+    } ]
+  }, {
+    "tStartMs": 3100440,
+    "dDurationMs": 3640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, I won't feel comfortable with\nthe way you want to change it.\" I say,"
+    } ]
+  }, {
+    "tStartMs": 3102840,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\"Well, what's the problem?\" They'll tell\nme the problem and I'll"
+    } ]
+  }, {
+    "tStartMs": 3105560,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "address the problem and and so we'll\nfind a way to word it that's not"
+    } ]
+  }, {
+    "tStartMs": 3108800,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "problematic. Some tape sometimes you\nhave to take something out."
+    } ]
+  }, {
+    "tStartMs": 3112880,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sometimes you have to use them I've had\nwhere one interview"
+    } ]
+  }, {
+    "tStartMs": 3118680,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I had with a short seller in I think it\nwas the second market was New Market"
+    } ]
+  }, {
+    "tStartMs": 3123320,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Wizards Dana Galante. But she had such a\nlittle"
+    } ]
+  }, {
+    "tStartMs": 3129320,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a string of bosses who are horrible\npeople."
+    } ]
+  }, {
+    "tStartMs": 3132640,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And so we had to use I I use pseudonyms\nfor all her people"
+    } ]
+  }, {
+    "tStartMs": 3137600,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because she\nwhat she had to say was good, but she"
+    } ]
+  }, {
+    "tStartMs": 3141640,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "didn't want to say it, you know, in\nprint against Yeah, so so we use"
+    } ]
+  }, {
+    "tStartMs": 3145280,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pseudonyms. And that happened that's\nhappened in other interviews, too. Where"
+    } ]
+  }, {
+    "tStartMs": 3149880,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "where you have to change certain things\nfor for reasons of being too personal or"
+    } ]
+  }, {
+    "tStartMs": 3154160,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "or or too rough in on other people or\nwhatever."
+    } ]
+  }, {
+    "tStartMs": 3160400,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "One of my favorite one of I'll go ahead,\nJack. I was just going to say nobody"
+    } ]
+  }, {
+    "tStartMs": 3164640,
+    "dDurationMs": 3120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "told us who killed Kennedy or anything,\nbut"
+    } ]
+  }, {
+    "tStartMs": 3167616,
+    "dDurationMs": 3944,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e [laughter]\n\u003e\u003e but but they have you know, they're",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3169440,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yeah, what Jack said.\nYeah. Yeah."
+    } ]
+  }, {
+    "tStartMs": 3173080,
+    "dDurationMs": 4080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Um\nOne of one of my favorite Market Wizards"
+    } ]
+  }, {
+    "tStartMs": 3175600,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is Linda Raschke. This is just a\npersonal thing. I've I've always"
+    } ]
+  }, {
+    "tStartMs": 3178520,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "appreciated her. I learned about her\nthrough your book, Jack, and you know,"
+    } ]
+  }, {
+    "tStartMs": 3182880,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "has have followed her ever since and I\njust find what she has to say always"
+    } ]
+  }, {
+    "tStartMs": 3187440,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interesting from a trading perspective\nand just a personality perspective"
+    } ]
+  }, {
+    "tStartMs": 3191640,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because she's so open and so curious\nabout so many different ways to skin a"
+    } ]
+  }, {
+    "tStartMs": 3197560,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cat in the market. And one of the things\nthat's always appreciated that I've"
+    } ]
+  }, {
+    "tStartMs": 3202800,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "always appreciated about her is\nthe story of where she started in the"
+    } ]
+  }, {
+    "tStartMs": 3207280,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pit, where that involved certain skills\nand you had to yell over people and"
+    } ]
+  }, {
+    "tStartMs": 3213466,
+    "dDurationMs": 1854,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e [bell]\n\u003e\u003e Oop.",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3214600,
+    "dDurationMs": 3240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "There's the bell.\n\u003e\u003e Yep."
+    } ]
+  }, {
+    "tStartMs": 3216087,
+    "dDurationMs": 6273,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e [laughter]\n\u003e\u003e Closing bell. And you know, you had to",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3219920,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you had to read body language and and\nand read the crowd and then all of a"
+    } ]
+  }, {
+    "tStartMs": 3224120,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sudden, you know, technology came into\nplay and computers came into play and"
+    } ]
+  }, {
+    "tStartMs": 3228000,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "some of the traders moved upstairs and\nstarted using programs and computers and"
+    } ]
+  }, {
+    "tStartMs": 3232080,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "charts and following it that way and a\nlot of traders uh went out of business"
+    } ]
+  }, {
+    "tStartMs": 3236560,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "during that transition, but she didn't\nbecause she really kept up with the"
+    } ]
+  }, {
+    "tStartMs": 3240560,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "times, which is a very interesting story\nin and of itself."
+    } ]
+  }, {
+    "tStartMs": 3244400,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Um is there anything that either of you\nsee now that would be equivalent to that"
+    } ]
+  }, {
+    "tStartMs": 3250760,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "um type of situation in our modern\nworld? Pretty common for strategies that"
+    } ]
+  }, {
+    "tStartMs": 3255800,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "work to lose their efficacy.\nAnd uh"
+    } ]
+  }, {
+    "tStartMs": 3260120,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, one or two traders that had\nvery few losing months in his case he's"
+    } ]
+  }, {
+    "tStartMs": 3265240,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he's always uh he's got a\nwatch your inventory trade, but he's"
+    } ]
+  }, {
+    "tStartMs": 3268880,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "always expecting strategies to\neventually stop working and that's"
+    } ]
+  }, {
+    "tStartMs": 3273320,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "almost part of his modus operandi is to\nto try to be looking for new ones so he"
+    } ]
+  }, {
+    "tStartMs": 3279120,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can replace the ones that stop working.\nSo uh"
+    } ]
+  }, {
+    "tStartMs": 3282000,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh things things change. I mean\nmar- markets change. People don't"
+    } ]
+  }, {
+    "tStartMs": 3286840,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "change, but markets change dramatically.\nAnd so the markets are quite I mean"
+    } ]
+  }, {
+    "tStartMs": 3293520,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if you compare it now to when I first\nstarted"
+    } ]
+  }, {
+    "tStartMs": 3296560,
+    "dDurationMs": 4600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to when the traders in the first Market\nWizards books made their"
+    } ]
+  }, {
+    "tStartMs": 3300520,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh\nduring their trading career, you know,"
+    } ]
+  }, {
+    "tStartMs": 3303000,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you were pre-computers and uh you know,\nyou didn't have all this data. You"
+    } ]
+  }, {
+    "tStartMs": 3306880,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "didn't even have You didn't even have\nprinted charts. I mean, you had to you"
+    } ]
+  }, {
+    "tStartMs": 3311120,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know, you had maybe a couple of one or\ntwo printed chart services like but you"
+    } ]
+  }, {
+    "tStartMs": 3314560,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "were living in a completely different\nworld. Just no computers, no data uh or"
+    } ]
+  }, {
+    "tStartMs": 3318160,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "very little data. I mean, what you can\ngather by hand."
+    } ]
+  }, {
+    "tStartMs": 3320920,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Uh so you go from that to this world\nwhere you've got supercomputers and"
+    } ]
+  }, {
+    "tStartMs": 3326360,
+    "dDurationMs": 8200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and multiple\nmultiple quant funds which have"
+    } ]
+  }, {
+    "tStartMs": 3331360,
+    "dDurationMs": 7560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hundreds of more PhDs, you know, what\ntrade you you working on strategies and"
+    } ]
+  }, {
+    "tStartMs": 3337280,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's just yeah, so the markets have\nchanged and and if you take a very"
+    } ]
+  }, {
+    "tStartMs": 3341240,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "simple example, say take trend\nfollowing."
+    } ]
+  }, {
+    "tStartMs": 3343920,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Uh, some of the traders in the first\nMarket Wizards book just made phenomenal"
+    } ]
+  }, {
+    "tStartMs": 3347760,
+    "dDurationMs": 8960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "returns predominantly as trend\nfollowers, but back in back in that day"
+    } ]
+  }, {
+    "tStartMs": 3353960,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh, in the '60s and '70s just being\nhaving a simple trend following uh,"
+    } ]
+  }, {
+    "tStartMs": 3359120,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "strategy\nwas kind of the advanced that was the"
+    } ]
+  }, {
+    "tStartMs": 3362800,
+    "dDurationMs": 3760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quant thing, right?\nUm,"
+    } ]
+  }, {
+    "tStartMs": 3365160,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but and not too many people were doing\nit. So, uh, the markets had trends and"
+    } ]
+  }, {
+    "tStartMs": 3368920,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "they were the trends were smoother\nbecause you didn't have a you didn't"
+    } ]
+  }, {
+    "tStartMs": 3372680,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have billions of people using trend\nfollowing methodologies and over time as"
+    } ]
+  }, {
+    "tStartMs": 3377960,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you got computers and it became\naccessible to anybody and you had so"
+    } ]
+  }, {
+    "tStartMs": 3381520,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "many people using it, the trends are\nstill there. I mean, if the if the Fed"
+    } ]
+  }, {
+    "tStartMs": 3385720,
+    "dDurationMs": 4320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "changes policy,\nuh, it's not going to be for a month,"
+    } ]
+  }, {
+    "tStartMs": 3389000,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's going to last for a while. I'm\ntalking about eight not just the Fed but"
+    } ]
+  }, {
+    "tStartMs": 3391560,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "central banks in general. So, you you\nwill get trends so long-term trends in"
+    } ]
+  }, {
+    "tStartMs": 3395720,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interest rates, long-term trends in in\nin everything. You know,"
+    } ]
+  }, {
+    "tStartMs": 3399840,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "commodities uh,\nif there's a shortage in copper, it's"
+    } ]
+  }, {
+    "tStartMs": 3402680,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to take years to get new mines and\nonce you get a lot of new mines and"
+    } ]
+  }, {
+    "tStartMs": 3407040,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there's a surplus, it'll take years to\nget rid of that. So, trends exist, but"
+    } ]
+  }, {
+    "tStartMs": 3411040,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what has changed is the trends have\nbecome very choppy and the systems that"
+    } ]
+  }, {
+    "tStartMs": 3416040,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "try to exploit them get whipsawed a lot.\nSo, it becomes while the trends are"
+    } ]
+  }, {
+    "tStartMs": 3420640,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there, they're difficult to to to\nmaintain, you know, like so the efficacy"
+    } ]
+  }, {
+    "tStartMs": 3426240,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and the statistics that go with the\ntrend following methodology are now they"
+    } ]
+  }, {
+    "tStartMs": 3429720,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "may make money because the trends are\nthere,"
+    } ]
+  }, {
+    "tStartMs": 3432360,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh, but not relative to the amount of\nrisk put on and the drawdowns. It's it's"
+    } ]
+  }, {
+    "tStartMs": 3437720,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "um, it works but not it's not it's it's\nnot a great strategy. It's a workable"
+    } ]
+  }, {
+    "tStartMs": 3442680,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "strategy, but it's nothing like it used\nto be. So, things"
+    } ]
+  }, {
+    "tStartMs": 3446240,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "uh, things that used to work sometimes\nno longer work or don't work as well."
+    } ]
+  }, {
+    "tStartMs": 3449960,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "It's that's been true all through the\nhistory of markets in modern times at"
+    } ]
+  }, {
+    "tStartMs": 3455120,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "least.\nI can chip in if you'd like."
+    } ]
+  }, {
+    "tStartMs": 3459680,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "You know, I mean as Jack said like\nshort-term trading at least done right"
+    } ]
+  }, {
+    "tStartMs": 3463240,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "seems to be a discipline that needs\nconstant grist for the mill. I think if"
+    } ]
+  }, {
+    "tStartMs": 3468080,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "guys like Kenny, they wind up with\nwho knows how many strategies he has,"
+    } ]
+  }, {
+    "tStartMs": 3471920,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "50, 100, 200 that he kind of uses but\nhe's always adding to that. Um but"
+    } ]
+  }, {
+    "tStartMs": 3477920,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so so with that it's always changing.\nYou know, I'll come back to that in a"
+    } ]
+  }, {
+    "tStartMs": 3480840,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "second but Rick who's the fireman, you\nknow, he does basically short-term"
+    } ]
+  }, {
+    "tStartMs": 3485360,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "arbitrage essentially. He sees headlines\nand trades before the arbs move and he"
+    } ]
+  }, {
+    "tStartMs": 3490120,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "capitalizes on where positions should go\nand where the arbs are going to take him"
+    } ]
+  }, {
+    "tStartMs": 3493160,
+    "dDurationMs": 7800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and he's concerned that AI\nmight someday hurt what he's doing. And"
+    } ]
+  }, {
+    "tStartMs": 3499000,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I think AI is becoming like a topic\nright now, is it going to take over"
+    } ]
+  }, {
+    "tStartMs": 3503600,
+    "dDurationMs": 6680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all trading? Um with Rick's approach, I\nthink guys like Citadel haven't"
+    } ]
+  }, {
+    "tStartMs": 3508480,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "dedicated the resources to it yet\nbecause"
+    } ]
+  }, {
+    "tStartMs": 3511640,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the amount of people that it takes to do\nwhat he does probably makes it not that"
+    } ]
+  }, {
+    "tStartMs": 3515120,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "profitable. Will some super smart AI bot\ncome along that"
+    } ]
+  }, {
+    "tStartMs": 3520160,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "capitalizes on all these small\nopportunities? Maybe. Uh but I guess the"
+    } ]
+  }, {
+    "tStartMs": 3524760,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "one thing that I think I've been I was\nlistening to Lance's chapter yesterday"
+    } ]
+  }, {
+    "tStartMs": 3528280,
+    "dDurationMs": 4200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "as part of the editing the audio book\nand"
+    } ]
+  }, {
+    "tStartMs": 3530920,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he said in the chapter that I think it\nwas 2011, 12, whatever year it was, that"
+    } ]
+  }, {
+    "tStartMs": 3534920,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "back then he was told that AI was going\nto decimate what they're doing and that"
+    } ]
+  }, {
+    "tStartMs": 3539360,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there was no chance that you know, they\nwere going to survive and here he is,"
+    } ]
+  }, {
+    "tStartMs": 3543640,
+    "dDurationMs": 7960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, 10 or 15 years later and he's\ndone very well. So, I think AI is more"
+    } ]
+  }, {
+    "tStartMs": 3549120,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of a thing than it was then but but\nthe threats have been there for a long"
+    } ]
+  }, {
+    "tStartMs": 3553000,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "time. Um\nand that goes back to"
+    } ]
+  }, {
+    "tStartMs": 3556520,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "short-term trading's always going to\nneed new grist for the mill. So, will"
+    } ]
+  }, {
+    "tStartMs": 3559920,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that displace everything? I don't know.\nI'm thinking out loud a bit here. The"
+    } ]
+  }, {
+    "tStartMs": 3563320,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "one other thing I'll add is\nI think that like long-term thematic"
+    } ]
+  }, {
+    "tStartMs": 3567400,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stuff is very hard for computers to\novercome."
+    } ]
+  }, {
+    "tStartMs": 3571960,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Because if you think about the growth in\nAI just as a as a discipline essentially"
+    } ]
+  }, {
+    "tStartMs": 3575920,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and what Nvidia and stocks like that\nhave done over the past year or two"
+    } ]
+  }, {
+    "tStartMs": 3578920,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "three, they've just gone up a lot and I\nthink these mega trends that last for"
+    } ]
+  }, {
+    "tStartMs": 3584520,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "years, I just don't see how computers\nare going to render that obsolete. Um"
+    } ]
+  }, {
+    "tStartMs": 3588840,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you'd basically have to have a scenario\nwhere growth ceases to exist and"
+    } ]
+  }, {
+    "tStartMs": 3592400,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "companies don't invent products that\npeople want that incentivize them to buy"
+    } ]
+  }, {
+    "tStartMs": 3596640,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "their stock. So hopefully that wasn't\ntoo scattered, but I I think um it gives"
+    } ]
+  }, {
+    "tStartMs": 3600760,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a good sense of what's happening now,\nhow it might impact in the different"
+    } ]
+  }, {
+    "tStartMs": 3603840,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "disciplines.\nSo. I love that you said that George."
+    } ]
+  }, {
+    "tStartMs": 3607320,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Actually last week I saw you uh wrote a\nblog post on humanoid robots."
+    } ]
+  }, {
+    "tStartMs": 3612600,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Um and it actually led to us like\nreconstructing we have a database that"
+    } ]
+  }, {
+    "tStartMs": 3616880,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we're like follow our themes with and\nwhat I thought was super interesting cuz"
+    } ]
+  }, {
+    "tStartMs": 3621040,
+    "dDurationMs": 9560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we saw the precedent with AI and then\ngo that was the like head horse and then"
+    } ]
+  }, {
+    "tStartMs": 3627800,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we saw the picks and shovels and they\nhad their day. And in the blog post you"
+    } ]
+  }, {
+    "tStartMs": 3632760,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "immediately started with looking at\nthose second derivatives for humanoid"
+    } ]
+  }, {
+    "tStartMs": 3636840,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "robots.\nUm so I was kind of curious"
+    } ]
+  }, {
+    "tStartMs": 3640680,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "do you think that given that we've seen\nthe precedent with AI that those get"
+    } ]
+  }, {
+    "tStartMs": 3646200,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "priced in almost quicker maybe than we\nsaw um originally?"
+    } ]
+  }, {
+    "tStartMs": 3651320,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Uh\nmaybe. Yeah, I don't know. I mean I've"
+    } ]
+  }, {
+    "tStartMs": 3655400,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I've written a lot about it so I'm not\nsure which post you're referring to"
+    } ]
+  }, {
+    "tStartMs": 3658320,
+    "dDurationMs": 5400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "specifically, but uh\nit does sound like I'd have to"
+    } ]
+  }, {
+    "tStartMs": 3662147,
+    "dDurationMs": 3653,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e [laughter]\n\u003e\u003e read a lot unfortunately. I'd have to go",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3664840,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "back and read it, but thank you for\nreading my stuff. That's great to hear."
+    } ]
+  }, {
+    "tStartMs": 3667720,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Um I think things are moving faster.\nCertainly things get digested more"
+    } ]
+  }, {
+    "tStartMs": 3671360,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "quickly than they ever have in in my\ncareer and lifetime. As to whether that"
+    } ]
+  }, {
+    "tStartMs": 3676000,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gets priced in, I almost feel like maybe\nthere's opportunity if you align with"
+    } ]
+  }, {
+    "tStartMs": 3680240,
+    "dDurationMs": 6840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the long-term trends and use trading\nprinciples to protect against things"
+    } ]
+  }, {
+    "tStartMs": 3685120,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that are sort of exogenous variables for\nlack of a better term that could impact"
+    } ]
+  }, {
+    "tStartMs": 3688880,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "those.\nUm so, you know, if Trump tweets"
+    } ]
+  }, {
+    "tStartMs": 3691480,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "something, it could impact humanoids,\nbut it does seem like that trend is"
+    } ]
+  }, {
+    "tStartMs": 3694960,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to continue to grow. So, uh yeah,\nit's the second derivatives. I mean, one"
+    } ]
+  }, {
+    "tStartMs": 3700240,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thing I've found over time, not to get\ntoo far afield from the topic here, but"
+    } ]
+  }, {
+    "tStartMs": 3703360,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is\na lot of people spend a lot of time"
+    } ]
+  }, {
+    "tStartMs": 3706160,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trying to find these stocks that no\none's ever heard of."
+    } ]
+  }, {
+    "tStartMs": 3710040,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And this is more investing than\nshort-term trading, but"
+    } ]
+  }, {
+    "tStartMs": 3713720,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you know, meanwhile, you look at Google\nand you look at Nvidia, and these stocks"
+    } ]
+  }, {
+    "tStartMs": 3717320,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "go up a ton. So, in my personal opinion,\nI think"
+    } ]
+  }, {
+    "tStartMs": 3721040,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sticking to the bigger ones doesn't\nnecessarily, it's not necessarily a bad"
+    } ]
+  }, {
+    "tStartMs": 3724280,
+    "dDurationMs": 6520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thing, for whatever that's worth.\nThe leaders versus laggards combo,"
+    } ]
+  }, {
+    "tStartMs": 3729080,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "basically.\nYeah, right, like Livermore's followed"
+    } ]
+  }, {
+    "tStartMs": 3733160,
+    "dDurationMs": 4720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the leaders, although\nif if you ask 100 people to define the"
+    } ]
+  }, {
+    "tStartMs": 3736360,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "leaders of the market, you might get 100\ndifferent answers. It's complicated."
+    } ]
+  }, {
+    "tStartMs": 3742320,
+    "dDurationMs": 4120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Definitely. Thank you for\n\u003e\u003e We"
+    } ]
+  }, {
+    "tStartMs": 3744080,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "We have We have time for about one more\nquestion, so um and this is"
+    } ]
+  }, {
+    "tStartMs": 3749640,
+    "dDurationMs": 4400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "This is I'll I'll I'll direct this to\nboth you."
+    } ]
+  }, {
+    "tStartMs": 3752480,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Um\nwhen you sat down to embark on this new"
+    } ]
+  }, {
+    "tStartMs": 3758000,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "series,\num planning it out, thinking about,"
+    } ]
+  }, {
+    "tStartMs": 3761920,
+    "dDurationMs": 4240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "imagining what it could be, imagining\nhow it could be different from the"
+    } ]
+  }, {
+    "tStartMs": 3765040,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "others,\num choosing who to"
+    } ]
+  }, {
+    "tStartMs": 3768240,
+    "dDurationMs": 9480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to ask to be in the book,\nwhat were you hoping the trading"
+    } ]
+  }, {
+    "tStartMs": 3773080,
+    "dDurationMs": 4640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "community would get out of this book?"
+    } ]
+  }, {
+    "tStartMs": 3780120,
+    "dDurationMs": 5160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Oh. Jack, do you want me to take that\none?"
+    } ]
+  }, {
+    "tStartMs": 3782520,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e the 47 for me was no different than any\nuh it's a long George covers it in his",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3788040,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "preface. It's a long story how he ended\nup doing another Market Wizards book,"
+    } ]
+  }, {
+    "tStartMs": 3792000,
+    "dDurationMs": 4360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and I mean, originally, I wasn't going\nto be involved, you know, I was just"
+    } ]
+  }, {
+    "tStartMs": 3794760,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "giving George advice.\nIt it moved over time to us working"
+    } ]
+  }, {
+    "tStartMs": 3799480,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "getting work on another book and then it\nchanged into being a market wizard book."
+    } ]
+  }, {
+    "tStartMs": 3803200,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "The story is in George's preface, but\nfor me once we were doing another market"
+    } ]
+  }, {
+    "tStartMs": 3808240,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wizard book\nif it's not broken, don't fix it. So, I"
+    } ]
+  }, {
+    "tStartMs": 3812280,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I wasn't approaching it any different. I\nwas just trying to"
+    } ]
+  }, {
+    "tStartMs": 3815480,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I tried to tell George what I do and how\nI do it"
+    } ]
+  }, {
+    "tStartMs": 3819040,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but I but my approach was exactly the\nsame."
+    } ]
+  }, {
+    "tStartMs": 3822520,
+    "dDurationMs": 3840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Yeah.\nGeorge?"
+    } ]
+  }, {
+    "tStartMs": 3824400,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e I I guess I've long-time reader\nfirst-time writer. Um so,",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3828640,
+    "dDurationMs": 6360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but as Jack said it wasn't linear. We\ndidn't approach it I think if we had"
+    } ]
+  }, {
+    "tStartMs": 3832880,
+    "dDurationMs": 5480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "started with the concept we might have\napproached it different than we did. But"
+    } ]
+  }, {
+    "tStartMs": 3837440,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "um\nyou know, aside from obviously adhering"
+    } ]
+  }, {
+    "tStartMs": 3840040,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to the the brand and the series, I think\none of the things that I"
+    } ]
+  }, {
+    "tStartMs": 3844240,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wanted to do was to add in where I could\nthe timeless principles that I found"
+    } ]
+  }, {
+    "tStartMs": 3848160,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "from my research on traders and say\nhere's"
+    } ]
+  }, {
+    "tStartMs": 3851360,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "look here you see the cutting losses\nagain or you see this. Um"
+    } ]
+  }, {
+    "tStartMs": 3855120,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "respecting the price action of the\nmarket, things like that. So, tying in"
+    } ]
+  }, {
+    "tStartMs": 3858240,
+    "dDurationMs": 4160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what I think are the timeless principles\nthat are inherent in the vast majority"
+    } ]
+  }, {
+    "tStartMs": 3861040,
+    "dDurationMs": 4760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of traders and highlighting those so\npeople could see them and say, \"Okay,"
+    } ]
+  }, {
+    "tStartMs": 3864320,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not only am I getting a good story in a\nmodern version, but these principles are"
+    } ]
+  }, {
+    "tStartMs": 3867880,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "timeless.\" I guess the only other thing\nthat I tried to do was"
+    } ]
+  }, {
+    "tStartMs": 3871720,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "add in sort of the\nevery trader's personality is different,"
+    } ]
+  }, {
+    "tStartMs": 3876040,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but there are consistent personality\ntraits. And in one of the chapters in"
+    } ]
+  }, {
+    "tStartMs": 3879280,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "particular, I highlight I think it's\nseven factors that are fairly consistent"
+    } ]
+  }, {
+    "tStartMs": 3884480,
+    "dDurationMs": 6200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "among the the great the great traders\nand the wizards. Um so, that was a"
+    } ]
+  }, {
+    "tStartMs": 3888640,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "something that I tried to to add just my\nown take on is what are the personality"
+    } ]
+  }, {
+    "tStartMs": 3892920,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "traits of these people. And one other\nthing I thought maybe Jack and I should"
+    } ]
+  }, {
+    "tStartMs": 3896320,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "talk about this, but maybe we could get\nthem to take those uh those Myers-Briggs"
+    } ]
+  }, {
+    "tStartMs": 3900200,
+    "dDurationMs": 4920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "personality tests cuz somebody asked me\nrecently, \"Have you ever gotten all the"
+    } ]
+  }, {
+    "tStartMs": 3903280,
+    "dDurationMs": 5150,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wizards to take those tests?\" And I\nthink it'd be interesting if you could"
+    } ]
+  }, {
+    "tStartMs": 3906440,
+    "dDurationMs": 4680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "see consistencies. But\n\u003e\u003e [clears throat]"
+    } ]
+  }, {
+    "tStartMs": 3908440,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e uh yeah, anyway. Start quantifying it\nmore.",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 3913080,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Well,\nIs there Is there ever going to be a"
+    } ]
+  }, {
+    "tStartMs": 3915920,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "systematic trading market wizards? Well,\nthere are systematic traders typically"
+    } ]
+  }, {
+    "tStartMs": 3922400,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in every Market Wizards book before this\nexcept for this one, I think. Uh"
+    } ]
+  }, {
+    "tStartMs": 3927160,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "There were no These were all\ndiscretionary traders. Uh"
+    } ]
+  }, {
+    "tStartMs": 3930840,
+    "dDurationMs": 7320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Uh systematic\nit becomes Well, like I said, some"
+    } ]
+  }, {
+    "tStartMs": 3936040,
+    "dDurationMs": 7080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I think part of the problem not part of\nthe problem, the problem of having"
+    } ]
+  }, {
+    "tStartMs": 3940320,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a lot of systematic traders is\nthat I'm always looking for the"
+    } ]
+  }, {
+    "tStartMs": 3945680,
+    "dDurationMs": 7400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "spectacular. You know, not not the just\ngood, not just the better than than"
+    } ]
+  }, {
+    "tStartMs": 3950520,
+    "dDurationMs": 5800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "average, just not even the top 10%. I'm\nlooking for the like the the crazy story"
+    } ]
+  }, {
+    "tStartMs": 3955400,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like\nguy goes from 5,000 to 500 million, as"
+    } ]
+  }, {
+    "tStartMs": 3959600,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is the case for a couple of two people\nin this book. Crazy. I mean, that's not"
+    } ]
+  }, {
+    "tStartMs": 3963480,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "That shouldn't be possible, let alone\npossible in this world before before the"
+    } ]
+  }, {
+    "tStartMs": 3967400,
+    "dDurationMs": 6920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "computerization and and competition from\nthese quant hedge funds and AI and"
+    } ]
+  }, {
+    "tStartMs": 3972160,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "whatever. Shouldn't be possible, but it\nyou know, that's Or the two guys we"
+    } ]
+  }, {
+    "tStartMs": 3976760,
+    "dDurationMs": 4800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "talked about who virtually who have no\nlosing months or virtually no losing"
+    } ]
+  }, {
+    "tStartMs": 3979960,
+    "dDurationMs": 7000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "month. Those are the types of things I'm\nlooking for. And you don't"
+    } ]
+  }, {
+    "tStartMs": 3984160,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "You can't The only systematic approaches\nyou can do that with are if you're"
+    } ]
+  }, {
+    "tStartMs": 3989240,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "talking about firms like the Renaissance\nsystem or D. E. Shaw or or"
+    } ]
+  }, {
+    "tStartMs": 3994520,
+    "dDurationMs": 7160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "or you know, the purely quant where what\nthey're doing Well, first of all,"
+    } ]
+  }, {
+    "tStartMs": 3999560,
+    "dDurationMs": 5720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there's a lot of transaction advantages\nthere as well. So, you got to delineate"
+    } ]
+  }, {
+    "tStartMs": 4003960,
+    "dDurationMs": 7240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that. Uh\nBut if it that's no story. So, if you've"
+    } ]
+  }, {
+    "tStartMs": 4008040,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "got a trading strategy that is, you\nknow, pulling nickels out a million"
+    } ]
+  }, {
+    "tStartMs": 4013520,
+    "dDurationMs": 5000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "times a day,\nwell, that may be a great That may be a"
+    } ]
+  }, {
+    "tStartMs": 4016720,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "great business, but there's no story\nthere, right? And if you've got a quant"
+    } ]
+  }, {
+    "tStartMs": 4020760,
+    "dDurationMs": 6600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "approach where which I have done and I\nlike I did interview D. E. Shaw. And"
+    } ]
+  }, {
+    "tStartMs": 4025240,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like anybody else and I tried to\ninterview"
+    } ]
+  }, {
+    "tStartMs": 4028480,
+    "dDurationMs": 6760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sim Simon, but he he never agreed. I\ntried it a couple of times."
+    } ]
+  }, {
+    "tStartMs": 4033320,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "But those strategies are like the actual\naction strike, they're not going to tell"
+    } ]
+  }, {
+    "tStartMs": 4036840,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you anything really specific.\nYou can kind of get between the lines"
+    } ]
+  }, {
+    "tStartMs": 4041800,
+    "dDurationMs": 8840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and and I made some some guesses about\nwhat But essentially, what I think goes"
+    } ]
+  }, {
+    "tStartMs": 4046480,
+    "dDurationMs": 9640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on is you've got literally scores or\neven maybe hundreds of strategies, all"
+    } ]
+  }, {
+    "tStartMs": 4052880,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "with tiny edges, some of which are\nnumber of which are synergistic where"
+    } ]
+  }, {
+    "tStartMs": 4057840,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you have, you know, it's not like one\nsystem, but it's like if these three"
+    } ]
+  }, {
+    "tStartMs": 4061280,
+    "dDurationMs": 7640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "systems all agree, maybe you you take\nthe stra- trade and it's a lot of"
+    } ]
+  }, {
+    "tStartMs": 4065760,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "short-term and it's a lot of looking at\ntens of thousands, literally, or"
+    } ]
+  }, {
+    "tStartMs": 4071080,
+    "dDurationMs": 7880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thousands, maybe tens of thousands of\ninstruments between different op-"
+    } ]
+  }, {
+    "tStartMs": 4075120,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "options, the underlying stocks, futures,\nconvertible bonds, and you know,"
+    } ]
+  }, {
+    "tStartMs": 4080440,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "everything. And looking for slight\ndiscrepancies and and you have all the"
+    } ]
+  }, {
+    "tStartMs": 4084720,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stuff going on at the same time. And you\nget a"
+    } ]
+  }, {
+    "tStartMs": 4087920,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "No particular system in that No strategy\nin there is particularly impressive, but"
+    } ]
+  }, {
+    "tStartMs": 4092480,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all together they give you the smooth uh\nreturn. And that's a systematic"
+    } ]
+  }, {
+    "tStartMs": 4097240,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "approach, but that's not a systematic\napproach Well, like I said, I did"
+    } ]
+  }, {
+    "tStartMs": 4100600,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "interview D.E. Shaw. You can write about\nthe person, you can write around it, but"
+    } ]
+  }, {
+    "tStartMs": 4104520,
+    "dDurationMs": 5360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you can't really talk about the detail.\nYou can talk about a system where people"
+    } ]
+  }, {
+    "tStartMs": 4108200,
+    "dDurationMs": 6440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "think about a system, you know, you do\nthis, that, you know, set of rules, and"
+    } ]
+  }, {
+    "tStartMs": 4112080,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this is how I trade. Those things, if\nthey're phenomenal, maybe you'll get up"
+    } ]
+  }, {
+    "tStartMs": 4117120,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to\nWell, I don't really like to use the"
+    } ]
+  }, {
+    "tStartMs": 4119680,
+    "dDurationMs": 6040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sharpe ratio, but people think in terms\nof Sharpe ratio. Maybe you have one of"
+    } ]
+  }, {
+    "tStartMs": 4123400,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "those things to be close to, I don't\nknow, 1.5 Sharpe or something like that."
+    } ]
+  }, {
+    "tStartMs": 4128200,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "But you're not going to get You're not\ngoing to And like I said, I prefer the"
+    } ]
+  }, {
+    "tStartMs": 4131560,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sortino, but\nor other return risk measures. But let's"
+    } ]
+  }, {
+    "tStartMs": 4135680,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "If I'm sticking with the Sharpe,\nyou're not going to get 10 Sharpes, you"
+    } ]
+  }, {
+    "tStartMs": 4139960,
+    "dDurationMs": 5839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "know? You didn't just not going to get\nthat with systematic trading. Unless it"
+    } ]
+  }, {
+    "tStartMs": 4143880,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is one of those methodologies I\ndescribed, which is kind of different"
+    } ]
+  }, {
+    "tStartMs": 4147759,
+    "dDurationMs": 5481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "than what people think. So, that's why\nyou don't see and that wouldn't make a"
+    } ]
+  }, {
+    "tStartMs": 4151200,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "good story. So, that's why you don't see\na lot of systematic traders in in the"
+    } ]
+  }, {
+    "tStartMs": 4155319,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "books. Less and less over time.\nSo, you did"
+    } ]
+  }, {
+    "tStartMs": 4160240,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Zero in this book. Zero in this book.\nZero in this book. Zero in this book."
+    } ]
+  }, {
+    "tStartMs": 4163759,
+    "dDurationMs": 5641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "To to add to that, we did try to find\nthem. I mean, I was a quant for a lot of"
+    } ]
+  }, {
+    "tStartMs": 4167799,
+    "dDurationMs": 5161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "years, still do quantitative stuff and I\nthought it'd be great to have a quant."
+    } ]
+  }, {
+    "tStartMs": 4171359,
+    "dDurationMs": 5281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "But, if they're out there, they don't\nwant to be found by us. So, I I wonder"
+    } ]
+  }, {
+    "tStartMs": 4175440,
+    "dDurationMs": 4839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "if they're out there and they're just\nquiet or not, but we couldn't get anyone"
+    } ]
+  }, {
+    "tStartMs": 4178880,
+    "dDurationMs": 6120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that um\nthat either wanted to participate or"
+    } ]
+  }, {
+    "tStartMs": 4181520,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "passed the screening criteria.\nI mean, it might just be an AI book that"
+    } ]
+  }, {
+    "tStartMs": 4187480,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "10 years down [laughter] the road.\nAI bought Market Wizards."
+    } ]
+  }, {
+    "tStartMs": 4193240,
+    "dDurationMs": 5240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Well, thank thank you, gentlemen. This\nhas been a pleasure for us to sit down",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 4197040,
+    "dDurationMs": 4480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and be able to talk to you. Is there\nanywhere"
+    } ]
+  }, {
+    "tStartMs": 4199760,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "online that um\nthat people can can follow you guys uh"
+    } ]
+  }, {
+    "tStartMs": 4204640,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Jack and and George?\nGeorge, you could take that outside."
+    } ]
+  }, {
+    "tStartMs": 4209120,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sure, sure. Uh I'm on X. My handle is\nGFC4. I can send you guys a link, but I"
+    } ]
+  }, {
+    "tStartMs": 4215200,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "have a link tree there that leads to the\nability to pre-order the book. If you"
+    } ]
+  }, {
+    "tStartMs": 4218480,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pre-order, you can get the first two\nprefaces and uh the cool muggy chapter"
+    } ]
+  }, {
+    "tStartMs": 4222640,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "until the end of the month. The book\ncomes out June 9th, but that's probably"
+    } ]
+  }, {
+    "tStartMs": 4226160,
+    "dDurationMs": 5560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the easiest way. Unfortunately, the\nwebsite for the book is very long. So,"
+    } ]
+  }, {
+    "tStartMs": 4229360,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to say it out loud now would be painful\nfor everyone. Um but yeah, that's the"
+    } ]
+  }, {
+    "tStartMs": 4233880,
+    "dDurationMs": 5640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "best place to start. Then, Jack, as as\nyou said in your introduction, he's"
+    } ]
+  }, {
+    "tStartMs": 4237360,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pretty easy to find.\nAnd we'll we'll put that stuff down"
+    } ]
+  }, {
+    "tStartMs": 4240760,
+    "dDurationMs": 4840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "below.\nThank you. Thank you both again. I'm"
+    } ]
+  }, {
+    "tStartMs": 4244040,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "super excited to read the book when it\ncomes out."
+    } ]
+  }, {
+    "tStartMs": 4247120,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sure. This was a real pleasure.\nYeah, cannot wait. Thank you."
+    } ]
+  }, {
+    "tStartMs": 4251240,
+    "dDurationMs": 4440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e All right. Thank you. Enjoy the rest of\nthe week. Yeah.",
+      "isSpeakerChange": 1
+    } ]
+  }, {
+    "tStartMs": 4262520,
+    "dDurationMs": 2040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "\u003e\u003e Mhm.",
+      "isSpeakerChange": 1
+    } ]
+  } ]
+}

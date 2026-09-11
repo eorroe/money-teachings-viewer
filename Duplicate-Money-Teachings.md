@@ -1,0 +1,8 @@
+# Duplicate Money Teachings Analysis
+
+| Group | File 1 | File 2 | Differences |
+|-------|--------|--------|-------------|
+| AI Trading Assistant | SMB-AI-TRADING-ASSISTANT | SMB-CLAUDE-AI-TRADING | AI-TRADING-ASSISTANT focuses on a 4-step Plan Mode → Build Mode → Personalize → Routine workflow for building HTML dashboards. CLAUDE-AI-TRADING covers 8 practical steps for vibe coding, teaching Claude your playbook, and incorporating real data sources. Different structures but same core topic of building Claude-powered trading tools. |
+| AI Trading Assistant | SMB-AI-TRADING-ASSISTANT | SMB-4-THINGS-AI-TRADING | AI-TRADING-ASSISTANT is a step-by-step dashboard building guide. 4-THINGS-AI-TRADING focuses on 7 architectural mistakes to avoid (treating Claude as inference layer, separate chat threads, architecture documents). Complementary but distinct angles on the same subject. |
+| AI Trading Assistant | SMB-CLAUDE-AI-TRADING | SMB-4-THINGS-AI-TRADING | CLAUDE-AI-TRADING emphasizes practical automation (pre-market dashboards, scanners, backtests). 4-THINGS-AI-TRADING emphasizes system design (inference architecture, per-layer docs, closing the loop). Different focuses within AI trading assistant development. |
+| Gold Parabolic Short | SMB-GOLD-PARABOLIC | SMB-7-FIGURE-SHORT | Both cover parabolic short setups in gold. GOLD-PARABOLIC emphasizes euphoria signals, options expiration timing, and using weaker related assets (silver) for confirmation. 7-FIGURE-SHORT emphasizes the daily playbook exercise, building scanners for similar setups, two-part entry strategy, and objective trade review. Different case study dates (Oct 23 vs Oct 21) but same underlying setup type. |

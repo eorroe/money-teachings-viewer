@@ -1,0 +1,1835 @@
+Like everybody's trading what they think
+is the same thing, but [music]
+everybody's having different results.
+The good traders are just skipping the
+bad trades. If you haven't done the work
+to create a strategy, a big part of a
+process is you have to take full
+ownership of your trading [music]
+with a solid process for that first back
+test. That's really the key. [music]
+Back testing is a superpower. Back
+testing can really challenge some of
+your assumptions about the market. A lot
+of times it'll just tell you you're flat
+out wrong.
+>> Welcome to episode six of the Trading
+Floor podcast. I'm your host Garrett
+Dryen. I'm with the co-host, the famous
+Tim Beldin. And of course, we always
+have Kurt in the background. So our
+guest today, a systematic day trader
+since 2005, currently trading 30 plus
+proprietary strategies every day. His
+name is Dave Mabe, founder of Mabkit,
+the number one strategy optimizer and
+automation tool for systematic traders.
+Host of Line Your Own Pockets podcast,
+former CTO of Trade Ideas. He's on a
+mission to turn 10,000 hobbyists into
+full-time traders doing it for a living.
+And this is somebody who has tested
+every indicator under the sun on tons of
+strategies, which we're going to dive
+into today. But look, I've had many
+mentors in my career and I continue to
+do so. I mean, especially at the firm,
+right, between Bella, between Steve
+Kayitz, who's been our team leader, both
+Tim and I, since the beginning, um,
+Lance, I mean, we've we've tal we talked
+to a lot of people, but nobody has
+helped with our systematic and
+automation nearly as much as Dave. He is
+our go-to guy to talk to. He's been an
+unbelievable mentor for us. And not only
+that, but Dave is extremely willing to
+share information, which is something I
+always appreciate because we've had many
+coffee sessions. We've had many Zoom
+calls where Tim Tim and I are just
+picking his brain. So, that's what we're
+going to do today. Um, and Dave, we're
+so glad you're here.
+>> I'm happy to be here. been excited about
+this and yeah, I think this is a
+continuation of some of those uh coffee
+sessions we've had.
+>> We're not going to spend too much time
+on the bio, but just to catch people up,
+right? Um you started as a discretionary
+trader and then one day you said, "I'm
+going to stop following other people,
+right? I'm going to start building my
+own strategies." You transitioned from
+swing trading to day trading. You
+figured out how to back test where you
+quickly found that your back tests were
+outperforming your own trading. You
+figured out how to automate these
+strategies which inevitably increased
+your bandwidth, right? One of the
+biggest benefits from doing this. And
+you developed a full process for
+developing these strategies, which we're
+going to get into because this is the
+part that Tim and I are always picking
+your brain about because it's helped us
+so much. So, is is all that correct?
+>> Yeah, it's definitely correct. There's a
+lot of history there over many years. uh
+you know as you were talking about the
+uh the first back test I did and coming
+from just like a discretionary trading I
+was I was trading a system but there was
+some definitely just some discretion
+involved and you know I thought I didn't
+do any back testing up until that point.
+I sort of talked out of it by some
+mentors I had at the time but I was like
+you know it seems to make a lot of sense
+let me just try it. So, I had low
+expectations
+and because I thought, you know, hey,
+I've been discretionarily trading for a
+while. I've got this magic in my head.
+You know, it I can't possibly recreate
+that in code. But the very first
+freaking back test I did was better than
+my discretionary training. So, I was
+like, "Oh my gosh." So, it's like a
+pretty humbling thing to see. But yeah,
+I from that point forward I was like,
+"Okay, why am I why am I discretionary
+trade? Why is there any discretion at
+all when I can just create a back test
+and do something that's better than
+that?" It just didn't make sense to me.
+So, yeah, I' I've been systematically
+trading ever since then.
+>> Would you like to gain the biggest edge
+a retail trader can get? All of our
+daily and weekly in-house trader
+meetings are now available to you. Just
+head over to smbtrainingfloor.com
+to find out more.
+>> To even add Garrett to your intro from
+all of those coffee chats and calls that
+we've done. We've built out our entire
+quant process. We learned everything
+we're doing from back testing analysis
+from those calls with you Dave where I
+remember we would have the call and then
+immediately we would get on and be like
+how could we build this?
+>> Yeah.
+>> So everything we've learned you've been
+extremely valuable to us. So, I'm
+excited to jump in.
+>> It's really true. That's not an
+overstatement.
+>> Not at all.
+>> So, Dave,
+>> I've I've heard you say a number of
+times that
+when building a strategy, it doesn't
+have to be unique. It doesn't have to be
+some esoteric
+secret thing that nobody knows about. It
+can actually be something that's been
+done before. So I want to know what what
+has led you to believe this and to kind
+of go by this philosophy?
+>> Yeah, it's a good question. So some of
+the first strategies I started trading,
+I remember
+like there was a sort of a vibrant
+blogosphere way back then, you know,
+early 2000s and they shared ideas,
+shared trading ideas and there was some
+strategies that people that traders sort
+of uh coalesed around and I remember
+trading some of these strategies and I
+would check with some of the other
+traders that were trading it and the the
+variation between the results was just
+wild. Like everybody's trading what they
+think is the same thing, but everybody's
+having different results. And the answer
+or the reason for that is the good
+traders are just skipping the bad
+trades. They have a system for like
+they're looking at all the trades that
+come through and they have a better
+system for just figuring out ones
+they're going to take and ones they're
+going to skip. So if everybody's looking
+at the same sort of base strategy, the
+difference in the results is some
+traders are just skipping the right ones
+and others are not. Some are taking
+those bad trades. So the better your
+optimization process, like the less
+unique your initial signal has to be. So
+if you got a good enough optimization
+process and you've got you know we got a
+good column library as I'm sure we'll go
+into
+it really the the signal like the main
+part of the strategy is like the almost
+the least important part
+and so that what that means is it
+doesn't really have to be unique. You
+could get ideas from anywhere and like
+like opening range breakouts,
+there's still some edge there. People
+look at those and like those those don't
+work. But with the right combination, if
+you're if you're skipping the right
+trades through your optimization
+process, you can end up with a subset of
+those trades that's profitable. So, the
+better you are at that, like the more
+strategies you can come up with and and
+create for yourself.
+>> That's super interesting. I feel like
+everyone likes to say those simple
+strategies are overdone and like burnt
+out. And you're saying, "Yeah, you just
+kind of have to make them your own and
+it all goes into the process after the
+initial strategy."
+>> You know, I I hear so many people say
+such and such strategy is is gone. you
+know, nobody trades that anymore. I've
+got a strategy
+some of the strategies that I very that
+I started trading in 2005. I still trade
+those. And you would not like people I
+haven't heard people mention the name of
+these strategies in so many years.
+People have long since thought they
+stopped working. But if you've got a
+good process, yet you can you can get
+rid of the bad trades. Maybe you have
+fewer trades that in in the strategy now
+than you did way back when, but you can
+still modify it to still have some edge
+uh with your optimization process. Do
+you want to sit in on all of our daily
+and weekly in-house trader meetings?
+There's no bigger edge retail traders
+can get. Visit smbtradingfloor.com
+to learn more. So it sounds like the
+optimization process is like the magic
+to getting to nailing these things.
+>> It's definitely the magic and you know
+that's what you know a lot of traders
+just don't have that process. They think
+back testing is this
+a thing that is just different than what
+it it should be. And that's you know
+with the with a with a solid process for
+coming up with a strategy for that first
+back test. That's really the key. That's
+how you're going to that's how you're
+going to end up with a strategy that's
+actually profitable.
+Um, but most traders most most traders
+that are back testing are doing it the
+wrong way. They're they're they're stuck
+in this guess and check loop, I call it.
+They they create a back test. It doesn't
+quite look good. They make some small
+adjustment based on vibes, you know, and
+they run another back test and they're
+in this loop where they just keep
+guessing and checking and they never
+really have a process for ending up with
+a profitable strategy.
+>> I want to dive into that first blanket
+back test more. Uh but first, like would
+you what would you say for like any new
+traders? Is there like a best strategy
+to start with uh trying to develop? Do
+you have any strategies that you think
+Yeah. are the best ones to start with?
+>> I I don't really point people to any
+specific strategy and you know some
+people come to me and ask hey can you
+just give me your best five strategies
+just the you know just the best five.
+I'm like, well, right. So, the reason I
+don't give them that, it's not like I'm
+selfish, but
+you know, if you haven't done the work
+to create a strategy, you don't really
+know
+what's you you can't really have true
+confidence in it. So, it's there's just
+going to come a point where the strategy
+has a draw down and you're not going to
+be able to have the confidence to trade
+through it because you why would you?
+you you you have you know nothing really
+about it. So a big part of my process is
+you have to take full ownership of your
+trading and
+that means not looking over somebody
+else's shoulder. Um doing it for you
+know coming up with your own ideas with
+collaboration with other traders. you
+know, look for other ideas on um that
+you see people talking about, but you
+really have to make it your own to be
+successful and ha and have a robust uh
+trading career that's going to last.
+>> That makes sense. Someone gives me a
+Lamborghini and it breaks down, I'm
+going to have no idea how to fix it.
+[laughter] It needs to be your own.
+>> Yeah. I want to I want to dive into this
+process for sure and pick your brain. I
+mean hopefully we can get everything out
+of you short of your social security
+number um with that but uh but first
+like h how do you how do you come up
+with ideas? So like do you usually have
+like like an oh moment where you're
+like this is this needs to be tested or
+are you just constantly kind of without
+excitement throwing stuff at the wall to
+see like what your data says? Well,
+I I'm putting myself in a position to
+notice the unusual stuff that in the
+market. So, you know, it it's
+you have to
+you have to have a routine for looking
+at the market, looking at what has been
+moving that day and what's unusual about
+it. And you know, this process usually
+kind of steamrolls where
+new traders, they're kind of starving
+for ideas,
+but once you start, you know, once you
+get an idea, once you get something
+that's working
+and and maybe you get idea number two,
+all of a sudden you have too many ideas.
+Like at some point during that process,
+it's not that you're starving for ideas.
+You have the opposite problem, which is
+actually a bigger problem. Like figuring
+out what to work on, but
+you really need to put yourself in a
+position every day to notice the unusual
+things in the market because the unusual
+things, those are the things that you
+could potentially create a strategy out
+of. So,
+you know, at the end of the day, I'll
+look at certainly all the trades that my
+strategies traded and I will have looked
+at those throughout the day and maybe
+something about them I noticed that I
+thought, okay, well, I I haven't noticed
+that before. Do do I have something
+about that captured in my back test that
+I can see, okay, how often does that
+happen? Um, sometimes it's the losing
+trades where I think, okay, here's some
+unique situation. Maybe I could trade
+these the opposite way. Like, is there
+some subset that I can use and just
+trade the opposite direction? So, I've
+got this sort of laundry list that I
+have in my mind and, you know, in to-do
+lists and such where I'm keeping track
+of the ideas that I want to work on. And
+a lot of them just come from ideas I've
+already had or or strategies that I'm
+already trading
+um or, you know, tangential ideas to the
+strategies I'm trading. Like I might I
+might see
+uh trades that
+almost met my criteria criteria for a
+strategy but didn't quite I I have a
+process for looking at that because
+usually there's a lot of edge
+potentially there like if you think
+about the the edges of your strategy are
+somewhat arbitrary like you sort of come
+up with an arbitrary uh threshold like
+just beyond that or just above it um
+there could be potential profitable
+trades there. So, so those are that's
+good a good place to look for, you know,
+new edges that you could create new
+strategies from.
+>> Yeah. Could you give an example of that?
+Um where because I think I know what you
+mean, but I'm not quite sure. You're
+you're trading a strategy and you might
+be cutting out certain trades.
+>> Yeah. And you're saying that beyond that
+point where you're cutting them out, you
+might have trades like in the other
+direction because they're bad trades for
+this strategy. Is that Yeah.
+>> Is that kind of what you're getting at?
+>> Yeah. So So let me give you a concrete
+example.
+One of the first strategies I traded was
+a gap strategy. So was looking for
+gapping stocks above a certain gap
+percent. And then I would look for a
+pattern in the first half hour of the
+day. and basically in a tight range and
+then on a break of that range I would go
+long. So something gapping up look for a
+tightening range I would go long with a
+stop below the that range. So
+what I noticed is sometimes those trades
+worked well. Sometimes they worked
+poorly and got stopped out. Some of them
+they worked horribly like they would I
+would get in and they would I would get
+stopped out and the stop and the stock
+would just tank, right? And I got to
+thinking, okay, well, I wonder I wonder
+if there's some way I could just trade
+the opposite direction for some of
+these. So, like I'm some of them weren't
+making my threshold, so I wouldn't, you
+know, they weren't in a strategy I was
+trading at all, but that but I but I was
+watching them, so I could see that they
+were doing it looked like there might be
+some edge the other direction. So I was,
+okay, well, let me create a strategy
+that does literally the opposite of what
+I was doing and let me see if there's
+edge there. Like, can I create something
+where there's edge there? So, these are
+trades that were, you know, the strategy
+was working, but I was I thought, okay,
+uh, there's a lot that I'm just
+completely ignoring. Can I create a
+strategy that's is completely additive
+to what I'm doing? It's a completely new
+strategy that's completely isolated from
+and independent from the one I'm uh
+already trading. So I wouldn't get like
+trades where I'm long and short in the
+same symbol. So I I I did that and
+created another strategy completely
+separate from that. So now I have two
+strategies really based on the same
+idea.
+That's one of the things that I like
+about automated trading because it might
+be not in your nature to fade a breakout
+and short it discretionarily, right?
+like it just might not fit your
+personality, but you can kind of go into
+the data and then check it out and see
+that it's a good strategy, automate it,
+and it doesn't really have to as long as
+you understand it. Um, and it has edge
+like it doesn't have to like fit your,
+you know, mood for how you usually trade
+during the day. Would you agree with
+that?
+>> I agree with that. I mean a lot of times
+what you'll see is
+you you know back testing can really
+challenge some of your assumptions about
+the market and I mean you
+a lot of times it'll just tell you
+you're flat out wrong your intuition is
+flat out wrong for and for that reason I
+think back testing is a superpower like
+you see all this uh you know uh gurus
+out on the internet saying things that
+you know these
+truisms about the market, but you know,
+you don't have to rely on what
+somebody's saying. You can actually go
+back test and see for yourself. And a
+lot of what you a lot of the stuff you
+hear out there is just complete garbage.
+And if you've got a good process for
+testing that, it's it is it's like a
+superpower.
+>> I find it so interesting. So, when
+you're saying like you're putting
+yourself in the position, what you're
+really doing is a ton of review work
+looking at every trade you're taking,
+looking at why it won, why it didn't
+win, and then what I even find more
+interesting because I've noticed with
+Garrett and I, you're seeing the ones
+where you're like, "Oh, I thought my
+model would have taken Tesla today, but
+it didn't. Why didn't it?" And then it's
+like maybe you were missing one of the
+columns that we'll talk about, one
+indicator was missing. But yeah, do you
+find a lot of times that during the day
+or when you're reviewing at the end of
+the day, you're like, "Oh, I thought I
+would have been in X, Y, and Z."
+>> Totally. Yeah, that that's a a really
+good thing to be looking at. And yeah,
+it's I've got a really that's a very
+common thing to to need to be able to do
+like go and be curious about that. and
+you'll like there'll be some rule that
+you have in your system that prevented
+it, but then you you you
+may brainstorm some way to be able to
+include that because you know like maybe
+Tesla today really was in the spirit of
+the strategy and what your strategy is
+trying to do and it might be worth
+trying to figure out a way to modify
+your strategy so that Tesla's in there.
+So, yeah, I think that's a great way to
+I think that's a great way to, you know,
+uh, brainstorm and improve the edges you
+have and potentially create new ones.
+>> I'm glad to hear that because that's my
+intuition. Like, that's what I would
+want to be doing. Like, okay, can we
+modify? But when I'm doing that, I'm
+like, is this wrong? Like, they they say
+you shouldn't be like fitting it to one
+trade, you know? I'm I'm not being a
+good quant right now. I'm trying to I'm
+trying to make my strategy catch this
+trade that I liked and you know maybe
+that maybe there's no data to back it
+up, right? There's it's easy to
+overthink that stuff. Um and be kind of
+afraid, right?
+>> I think you know you hear the word, you
+know, curve fitting thrown around a lot
+among systematic traders and I think
+people are way too afraid of it. I think
+people should uh traders should really
+it's not hard to avoid
+and the biggest thing you can do is with
+your back test start with a large number
+of trades you're going to avoid a lot of
+issues with curve fitting if you if you
+start from that point and uh yeah I
+think there's you know I see so many
+traders are kind of frozen due to fear
+fear of curve fitting. And I just think
+that
+I think you should traders should be
+more willing to make changes to their
+strategy. And if you've got a good
+system, a good process of re reviewing,
+you're not going to you're not going to
+be ruined by curve fitting and you're
+going to probably learn something by
+making those changes to your strategy.
+Anyway, here's a mindbending stat for
+you. SMB traders have 20x to 40x higher
+odds of success than independent
+traders. Find out why and how to greatly
+increase your odds by visiting
+smbtradingfloor.com.
+>> All right, so this is a great segue
+because so recently you were on you
+joined me on Bionic Trader um inside
+Access on Tuesday. In fact, you're
+you're doing it every month at this
+point which has just been a blast for
+all of us. Um, and I heard you say the
+last time that you were with us that
+you're probably back testing wrong,
+which I think I just heard you say that
+a few minutes ago as well. When back
+testing an idea, the first back test
+should not be aiming for the final
+answer. The first back test should cast
+a wide net. So, what what do you mean by
+that? And why is this so important? Most
+traders are like, like I said, shooting
+for the final answer with that first
+back test. And what you're going to what
+you're going to end up with is something
+that doesn't have as many trades as it
+could. And the trades aren't going to be
+as profitable as they could be. And the
+reason for that is you're by shooting
+for that final answer, you're sort of
+you're sort of adding your discretion,
+you're adding some of your assumptions
+in there.
+And that's not really the right way to
+do it. So, let's go back to my gap
+strategy that I mentioned earlier.
+Gapping stocks up. I'm going long.
+You know, in my mind, I had an idea
+about what the optimal threshold for the
+gap percent would be. But so, the first
+back test or two I did, I was just like
+shooting for that exact number. Let's
+say it was 5%.
+But then I thought, okay,
+maybe I should be using a much lower
+threshold. And that's what traders
+should do. Use a much lower threshold
+for that gap percent. So let's just say
+I let's say I assume it's going to be
+5%. I may do a back test on like 3%
+which is going to have a way a lot more
+trades in there. And that allows me to
+use optimization to figure out exactly
+what point makes sense for me to to use
+for that gap percent threshold. So it's
+it's just a much better way to
+end up with, you know, there's a lot of
+trades between 3% and 5% for the gap
+percent that are profitable. And it
+allows you to see that and and include
+those in your strategy. So you may end
+up I I've worked with traders where
+I I've I've created like five times the
+number of trades for in a strategy for
+them just based on doing this. So it it
+can be pretty dramatic and it almost
+allows you to back test more more with a
+more open mind than most traders do. And
+I think that's very that's helpful and
+that helps you end up with actually
+profitable strategies
+>> and you get more data, more trades.
+That's always better for optimization.
+So when you're saying the first blanket
+back test, you're casting a wide net,
+you're lowering it to 3%. What else is
+in that back test?
+>> Like are you just buying on open and
+that's the only one indicator that you
+have in that first back test?
+So
+well with the with this particular
+strategy it trades it's looking for that
+gap and then it's looking for a pattern
+after the g after the open. So it's not
+buying on open but the the concept is
+essentially the same. So, so not only do
+I add gap percent, but I add a whole
+bunch of other columns to the back test
+that may or may not be predictive.
+And that's really the power of
+optimization because you're create you
+create this column library of indicators
+that you include with every back test.
+And that allows you to for your tools to
+tell you what's important rather than
+you having to try to guess. I I mean
+I've been I know my discretion for
+guessing for these things is so bad.
+Like I have to have tools that that tell
+me and then I can decide okay does that
+make sense or not not make sense. But
+yeah, it's it's just way easier to do to
+do it that way.
+and the tools that just show you clear
+as day too that this is significant.
+>> Yeah. And that's really how you learn
+and that's that's how you're going to
+come up with a better strategy tomorrow
+because your tools are te essentially
+teaching you
+what makes your strategy work, what
+makes it more profitable, what makes it
+bad. And you any of those ideas that
+your tool's telling you can be fed into
+other ideas to create new strategies
+from.
+>> Is there such thing as too wide of a
+net? Because I know like we've been in
+the position before where we're testing
+a strategy and you know we're going for
+that concept, right? Like let's get a
+lot of trades in this back test. Let's
+not pin it down too much and look at our
+indicators as you say the columns and
+the back test and see what's working.
+and then we look at all the trades it's
+taking and then kind of realize that
+it's not really taking a specific enough
+trade for us to feel like any of this is
+relevant. So is that is there can you go
+too far?
+>> You definitely could go too far. It's a
+bit of an art.
+Um and I do see traders when they hear
+this that they do go a little bit too
+far. So, so they're and you end up with
+trades that for symbols that just don't
+trade very often and you know you look
+at a chart and it looks sort of normal
+but when you zoom in and see like it
+only trades once a day or something. So
+yeah, I think so what I I apply what I
+call universe filters.
+So they're different than what I think
+of as predictive filters that are
+actually creating the edge for the
+strategy where these universe filters
+are basically like fencing in the
+universe that I want to trade. And yeah,
+you can that is some there's there's a
+bit of an art to it. um the the better
+starting point you have like the better
+the edge is for the starting point the
+better it is the better it is where
+you're going to end up. So yeah, I think
+there is a a bit of an art to it and um
+yeah, you could certainly do too many.
+Um, so I think it's a like it's
+something you're going to have to play
+with and uh uh I don't think there's a
+real cut and dry answer, but yeah, you
+can certainly take it too far.
+>> I know which model Garrett's talking
+about, too.
+>> Yeah, of course you did. It was a
+headache for my [laughter]
+like what are we doing? We got to we got
+to end this.
+>> You look at the CSV and they're all just
+completely different trades.
+>> Yeah. [laughter] Like why is this not
+working? And it was clear when we looked
+at the trades like
+>> the other thing. Yeah. And then you know
+all your back tests are taking way too
+long because you have this whole glut of
+of trades that have to be produced by
+the engine. So
+>> yeah, there's a there's a sweet spot in
+there and it's it's it's pretty, you
+know, it's probably different for most
+strategies, but yeah, there's a a sweet
+spot. It's sort of a uh
+uh like I said there's it's not a
+science. It's mostly an art for that
+starting point.
+>> So when you say universe filters, do you
+mean like for example like we have some
+stuff that we like to throw at these
+strategies that have to do with the ATR
+of the stock and the average volume? And
+we even combine these things like ATR
+squared divided by price and you know to
+get a certain type of stock that we're
+trading right like and to narrow the
+universe down by like what we would call
+like a static feature something that
+doesn't change throughout the day but
+just describes like the type of names
+that we want to be in the back test. Is
+that what you mean by universe filter?
+>> Yeah. A like uh average volume is a
+common one. Um yeah, it's just going to
+it's just like a floor that below which
+you know you don't want to trade any of
+those names. Um and that you know it can
+be low volume stuff that's a really
+common one but it can be other stuff too
+maybe related to the strategy itself but
+uh yeah it's just basically okay well I
+know that I don't want to trade these
+like for like in my gapping model like
+at at some point the gap just is is
+completely meaningless like 1% would not
+be a good threshold like it like
+something 3% was was the rough number
+that I came up with just because I know
+that you know lower than that it just
+doesn't make sense.
+>> I wanted to ask the group here. So I've
+been working on this model and it's I'm
+going about it a very different way than
+Garrett and I have gone about it and
+then also different than how we learn
+from you. But basically it's a very
+specific signal. um it's lowflat stocks
+um lowpriced that do a crazy amount of
+volume in the pre-market and then you
+see that burst in volume. So it's very
+specific and I'm more going about it
+just creating the strong signal versus
+casting a wide net. And yeah, I wanted
+to like ask really do you ever just kind
+of have the strong signal and you're
+kind of throwing a dart and you're like
+does it stick? Yeah, I think
+certainly the strength of the signal is
+important. It's not the most important
+thing, but yeah, if you I think a lot of
+discretionary traders like y'all,
+you know,
+you know how to come up with strong
+signals where a lot of new newer
+traders, they don't have that ability
+yet. They're just they're just now
+developing that ability. And that de
+that ability will come over time as they
+get more experience. But kind of the big
+advantage that discretionary traders
+like y'all have is you can you know the
+strong signals because you're trading
+them or you're trading around them or
+you kind of know what they are. And the
+stronger this the signal you have the
+the easier it's going to be to come up
+with a good uh system to trade. Um,
+but still you still the concept is still
+the same. Like you've got the strength
+of the signal. Maybe add some columns to
+describe the strength specifically
+and then
+uh you know challenge your belief about
+what that how what strength really is
+for that signal. um create a back test
+with, you know, a way weaker signal but
+the same sort of concept and then see
+what that looks like.
+>> Um
+>> I I love that idea. I I haven't done
+that yet. So wait, I want you to expand
+on that because this is going to help
+me. So you're thinking have the model
+that I'm building has the strong signal
+and then purposefully make a quote
+unquote weak signal that I don't think
+would work and see how that compares.
+You probably find that it's is it's
+pretty different than your the your
+strong signals. And it's it's a useful
+exercise because, you know, it may
+challenge what you think about the
+strength of your signal to begin with
+and it may point you to other ideas like
+like what about the opposite of the idea
+like like think about that. I'm assuming
+that there's some direction or movement
+involved, not just volume out of
+nowhere, right?
+>> Yeah, it would be the opposite side
+would be a weak volume signal to fade.
+>> Yeah.
+>> And I'm looking at join trend on a
+strong volume signal.
+>> Yeah. So, I would look at
+um
+Yeah. I would look at just the movement,
+maybe taking volume out of the equation
+and see like what volume is the right
+one to use perhaps. Um,
+and I would look at look at movement the
+opposite direction and what does that
+look like? So, if it's a short strategy,
+what would a long strategy look like?
+You know, a lot of times you have a lot
+of times there's the obvious side
+like a lot of a lot of pre-market
+strategies are looking to fade big up
+moves. So, there's they're shorting
+stocks. Um, one of the things I like to
+tell people is or challenge people to do
+is let's say your life depended on
+trading at the opposite direction that
+you're that you think, right? That'd be
+hard, but let's say your life depended
+on it. What would you do? Like, and if
+you think about it that way, like, okay,
+I have to create something long in the
+pre-market. How how would I do it? Like,
+what would I look at? What what things
+would I need to see? Like, what are the
+worst
+short trades? What do those look like?
+And can I go long? Can I figure out a
+way to go long those? And by doing that,
+you're
+you you'll learn not only I mean it's
+it's good to look at the worst trades in
+your short strategy and and most people
+just you know skip those which you
+should be but it's also good to the more
+you learn about what's bad with that
+short strategy the more you're come
+closer to a potential long strategy
+taking the ones that are really bad from
+the short strategy. So, it's a process
+of
+like it's not just making one strategy
+better, but by learning stuff about that
+strategy, you're really coming up with
+potentially multiple strategies.
+>> These thought experiments are awesome.
+So, what if I'm hearing you correctly,
+next time I'm coding, just pretend
+there's a gun to my head.
+>> Yeah. Yeah. I think that would uh that's
+going to be surprisingly motivating.
+>> Don't you do that anyway, Tim?
+>> Yeah, basically. [laughter]
+type of way. No, that's really
+interesting though, Dave. Like all the
+questions that you're asking yourself
+throughout.
+>> Yeah, I think there's
+uh you know, I I've over the years I've
+I've just given myself plenty of rope.
+You know, I I've never really had a
+deadline for myself. Okay, I I need to
+make it work by this time. I I've just
+always
+put myself in a position to be curious
+about what I'm trading and give myself
+plenty of rope. I think I think optimism
+is super helpful. My wife sometimes says
+she calls me too polyiana sometimes
+about stuff, but I think you you have to
+have optimism to be a good trader. I
+think like you have to always be
+optimistic.
+>> I'm a big glass half full guy.
+[laughter]
+I've gotten made fun of for it.
+>> Even with a gun to your head.
+>> Exactly.
+>> Well, Dave, I want to I want to really
+get into how how we do this, right? So,
+you've you've mentioned a number of
+times the columns and the back test,
+right? And we're talking about casting a
+wide net. So, you know, putting forth a
+back test that has a lot of trades that
+we know are is not going to be the
+strategy in the end, right? And a lot of
+times, I mean, Tim and I run this, you
+know, initial back test and it's, you
+know, the P&L curve is straight down.
+That doesn't phase us because we know
+that somewhere in there are probably our
+winning trades and we just need to go
+find them, right? And we find them by
+using what you call the columns in the
+back test. So, if this is so important,
+what are the columns in the back test?
+Like, what do you mean by that? And and
+what are we doing with those?
+>> Yeah. So
+I I thought of this coming from a
+software development perspective. So you
+know I was a CTO at Trade Ideas. I've
+done tons of development. It's it's a
+big part of what I do. And the more you
+know when you write code
+uh to be really effective you need to
+write libraries. So shared libraries
+that other, you know, several projects
+can use. So, so you're not, you know,
+when you create a new project, a new
+software project, you're not just
+copying a bunch of code and just using
+it over and over. You're you set up a
+library for yourself so that you're
+using the same library and that's shared
+across all the software projects. So if
+you if there's a bug in the library,
+you can change it in this one place and
+then all the projects that are using the
+library are updated and and made better
+all at once. You didn't have to go make
+a change in every single software
+package. And the same is I I treat my
+back test in the same way. So I had this
+column library that just sort of evolved
+from that very first back test of the
+gapping strategy. I I just the the first
+time I just brainstorm for different
+columns that I thought or indicators
+that I thought might be predictive.
+And then when I went on to strategy two,
+three, four, I just kept using that same
+set of columns and adding to it. And
+what I realized is
+the column library is like everything
+about what makes the strategy great.
+Like the better your columns are, the
+more likely you're going to end up with
+a profitable strategy and the more
+powerful it is. So over time, you've got
+this growing
+uh set of columns that have varying
+levels of importance in different
+situations.
+And the bigger it is, the the the easier
+it is to come up with edge in the
+future. And a lot of times when you work
+on strategy, you know, four, five or six
+and you find something that's predictive
+there just by just just observing the
+trades and realizing, okay, well, this
+this concept isn't captured in my column
+library. like like for example
+um yesterday's range for a stock has a
+pretty strong predictive value on in a
+lot of situations for today's trades.
+and putting that in your library
+as a like a standard column, all of a
+sudden you got
+another way to potentially weed out some
+bad trades and and and create more
+profit for your strategy. So, the better
+your column library is, the better
+you're going to be as a trader. And and
+when you when you find something that
+you brainstorm for strategy five or six,
+find something that works there, all of
+a sudden it might make sense to go back
+for to strategies one through five and
+see if it has an effect there. And it
+very a lot of times you'll find that it
+does. So there's it's you're creating
+for yourself this just this constant
+improvement loop that just gets better
+and better and better over time. And the
+same way that software library makes you
+better as a developer because you're
+essentially leveraging your your coding
+by doing that. The same can be true when
+you take this approach with back
+testing. Your back testing gets better
+just is leveraged and gets better and
+better and better over time as you get
+more experience and figure out what is
+more predictive in your strategies.
+>> So you've been building your library
+since 2005. How many columns do you have
+now? How many?
+>> I've got probably 250,
+300, somewhere in there.
+>> That's awesome.
+>> I work with some traders, you know, to
+develop this type of process. And some
+of them have even more. I've got there's
+one guy, I think he's got over 400.
+So, it's I I could totally see doing
+more. And if you've got if you've got a
+good process that for your tools that
+are telling you what's important, like
+there's no reason not to include more of
+those in your library.
+>> Yeah, we've been noticing that too.
+>> Yeah. And this is my favorite part of
+testing these strategies because I like
+sometimes you can get a little bit
+creative because right because you're
+you're talking about indicators, right?
+Like that's what these columns are,
+right? And it's not just RSI and MACD
+and what some people assume, you know,
+all indicators are, but like you
+mentioned like yesterday's range. And
+when you start to think about a
+strategy, you're thinking not indicator
+first. You're thinking what's what is
+this strategy? Like what am I seeing in
+the market, right? And you might start
+to think, well, this X, Y, and Z seem to
+kind of happen.
+>> I wonder if I could measure that in some
+way.
+>> Yeah. um and maybe I'll come up with a
+way to measure that and then that
+becomes a column and now you're kind of
+inventing indicators. And this is
+basically what we do in the bionic
+trader meetings is we go over yeah
+>> all these different ways to measure
+these market dynamics so that we can a
+test our strategies b maybe turn them
+into alerts or filters you know if they
+end up being
+>> pretty good. So, I want to ask you, if
+you were on a desert island
+and you could only have three indicators
+to build the rest of your strategies
+forever.
+>> Okay.
+>> Which three indicators would you choose?
+>> Wow, that's a really tough question.
+>> That's fun.
+Um,
+my instinct is ATR is going to be up
+there because
+I'm often sizing positions based on ATR.
+Um, maybe placing a stop based on ATR
+and flat out filtering based on ATR. So,
+that's definitely going to be one of
+them.
+um
+probably arvall which you know relative
+volume so the the volume the stock has
+done today compared to average
+that's just going to tell you so much
+about what the what the stock is doing
+it's hard to imagine not using that in a
+strategy somehow
+um
+the third one that's going to be tough
+I'll have to think about it. I would say
+probably
+probably something like position in
+range.
+That's something I use across different
+time frames like yesterday, you know,
+what's the position in yesterday's
+range? What's the position in today's
+range? What's the position in the last
+10day range? Like so that general
+concept I think is is apply you can
+apply it in a lot of different time
+frames and situations. So that those are
+those are the ones that come to mind
+first.
+>> I like it. And position and range. Are
+you doing percentile or are you looking
+at like ATRs from the yesterday's high,
+yesterday's low or just percentiles? I
+was thinking of just percentile but yeah
+like distance from those things and ATR
+like the what the thresholds you said
+distance from open today in terms of ATR
+is really good. I mean all these these
+are all really good ideas that you'll
+that you'll find popping up in your
+optimization process if you uh you know
+if you include them. Have you heard this
+study of tens of millions of traders
+which shows that only 1% of retail
+traders actually make it? Don't be a
+statistic. Visit smbtradingfloor.com
+to greatly increase your odds. Could you
+give an example of of how um one of
+these indicators like like let's just
+pick the position in range
+like how how would that come into play
+in a strategy in terms of you know not
+only it showing edge in the data or or
+providing edge for your strategy but
+also making sense to you as a trader.
+>> Okay. So go back to my original gap
+strategy. So gapping stocks up looking
+for a pattern in the first 30 minutes.
+So there's a it's got a range
+and if you're looking at the position in
+that r today's range
+values close to 100 mean it's it's close
+to today's high
+and values close to zero mean it's close
+to today's low when the when the the
+signal happens. Well, those are very
+different situations, right? So,
+you you might want to look at that to
+see [clears throat]
+I mean they're so different that surely
+when you look in aggregate there's going
+to be different edges there. Like the
+ones that are close to the top I would
+assume are probably going to be better
+than the ones close to the bottom at
+least on the long side. That would be my
+intuition. And if you look at the chart,
+it probably
+uh that's I think that's a way that
+traders can understand. And just
+describing that specific situation, you
+could see how some of those trades are
+going to be very different and you could
+use that to add a rule to your strategy
+that improves it. So that's really what
+these columns are doing. All these
+columns are, you know, you can think of
+them as indicators, but really what they
+are is opportunities
+for you to create a rule to skip certain
+trades that are coming through the
+system. Like we said earlier, you know,
+that's the difference between two
+traders that are trading what they think
+is the exact same system. Some of them
+are just skipping the the the bad trades
+and taking the good trades. So this
+that's a really good example. I think is
+probably crystal clear for traders.
+That's a good situation to look for
+that, you know, one trader's taking the
+ones at the top of the range, another
+one's taking the ones at the bottom of
+the range, too, and the the other one's
+skipping them. So, they end up with very
+different results.
+So, what tools do you use to determine
+after you run the back test and you have
+these columns and you're able to look at
+all of these things like percent, range,
+and arval, what tool do you use to
+actually see that data and make the
+decision?
+So
+I've created this tool for myself and
+you know it's it's evolved over the
+years. So over the course of 15 years
+I've developed a tool set for myself
+that I use locally and when I realized
+just how powerful it was
+for years I was like I'm not telling
+anybody about this that there's like
+it's too powerful. I'm not that would be
+silly to do that. But I've
+I I finally realized that
+like I'm trying to make a big impact in
+this industry. There's so much snake
+oil. I see so many people back testing
+the wrong way like trading a strategy
+and they're so close but you know if
+their optimization process was a little
+bit better they wouldn't have quit. So,
+I've made it available as part of what I
+call MAPEKit. It's called it's the
+strategy cruncher. So, basically, you
+upload your back test and it's going to
+tell you exactly the optimal rules you
+could apply to your strategy to make it
+better in a way that makes total sense
+to you.
+So
+yeah, that that's the tool I use and I
+used you know a more primitive version
+of it for many years and uh you know
+I've made it available uh as Mavec for
+uh other traders to use.
+>> Thank you again for letting us use it.
+You know had the chance to dabble and it
+is very awesome. It's it literally plain
+as day just shows you exactly the
+indicators. Yeah, it's I know it's good
+just because I've used it for so many
+years and ah it's it's great
+>> and it's ridiculously fast. We tried to
+replicate a dumb down version of it and
+it was a lot slower. [laughter]
+>> Yeah.
+>> So you have the optimizer, it's telling
+you the exact rules to use. Have you
+found there's like a magic number to the
+amount of rules that you want to put
+then in the strategy? Is there too much
+rules, too many rules?
+>> Yeah. So, so a lot of traders when they
+think of optimizing or optimization,
+they think, "Oh, well, curve fitting,
+you're going to end up with too many
+rules." Like, this is obviously curve
+fitting.
+But a good optimization process and when
+you use the cruncher or some other
+tools, you're going to end up with fewer
+rules.
+So there's less of a chance of curve
+fitting. So
+you know it it's going to tell you like
+back to our gap example, it'll tell you
+the exact threshold to use. Maybe it's
+like 3.8.
+And a lot of traders will say, "Oh, well
+3.8, you know, that's so specific.
+That's like curve fitting." Well, no.
+It's it's literally the optimal point to
+use given your trading set. So there's
+no reason not to use that. Like no, the
+market doesn't care that it's not a
+round number, right?
+>> Exactly. So
+>> you taught me that.
+>> Yeah. So it's like why not just use the
+optimal one? That's that's the one you
+should be using.
+>> So yeah.
+>> So how does that lead to fewer? You said
+now you're going to have fewer.
+>> Yeah.
+>> Because you're using more significant.
+>> Yeah. You're going to be selecting rules
+that are like more powerful. They're
+more predictive. So, when you can use
+one, like why use three rules
+to filter trades down when you can use
+one that does all the work? And that's
+just going to make your strategy a lot
+less complex, more easy for you to
+understand. And uh
+and it's going to have it's going to
+it's going to be more more robust, and
+have more staying power when you do it
+that way.
+The thing I like about the strategy
+cruncher and just going about it this
+way is that when you run the back test,
+you have your columns, right? You have
+your CSV file or whatever and it's going
+to read that and then show you the
+optimal cut offs for all of these
+things, but it ranks them, right? And it
+shows the difference that each indicator
+value optimal value makes in the back
+test. So you can see like these, you
+know, these two or three seem to have a
+lot of predictive power and these are
+really robust. You know, these other
+ones, they make it better, but it's not
+even close, right? And then you might
+notice that, okay,
+>> these two or three are are telling you
+something about the strategy, right?
+It's not just cool, the numbers like
+check off the box. What Tim and I like
+to do is say, "Oh, that's super
+interesting. Now, let's go look at the
+charts and see and and and pay attention
+to this particular market dynamic that
+that the strategy cruncher is telling us
+about and see if this makes sense
+>> as traders. So, like do do you think
+there's any value in
+>> bringing in that kind of sifting through
+charts discretionary sort of element?
+>> Oh, totally. Totally. So, you know,
+I
+one thing that I did not do with the
+strategy cruncher, which I totally
+could, is like automatically come up
+with the entire strategy and all the
+rules, but I purposely am only showing
+one rule at a time, like one set at a
+time. And I'm and I that's on purpose.
+that's forcing you to think about which
+rule to apply and that's really how you
+learn and and and in exactly the process
+you you you just described of
+uh you know looking at what is it
+suggested going back and look at the
+charts to see why that is why why are
+these trades looking like that you know
+why is this why is it pointing to this
+value as optimal let me go and look at
+some of those and see why oftentimes
+what comes from that is
+you're going to learn things about your
+strategy and the market which you didn't
+know before and you're going to be able
+to create a new strategy based on that
+knowledge that's like completely
+separate from the one you're looking at
+now. So really the traders that use it
+here here's the the typical path is
+they you they start using the cruncher
+they find something to improve the
+strategy they're trading now that's
+great. They all of a sudden they they
+get rid of like 20% of the bad trades
+their strategy is way better just from
+this one you know the first time they
+use it. But the real power is strategy
+two and three. Once they realize
+what power there is there, you can think
+about a strategy from the ground up
+using this in a and really harness the
+power. So really strategy two or three
+are typically better because they've
+they've learned how it works. They've
+learned something about the market that
+they didn't know before. some
+relationship that is predictive and they
+created the strategy based on that.
+That's really where the power comes
+from.
+>> We have our uh our our trade idea,
+right? Our strategy idea with with a
+let's say a gap up trade, right? And now
+we've developed the back test, casting a
+wide net, lot of trades, we have our
+columns, we have all of our indicators
+in there. We're now we're using the
+strategy cruncher or whatever. Um you
+this is the kind of thing where you can
+build these kind of things yourself like
+Tim and I have. It hasn't been as good
+as the strategy cruncher but you know
+we're looking at the data and we're
+filtering out now we have a really
+strong signal. So
+great we have a strategy but now we got
+to figure out where to sell. So
+>> how do you how do you figure out how to
+manage these trades and and what's your
+process for that?
+So usually I've already decided that by
+the time I run the back test. So I have
+some sense of it. And now the so I might
+run a back test without stops or targets
+with just a time stop with the thought
+of picking the optimal stop to use.
+And you can do that by using MF and MAE
+which are basically the the excursions
+like the the point at which the trade
+was the most profitable and the least
+profitable. You can use that to figure
+out the optimal stop to use. So what my
+typical path is create a back test with
+no stop or target.
+use that, figure out what the optimal
+stop should be
+without, you know, on the unoptimized
+trade set, then run a back test with the
+optimal stop in there. So now I've got
+the the the real trade set that I'm
+going to use and, you know, a subset of
+which I'll actually end up going live
+with and then I'll start the
+optimization process from that point.
+Um
+it it also one other option is to to do
+some optimization without a stop. That's
+and then compare and see what things
+look important with and without the
+stop. That's another thing to do. It's
+more of an advanced move. You could
+certainly
+uh sort of my my default approach is
+select the stop then do optimization.
+Makes a lot of sense. On the target
+front, I remember from one of our calls,
+um, you have quite the opinion on, uh,
+profit targets.
+>> Yeah.
+>> What's your take on profit targets?
+>> Well, it's partial profits is what
+>> Yes, that's
+>> uh,
+>> you know, you hear one of the first
+things I think you learn as a trader.
+You hear people saying
+uh you know if you're in a profitable
+position you know what should you do? A
+lot of traders will say hey why don't
+you take a half off and move your stop
+to break even. If you go back and do the
+math on that it is the one of the worst
+things you could do. Like you're you're
+basically if if you compare that to not
+doing it you're you're equity curve is
+just way higher when you don't take
+partial profits.
+And you know, I found this out just by
+testing it and doing that in my own
+trading and then comparing to the back
+test. I'm like, man, I just I just gave
+up so much money by taking this partial
+profit and you know, it makes you feel
+better,
+>> especially to break even, too. You're
+like, "Oh, I'm not going to lose."
+>> Yeah. Playing with house money, right?
+Yeah. This is
+>> But you're giving up so much by doing
+that. A lot of it is
+just for psychological comfort.
+>> Yeah.
+>> And which has some value, but at least
+understand why you're doing it. And
+you know, if make sure you look at the
+numbers, if you were able to take your
+full size all the way to the target,
+you're going to there's going to be some
+really massive winners there. And if you
+can
+stomach those, that's where a lot of
+your profit's going to come from. So
+think about that. Go back and do the
+math and and certainly understand the
+tradeoff about those partial profits and
+what they're really costing you.
+>> And seeing that on paper, too, helps a
+ton. You need to actually do the work
+and see it. And then you'll be like,
+"Oh, yeah. I hate partial profits."
+>> Yeah.
+>> Yeah.
+Uh Adam Grimes told the story once and I
+don't know if you guys are familiar with
+him but he's he's he wrote that book um
+the art and science of technical
+analysis and um really interesting guy.
+I've read the book. It's a very good
+book. Um and I I heard him talk once
+about how he's a systematic trader. I
+don't think it's fully automated, but he
+does tons of back testing and everything
+is based on, you know, systematized
+processes. And and for years, he was
+trading with the mentality of of holding
+and, you know, holding for big wins. And
+he started working with someone who said
+like, "Hey, Adam, I've been looking at
+all your trades." And
+it seems like if you just took a one R
+profit on every single trade, you'd be
+doing a lot better. one R being like if
+you're risking you know 10 bucks then
+sell when you're up 10 bucks and I mean
+to a trader and and Adam's response was
+there's no way that's going to be good
+and that goes against everything I think
+about as a trader.
+>> Yeah.
+>> And of course that's my reaction too is
+it's like how can you know you got to
+let your winners run and he did he went
+back and tested it and it was a lot
+better. And so I guess like from this
+point on he's traded that strategy with
+a one R profit target like ever since
+even to to against his own intuition
+just because that's what the data set.
+>> What do you think about that?
+>> I think I think depending on the
+strategy that could be a a very good
+thing to do. I think it's going to
+depend on the signal. It's going to
+depend on the spirit of what you're
+really trying to capture with the
+strategy. So,
+um I would think ones that trades where
+your hold time is shorter, maybe you're
+looking for a smaller move, that would
+probably work really well. But if you're
+looking for something that needs to be
+trending, you know, needs to trend all
+day for it to work. Um I would think a a
+f a target further out or no target at
+all would probably be better. So, I
+think it's going to depend a lot on the
+the strategy itself. There's not going
+to be one blanket answer that's going to
+work across every strategy. Everything
+every every system is going to be
+different.
+>> And by no target at all, you mean sell
+on the close, right? That's something
+that or or cover on the close is
+something you do quite often. Correct.
+>> Yeah. I mean, a lot of, you know, I do
+exclusively day trading. So, if you
+think about it, the longest hold time
+you can have is basically all day. So, a
+lot of times I'm I'm
+in positions all day and you know, if
+the day were longer, I'd be holding
+longer, but that's like a natural time
+to to exit. It's um so yeah, often I'm
+for a lot of strategies that I trade,
+that's what I'm doing.
+>> Speaking of days longer, Dave, uh are
+you thinking about the 247 markets and
+would that mean anything to you? Are you
+excited? Maybe like part of me thinks
+there might be inefficiencies because
+it's new. Um, and maybe there's some uh
+unusual activity bringing it back to
+what you said. But yeah, I'm curious
+because that could be fun.
+>> Yeah, I think I suspect there'll be some
+serious inefficiencies certainly at the
+beginning. Um, I mean there is some 247
+trading now. I think at IB uh you can
+trade 24 hours with some names already.
+Um, but yeah, I think there's,
+you know, I think it's going to be a big
+change. I don't think it's going to be
+quite as big as some people think, but
+um, like I don't think the open and the
+close is going away anytime soon. Uh,
+but yeah, I think it's certainly
+interesting and anytime there's a big
+change like that, there's always
+opportunities for edge.
+>> That's what I'm kind of thinking at
+least. We'll we'll have to see.
+>> I think also Robin Hood has the 247
+trading right now.
+>> So, I kind of wanted uh to ask about I
+know you've been working with a couple
+guys at SMB Capital uh Memo and uh Chris
+EPS and I'm kind of curious how that
+started that collaboration started.
+>> Okay. So, it's kind of an interesting
+story because
+I've always done a lot of writing, just
+written stuff on a blog. I mean,
+starting from probably, it was probably
+2000 when I started doing that. And I
+started writing about trading in
+probably
+16 or 17, somewhere in there. So, I knew
+what I was doing was pretty unique. Man,
+I didn't see anybody else doing what I
+was doing. So, I started putting some
+ideas out there. And
+uh all of a sudden, Bella, Mike Bellory,
+reached out to me on Twitter
+and he had read one of the uh posts I
+wrote and and like wanted to meet up. We
+had a Zoom call and he was asking about
+my trading and stuff. I was like, you
+know, I was uh shared what I was doing.
+He said, "All right, well, next time
+you're up in New York, let me know.
+Let's let's meet up." So,
+I I was happen to be going up to New
+York in the next month or so. So, I met
+up with him and I went over in detail,
+like I showed him what I was doing, like
+all the trades I was making.
+And I remember, so I was in his
+apartment there. We were looking at my
+trades and
+one thing he said was, "Dave, I don't
+think a lot of our traders could even
+get by with the rates you're paying at
+IB and like as well as you're doing."
+And I was like, "Oh, okay. Well, I never
+really thought about it that way." So,
+basically, he I think saw something in
+me and it was all because of that
+writing I was doing. It was it was I'm
+sure it was 100% from the writing I was
+putting out there. And
+uh so he he said, "Why don't you talk
+with Memo?" And so yeah, I I talked with
+Memo. I met with him out in San
+Francisco.
+We got along really well. So and so
+we've had this collaboration for some
+time now. And
+you know, a big thing that Mike says a
+lot is networking is a trading skill.
+And it totally is. Like I've had many I
+well not many but you know a handful of
+collaborations over the years and you
+know they come and go. Sometimes they're
+uh sometimes they're productive for some
+period, sometimes they're not. But the
+more you share as a trader, the more
+you're going to get back. And you should
+be, you know, a lot of traders are
+really secretive. They think they have
+the secret sauce. Sort of like, uh, you
+know, when I was sort of hoarding my
+tools 10 years ago. Um, you're going to
+get way more back when you share your
+information. Building trust with other
+traders. you know, you're not sharing
+things just willy-nilly, but really
+going out of your way to to and sort of
+systematically building trust with other
+traders to have collaborations. And the
+way to think about it is like what can
+you give that trader that's going to
+make their life better, you should be a
+default giver, not a taker. Most people
+are takers. Most people are thinking
+about themselves. You should be thinking
+about how can you improve somebody
+else's life? How can you make their
+trading better?
+Uh and when you start thinking about
+that, there's going to be ways you can
+help and and you'll develop these
+collaborations which they're going to
+be, you know, a lot of people, a lot of
+traders think about things in completely
+different ways than you do and they'll
+be able to share ideas with you that you
+will literally never think of without
+that collaboration. So collaboration is
+like a such an important part of being a
+trader and it's you should have a
+process for building trust with other
+traders and part of that is being a
+giver not a taker.
+>> That story is awesome and Bella is the
+best at networking.
+>> Yeah.
+>> So what makes the collaboration with
+Memo so good? Like what are each of you
+guys kind of bringing? like do you have
+a specialty that each of you are
+bringing to the team in the
+collaboration?
+>> So,
+you know, most people when they think of
+who they can collaborate with, they're
+looking for people that are basically
+clones of themselves like that trade
+exactly like they do or similar to they
+do to the way they do when really the
+better collaborations you should be
+looking for people that trade completely
+differently than you. And that was the
+case here. like they were doing stuff
+that I'd never thought about and I was
+doing stuff that they had never thought
+about. It was completely different. So
+like the the process of sharing those
+ideas and like
+wrestling back and forth and you know
+understanding why you thought this and
+why they think this and you know you're
+obviously confident in this strategy.
+How did that confidence come about? what
+was the path you took to get there?
+Those sort of collaborations are really
+where
+magic can happen and you can really make
+big strides in your trading. So yeah,
+it's it's something you know I have a
+very kind of specific process for
+uh that I suggest traders do and that's
+you know be a giver not a taker.
+Yeah, it's great advice. And that's
+where when you have different skills in
+trading different things, one plus one
+equals a lot more than two. It's another
+Bella quote.
+>> No question. No question about it.
+>> Everybody has an Achilles heel, right?
+Like every every trader has has a
+weakness, has a strength, and sometimes
+when you find those partnerships where
+you kind of fill in the blanks a little
+bit and help each other out, I think,
+you know, is great. So, I mean, Tim has
+no weaknesses, which is why I partner
+with him.
+>> You're talking saying I have a zit on my
+forehead, but
+>> but [laughter] that's just a that's just
+a selfish thing. So, I'm I'm just
+partnering with Tim for completely
+selfish reasons,
+>> but not at all.
+>> I'll work I'll work on No, I I've helped
+you out a couple times, I suppose.
+>> Oh, yeah. Um, well Dave, we got we have
+one more question for you and I'm going
+to ask it, but I'm going to give Tim the
+credit for for coming up with this
+question because um I think that he
+should.
+>> If you had a billboard in Time Square
+that you could put anything on,
+something you want the world to see,
+what would it be?
+>> Oh, wow.
+Um,
+if it was if it was only traders in
+Times Square that were looking at it,
+what I would say is
+your the the strategy that you're going
+to make the most money from in your
+career, you haven't thought of yet.
+>> I like that. So
+>> that message will be, okay, what process
+are you going to put in place to create
+that to to put yourself in a position to
+have the idea that's going to turn into
+a strategy that's going to be your most
+profitable?
+So that
+that's kind of the that that would be my
+message. I I think that's I think a lot
+of traders
+uh I work with a lot of traders that
+they don't realize how smart they are.
+um they don't realize how good they are
+and they don't realize how good they can
+be. And I think that's my message to
+traders everywhere. Like you you are you
+can be better than you are now. And
+you've got it within you to do that.
+>> So let's do it.
+>> Let's do it.
+>> Well, Dave, thank you so much for
+joining us. It's been a pleasure as
+always. We'll do this again, I'm sure,
+in the future, but we really appreciate
+it.
+>> Yeah. Thank you, Dave.
+>> Where can I appreciate having where can
+people follow you or find you?
+>> Yeah, the easiest way is I've got a free
+course on back testing. It's called
+better back testing. So, it's a sixday
+email course. It's totally free. If you
+go to betterbacktesting.com,
+you can sign up for it. It'll take you
+right to the signup page. That's the
+easiest place to start. And you can also
+just feel free to email me at daved
+davemade.com is my email address. But
+yeah, it's um yeah, it's an honor to be
+on here, guys. This is this was totally
+fun.
+>> Yeah, it was a blast. So, we'll we'll
+see you at the uh the next coffee
+session.
+>> Yeah, I'm excited to pick your brain
+again.
+>> Yeah, this was great. Hey, you guys are
+doing a great job with this podcast. I
+was I've listened to every episode and
+you know, Garrett, when you told me the
+idea for this, I was like, well, that'll
+be kind of interesting. Let's see what
+it's like. But man, the episodes are
+riveting. I I really like listening to
+them. It's really great.
+>> Thank you.
+>> Thank you. That That's awesome.
+>> Y'all are doing a great job.
+>> Well, we're we're having fun doing it.
+We're having fun. We're good. We're get
+we'll we'll figure it out one of these
+days. [laughter]
+>> Exactly.
+>> All right, guys. Well, good good talking
+to you and uh until next time. Trade
+well out there.
