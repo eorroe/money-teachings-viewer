@@ -1,0 +1,25 @@
+I Built & Backtested Trading Strategies with Claude Code
+
+Most Traders Ask AI the Wrong Questions.
+Step 1: Let Claude Run Your Backtests.
+Have Claude Build the Strategy.
+The Hidden Risk of Technical Debt.
+Verify the Output.
+
+From Automation to Claude Code 03:31
+Step 1: Let Claude Run Your Backtests 05:11
+The Trap of Making Claude Do Everything 07:39
+Running and Verifying 12:45
+
+Key concepts from the video:
+- Use Claude Code to build and backtest trading strategies
+- Let Claude handle the technical coding while you focus on the trading logic
+- The hidden risk of technical debt when using AI for trading
+- Always verify the output and backtest results
+- Build strategies with Claude Code and validate on TradingView
+- Automate execution with PickMyTrade for disciplined rule-based trading
+- Keep a human in the loop - Claude is a research analyst, not a replacement for judgment
+- Codify process over prediction - document your trading rules
+- Review every trade to build your personal PlayBook
+- Use realistic backtest settings (0.05% commission, 1-tick slippage)
+- Strategies that survived realistic settings were the only ones that held up live

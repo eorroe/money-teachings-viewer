@@ -1,0 +1,1020 @@
+It turns out I was using Cloud Code
+completely wrong, and I only found out because I actually went and built the
+thing. A few weeks back, Tim laid out four steps to build your own Cloud
+Trading Assistant, and at that point, I hadn't really touched it. So, I followed
+his steps, got my hands dirty, and went a lot deeper than I expected. Deep
+enough to hit four mistakes, each one kind of disastrous. The biggest thinking
+Cloud Code was a tool for writing code at all.
+This is everything I wish I'd known going in because the thing that builds
+your app can actually live inside it. And the four course corrections that got
+me there. Welcome to the Trading Floor Podcast
+episode 19. Tim, what is up, my man? Long time no
+see. >> I know, good to be back.
+So, I was on an island for a week. >> That's right. How
+did Were you trading sheep futures over there or what?
+>> There was a lot of sheep. I'd be long. >> [laughter]
+>> All right, so this is a follow-up, right? A few weeks ago, you walked
+everybody through getting started, the four steps, like soup to nuts, the whole
+like And it actually helped me because, as you know, I've been kind of sitting
+out. Sitting out of the ball game, watching what everyone else was
+building, thinking, "Okay, like let me let me kind of pounce on this thing once
+I know exactly what I want to do." >> Definitely. And it was just the first
+beginner steps, you know, talking about the plan mode, how I did my template,
+and really just kind of making it your own unique trading assistant. So, it's
+cool to say that you like did them and uh played around with those steps.
+That's awesome. >> I mean, they were great cuz they were so
+simple that it I think the biggest thing for me is it just removed the
+intimidation factor. And like, I mean, for somebody who's
+done a lot of script building and and writing in Python, it's like I shouldn't
+be intimidated by something that's supposed to make it easier, but it's a
+whole new world, right? There's a little bit of that feeling of like, "Wow,
+there's a lot you can do. Where do I even start?" And I think that that's
+what our conversation a few weeks ago really
+helped me with. So, I actually went ahead
+and did the thing. I built it. Um it's still a work in progress, but
+it's built, right? And this is We're talking about a trading assistant here.
+I was about to say, "What did we build?" Yeah, so I mean
+first of all, I want to point out that
+And Lance talks about this, right? Which I think is super relevant. Like with
+something like this, you always have to ask yourself, like what's the ROI?
+Because what I didn't want to go do was spend a bunch of time on cloud code for
+the sake of cloud code, like just cuz it exists, right? I wanted to make sure it
+actually moved the bottom line. So, I spent a lot of time thinking about what
+actually matters to me and like what would move the needle.
+And I came up with two things, right? So, I've always had this thing called
+the trade log. I actually made a video about this like
+years ago. It's on YouTube somewhere. Um
+And it's it's a review process, but it's all on Google Sheets. It's
+it's awesome. Like it totally works. It surfaces
+process gaps. Like things like, you know, are you grading incorrectly? Are
+you not sizing based on your grade? Or how about
+when your idea is working, but you're losing money? Or how about when the idea
+doesn't work, but you break even, right? That's like kind of execution gaps. So,
+it's designed to kind of log all those things and highlight those things. The
+problem with it, it was super cumbersome because it's all manual.
+>> I remember that trade log. >> Yeah, and and like I mean I I get a lot
+out of it. Like I love it, but it just takes me so long and
+it's just not it's not efficient. And so, I thought, okay, number one,
+I want to use Claude to kind of recreate the trade log in a way that is
+interactive and in a way that really enhances my review process. Like if I
+can not only make it more efficient, but also get more out of my review process
+that I already have an idea of what works for me,
+then that would be a win. Okay, the other thing I wanted to do
+was some sort of synthesis of information
+because we get hundreds of emails in our inbox,
+analyst reports, um day summaries, earnings report analysis,
+highlights from banks, and you name it, right? Just there's tons of stuff.
+>> And there's tons of information out there, like no matter who you are.
+We build a lot of market views and filters and things like that because
+we've, you know, really kind of done a good job
+of leveraging the tech side of things before AI came along, right? So, we've
+also have all of these market filters. And so,
+one of the challenges that I find is every morning coming in, it's like a
+huge priority gap where I'm like, okay,
+how many of these emails am I going to read? How How am I going to pinpoint
+which earnings names to really get into? And
+like how in how much detail am I going to scan over all of my market filters,
+right? It's like it's it's a really It takes a lot to get that process down to
+kind of prioritize how you're absorbing your information flow
+in the morning. So, I wanted something via Claude to synthesize that in a
+intelligent way, understanding what's important to me,
+and give me something that's concise and really hits things and breaks things
+down the way that I want. >> This is awesome. I mean, I love that you
+took the steps and ran with it and made it your own cuz that was the whole
+point. So, I would say also, if anyone is still trying to get into Claude um
+and you don't know how to go back to that beginner four steps video, but this
+is music to my ears. So, I'm excited to dive into your journey through this.
+>> Yeah, man. So, I mean, I would just say to you like your your four steps is like
+the perfect four steps to just get your feet off the ground cuz that's what it
+did to me and then it propelled me into this
+the into the stratosphere, into this totally other realm that I did not
+expect to be in. I was doing
+>> it's built, you're yeah, you need to that's the figure out on your own.
+>> Then I was like off to the races and I and I kind of like hit this point where
+I was like, man, like like I didn't expect to be doing these
+things with my project at this point. And what ended up happening was of
+course you never nail it on the first try. You have to go through trial and
+error and I thought about it and I'm like, yeah, man, like I made I made four
+mistakes when I first started doing this that I wish I knew when I started
+because then the whole process would have been much more clean from the
+get-go instead of me kind of figuring these things out like halfway through
+and then playing clean up. >> Definitely. And I mean, I've I've ran
+into a few mistakes myself, so I'm sure you Yeah, I'm interested to see
+which ones which ones you found. >> Yeah, all right. So, let me just get
+right into it. Would you like to gain the biggest edge a retail trader can
+get? All of our daily and weekly in-house
+trader meetings are now available to you. Just head over to
+smbtrainingfloor.com to find out more.
+>> We'll talk about the first mistake. So, most people use Claude code to write
+code. Right? And there's nothing wrong with
+that. That's amazing. We do that.
+If you're just doing that, great. I think it's great, but
+that's it, right? It's really a a fast engineer for a lot of people. And a lot
+of traders talk to, like, that's that's kind of the
+the ceiling. For months, I did the same thing, and
+you know, that was my first mistake because the thing
+building your app can also live inside of it. And so, I I
+don't just have Cloud Code write the functions. I wire its a reasoning
+into the product as a feature. So, my trading operating system, we'll
+call it an operating system, but that's just kind of what they call it. It's the
+website that Cloud builds for you when you're basically inputting the stuff and
+saying, "Hey, I want like, I want my review process. I want my email
+synthesis." Like, it all lives on this website, and what we can call that the
+operating system. >> And that's your assistant, just to be
+clear, right? >> Exactly. That's That's what we call the
+the trading assistant. It's assisting me with my reviews, and it's assisting me
+with my information intake and generation.
+Um so, the the operating system reads the market,
+it breaks down the research, reviews my own performance live, and that's what I
+mean by inference architecture. So, that's
+something that I'll talk about throughout these four points.
+And that's basically like the idea is like, stop treating Cloud as a factory,
+and start treating it as part of the machine. Like, let it do its thing. And
+so, there's there really specific things I found to
+uh that allowed me to leverage this aspect of the project. And that's when
+it when it really took off and started becoming
+much more powerful than I ever imagined. >> All right. So, just to make sure I
+understand, basically, you're saying that, like, there's two distinct, like,
+use cases for Cloud, and you were understating
+this inference as a big way of utilizing it.
+>> Yeah, because I think, like, Cloud Code, it's in the title. And it's like, the
+first thing that blows your mind is you can say, "Hey,
+can I can you just make X, Y, and Z happen for me?" Like, my dad, for
+instance, we talked about him in the last episode.
+Um he he watched your your episode and he
+created his own TradingView. Right? Like he was like, "Man, I don't want to pay
+for TradingView anymore and and I want to create my own thing that just gives
+me my like win rate and my stats and and everything
+and my chart and he did it based on your video, but he's just using it to code.
+And that's where like a lot of traders are. And so yeah,
+there's a whole other side of this where and I was talking to my cousin who's a
+sell-side analyst on a on a short-side fund in Boston
+and he he he owns the he owns the uh
+the analyst company and and the firm, basically, with another guy and that you
+know, they're the partners. And they've basically like commissioned
+a an intern to kind of attack the whole like AI project for their firm.
+And he was talking to me about how it's just not working for them.
+And he was kind of asking me questions and what I realized was that like he's
+basically giving somebody who knows nothing about his actual
+process his actual trading process, his analysis
+process. He's giving it to a computer science
+major and say like, "Hey, can you just make this work?"
+And what I've realized is that you don't it's not a computer scientist that you
+need to give this to. It's someone who A understands the the trading process
+understands the the playbooks, the methodologies
+the way that you want to break down catalysts
+and it's somebody who can write really well and reason really well
+and think analytically. Like I'd probably rather have like a philosophy
+major or an English major work on this project than in science major.
+>> Yeah, I mean, it makes a ton of sense. Like, I found too uh just with the build
+mode, what we're saying is like just using Claude Code as a builder as a
+coder, like that is a normal first step I think to take cuz it's sick, you know,
+you make an alert, you're like, all right, now I'm going to make another
+alert. Or like you're doing your trading assistant and you can just say, all
+right, like I want to see all of my trades by grade for May and you have a
+one-off plot. And then you start saying like, all
+right, but I want to do this continually, like ongoing.
+>> Yeah. >> And that's really I found myself where
+the magic happens. Like, in the beginning though, it's cool cuz you're
+getting a ton of stuff done because it is a factory and it's producing a ton of
+output. >> Yeah.
+It's totally And to And to bring it back home like to your to your question, so
+there are two sides. There's the There's the factory code make this thing. It's
+like one-dimensional. And then the other the other side of it
+is is the inference of the language model itself. The
+The ability for the language model to infer and reason and synthesize and
+surface things that are not necessarily directly in the data, but that are
+patterns in the data that that mean something else. Like for instance, you
+might have 10 different emails of analysts breaking down different stocks.
+And in no single email does any one of those analysts say that today the
+robotics theme is really active because there are a
+bunch of analysts breaking this down. But of course, if you read all those
+emails, you can infer that and you can synthesize and you can start to draw
+patterns and these are the things I'm asking Claude to do. So, it's not just
+regurgitate the email to me, it's like scan everything, digest it, and then
+surface these specific patterns that I'm looking for.
+>> That's really interesting. Like, is that what led you to make the jump? Or like,
+how did you find this to be a mistake? >> Yeah, because when I started out, I was
+building it as if it was just a coder.
+And then, what happened was I I didn't go into it thinking that this was a big
+layer of my project. And And like, this is what I was telling
+my cousin. I'm like, you should do be doing this cuz you know what you're
+looking for. You know what you're looking for in all these filings. Like,
+you're the one that probably needs to give Claude like your process and really
+break it down and make it understand like what you're looking for cuz it
+can't be a generic thing. Like, one of the things I've learned is like, the
+more specific you are and the more boundaries you give,
+the more it's able to leverage its inference and synthesize. Because if
+there are no boundaries, there's there's no
+you know, every everything everything's a theme, right? But if you if you for
+instance, uh it give it a database and an an entire ontology around like, what
+are our themes that we track and what are the definitions of these themes, it
+locks it right in to those definition definitions and then
+starts firing away. Um so,
+what was my mistake, right? So, I started using This is mistake number
+one. I started using Claude code only as a code factory.
+And then, only once I started seeing the results,
+did I start thinking like, "Oh man, like I could probably get it to
+give me some more information here if if Claude has read all of my emails,
+right? If we're just talking about that that aspect. Um
+you know, I'd kind of like to know I'd kind of like to have a theme section
+where it surfaces patterns that it sees throughout the entire
+data set in case, you know, something's popping off in the memory world today
+that might be significant, right? It might not be like the single stock with
+the biggest gap and the number one catalyst of the day, but man, if if
+stuff overnight happens in Korea and there's kind of a story there and then
+like there's like an analyst talking about MU and then because you know how
+it goes, like remember the um the quantum breakout last year?
+>> Yeah. >> Where those things just ripped
+out of nowhere, it seemed. And they broke huge bases all at the
+same time and it wasn't like a major inflection catalyst that like popped
+them off, but if you read if you read all the emails, somewhere in
+the fine print, like IonQ had like a decent
+um I think they had like a presentation or something and there was like a read
+through there and then there was like something else small with like and so
+underneath that, there it really was like a quantum day and that pre-market
+there was there was some quantum stuff brewing.
+And knowing about that could have even just made you pay a lot more attention
+to those names at the open considering they were ready to break out, but if you
+were only looking for what's the hot stock of the day or what's the biggest
+catalyst or or volume in the pre-market, it was probably some some other name.
+>> And SNDK January breakout with the hidden Samsung news overnight that no
+one knew about until a day later. >> Exactly. Exactly. So, these are the
+things that I'm trying to surface, right? Cuz we we care about
+these and and it's really hard to to go over
+every piece of information in detail. So, I started building it as just code
+and then I started to kind of ask it to do these things.
+And that's when I realized, oh man, there's like a whole other layer here
+that I did not account for. And the reason why this is a mistake, in my
+opinion, is because this is not something to be taken lightly.
+This is not an afterthought where you're you're basically giving it, you know,
+what to build and vibe coding away and and then you say, "Oh, by the way, like
+I want you to like synthesize these things."
+Like you have to in order to do for it to do it right, you have to really tell
+it how you want it to think and you have to teach it your own
+process and methodology and and what is the definition of a theme to you and
+what are the types of things that you want it to surface. So,
+I realized that's the whole process. So, we'll get into that, but that's why it
+was a mistake because I would have started out the project a lot
+differently and not have this as an afterthought.
+>> Makes a ton of sense. So, is the solution just not
+underestimating Claude and knowing that these are very different, these two use
+cases? >> I'm glad you asked. So, the the solution
+is to build an inference architecture. So, what do I mean by that?
+An inference architecture is wiring Claude's reasoning into your app as a
+live feature, not just using it to write code, right? So,
+you wire Claude API calls into the the
+operating system so the app reasons over this data, right? So, that's the goal.
+And so, the next the next three mistakes that we're going to talk about were
+mistakes I made in trying to do that. So, the the
+the clear directives in terms of how we're how we're going to achieve this
+come they surface in the next three mistakes.
+All right. And so, and and by the way, mistake number four is the same engine
+that breaks down a research email also breaks down like my trades against my
+own methodology. And so, I'll I'll show you like how I do that um later.
+>> I'm excited to get into that one cuz I haven't done a ton on that front,
+either. So, Yeah, I'll save my questions.
+>> It's really fun. It surprised me like how good it is. So,
+I try to run my whole project >> Do you want to sit in on all of our
+daily and weekly in-house trader meetings? There's no bigger edge retail
+traders can get. Visit smbtradingfloor.com
+to learn more. >> inside Claude code session, right? In
+that one session, you open up Claude code and you just start ripping. You
+just tell it what to do. That's I mean, for simple UI stuff and
+like just, you know, stuff like what my dad was doing, like I think that's
+totally fine. But, if you're trying to add that
+inference architecture and really tell it how to think and add that layer, this
+is a really, really bad idea. Right? The longer a session runs, the
+more junk it's wading through, the model gets dumber as it goes. Like, I call
+that like context hygiene. So, now I brainstorm in separate chat threads, one
+per inference layer, and I'll get to like how I think about these layers, but
+I'm I'm opening up a chat thread that's not Claude code at all. And I'm
+basically saying, "Hey, I'm building this thing. I'm over here.
+I've been talking to Claude code. We've got a thing going on, but I want your
+job to be design me the architecture for the inference layer, for, for
+instance, the morning report that we're talking about, this email synthesis.
+Like, I'll just pick one inference layer and say, "All right,
+we're just going to break down how we're going to do this. And if I need to
+brainstorm or get feedback, or if we need to go back and forth and get really
+messy about it, I'd rather do it there than do it with Claude code, because
+Claude code is maintaining a code base, and you really don't want to contaminate
+the process there with tons of edits and confusing language.
+>> Yeah, this kind of reminds me like almost in middle school, where you had
+like all of your classes, all the papers, homework, and everything in one
+binder. And then whenever you tried to like find something, it was just messy.
+And like you couldn't find anything. Is that like a pretty good analogy when
+you're doing it all in like one session? >> Well, yeah, 100% because you're telling
+Claude Code the you're telling Claude Code the
+structure of this trading assistant, right? The operating system, the
+website. You're giving it UI instructions.
+And to then also
+tell it how to think. And then think about inputting how you
+think and give it certain data, like our theme database and all the definitions.
+And then answer the question, how is this theme database
+this theme tracker, how does that relate to how you break down the morning
+emails? How does this relate to how you think?
+Like that's that needs an organization. It can't just be like whatever you feel
+like telling it on Tuesday and then whatever you then you kind of close the
+session and then whatever you feel like maybe telling it on Wednesday. Like over
+time that's going to get lost and you're not going to remember
+what Claude has inputted into the code. Of course, you can ask that back and
+that's like a good practice. But it's it gets very messy like your
+binder. >> This is why this is a good follow-up,
+too, because like in that last video we were talking about using the chat Claude
+chat as your plan mode. And then you build it, but then I think it is like a
+misconception that then you never go back in chat. Because you already did
+your plan, but is that yeah?
+>> That was that was my mistake, right? So, I like ran the whole project inside one
+Claude Code session. And then after a while, I was realizing
+that like in the like this is the this is probably
+like a good conceptual best practice for this is
+like I I realizing that I was
+I was auditing this morning report and thinking about how it's doing. Okay, I
+wanted to like synthesize these things or think about the theme our theme
+tracker like differently. And I was like patching Claude codes
+mistakes with these like one-off like additions
+like don't do this. Or like oh, don't do and then you
+realize that maybe yesterday you told it to
+synthesize aggressively. And then maybe maybe you realize there's
+an issue and then you come back like Thursday and you tell it to like
+don't hallucinate and only surface things that are that
+are defined in my my theme ontology. And you're real like
+you don't remember, but you're telling it contradictions.
+And as in the in or in like two different
+sessions like you know, different days, right? Over time it's it's very easy to
+like contradict yourself.
+And the AI has to pick one.
+Right? Or or it just doesn't do anything. And so
+you have to reconcile those contradictions actively.
+And write exactly what it is you want Claude to do in the architecture. In
+that way, and I'll get to the solution here.
+That way you are keeping everything contained and you have your own you
+you're you have your own intellectual property of what this thing is that
+you're building. >> So what does this like look like for
+you? I guess just to play a little devil's advocate.
+Like I think it's common like everyone knows that you want to try to debug and
+find errors and it will save you time putting in more work
+being like clean with your chats and your prompts.
+Yeah, so you don't have to do it down the the Yeah, but at the same point, you
+know, this is sounding a little tedious. Which I'm I'm interested to see if like
+you've seen that [snorts] it has saved you a ton of time and energy and just
+what it looks like. >> Well, what it saved me is like to I
+mean, put it bluntly, like a project.
+Like that's what it saved me. So, yeah, maybe some of this does take more time
+up front. But I don't think there's any other way
+to do it. So, like yeah, I mean, it it's a big job to
+describe how you want
+an AI to think and how you want it to take your own process into account and
+use these things. Like yeah, it's I mean, that might be harder
+than five coding up some stuff, but you're
+not going to get you're just simply not going to get the results.
+Like it's going to start hallucinating, it's going to start making stuff up,
+it's going to ignore your directives, it's not going to do what you want it to
+do. Unless you organize your thoughts and
+and go through these steps. At least for my experience because I was doing these
+wrong and I wasn't getting anywhere. So, talk about wasting time.
+>> What are you getting at? >> Yeah.
+Um so so yeah, I mean, mistake number two is
+like running the whole project inside one session, one cloud code session. You
+want to use separate chats for different
+layers within that same project. Right? So, I'll have one that's dedicated to
+that morning report. And we're just talking about how to
+synthesize emails and themes and what what are we drawing from my own process,
+how do I want you to think, what's the structure of this report,
+how does each section think differently? Right? Like the the environment section
+is thinking like what's what does the market care about? The catalyst section
+is thinking like bottom up. Like what what catalysts are
+actually most significant for like the individual name, regardless of whether
+the market cares. Cuz think about it, like it's reading all the emails, there
+might be an Nvidia report in there that's like, "Actually, you know, from a
+trading perspective, a non-event for Nvidia."
+Right? It might It just It's not an inflection.
+It's, you know, it's in a range. It But,
+80 88% of the emails are going to have deep Nvidia report commentary in there
+because it matters to the entire market.
+And so, you're going to find that like Claude is going to put Nvidia as like
+the most significant catalyst. And I'm like, "No, like this needs to be
+in top stories in the the overall market tone in the environment because that's
+what matters to the market. I want the top catalyst to be I don't care if it's
+a stock no one's ever heard of." But, if it has an INOD Exactly. INOD,
+Fastly from last quarter, like the stuff that we trade catalyst plays on. Like, I
+want it to surface the names that have inflections
+based on the catalyst. And it might not be talked a lot about in the emails, so
+you have to teach it like what you're looking for. And so,
+these are all the things that I'm dealing with in on the chat side
+when in the chat that is dedicated to
+designing this AM report so that I'm not confusing Claude code with all of these
+like Okay, how do we do this?
+>> And of this mistake is great for me cuz I'm even thinking about my own trading
+assistant. And
+I've like started to do this, but not in a clean way, but separating each session
+for the different tabs and sections of your dashboard is genius. Cuz like it is
+one project, it's one big dashboard, but at the same time like when you're
+looking at the tendencies of my trading, that's so different than reviewing
+trades or grading accuracy. Like they're just very different.
+So, I could do a better job of this, I know myself.
+>> I mean it's basically compartmentalizing. But then there's
+there's kind of an end game to this. Like I'm kind of leading you through
+where I got, and there's like a real serious
+um Like it all comes together in the next
+mistake. What What are we on to mistake number two? So the So mistake number
+three now. >> [sighs]
+>> All right. So, I vibe coded
+a lot. Here's a mind-bending stat for you. SMB traders have 20x to 40x higher
+odds of success than independent traders.
+Find out why and how to greatly increase your odds by visiting
+smbtradingfloor.com. >> And I vibe coded a system that I
+intended to to trust with my real money, right? So, even even with the chat side,
+um where I'm just trying to work through this stuff. It's like, "Okay, it's great
+that you're working through this, but then you come back to Claude code, and
+you're like, "All right, now that I know what I want to do, can you do this?" And
+then, "Oh, you didn't quite do it right. Can you change this?" And you kind of
+fall into the same trap. Where you might have figured out on the chat side
+what your how you want to say it and what you want to do, but then you still
+get into this thing with Claude that where you're trying to audit and refine
+and the same thing starts to happen. Right? So, I I mean, I think vibe coding
+when it comes to um
+I guess adding inference layers to your project is is super dangerous because it
+just muddies up the whole system, right? It's like a continuation of the theme
+that we're talking about, right? Um What I did
+is I kept it architecture document for each chat. So, for each inference
+layer that I'm designing within my trading assistant. So, let's just define
+those. Like, there's an inference layer that handles the morning report. So,
+this is the brain that synthesizes all the information and
+writes the report. There's an inference layer for my daily
+logs. So, that's like if I'm inputting a trade and I want to do a daily review
+and I wanted to ask me questions and I wanted to surface like push me on like
+being more specific. And then maybe surface some things that
+are like you said like tendencies or things I need to pay attention to.
+The third inference layer is just my my performance section. And that's like the
+master like if the if the daily log is like the
+manager, the performance section is the CEO. This is the one that kind of looks
+down on everything and says, "Okay, over time
+this is these are the patterns showing up in your trading. Like, you're really
+good when this and this and this are present. Like, these are the things you
+need to watch for. These are the things that are coming up in your reviews."
+And then um you can slice that through a week, through a month. You could do a
+monthly review, a weekly review. And you're basically asking it to surface
+these things. So, when I say an inference layer, I just mean
+there's a separate chat dedicated to each one of
+these. And then within the chat, and this is
+what prevents me from vibe coding. This is what This is my workaround. Each
+chat creates a document
+that is a architecture document for that inference
+layer. So, as we're working on it,
+we're basically just coming up with a PDF
+that outlines
+everything about what I want Claude code to do. And so, now
+not only do I have a record of something that's organized and that's mine. So,
+like if Claude code blows up or I want to go to a different language model,
+like I've got my project. I've got the architecture for my project. It's not
+just all lost in vibe coding. And now when I want to make a change,
+I'll take that document, the updated version, I'll
+send the updated version to Claude code, and I'll I'll give it a prompt that says
+like here are the changes I made to the architecture. These are the things I
+want you to implement. Like please read the architecture, and
+then also please give me a report on what is in the code base that it does
+not align with this architecture. And that's what we call like closing the
+loop. And then if anything needs to be updated
+in the architecture, you go back and you do that, and you keep them so that they
+mirror each other. >> That's great. That's interesting. So,
+you're saying like vibe coding basically is
+it's now been such a common term, and everyone like kind of says where it's a
+productive thing, but you're saying it's just coding, building everything out
+without actually documenting it, and updating a document.
+>> Yeah, you like in it's it's it's kind of just you're flying by the seat of your
+pants, and you're just messing around, which I I mean it's fun.
+It definitely works for like UI changes and
+things that are contained, but I think that if you want to It's my
+opinion or from my experience that if you want to arc like really add an
+inference layer on top of what you're designing,
+if you really want to tell Claude how to think and how to
+operate within different parts of your project,
+I I think you would really benefit from having an architecture that you're
+building rather than just vibe coding because like
+that just it's like breadcrumbs. Like you're just dropping breadcrumbs
+everywhere, and maybe eventually contradicting yourself. So,
+I would rather have what we call this in my my cloud chats is like the single
+source of truth. So we tell Claude code like this
+architecture document is the single source of truth and it knows that.
+>> You know you're in deep when you start saying we as in you and Claude.
+>> I know. And I'm Look, I might be losing my mind. I might be completely losing my
+mind, but I've made so much progress with this thing and it doesn't it's not
+like super time-consuming and in fact like I was wasting a lot of time before
+I figured this stuff out because I was going around in circles
+being like, oh you didn't do this quite right. How you know, you didn't do this.
+You didn't do this and it was like dropping these breadcrumbs and they just
+weren't fixing each other. But once I really sat down and said, and
+I'll show you this in a second. I'll share my screen. I'll show you the
+architecture. Once I sat down and like wrote out like, okay, this is how I want
+you to think about like each section and like really make sure the language is
+consistent, it nailed it. It like absolutely nailed
+the the morning report. It was like magic.
+>> Yeah, that's that's awesome. What I love about these mistakes so far, one, I
+haven't heard anyone really talk about them.
+And two, like it it just will make everything so much
+more streamlined. Like no one talks about these things,
+but this is how you get more done. Like everyone so far what I've seen on
+videos, it's like how to build more, you know, build more more more. And it's not
+like building efficiently and well. >> Yeah.
+>> Uh maybe you'll show this is on the example, but I'm curious too like you're
+updating every single change like no matter how small. Like or what's a small
+change that would Like does anything not get updated to the architecture doc
+>> Yeah. Even if it's super tiny? >> So like I would say
+the really small UI stuff.
+Like user interface stuff. Like so if I say like, hey
+can you know can you make the the font bigger on my
+my tab? Like, that's not going to be in the
+architecture. That's something that's a very
+contained. Claude can do that. But, like, what is? Well, it's the like the
+structure of the report. Right? The fact that we're starting with like
+environment, and then we're doing themes, and then we're doing catalyst,
+and then like how's each one going to be displayed?
+What kind of colors are we using for like,
+you know, up percentages and down percentages, and
+if are we color coding the the themes and and the calendar? And all of that is
+in the architecture because it's meaningful.
+But, any little like, I would just say the only stuff that isn't are just, you
+know, those little like tweaks you make to the UI, which is
+super contained. >> Yeah, that makes sense. Something like
+font, you don't really need to throw in there.
+>> Yeah, yeah, exactly. I will um Let me share my screen. How do
+I do that, Kurt? Here is Here's my architecture. And this
+is for the morning report. And
+yeah, it's not short. But, the chat side will write it for you. So, again, like
+it's not it's not too scary. Like, I I'm I'm
+going to want to make sure everything's right that it's saying, but um
+but yeah, I didn't have to write this from scratch or or put together like how
+it looks because the chat side knows exactly what you're trying to do.
+In fact, like, I went back to Claude Code, and I said, "Hey, like, am I
+crazy? Like, I've kind of come up with this
+process and like these writing these architectures for like
+each inference layer of this project, like, am I going about this right or am
+I nuts?" And it was like, "No, you're This is exactly how you want to be doing
+it." >> And I'm assuming this was a lot smaller
+at one point, and then you keep updating it, and that's kind of some of the
+length, too. >> Yeah, 100%. And so, um
+just to just to kind of like just to give you a little color. So, on
+this mistake number three, where we're talking about like how not what's the
+opposite of vibe coding? Well, it's obviously creating a
+like an architecture document. Um So, the directive here is like I keep a
+per layer system architecture document, right? As
+the single source of truth. I update it first with every refinement,
+then I prompt clo- prompt Claude code with the updated version attached and
+let it feed the claude.md file.
+Right? And this is the only technical thing I'm going to mention this whole
+time because this is not like a this is not a computer science conversation, but
+but I would say like the one technical thing to be aware of is the fact that
+there's this claude.md file that exists on some of these bigger projects that
+Claude's maintaining. What is that? Well, it's a file Claude code reads
+automatically at the start of every session. So, your project's like
+standing instructions, basically. So, it has like conventions,
+architecture, vocabulary, how you want it to behave. It has all that stuff in
+there. So, a lot of what you're giving it here in your architecture is getting
+translated to how that um claude.md file is being updated because that's kind of
+like Claude's version of like how can I keep track of this stuff?
+Does that make sense? >> Makes a ton of sense. I don't know how
+much you want to get into it. I'm kind of curious like
+what was one like update and what that looks like in the doc?
+>> There are a lot of subsections that you can ignore, but there are there's an A,
+B, C and D. And then there's an appendix,
+which is E. So, there's really only five sections. One of them's an appendix, so
+there's four main sections. So, what's the first one?
+The system's purpose. So, you're just and this is the shortest section. It's
+like a header. It's like basically saying
+what is this? What are we doing? What is this? And
+this is the the architecture for the AM report. So, I'm describing like what
+this AM report is. Um
+and one of the things I've learned with a little bit of research because I'm an
+idiot and I don't know this stuff automatically. I had to look it up, but
+it's like how to prompt what are the best ways to
+prompt Cloud and and the AIs in general,
+especially as they get smarter. Apparently the the optimal way to prompt
+them kind of evolves over time. And it didn't always be it didn't always
+used to be this way according to some of the white papers that I read.
+Apparently it used to be more optimal if you gave it the steps to take.
+Now, it's more optimal if you start with the finished product product. So, if you
+start with what's the definition of success, what does success look like?
+It's going to do a much better job of getting there if you lead with that.
+>> It's a really good point. I just want to emphasize cuz yeah,
+that's a totally different thing than saying do five steps XYZ, hopefully it
+looks good. >> Right. And it it's great cuz it's that's
+easier for a human, too, because like we we just want to describe what we want.
+And so, it does a really good job of getting there. So,
+part A is just the system's purpose. So, I just take it through what what we're
+doing, what's the actual purpose of this system,
+um some of the key things like rules that I wanted to know right up front.
+So, this is kind of like an overview. And then we get to part B,
+which is how the system thinks. So, this is the inference core.
+Right? So, this is how I'm basically establishing
+the synthesis, the inference, like the the the cognitive level of of this
+report. And I'm breaking it down through
+like for instance, I'll just give you a little tidbit, like the four-part
+inference framework. And so I'm talking about like every section of the report
+has a question, a lens, a selection,
+and a synthesis. And so what does that look like? Because this is how I get
+each section of the report to to basically like give me different
+information based on telling Claude to think differently for each section. So
+for tone, this is like, okay, what kind of day is
+this? That's the question I wanted to to answer, right? The lens is through the
+market environment and the broader trading background. Selection, well, I
+want the information that best characterizes the tape character and
+risk appetite of the overall market to be in this section.
+And then the synthesis is just like defining the characteristic of the
+market environment in the session. So we can do this for
+each section. And if we go all the way to like catalyst, you'll see how
+different it is. It's like catalyst, well, the question is what names are
+most in play? The lens is an individual company or
+directly affected basket. And we select the names most in play
+driven by the most significant company specific catalyst. And the synthesis is
+why the catalyst matters to the selected name and what it reveals
+about the opportunity or risk surrounding it. And so it might
+kind kind of sound stupid, but you do have to explain how to think if each of
+these sections are supposed to be different.
+>> I mean, to me this sounds genius, but maybe there's someone out there calling
+it stupid. I mean, cuz I'm even thinking catalyst like, how do you expect it to
+find significant catalyst if all you say is find significant catalysts
+without being as specific as you are. >> Yeah, and and so if we jump to
+um we're still in B, but if we go to like B3, which is a subgroup,
+there's a subsection of this architecture that's called catalyst
+methodology. And we've talked about this on the podcast. We talk about it in our
+mentorship program, and we do this with our Catalyst plays. But I'm basically
+saying like, "Okay, like first of all, don't make stuff up. Like if the
+information's not there, like don't force it. It can be short. Don't don't
+hallucinate, right?" >> Yep.
+>> Like here's our seven-step Catalyst breakdown. Here's how we think of
+Catalyst. And then, you know, you could even go to an earnings Catalyst and
+classify the buckets.
+>> Those look familiar. >> Exactly. And you can explain, "Hey, um
+look, like they don't all fit in these buckets, but sometimes they do, and when
+they do, we want to know about them." And you can also cuz if you don't
+specify this stuff, you're exactly right. Like it's just
+going to set like whatever the big the the mega cap that had earnings that all
+the emails are talking about is just going to show up first on like
+biggest Catalyst. Right? And that's >> Yeah, that's not what we were talking
+about. >> going to cover Nvidia. So it's like
+that's not the point. >> Exactly. So we're trying to get it to
+surface this stuff, and I'm starting with just our email basket um because it
+has tons of information in there, but then I'm going to branch out to like
+external sources like Edgar and like macro trends
+and give it some of our firm data like you you know, connecting it to our
+market views and letting it know some of the market-generated information
+like in the pre-market. So it can start leaning on more information, but first I
+want to get it like at least just doing the email
+correctly. >> And this might bleed into when you
+wanted to talk about settings, but this is awesome just seeing it and
+seeing the level of detail in this architecture doc.
+>> Yeah, and like I mean >> impressive.
+>> Tim, the great part about it though is like I didn't have to make this stuff up
+because we already like >> It's
+>> we already have this stuff this is just our process like we have this stuff
+right now. >> names are the exact same which I love.
+>> Yeah, yeah exactly. Well, cuz I'm you know, sharing this with you. So I want
+it to be universal. You know, this particular report you can spit out a PDF
+and have it emailed in the morning. So when this is ready, I'm going to be like
+pushing this to you. Um, so of course I'm going to keep the
+same names. >> Um, yeah, I'm solid. I'm pumped.
+>> And you know, so all right, so we're in section B. So section C, what the system
+produces. Right? So so far we did what the system
+the system's purpose, how the system thinks, and then what it what the system
+produces. So this is where we break down the sections and actually give it the
+structure. Super simple, right? We're just taking
+it through like environment, there's a theme section, there's a catalyst
+section, insights are like analyst insights and stuff like that. And then
+there's a watch list section that is basically you can input tickers if
+you wanted to surface stuff about like your watch list. Um, all right, so D
+how it's rendered and run. And this is all technical specification stuff that
+the Claude chat will will get together for you. So this is a beauty of using
+the chat side cuz Claude chat knows exactly what Claude code needs.
+So a lot of the stuff in here is like stuff that Claude chat got together to
+basically say like these are this is these are the things that we need to
+like really explicitly explain about some of the technical renderings of this
+report to Claude code. So I actually didn't write any of this. All I did was
+like audit it and make sure it was right.
+>> Did you have to ask it something to even get it thinking about that? Or was it
+automatically like we're going to need to deal with this? Or were you like, is
+there something that we need to deal with with the rendering? That's a better
+question. Do you get what I'm saying? >> Yeah, no, that's a great question. So
+no, I I didn't have to tell it to do this because
+like all I, you know, and obviously this came from trial and error. And so
+sometimes when that happens, like it it happens naturally and you just you you
+end up starting doing this architecture and you're like, well, okay, I think
+this is the answer. Well, basically
+you're talking to the chat. And if you tell it, okay, the whole
+point of this chat is to
+is to draft this architecture document. And we're going to work through it.
+We're going to edit it. We're going to take it step by step and in the end it's
+going to be done and we're going to give it to Claude code. And if we have to
+make changes, which, you know, you always do,
+then we can just keep updating this architecture, but that's what this
+chat's for, maintaining this architecture. Okay, now it knows that.
+And you and and it's going to know a lot just by saying that because this is a
+best practice, as I learned from talking to Claude code. He said, "Yeah, I know,
+you're on the right track." So, it's going to automatically now know
+like and you could even say like I just want you to be an expert on how to
+express stuff to Claude code. Like I want everything in here to be like
+optimally explained the way that Claude code would like totally understand it.
+And if there are things in here that I'm not covering that like should be in
+here, like I want you to surface that. >> code needs.
+>> Exactly. And so like what ends up happening, and this is really the answer
+to your question, is as long as the chat side knows what the objective is,
+now you're just talking to the chat side. Like the way you would as a trader
+being like, okay, my ideal report is this. And like I want
+like a catalyst section that like reads like this and surfaces these types of
+names and this is how I'm breaking it down. And then over time, the chat side
+is like keeping a log and keeping notes. And then it'll spit back to you like
+basically the organized summaries of like everything that you've described
+and said like these are the key points that we need to like work into the
+architecture. Like do you want me to um put these in right now?
+>> Got you. >> And it'll it'll it'll just start writing
+it for you. And then you just and I would advise like to go back and and
+read it and make sure everything is right. Um
+but it will start writing this for you. And so what it ended up doing was it
+wrote this entire section. Um
+some of the stuff like I knew needed to be said. Like there's different editions
+and I knew we were going to have to outline that.
+The visual stuff, like how stuff is like rendering um visually. Like there's
+there's stuff that I that I knew were going to have to be like addressed, but
+the chat side did just did a great job of like organizing all that and putting
+it in here. >> Yeah, that's great. Like when it's going
+to send, I saw that with the timestamps. >> Yeah, exactly. So all you have to And
+sometimes it asks you questions. Sometimes it'll be like, "Hey,
+um you explained this, but like that kind
+of leaves this question. Like when's it going to send?" Or whatever. And it's
+like I'd say it'll be like, "I have two questions for you." And then you answer
+them and they'll say, "Okay, good. Locked in.
+We can add this to the architecture. Now on to the next thing." And it kind of
+walks you through building this thing.
+>> Yeah. Were you using the ask me questions on
+that or >> Yeah, sometimes I do or sometimes it
+just spits questions just anyway. And then
+the final thing is the appendix, which is literally just two things. Like how
+to build it. And this is super from Cloud. Like how to build it. This is all
+like very technical stuff that it added that
+I didn't even know it needed this section, but it added it. And then
+what's the next, which is phase two road map. So there are going to be stuff
+they're going to be things that are going to be ideas that you have that
+you're going to express to the chat side that are going to be too ambitious to
+start with. Like it'll be like that's a great idea, but I think that's like a
+phase two item. Where we need a phase one that's going to include everything
+that we want Cloud Code to like build into it right now.
+And then we want in the appendix like a phase two road map that gives Cloud Code
+like a heads up for these are the things like coming down the pipeline. We don't
+want you to build them now, but they're going to be there.
+And apparently that helps Cloud Code like leave
+space for it in the code base. Like it's better if it knows than if it doesn't.
+>> That makes a lot of sense. This is This is great.
+And something that I need or I want to implement more.
+>> Yeah, I mean it looks like a lot, but it's very easy when you have a a chat
+like basically putting this together for you. That's the architecture.
+And I'm going to have one of those for I I
+do have one of those for the report. I've got one of those for
+the performance layer and one of those for
+the daily log layer. And each one just has like a very specific
+um task and each one then can communicate with each
+other. Like for instance like the performance layer can pull information
+from the daily log layer to generate its you know, weekly reports of of what the
+hell I'm doing wrong. Right?
+>> Yeah. What I think's the genius aspect of it is continually updating it, too.
+So you never get it behind and lagging. >> Yeah, and that that's a great So the
+chat side taught me this. It's called closing the loop.
+And it's like a best practice when you're doing this.
+Where every time you update something
+especially on the code base, like you want to close the loop. So rather than
+just giving Cloud Code a prompt and saying
+do the stuff and then it just kind of says like
+cool, done. >> Yeah.
+>> to You want it to give a report back to you of like everything it changed and
+how it did it? And then what you do is you give that
+report back to the chat side and say okay, this is Claude code's response and
+then the chat side will be like great, closing the loop.
+And it'll be like okay, the it was really smart the way it did this thing
+so we need to kind of like update that in the architecture and reflect that and
+then it it it kind of left these two things like unopened so we need to
+actually give it like one more prompt to like check. So you're kind of like
+leveraging the chat side and and to talk to the code side and
+you're kind of kind of staying out of it a little bit.
+And those things >> Honestly, yeah.
+>> Those just those things should mirror each other by the end. That's closing
+the loop is the architecture and the code base should be should be locked
+by the end of a prompt. Go ahead. >> I was going to say
+so I haven't been doing this nearly as well
+and there's one change basically I made to my assistant where there was a point
+where it was like dealing with open trades perfectly fine.
+>> Yeah. >> And then it got tripped up where it
+started entering them as separate new trades rather than adding my notes and
+the cumulative P&L to the existing open trade.
+>> Yeah. >> all I did, I fixed it
+but I didn't update any report and I'm curious if that's going to come back to
+bite me at some point. >> Right. Yeah, I mean those are those are
+the in >> the example, yeah.
+>> It's amazing how many artifacts that I'm still finding in the code base left over
+from before I started doing this. So like as I start to make changes,
+Claude would be like oh no, like that already exists but it's like under these
+names. And there's like four of them instead of
+three of them. So it's going to be like weird to to change. Do you want to do
+that now? And I'm realizing oh my god, that was from when like maybe the first
+like couple days of when I was five coding with this thing kind of
+describing like what I want." And it's like there are these they those things
+stay in the code base and they can become toxic after a while.
+So, that's why closing >> it's like start from the beginning.
+Yeah. >> Yeah, and that's so that's
+starting this way closing the loop using the architecture
+using the chat side are all things that I'll be doing like from the get-go when
+I do anything that's more involved than simply you know, UI stuff or just simply
+like code code base stuff. Um
+Mistake number four. >> to this fourth one, yeah.
+>> Yeah, all right. So, I never taught my assistant who I am.
+>> Have you heard this study of tens of millions of traders which shows that
+only 1% of retail traders actually make it?
+Don't be a statistic. Visit smbtradingfloor.com
+to greatly increase your odds. >> That's mistake number four. So, I
+started out expecting it to
+generate and synthesize in like an intelligent way.
+And that earnings was an perfect example that we I just showed you where
+um I thought it was just going to break
+down the earnings and be great, but it wasn't. It was trash.
+Like it was surfacing names that were not significant reports.
+And I was like wondering why for a while until I finally crossed that threshold
+and started to find ways to teach it about my process and the way I think.
+Right? So, like my risk tolerance, my methodology,
+like how I think about trades, how we break down catalysts, our theme tracker,
+our entire like notion theme database, like give it that. Understand like this
+is what we when we say theme, this is what we mean.
+So, I built a settings tab
+to hold all of that. And I feed it into the app's reasoning
+live. So, the settings tab lives
+in the operating system, right? So, on my tool. So, I'll show you that. So,
+here's my trading OS. So, this this what you're
+looking at right now is my trading assistant.
+And we're just we're in the settings tab.
+So, this is this is what I'm talking about right now.
+This is the the answer to this mistake of of never teaching my assistant who I
+am. So, this is where I hold a record of all of the things that that outline
+parts of my process. Things I want Claude to know so that
+depending on like what we're doing, it can reference these things and
+respect them. So, you might not reference all of these for
+every single thing. Like for instance, the morning report is not going to
+necessarily reference like my playbooks and like my review process,
+but it certainly is going to reference how
+we break down catalysts and the theme ontology
+and stuff like that. So, just to give you a little rundown,
+Tim, like under system context, like and and I
+could probably change this title cuz it's a little bit too but it doesn't
+matter. I've got all our playbooks in here.
+And like the great part about keeping it in settings is it's like owned by me.
+So, like I can update this stuff at any point. Like if I want to add a playbook,
+if I want to change some of the variables or or how I'm
+writing it, like I can do that. But, it's all in here. All our playbooks are
+in here. And then you've got like the grade table risk, and then you've got
+like catalyst methodology. So, this is everything to do with like
+how we break that stuff down and then review process, right? So, stuff about
+the trade log, the review methodology, what I use that for.
+All those different gaps I talked about that I want to be able to to see in my
+trading and surface. And then of course like the accounts,
+which just explain the different accounts. And then here's our our theme
+anthology. So, this field is going to break down
+like what is compute What is robotics? Like here's our taxonomy and how we look
+at everything. Here are the definitions for every single theme, just so that you
+know, so that we're on the same page when you're writing this report that
+like this is how we look at this thing. And then here's the theme database,
+which you just upload a CSV and it pops right in here. And this is just straight
+from Notion, but this has like every ticker and every theme tag
+associated with it in here. And then, you know, I've connected it to Gmail
+through here in settings as well, but that's kind of a side point.
+>> Yeah, this is sick, Garrett. And I love that it's in settings, too.
+Like it's a perfect best practice for how to
+do it. And it really goes along with like if
+you give it nothing, like you can't expect like
+a masterpiece or really good information or like you give it it's going to
+give you out. >> Well, that's the thing that I realized
+and that's probably a great place to like land on after all this is like we
+know from the quant side doing analysis and and using code that
+like it's all about the data. Like the bet the better your data is, the better
+you're going to be. And so, I kind of that's what I think of
+all of this as is like okay, if I'm trying to build something and it all it
+is is code, like I need to give Claude code like
+really quality data. So, what does that mean? Well, it means like everything in
+the architecture that explains how to think and and how these sections
+should be and it also means like everything about me
+and my methodology. And so, the more specific I can be and the more I can
+give it that's meaningful and and we also know the more you can not give it
+that is meaningless. Meaning like you don't want to give it noise.
+Um the better it's going to be. And so, it's really no different than the same
+philosophy that we kind of take to the to the quant trading and the analysis.
+>> Yeah, 100%. So, I'm curious. I have a couple questions like on this idea of
+this whole mistake of you're not teaching it how you think. So, now you
+are teaching it how you think. You're giving it the settings. Like how do you
+know Claude is actually like learning? Or like are you giving it like pop
+quizzes almost? Or you just kind of seeing every day with the output getting
+better? >> Yeah, so I mean the number one thing is
+the output. So, there's certain things that you can
+tell very clearly that it's surfacing
+directly because it understands what's in that settings.
+So, that's that's the key cuz of course what
+you care about is the product that you're creating. So, like if I'm reading
+the report and it's surfacing things about the
+exact themes that we have in our database because that's what I want it
+to do. Like I know it's working, right? So, like one of the big changes that I
+made was and this is a good example of like
+when you give it nothing and kind of like nothing exists. Like like if the
+more boundaries you give it, the more it can leverage inference. That's like one
+of the sort of things that keeps running in my mind. So, a good example of this
+is like if you just say I want a section in my morning report that breaks down
+the themes that are in play. Claude's going to make up themes.
+It's going to be like the global like the global rates, you know,
+bond like you know, the European bond theme this morning.
+And the the Trump taco theme. It's just going to say whatever's in the emails,
+and it's going to be like, this is a theme. So,
+you want to teach it what is what is the theme to you? And then even more
+specifically, what are your themes? Like, if you have a database or watch
+list that are very specific, which we do,
+I'm like, all right, I'm putting this in settings, and I'm
+going to tell you I only want you tracking my themes.
+And so now, and I and it knows the definitions and everything. So, then I
+run the report. It's in settings.
+Now, all of a sudden, it's like it's like digital infrastructure, like
+data centers, memory, robotics, uh perception,
+whatever. Like, it's exactly our themes, and it's breaking down those things.
+It's understanding exactly what that label means, too, because it has the
+definition. So, you can tell that it makes like a huge difference.
+But, the other thing you can do is just talk to
+Cloud Code, and you'll start to realize like it knows this stuff.
+Because I would maybe ask it some questions about how I'm going to kind of
+do something with the on the process side.
+And it would be like, yeah, like so like just like in your trade log,
+you know, it's going to like surface these like four things.
+And I'm like, okay, cool, you know my trade log. Great.
+Yeah, that's pretty cool. >> Maybe this is maybe my last question,
+but are you at a point now where you pretty
+much trust it? Where like, sometimes I feel like with AI, it's like, can you
+actually take it at like full face value? So, if your
+operating system, your trading assistant, like tells you to look at a
+specific stock for a catalyst or a specific theme, are you double-checking
+its work anymore? Are you at a point where
+>> Yeah. >> Yeah, no, so that's a great question
+because, you know, first of all, I'm not I'm not a developer. I'm not a computer
+scientist. Like, I'm a trader. Like, I don't know what the heck I'm doing,
+right? So, I'm figuring it this out
+trial and error and
+noticing the things that are making like the hugest improvements and efficiencies
+in what I'm doing. And and that's what I'm presenting here
+today. Um I It comes with a lot of skepticism
+because obviously this is a giant experiment. Like I told you in the
+beginning in the last episode. Like, I hadn't even done anything yet cuz I was
+like, yeah, I don't know. I'm I'm kind of skeptical and I've kind of
+have what I want and I don't want to like waste my time because I want to
+focus on trading, right? So, it's it's a very good question. So, I I
+did take a pretty um deliberate
+order in the architecture document to address
+the the sources issue.
+Of like, where do you get your information?
+What can you infer, right? Like, giving it boundaries. And then every single in
+the report, every single section that like comes with the sources at the
+bottom. So, I can go to the emails that then it got the the data from and I can
+check it. And so, like, I've been doing that and it's been spot-on.
+Um it hasn't like hallucinated or made anything up. I would just say like where
+it does go wrong tends to be in the structure. So, not so much the data that
+it's giving, but like it's, you know, it's talking about some
+name that it like shouldn't be talking about in the section because it thinks
+it's important. >> I see.
+And yeah, the reason I ask is that yeah, this is a huge jump. Like, honestly,
+this is all sick. And
+I'm excited to uh get the email in my inbox every
+It's going to be awesome. >> you know, and then it'll be like us like
+just auditing it. I mean, I think it's going to I think it's going to help. I
+think it's going to save time. I think it's going to be efficient. I think it's
+going to direct our focus to where we want to be, right? Which is like we want
+to be able to take 10 or 15 minutes to read something and then know exactly
+like what themes are in play. And then boom back to the screen. Like
+so all of this work really is to in the end of the day make like every morning
+and every after hours way more efficient. And if So if I can
+get that time back then this is all going to be worth it
+and it is an experiment and I
+I'm well aware that these AIs make mistakes
+at this point in time. And so I'm trying not to give it
+too complex of tasks. But I am tracking that stuff as we go and I have been like
+very surprised at how accurate it's been so far. So we'll see. It'll be I I'm
+actually looking forward to giving it to you so that then I I can get another
+perspective because like like I said, I might just be like going like off the
+the reservation completely. >> Well, you guys are best friends.
+>> Yeah. Exactly. [laughter]
+>> No, but even go back. I mean, after seeing it and
+talking to you like in terms of is this a high ROI activity? For the reasons you
+just listed, yeah. >> Yeah.
+>> So I'm pumped. >> Yeah. Well, we'll see what maybe there's
+a follow-up to this where it all comes crashing down. But I hope I hope that
+people listening you know, can can just gain a few simple
+process rules for themselves as they do this. If
+you want to take on like a bigger task in building stuff with Cloud Code, like
+especially something that builds the inference into the project, I think that
+these are really really beneficial steps to take.
+Um And and then maybe we'll find maybe
+we'll [clears throat] find some more the deeper we get, but hopefully not.
+Hopefully we're just we're just done with this and we can we can move on.
+>> Yeah, these were four really good mistakes.
+>> Everybody have a great >> [music]
+>> week of trading. Thank you for joining us. We're on Spotify now. As always, if
+you're watching us on YouTube, and you know, put stuff in the comments or
+not, right? Like whether I say it or not is not going to make you do it. [music]
+So, just just do it if you want. And we'll see you next week.

@@ -1,0 +1,3092 @@
+{
+  "wireMagic": "pb3",
+  "pens": [ {
+  
+  } ],
+  "wsWinStyles": [ {
+  
+  }, {
+    "mhModeHint": 2,
+    "juJustifCode": 0,
+    "sdScrollDir": 3
+  } ],
+  "wpWinPositions": [ {
+  
+  }, {
+    "apPoint": 6,
+    "ahHorPos": 20,
+    "avVerPos": 100,
+    "rcRows": 2,
+    "ccCols": 40
+  } ],
+  "events": [ {
+    "tStartMs": 0,
+    "id": 1,
+    "wpWinPosId": 1,
+    "wsWinStyleId": 1
+  }, {
+    "tStartMs": 80,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "What if there was a way to multiply the\nprofit potential of any trade by 10",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 4319,
+    "dDurationMs": 7841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "times or more? Now, that's a bold claim,\nbut on a professional trading desk, it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 9920,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not about hype. It's about strategic\nleverage. I'm Mike Belluri, co-founder",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 14400,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of SMB Capital, a firm with numerous\nseven and even eight figure a year",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 18400,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "traders. They achieve those results by\nknowing how to maximize their best",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 24000,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ideas. And in this video, I brought in\nour head of trader development to share",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 28240,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the simple, powerful technique. He\nteaches them to do exactly that. You",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 34000,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "found the right place to learn. So, this\nis a chart of Hood from earlier this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 38239,
+    "dDurationMs": 8401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "week. Two of our traders saw the exact\nsetup. They both got in at the same time",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 43680,
+    "dDurationMs": 7600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "initially, same price, same chart. One\nwalked away with like a couple hundred",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 48239,
+    "dDurationMs": 7681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bucks, the other over two grand. But\nwhat made the difference? It wasn't luck",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 54000,
+    "dDurationMs": 5600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and it wasn't size. It would be easy to\nsay the difference is just one traded it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 57840,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "10 times bigger than the other on the\nentry, but it wasn't that. It's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 61359,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "something 90% of traders overlook every\nsingle day. Let's break down this trade.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 67840,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Just a really solid trade. And let's\nshow you how to stop leaving money on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 73119,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the table using this one simple idea.\nEach of these trades are really good",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 78159,
+    "dDurationMs": 5761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trades. And I'm not saying that there's\nanything wrong with just taking the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 81920,
+    "dDurationMs": 5519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really good trade and moving on. For a\nlot of developing traders, they just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 85439,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want to take that really good trade and\nthen settle in and move on entirely. And",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 89920,
+    "dDurationMs": 6559,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's okay. But for so many traders,\nyou'll take a good trade and then you'll",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 94640,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "look at the stock later and go, I could\nhave made it so much better. This video",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 98240,
+    "dDurationMs": 4879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is for you. If you really want to learn\nhow to maximize the trading",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 101360,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "opportunities that get presented to you,\nthis is what it's all about. There's a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 105840,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "strategy to doing this and there's a\ntime to do this. And so few people",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 110399,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "actually take the time to understand\nwhen you want to take advantage of the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 114560,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "opportunity the way one of our traders\ndid and when you want to just kind of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 118960,
+    "dDurationMs": 4560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "approach it the way the other did. We're\ngoing to first start with this $200",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 122240,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trade and we're going to break it down\nbecause this is a really good trade.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 126399,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "We're going to talk about setup Steve, a\ntrader who did everything right. He's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 131440,
+    "dDurationMs": 10879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sharp. He studies. He journals. He had\nhood on watch after a strong close with",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 138879,
+    "dDurationMs": 8321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a big pull in the day before. Right from\nthe open, the stock he was watching, it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 144400,
+    "dDurationMs": 7839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ripped up. It went right to the highs\nand then had a quick pull in towards",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 149440,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "VWAP.\nIt triggered a VWOP continuation trade",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 154959,
+    "dDurationMs": 7761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in his mind. He waited for that little\nconsolidation to occur and then he saw",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 160400,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that momentum step in on the tape. we're\ngonna break this trade down entirely, so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 165360,
+    "dDurationMs": 8159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just stick with us. But he saw that and\nhe recognized that's an opportunity.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 170000,
+    "dDurationMs": 9440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "He got a quick quick pull in, holds\nVWAP, and he wanted to take that trade.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 177280,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "He took the trade and then sold most of\nit right into the top, right? Textbook",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 182480,
+    "dDurationMs": 6399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "classic. He flattened his trade\nimmediately. the problem, and this is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 186720,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "something we'll talk about a lot in this\nvideo. He checked his P\u0026L, and then he",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 192239,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "started thinking about reviewing and how\nhe's going to watch the tape on this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 195760,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trade. He felt good. He caught a good\nmove, a good, solid, fast move. He was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 201599,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sort of proud of himself because this is\nwhat trading should feel like, right?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 205599,
+    "dDurationMs": 7681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "That instant reward.\nUnfortunately, and this happens a lot,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 211200,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that feeling of instant reward, that\nfeeling that what he got was perfectly",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 215840,
+    "dDurationMs": 9679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "enough. And that feeling, it was super\nsatisfying until he watched Hood stay at",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 222879,
+    "dDurationMs": 8881,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the top and continue on. What happened?\nDid he do anything wrong or did he just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 227840,
+    "dDurationMs": 7920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "miss something? So you can see the stock\nhad this really nice move and the setup",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 234000,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he was looking for, the setup that he\nknows is a day two reversal. It's really",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 239120,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sort of a continuation off the prior\nmove, but after that bigger pull in and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 244400,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "then that bounce, we were looking for a\nday two reversal. We got instantly",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 248640,
+    "dDurationMs": 7599,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "rewarded or the potential of instantly\nbeing rewarded with this really fast up",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 253599,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "move that triggered him to look for this\ntrade. Now, there wasn't really anything",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 258560,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he could do right on the open. It moved\nreally fast, but he was watching for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 263759,
+    "dDurationMs": 8481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "some sort of pull. Was it going to be a\nreally quick sideways consolidation like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 268479,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a hitchhiker? Was it going to be a 9 EMA\ncontinuation trade, which is another",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 273840,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trade he loves, or was it going to make\nits way all the way back to VWAP and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 278240,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "maybe be a VWOP continuation trade? He\ndidn't know, but he knew that this was a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 282960,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stock he needed to watch because of the\npotential of the day two reversal setup.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 289360,
+    "dDurationMs": 7279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "It's not a setup that occurs all the\ntime, but it's a setup he's studied and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 293360,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he understands. He understands when the\nopportunity should be presented to him.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 298479,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So, he's just looking for one of three\ndifferent trades.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 303280,
+    "dDurationMs": 5759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "It didn't just hold sideways. So, it\nwasn't that hitchhiker initially. It did",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 307759,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "start to pull in. So, he's going to\nwatch it right at that 9 EMA. And what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 311280,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he's looking for in that 9 EMA\ncontinuation trade is as soon as it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 315520,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "touches the 9 EMA, do the buyers step in\nand start to take the price action",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 320160,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "higher? Do we see a distinct change of\ncharacter in the tape?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 325680,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "We haven't quite gotten to the 9 EMA,\nthat blue line, and we're starting to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 329759,
+    "dDurationMs": 7681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "see the buyer step in. Well, that's not\na 9 EMA continuation trade. It didn't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 334400,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tag the 9 EMA\nbecause the buyers are stepping in. If",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 340000,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the sellers can push it back down, we're\nactually more concerned and we're not",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 344000,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to take that trade. So, we're\nwatching this price action as it unfolds",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 348320,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and he just said it wasn't a hitchhiker\nyet. He didn't like the 9 EMA",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 353440,
+    "dDurationMs": 6319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "continuation trade because of the way it\nwas bid up just before the 9 EMA and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 357919,
+    "dDurationMs": 6241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "then seller said, \"Nope, we have more to\nsell.\" So now he's thinking about this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 362000,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trade from the perspective of it should\npull all the way back to VWAP, which",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 366400,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "also happens to be for those Fibonacci\nretracement people that really like this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 371440,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stuff, an appropriate pullback off of\nthat initial move. So as it comes down",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 377199,
+    "dDurationMs": 7681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "towards VWAP, he's going to look for a\nconsolidation or a distinct move off of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 382639,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "VWAP. Those are the two ways that he can\nget in that trade. You notice how it",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 386720,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sells right down into VWOP. He start to\nsee some buying pressure. He's starting",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 391440,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to get ready for this trade. He's\nstarting to think about, okay, now I",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 395440,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "need to see where my stop would get put\nin first. Again, start with your stop.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 401759,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "As the stop is starting to potentially\nget put in, he's thinking about how much",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 406000,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "risk do I want in this trade. Now, this\nisn't a really high risk trade, and he",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 410560,
+    "dDurationMs": 7759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was trading with like a $500 daily stop.\nSo he's really thinking about risking a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 415919,
+    "dDurationMs": 6241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "pretty small amount in this trade if he\nsees it on a relative basis. You know,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 420720,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "ideally you'd want to risk somewhere in\nthe$1 to $150 range. You know, 20 to 30%",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 425520,
+    "dDurationMs": 10640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of his daily stop. Nothing crazy, but\njust, you know, something right there.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 432000,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "You can see where that pullback low was.\nThat gives him an instant spot to, if he",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 438880,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "starts to see the buying pressure really\ncome in, take this trade. But we haven't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 443440,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really seen the buyers take control.\nWe've seen this little consolidation",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 446880,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's occurring, but this is still a\nlittle bit of selling pressure. It still",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 451440,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "feels like we're going to have at least\none more down move. And so, we don't",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 455360,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want to take that trade quite yet. we\nwant to see a distinct and noticeable",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 459120,
+    "dDurationMs": 5919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "change or he did in order to take this\ntrade.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 463440,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "You can feel that apprehension. You can\nfeel the sellers really starting to try",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 466960,
+    "dDurationMs": 8239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and push this lower.\nBut then as we're watching this develop,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 473199,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you can almost feel that there's this\nlittle battle that's occurring.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 477759,
+    "dDurationMs": 5921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Now, we need to see a distinct and\nnoticeable change and potentially even",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 481440,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wait for it to clear the highs of that\ncandle where those sellers were put in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 485840,
+    "dDurationMs": 7359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in order for us to have a trade. Notice\nhow much watching we're doing. We're not",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 490560,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "acting. We're watching. We're waiting\nfor the opportunity to develop for us.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 495680,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And we're calculating where our stop\nwill go and where our entry will be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 500720,
+    "dDurationMs": 6479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "before that even occurs. We're not\nsitting down and banging the keys. He",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 504000,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "wasn't. He was being very calculated.\nSo, right now we have a stop and we have",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 509599,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "a potential entry. The stop being below\nthe low of that pullback candle and the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 513680,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "entry being basically at the highs of\nit. Now, we're starting to see a change.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 519360,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Look at the change on the tape. You can\nnotice how much stronger the buyers are.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 523839,
+    "dDurationMs": 5761,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "This was his entry signal. This was\nexactly what he was looking for to get",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 528080,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "long.\nAnd he got long. His stop went below the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 532000,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "low and he bought above the highs or\nright before the highs of that candle.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 536959,
+    "dDurationMs": 5201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "You can feel that buying pressure come\nin. Doesn't that feel good? If you're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 540560,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "long this stock, you're like, \"Oh man,\nthis feels awesome. This is exactly what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 544320,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I want to see.\" Okay, a little bit of\nselling pressure. Not too worried about",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 548800,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it because I can feel the buyer still in\nthe stock.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 553839,
+    "dDurationMs": 5041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "But that always causes a little\napprehension, right? You're in the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 556880,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trade, you start to get rewarded, and\nthen it pulls back. Imagine if you start",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 561680,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "checking your P\u0026L now. Okay, I'm up, you\nknow, $75, $80, $100, whatever it is.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 568080,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Like all of a sudden, that starts to\nfeel really good.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 573360,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "You start to attach yourself to that P\u0026L\nand in the back of your mind, you're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 577120,
+    "dDurationMs": 5279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "like, I just want to make 200 bucks on\nthis trade. If I can just make 200 bucks",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 580080,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on this trade, that'd be great. Okay,\nI'm going to make 200 bucks if it goes",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 584320,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to high of day, right? Okay, great.\nAwesome. I'll make a little more than",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 589600,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "200 bucks. and listen to all this\nchatter that has nothing to do with the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 595040,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stock. It's all justifications.\nIt's all myself, my P\u0026L, how I'm doing.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 602000,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "All of a sudden, this spray higher, you\nhit your target and you're going, I just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 606560,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "hit my target. This is great. I can exit\nthe trade and I can walk off this and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 611279,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I'm I just made a really good trade. And\nagain, there's nothing wrong with this.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 615600,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "It's a really good trade. So, we're\ngonna stop the trade right now and we're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 619920,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to talk about something. You heard\nhow much talk about P\u0026L and me and this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 625360,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and if I can just get this was\noccurring.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 629600,
+    "dDurationMs": 7679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "When all of that is happening, he's\ntaking himself out of listening to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 634959,
+    "dDurationMs": 7281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "what's happening with the stock. He\nhasn't observed the increase in volume",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 639760,
+    "dDurationMs": 8160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that occurred on that buy. He hasn't\nobserved the strength of the biders and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 645279,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "how persistent they were.\nHe made it all about him in that trade.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 650640,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "We have this joke on the desk when\nsomebody makes it all about them in the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 654160,
+    "dDurationMs": 6239,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trade. Say, \"Oh, did JP Morgan call you\nup and say, \"Hey, what was your exit?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 658880,
+    "dDurationMs": 5519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Let's make sure we help you get there.\"\nDid Goldman Sachs give you a holler and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 662160,
+    "dDurationMs": 5040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "say, \"Hey guys, where where'd you want\nto get out of this trade? Because we",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 665600,
+    "dDurationMs": 6960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "want to make sure you hit your daily\ntarget.\" No. Nobody does that.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 670800,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "So, when you make it all about you in\nthis trade, just like Steve did, yeah,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 674800,
+    "dDurationMs": 7279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you hit your own self-proposed daily\ntarget, but you completely miss all of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 680320,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the checks in your favor, telling you\nthat there are large buyers, large",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 684720,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "participants, what we call big players\ninvolved in the stock. You caught a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 689360,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really good VWAP continuation trade,\nbut you missed all of the information",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 694560,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "telling you that there's more being\noffered in this trade. and we're going",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 699360,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to show you how you can take advantage\nof that without really increasing your",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 704560,
+    "dDurationMs": 7839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "risk just by o risking some open P\u0026L in\nthe trade. So, let's study Paula's trade",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 710240,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and then look at where she did something\nright that he did wrong.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 715760,
+    "dDurationMs": 5120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "We see this same pull in occurring. And\nagain, we're watching it faster now just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 719360,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so we can get the context. We'll slow it\ndown for the key moments, but you know,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 723440,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we see that same sort of idea, right? It\ndidn't check for the 90 EMA continuation",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 728000,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trade. It didn't check for the initial\nhitchhiker. Okay, now it's back to VWOP.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 732079,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Let's see if this is a VWOP continuation\ntrade. Okay, we start to see some buying",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 736560,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "come in.\nA little bit of a lift. Okay, we're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 741040,
+    "dDurationMs": 5280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "seeing the buyers there. Tries to dip\nout again. The buyers are stepping in.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 744639,
+    "dDurationMs": 6161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Okay, this looks decent for a VWOP\ncontinuation trade, but we need to see a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 748480,
+    "dDurationMs": 5320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "distinct and noticeable change in the\ntape.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 757279,
+    "dDurationMs": 7521,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "We're waiting. She's patiently waiting.\nRemember, we're being patient, waiting",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 762079,
+    "dDurationMs": 7281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for that distinct and noticeable change\non the tape.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 767920,
+    "dDurationMs": 5960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Okay, maybe it's just going to roll over\nand won't even get a trade. That's fine.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 776399,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Or we get this opportunity to set up\nright for us and we could take it right",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 781279,
+    "dDurationMs": 6201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "here. same exact entry. Let's assume the\nsame size.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 787760,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "While Steve was focused on being\nrewarded,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 791920,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Paula was focusing on what was\nhappening. The bid kept stepping",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 796720,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stepping up. The volume was\naccelerating. The 9 EMA started to curl",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 801839,
+    "dDurationMs": 9601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right back up. It's not just a VWOP\nreclaim or VWOP continuation trade.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 807920,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "This entire stock is shifting. She's\nrecognizing the underlying shift that's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 814160,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "occurring because she's focused on the\nstock. She's seeing the increase in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 818320,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "volume. She's seeing how the sellers are\ntrying right there, but they're no",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 822000,
+    "dDurationMs": 7200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "longer getting rewarded. So, in her\nmind, she's already in the VWOP",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 826959,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "continuation trade.\nIt's already pushing itself to high of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 831120,
+    "dDurationMs": 10079,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "day. It's worthwhile for her to risk the\nopen P\u0026L she has to see if this starts",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 838480,
+    "dDurationMs": 7919,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to hold up near the highs to give her a\ncontinuation trade. And if there's a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 843760,
+    "dDurationMs": 7519,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "continuation trade that occurs,\nnot only will she be able to risk the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 848880,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "open P\u0026L she has, but she could find\nanother trade that's setting up. This",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 852959,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stock is just acting the way you want a\nstock to act. It's doing everything",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 857519,
+    "dDurationMs": 8961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right. So instead of worrying about how\nmuch she's up, she's going to focus on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 863040,
+    "dDurationMs": 9520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "managing her risk. This character shift\nis so critical. This is telling us",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 870639,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "something. But we have to be good\nlisteners. In fact, it pays us to be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 875440,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "good listeners here. So although it felt\na little uncomfortable during this pull",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 879920,
+    "dDurationMs": 9279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in, what was really happening? It was\njust setting up again. Our scalp radar",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 886079,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "flagged a hitchhiker. Now Paula knows\nthis no longer is just a tape scalp. No",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 891920,
+    "dDurationMs": 8479,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "longer just a VWAP continuation trade.\nThis is a real scalp that's developing",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 897120,
+    "dDurationMs": 12000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for her. So she's on watch. She's\nlooking for that buyer to step back in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 904160,
+    "dDurationMs": 9840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and take this entire move higher.\nMost of the time she would take that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 911519,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "initial scalp. And maybe she's feeling a\nlittle bit of regret like, \"Oh, what if",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 915519,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "I get stopped out here?\" But the way\nthat that rebid occurred, that context,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 920000,
+    "dDurationMs": 8800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that entire shift that occurred, let her\nknow that there's so much more buying on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 925680,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the horizon, that real big players are\nstepping in and they're more likely to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 930880,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "give you continuation.\nSo, she'll stay in her position. Her",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 936000,
+    "dDurationMs": 8639,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stop stays right where it was. And then\nshe's looking for another shift.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 942160,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and she's going to buy a new trade.\nShe's going to enter a new trade here",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 947199,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and keep her other trade on as well.\nNotice that shift that's just occurring",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 951600,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "right now. Notice how those buyers\nstepped right back in. This is the sign.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 958160,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "If we get continuation to the upside,\nshe can buy adding or doubling to her",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 963279,
+    "dDurationMs": 7680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "position and move her entire stop up in\nthe trade.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 969040,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Look at the way the buyers are\ncontinuing to buy. This is exactly what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 974480,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "she was playing for. She wasn't checking\nher P\u0026L. She wasn't feeling super great",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 979680,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "about everything that happened and\nmentally checking out. She was looking",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 984160,
+    "dDurationMs": 9760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "for that next opportunity.\nShe got involved here again.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 991839,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "And now she's in this really good\nhitchhiker scout.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 996800,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "She's allowing the stock and the\nstrength of the stock to talk to her.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1003199,
+    "dDurationMs": 7361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Even now as the trade has worked and\nshe's doing much better in the trade,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1007199,
+    "dDurationMs": 8961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "she didn't give herself the luxury of\njust saying, \"Oh, wow. Look at what my",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1012880,
+    "dDurationMs": 8879,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "P\u0026L is doing.\" She was listening to the\nstock. She was paying attention to what",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1018720,
+    "dDurationMs": 7839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was happening in the trade.\nLook how much she did. And ironically,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1024559,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this is probably the time Steve realized\nwhat was happening in the stock and just",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1028480,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "felt completely awful. He went from\nfeeling overly exuberant with how well",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1033360,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he scalped that move to all of a sudden,\nI can't believe it's up here already.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1039600,
+    "dDurationMs": 6800,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Now, he is completely disengaged with\nthe stock at this point where Paula was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1043919,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "able to stay with it.\nBecause Paula is able to stay with it,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1048319,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "she's not just thinking, \"Wow, this is a\nreally good move.\" She's thinking this",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1052400,
+    "dDurationMs": 7840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is a really good move with increasing\nvolume and I'm looking for an",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1056480,
+    "dDurationMs": 8720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "opportunity to add again.\nI'm looking for the next trade to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1062400,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "develop. I saw the entire context of the\ntrade shift when we had that buy off of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1067760,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "VWOP and now I'm thinking about, okay,\nlet's go back to our 9 EMA continuation",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1073039,
+    "dDurationMs": 6241,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "scalp.\nLet's watch carefully and we're going to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1076880,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "slow the tape down here as we come into\nthat 9 EMA. She's hyperfocused",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1082799,
+    "dDurationMs": 7841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "on this tape and watching the offers as\nthey try and push this thing lower and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1087520,
+    "dDurationMs": 10039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "she's looking for another change. This\nalso lines up with an ABC scalp, so it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1093679,
+    "dDurationMs": 3880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "even better for her.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1098320,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Let's see if we get that change and get\nthat additional entry. There's a change.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1101919,
+    "dDurationMs": 5841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Do you see that shift?\nDid you see how the buyer stepped right",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1105840,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "in? We're looking for continuation. She\ncan add another 100 shares or so here",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1111200,
+    "dDurationMs": 9440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and she can move her stop up to the lows\nof that little pull in right there.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1118799,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "You notice how engaged she is with\nwhat's happening with the stock instead",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1123039,
+    "dDurationMs": 7201,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of what's happening with her P\u0026L?\nYou notice how engaged she is with how",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1127919,
+    "dDurationMs": 7921,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that entire context, that entire\ncharacter shifted.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1132400,
+    "dDurationMs": 11200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Now, what's an appropriate exit? Well,\nonce the 9 EMA breaks, that would be the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1139039,
+    "dDurationMs": 9760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "appropriate spot to exit.\nThis is a pure momentum trade. This is",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1146320,
+    "dDurationMs": 6280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "where the buyers should have absolute\nand complete control.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1152960,
+    "dDurationMs": 10719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Let's watch this stock as it plays out.\nLet's watch the tape as we see the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1158799,
+    "dDurationMs": 4880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "buyers continue to press and press.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1165360,
+    "dDurationMs": 7280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "She's able to just stay with it by\nlistening every time it goes up. She's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1169679,
+    "dDurationMs": 7601,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not exuberant about her P\u0026L. She's just\nlistening to the stock. She's listening",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1175280,
+    "dDurationMs": 9680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to the buyers. She's waiting for that\nbreak of the 9 EMA to be her exit. And",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1181520,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "so once we get a close below the 9 EMA,\nthat would be her reason to exit.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1187919,
+    "dDurationMs": 6721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "We had a test of the 9 EMA and we\nactually got another continuation trade.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1192640,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "At this point, it's not the first test\nof the 9 EMA after a breakout. So, you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1197039,
+    "dDurationMs": 11721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "can't take that trade,\nbut she's waiting for a close below the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1202880,
+    "dDurationMs": 5880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "9 EMA as her reason to exit.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1208880,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "She's not trying to top tick anything.\nShe's waiting for the bar to get below",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1213280,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and close.\nNotice the difference in your psychology",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1216880,
+    "dDurationMs": 5520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when you're not trying to top tick\neverything. When you're just sitting",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1220880,
+    "dDurationMs": 8679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "there and listening to when that\nmomentum shift occurs. When you get a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1225200,
+    "dDurationMs": 4359,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "real close below the 9 EMA,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1230720,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we're starting to feel it get a little\ntoppy. It's getting really close to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1234159,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "these really important prices. You can\nfeel like maybe I should be taking some",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1238159,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "off here. But when you just allow\nyourself the opportunity, you're",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1241919,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "preserving what's being offered you.\nIt's amazing how much predicting we can",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1247919,
+    "dDurationMs": 5681,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all do, how much we can try and protect\nour profits by selling into the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1251760,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "strength. But if that's the mantra that\nyou were going to take, you are going to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1254960,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stop out way before that. And we'll get\nto a really interesting mantra that she",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1259840,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "used to help herself stay in exactly\nthese situations. Now we finally are",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1265520,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "getting a close below the 9 EMA right\nthere. That's our reason to sell.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1271360,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "While Steve was able to sit there with a\nabout a $200 profit,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1275919,
+    "dDurationMs": 8081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Paula's was about 2,000.\nExact same trade. She didn't have to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1281440,
+    "dDurationMs": 9200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "risk any more than he did initially, but\nshe allowed herself to listen. Paula saw",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1286720,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the same reclaim as Steve. She got in at\nthe same prices or about the same",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1292400,
+    "dDurationMs": 7279,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "prices, too. She had the same initial\nrisk as he did. She knows this setup.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1298320,
+    "dDurationMs": 6320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "They've actually worked together on this\nsetup. But while Steve took his win and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1303039,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "just kind of mentally checked out, while\nhe was happy to take what felt like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1306240,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really easy money, an easy trade, he was\ngetting rewarded and felt that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1311600,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gratification of like, wow, that was a\nreally fast move in my favor. He was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1315760,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "mentally calculating his P\u0026L with every\nsingle tick. We tried to like transcribe",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1322000,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "here exactly or describe here exactly\nwhat his thought process was. While he",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1326640,
+    "dDurationMs": 8560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "was all busy and helping himself be busy\nwith all of that information about",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1332320,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "himself, Paula was paying attention to\nthe setup,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1337039,
+    "dDurationMs": 6721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "watching the price action\nand watching and focusing on something",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1341840,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "else entirely. She wasn't focused on\nherself. She was watching the way that",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1346240,
+    "dDurationMs": 9040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "rebid occurred,\nhow it got stronger, how that was",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1351440,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "showing real continuation, not just back\nto high of day, but the potential for",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1357440,
+    "dDurationMs": 10080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "much, much more. She understood the\nsetup. She got market focused",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1364240,
+    "dDurationMs": 8799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "instead of personally focused. When\nPaula leans in, she really leans in. She",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1371520,
+    "dDurationMs": 5440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stops predicting what's going to happen\nand where the stock is going to go or",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1375039,
+    "dDurationMs": 9441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "where it's going to turn against her or\nwhere should be at her P\u0026L highs and she",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1380559,
+    "dDurationMs": 10401,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "has to really start to take a breath and\ncalmly bring her mind back to her risk",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1388320,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "because she sees what she needs to see\nin the trade because she knows the stock",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1392880,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "is leading and she's just listening,\njust following along. She has her mind",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1397440,
+    "dDurationMs": 8880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "open. She can see the next trade.\nShe can see what her updated reasons to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1403840,
+    "dDurationMs": 9199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "sell are.\nShe can hold until that 9 EMA breaks.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1410400,
+    "dDurationMs": 7759,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Was it riskier for Paula than for Steve?\nBut in this trade, her risk was actually",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1415679,
+    "dDurationMs": 8321,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "shrinking as the trade got smaller.\nThat's the paradox most traders never",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1420240,
+    "dDurationMs": 9520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "learn to trust. When the stock is doing\nwhat it's doing in the way that it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1426320,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "doing it, it's actually more risky to\ntake profits too quickly or to focus on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1432000,
+    "dDurationMs": 9600,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "your P\u0026L than it is to listen to the\nstock and even add or or add again when",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1438880,
+    "dDurationMs": 9039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trades just get presented to you. It's\nnot really the stock, it's the moment,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1445600,
+    "dDurationMs": 8319,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "it's the opportunity that you're getting\noffered. Steve saw a really good scalp,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1451279,
+    "dDurationMs": 7361,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that VWOP continuation scalp. Paula saw\nhow it transitioned into a moment, and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1456640,
+    "dDurationMs": 6080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that's the whole difference of what\nwe're talking about today. Both got",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1460720,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "offered the same chart, the same\nopportunity,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1464240,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "but Paula allowed herself to listen to\nthe trade story that was playing out.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1468720,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "She knew when to risk more of her open\nP\u0026L because the trade was telling her a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1473360,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "new story in real time and she was\nlistening to that story versus listening",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1478000,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to the story of her own P\u0026L. This is a\nmonumental shift and one that most",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1482799,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "people never try to take on. It's easy\nto overengineer, to second-guess",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1487840,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "yourself in your abilities as a trader.\nThat's the easy thing to do. That's the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1492240,
+    "dDurationMs": 8080,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "voice in your head saying you always\nsell too early. But that voice serves",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1498080,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "you about as much as how much you care\nabout your P\u0026L while you're in the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1502400,
+    "dDurationMs": 8159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trade. Paul is not guessing. She's\nlistening. She's letting the stock lead.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1507679,
+    "dDurationMs": 6641,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "She's just reacting. Scalp Radar helped\nher spot the hitchhiker setting up and",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1512559,
+    "dDurationMs": 7041,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the momentum starting to grow in the\nstock so she could just focus where the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1516320,
+    "dDurationMs": 8640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "real edge was building in this.\nShe saw that initial scalp, but it made",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1522400,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "her faster and more confident when the\nstock told her to keep her foot on the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1527440,
+    "dDurationMs": 8320,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "gas when the buyers came in and told her\nit was time to go. So, one of my first",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1532799,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "jobs was a valet. I remember the dangers\nof doing this in a parking lot. Cars",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1537760,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "were like going all over the place. The\nparking lot was tight. You had to be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1541360,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "really, really careful. And anytime a\nreally nice car came in the lot, you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1545760,
+    "dDurationMs": 6560,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "could almost feel the caution. You could\nfeel all of us getting tight as most of",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1550240,
+    "dDurationMs": 4960,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "us were nervous to allow that car to get\nout of control. It's a nice car. We",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1554080,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "didn't want to scratch it. We didn't\nwant to ding it. You know, we really",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1558159,
+    "dDurationMs": 6481,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "didn't want to be wrong. There was this\none older guy who worked with us who had",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1563039,
+    "dDurationMs": 5760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "been there for a couple years, and he\nwould get in the car, especially the big",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1566240,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "boy cars, and after the person driving\nthem would walk away, he would just whip",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1570960,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "that thing around the lot.\nIt happened a couple times and we kind",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1574960,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "of asked him like that's seems a little\ndangerous, right? And he had a saying.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1579039,
+    "dDurationMs": 8161,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "He said fast cars have the best brakes.\nHe was right. The fast cars were the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1584720,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "most forgiving. It's counterintuitive to\nour natural instincts. I mean, we're not",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1589919,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "here driving cars, but we are trading\nstocks. And a lot of the same holds",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1594799,
+    "dDurationMs": 7760,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "true. Good stocks with momentum are the\nabsolute most forgiving.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1600720,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "They seem to be the toughest, but in\nreality, they're absolutely the best",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1605120,
+    "dDurationMs": 7439,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "things to trade and stick with. When a\nstock's building momentum, it can be",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1610080,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "insanely forgiving. It can get above a\nlevel and pull back to that level so",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1614400,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "cleanly. It can set up one scalp and\nthen another and then another and then",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1618559,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "all of them play out almost picture\nperfectly. You know, not all stocks do",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1623440,
+    "dDurationMs": 7040,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this and not all trades feel this way.\nBut when we go through the tape of hood,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1627760,
+    "dDurationMs": 7120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "we can feel it. We can see the momentum\nbuilding as it starts that second move.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1633039,
+    "dDurationMs": 7841,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "We could see it as it started that move\noff a VWOP. We can see how forgiving",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1637600,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this stock really is. Setup. Steve is\nreally kind of all of us when we start.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1642960,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "He plays defense. He trades to be right.\nHe doesn't want to make a mistake. His",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1647919,
+    "dDurationMs": 7281,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "focus is on sort of protecting himself,\nwhich all of us need to do as a trader",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1652400,
+    "dDurationMs": 8399,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "setting up or starting out. But once a\ngood setup and trade line up, we need to",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1658080,
+    "dDurationMs": 9120,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "let ourselves just listen.\nPaula's objective when she sits down.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1664000,
+    "dDurationMs": 7679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "She trades to listen. She trades to get\npaid when the opportunity is presented",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1670080,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to her. And she knows the difference\nbetween a setup and a good setup and a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1674480,
+    "dDurationMs": 9360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "great trade. We just saw a great example\nof what a really high quality tape looks",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1680960,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and feels like and what momentum feels\nlike. Don't get too lost in watching the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1686159,
+    "dDurationMs": 6801,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "tape. Just allow yourself to feel it.\nFeel how that momentum starts to build.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1690640,
+    "dDurationMs": 7039,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Feel as the biders really take control.\nYou see those spikes that we got? Those",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1694960,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "feel good, right? That little blast,\nthat first move higher, that was Steve's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1699440,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "out. He used that spike to exit and to\nfeel good. He was thinking about the P\u0026L",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1703760,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "he was going to get on his trade. He was\nletting himself just get paid in the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1706960,
+    "dDurationMs": 8400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "trade a bit. But the real edge was in\nlistening, in being Paula. She sees",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1712880,
+    "dDurationMs": 7679,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "this. She feels this and immediately\nfeels the persistence of the buyer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1717440,
+    "dDurationMs": 8000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stepping in. She felt that momentum\nstarting to build up in this trade. She",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1722960,
+    "dDurationMs": 6160,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "felt the forgiveness that was on its\nway.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1727520,
+    "dDurationMs": 5920,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Is there chance that she'll take a\nlittle bit of a rip there when she",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1730559,
+    "dDurationMs": 7441,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "doesn't take her initial profits? Sure.\nBut that's an okay rip to take here.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1736080,
+    "dDurationMs": 6719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Even if she gets a really hard down\nmove, she's probably going to get a way",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1739760,
+    "dDurationMs": 6480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to get out and preserve a small profit.\nThe buyers were still there. The",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1744240,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "momentum was still building. So, it's\nlikely even if it quickly pulled back a",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1748399,
+    "dDurationMs": 6400,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "bit, the buyers would step right back in\nand give her an out at good prices. So,",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1752880,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "she allowed herself the opportunity to\nstay with that trade. And guess what?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1756880,
+    "dDurationMs": 7360,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "When it cleared to new highs, she was\ntotally in the driver's seat. She looked",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1761520,
+    "dDurationMs": 8240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and added her risk in the trade was\nalready covered and she moved up her",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1766480,
+    "dDurationMs": 9280,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "stop. The trade actually got better and\nbetter and they really often do once the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1772720,
+    "dDurationMs": 8480,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "momentum is truly on your side. Then she\ncould let the stock tell her it's done.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1778960,
+    "dDurationMs": 6000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "This is a really big challenge and one\nthat can hold traders back for longer",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1782799,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "than you can imagine. But it doesn't\nhave to. Do you want to know how Paula",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1786960,
+    "dDurationMs": 7199,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "did it? how she got her mind to trust\nwhat she was seeing.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1792000,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "This is the secret of this entire video.\nShe repeated one question to herself",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1796640,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "consistently. She did it in practice\nfirst, but then she started to do it in",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1802080,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "execution. She asked herself this one\nquestion. Is it real?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1807279,
+    "dDurationMs": 6081,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Because if it's real, it's going to be\nan evolutionary organism. The stock's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1812000,
+    "dDurationMs": 6240,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "going to continue to grow. The momentum\nis going to continue to build. If it's",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1815600,
+    "dDurationMs": 6640,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "not, the entire trade opportunity is\ngoing to start to decompose. It'll start",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1820080,
+    "dDurationMs": 7839,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "to break down. Not usually right away,\nbut over time. So, she always feels like",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1825679,
+    "dDurationMs": 6880,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "when she's asking herself, is it real?\nShe has time to recognize the exit. She",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1830640,
+    "dDurationMs": 7440,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "doesn't feel rushed when she's repeating\nthis mantra, is it real?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1835520,
+    "dDurationMs": 6720,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "She just is listening.\nIronically, it's helped her pick up on",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1839600,
+    "dDurationMs": 6799,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "the alert she gets easier and not force\neverything that happens. She can stay",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1844399,
+    "dDurationMs": 6961,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "calmer when things aren't there. She can\nstay in it when it is there. So, the",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1849039,
+    "dDurationMs": 6721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "real question is, are you just trading\nthe setup or the trade, or are you",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1853440,
+    "dDurationMs": 8719,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "seeing the moment when it actually turns\ninto a real trade?",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1858960,
+    "dDurationMs": 7520,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Is it real? This happens every single\nday. You're not missing trades.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1864640,
+    "dDurationMs": 5200,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Sometimes you're just missing the best\npart of the trades you're already",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1868000,
+    "dDurationMs": 5840,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "taking.\nThe difference between these two traders",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1872080,
+    "dDurationMs": 5680,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "and the difference between the outcome\nin their trading comes down to one",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1876240,
+    "dDurationMs": 6159,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "thing.\nPaula knew why she was trading.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1880880,
+    "dDurationMs": 9000,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Steve thought he knew why he was\ntrading.",
+      "acAsrConf": 0
+    } ]
+  }, {
+    "tStartMs": 1884159,
+    "dDurationMs": 5721,
+    "wWinId": 1,
+    "segs": [ {
+      "utf8": "Just ask yourself, is it real?",
+      "acAsrConf": 0
+    } ]
+  } ]
+}
