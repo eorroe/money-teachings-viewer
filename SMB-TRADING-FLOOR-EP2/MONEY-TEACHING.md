@@ -6,20 +6,20 @@ This money teaching covers how SMB Capital traders identify, analyze, and execut
 
 ## When to Follow These Money Teachings
 
-- When a biotech or high-catalyst stock gaps up massively pre-market
+- When a biotech or high-catalyst stock gaps up at least 188% pre-market
 - When pre-market volume exceeds 5x average daily volume
-- When looking for high risk-reward intraday setups in in-play stocks
+- When looking for intraday setups in in-play stocks where potential reward exceeds the defined risk
 - When you need to evaluate whether a catalyst justifies the current valuation
 
 ## Steps
 
 ### Step 1: Scan for High-Volume Pre-Market Activity
 
-Use a percent of average volume (A vol) pre-market scanner to identify stocks trading at significantly higher than normal volume. Look for stocks doing at least 5x their average daily volume in pre-market. For QURE, average daily volume was 1.3 million and it did over 7 million in pre-market. High relative volume indicates institutional interest and ensures liquidity for your trade.
+  Use a percent of average volume (A vol) pre-market scanner to identify stocks trading at at least 5x their average daily volume in pre-market. For QURE, average daily volume was 1.3 million and it did over 7 million in pre-market. High relative volume indicates institutional interest and ensures liquidity for your trade.
 
 ### Step 2: Verify the Catalyst Significance
 
-Confirm there is a meaningful catalyst driving the move. For QURE, this was positive top-line results for AMT-130, a gene therapy for Huntington's disease showing a 75% slowing of disease progression. Check if the catalyst is truly differentiated or just priced in. SMB traders emphasize understanding what the catalyst means for future revenue.
+  Confirm there is a differentiated catalyst driving the move. For QURE, this was positive top-line results for AMT-130, a gene therapy for Huntington's disease showing a 75% slowing of disease progression. Check if the catalyst is truly differentiated or just priced in. SMB traders emphasize understanding what the catalyst means for future revenue.
 
 ### Step 3: Build a Rough Valuation Model
 
@@ -32,21 +32,21 @@ Estimate potential revenue to gauge if the current price is reasonable. For QURE
 
 ### Step 4: Find Historical Analog Trades
 
-Look for similar historical setups to add conviction. For QURE, the team compared it to ABBVX, which gapped up over 500% on a medical conference addition and trended for about a month. Historical analogs help calibrate expectations for how a similar catalyst might play out.
+Look for similar historical setups to add conviction. For QURE, the team compared it to ABBVX, which gapped up over 500% on a medical conference addition and trended for about a month. Historical analogs help you understand how a similar catalyst might play out.
 
 ### Step 5: Wait for the Opening Range and Setup
 
 Do not chase the initial gap. Let the stock establish an opening range. Watch for:
-- The stock to hold above VWAP
+- The stock to hold above VWAP (Volume-Weighted Average Price)
 - A failed breakdown below VWAP that immediately reclaims
-- Price to tighten as buyers and sellers battle
+- Price to tighten as buyers and sellers compete
 - Formation of a higher low after the initial volatility
 
 For QURE, traders placed small feeler orders at support and offered into resistance to get a feel for the stock before the real setup emerged.
 
 ### Step 6: Identify the Breakout Entry
 
-The primary entry comes when the stock breaks its established range with conviction. Key signals:
+  The primary entry comes when the stock breaks its established range with strength. Key signals:
 - Price breaks above the pre-market high or intraday consolidation high
 - Volume confirms the breakout
 - Price holds above the breakout level rather than immediately rejecting
@@ -58,7 +58,7 @@ Use a TWAP (Time-Weighted Average Price) program to accumulate shares as the sto
 
 ### Step 8: Set a Tight Stop Below the Range
 
-Place your stop just below the breakout level or the range low. For QURE, the risk was about $1-2 per share below the breakout point. This controlled risk allows for a potential 10-point move to the $50 target, creating excellent risk-reward.
+Place your stop just below the breakout level or the range low. For QURE, the risk was $1–2 per share below the breakout point. This controlled risk allows for a potential 10-point move to the $50 target, creating excellent risk-reward.
 
 ### Step 9: Trail Exits as Momentum Peaks
 
@@ -66,17 +66,17 @@ Take partial profits into strength, then trail the remainder using trend lines, 
 
 ### Step 10: Evaluate Overnight Hold Carefully
 
-Before holding a position overnight, assess:
-- Offering risk (secondary offerings can crater the price)
-- Whether the catalyst is fully understood
-- If the name is within your usual trading wheelhouse
+  Before holding a position overnight, assess:
+  - Offering risk (secondary offerings can significantly reduce the price)
+  - Whether you understand what the catalyst means for future revenue and market impact
+  - If the name is within your usual trading focus
 For QURE, an offering was announced right after the close, validating the decision to take the intraday profit rather than swing overnight.
 
 ## Examples
 
 ### Example 1: QURE Day-One Catalyst Breakout
 
-On September 24th, QURE gapped up 188% to open around $40 after AMT-130 gene therapy data showed 75% slowing of Huntington's disease. Pre-market volume was 7 million shares, 5x the 1.3 million average. SMB traders built a valuation model estimating 10% market share at $2.5M per treatment equating to $25B in revenue. Comparable biotechs traded at 2-4x peak sales, suggesting QURE's $3-4B market cap was undervalued. The stock held above VWAP, formed a higher low, and broke the range near 11:30. Traders used TWAP to accumulate around $40-42, set stops at ~$38-39, and targeted $50. The stock ran to approximately $50 before volume dried up and traders exited.
+On September 24th, QURE gapped up 188% to open around $40 after AMT-130 gene therapy data showed 75% slowing of Huntington's disease. Pre-market volume was 7 million shares, 5x the 1.3 million average. SMB traders built a valuation model estimating 10% market share at $2.5M per treatment equating to $25B in revenue. Comparable biotechs traded at 2-4x peak sales, suggesting QURE's $3-4B market cap was undervalued. The stock held above VWAP, formed a higher low, and broke the range near 11:30. Traders used TWAP to accumulate near the opening price around $40, set stops $1–2 below the breakout point, and targeted $50. The stock ran to approximately $50 before volume dried up and traders exited.
 
 ### Example 2: ABBVX Historical Analog
 
@@ -84,23 +84,23 @@ ABBVX gapped up over 500% in mid-July after being added to a medical conference.
 
 ## Best Practices
 
-- ✅ Use pre-market volume scanners to surface stocks with extreme relative volume
-- ✅ Build a quick valuation model using comparable companies and market share estimates
-- ✅ Find historical analogs to calibrate expectations
+- ✅ Use pre-market volume scanners to surface stocks with relative volume of at least 5x the average daily volume
+- ✅ Build a valuation model using comparable companies and market share estimates
+- ✅ Find historical analogs to understand how similar setups played out
 - ✅ Let the stock establish an opening range before entering
 - ✅ Use small feeler sizes initially to get a feel for the tape
 - ✅ Use TWAP programs to accumulate without chasing
-- ✅ Place tight stops below the consolidation or breakout level
+- ✅ Place stops $1–2 below the consolidation or breakout level
 - ✅ Take partial profits into strength and trail the remainder
 - ✅ Assess offering risk and catalyst depth before swinging overnight
 
 ## Keep In Mind
 
-- Traders are not analysts; they do not need to be exactly right about long-term story, just need to gauge what other market participants will do in their timeframe
-- Volume is fuel - higher volume correlates with higher volatility and cleaner tape reading
-- A catalyst does not need to be fully understood, but it should be graded on significance and revenue impact
-- Even without knowing the full story, good risk-reward setups can be traded successfully
-- When in a trading slump, slow down and let trades come to you rather than forcing them
+- Traders are not analysts; they do not need to be exactly right about long-term business fundamentals, just need to gauge what other market participants will do in their timeframe
+- Volume is fuel - higher volume correlates with higher volatility and more readable price action
+- A catalyst does not need to be fully understood, but it should be graded on how differentiated the catalyst is and its potential impact on future revenue
+- Even without knowing the complete fundamental picture, good risk-reward setups can be traded successfully
+- When experiencing a period of inconsistent results, slow down and let trades come to you rather than forcing them
 
 ## Security & Safety Notes
 
@@ -115,10 +115,10 @@ ABBVX gapped up over 500% in mid-July after being added to a medical conference.
 - **Problem:** Chasing the initial gap without waiting for a setup
   **Solution:** Let the stock establish a range and show direction before entering
 - **Problem:** Buying without understanding the catalyst significance
-  **Solution:** Spend 5-10 minutes building a quick revenue estimate and checking comparable valuations
+  **Solution:** Build a revenue estimate and check comparable valuations
 - **Problem:** Taking too large a position too early
   **Solution:** Use small starter sizes and feelers, then add on confirmation
 - **Problem:** Holding a low-float, high-catalyst name overnight without checking for offering risk
-  **Solution:** Evaluate whether the name is in your wheelhouse and if secondary offerings are likely before swinging
-- **Problem:** Letting a winner turn into a loser by not trailing stops
+  **Solution:** Evaluate whether the name is within your usual trading focus and if secondary offerings are likely before swinging
+- **Problem:** Letting a profitable position turn into an unprofitable position by not trailing stops
   **Solution:** Take partial profits into strength and tighten stops when volume dries up

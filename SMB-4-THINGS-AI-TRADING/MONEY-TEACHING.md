@@ -14,11 +14,11 @@ A trader from SMB Capital shares four critical mistakes made while building an A
 
 ### Step 1: Define Your Use Cases and Expected ROI
 
-Before writing any code, identify the specific problems you want to solve and verify that building an AI assistant will actually move the needle. The speaker identified two core goals: automating a manual trade log review process and synthesizing daily emails, analyst reports, and market filters into a concise morning report. Ask yourself what would make the time investment worthwhile.
+Before writing any code, identify the specific problems you want to solve and verify that building an AI assistant will actually make a measurable impact on your trading workflow. The speaker identified two core goals: automating a manual trade log review process and synthesizing daily emails, analyst reports, and market filters into a concise morning report. Ask yourself what would make the time investment worthwhile.
 
 ### Step 2: Treat Claude Code as an Inference Layer, Not Just a Code Factory
 
-Most people use Claude Code only to write code. This is only one dimension of its value. Instead, wire Claude's reasoning into your product as a live feature. The speaker's trading operating system uses Claude API calls to read the market, break down research, and review performance live. Design an inference architecture where the app reasons over data rather than simply regurgitating it.
+Most people use Claude Code only to write code. This is only one dimension of its value. Instead, wire Claude's reasoning into your trading assistant as a live feature. The speaker's trading operating system uses Claude API calls to read the market, break down research, and review performance live. Design an inference architecture where the app reasons over data rather than simply regurgitating it.
 
 ### Step 3: Use Separate Chat Threads for Each Inference Layer
 
@@ -30,25 +30,25 @@ Within each dedicated chat, work with Claude to draft an architecture document t
 
 ### Step 5: Close the Loop Between Architecture and Code After Every Change
 
-When you update the architecture document, send the updated version to Claude Code with a prompt asking it to implement the changes and report back what it changed. Then feed that report back to the chat side to verify alignment. The architecture and the code base should mirror each other by the end of each prompt cycle. This prevents artifacts from earlier vibed code from causing confusion later.
+When you update the architecture document, send the updated version to Claude Code with a prompt asking it to implement the changes and report back what it changed. Then feed that report back to the chat side to verify alignment. The architecture and the code base should mirror each other after Claude Code implements each change. This prevents artifacts from earlier vibe coding from causing confusion later.
 
 ### Step 6: Teach Your Assistant Who You Are via a Settings Tab
 
-Never assume the AI understands your trading process, risk tolerance, or methodology. Build a settings tab that holds your playbooks, grade table, catalyst methodology, theme ontology, review process, and any other context that shapes how you think about trades. Feed this into the app's reasoning live so that depending on the task, the AI references the relevant pieces. The more specific boundaries you provide, the more the AI can leverage its inference instead of hallucinating.
+Never assume the AI understands your trading process, risk tolerance, or methodology. Build a settings tab that holds your playbooks, grade table, catalyst methodology, theme ontology, and review process. Feed this into the app's reasoning live so that depending on the task, the AI references the relevant settings. The more specific boundaries you provide, the more the AI can leverage its inference instead of hallucinating.
 
 ### Step 7: Lead with the Definition of Success, Not Step-by-Step Instructions
 
-When prompting, start with the finished product you want rather than a list of steps. Define what success looks like. The optimal prompting strategy has evolved toward leading with the outcome, which is also easier for humans to articulate.
+When prompting, start with the finished product you want rather than a list of steps. Define what success looks like. Research on prompt engineering shows that starting with the definition of success produces better results than leading with step-by-step instructions, which is also easier for humans to articulate.
 
 ## Examples
 
 ### Example 1: Morning Report Synthesis
 
-The speaker receives hundreds of emails, analyst reports, earnings analysis, and market filters daily. Rather than manually scanning everything, he built a morning report layer that reads all emails and synthesizes them into sections: environment, themes, catalysts, insights, and watch list. Each section has a distinct question, lens, selection criteria, and synthesis. For instance, the catalyst section asks "what names are most in play?" and uses a bottom-up lens focused on individual company catalysts rather than just the most emailed mega cap name. This prevents the AI from overweighting Nvidia just because every email mentions it.
+The speaker receives hundreds of emails, analyst reports, earnings analysis, and market filters daily. Rather than manually scanning everything, he built a morning report layer that reads all emails and synthesizes them into sections: environment, themes, catalysts, insights, and watch list. Each section has a distinct question, lens, selection criteria, and synthesis. For instance, the catalyst section asks "what names are most in play?" and uses a bottom-up lens focused on individual company catalysts rather than just the most emailed mega cap name. This prevents the AI from overweighting Nvidia just because 80 to 88 percent of emails mention it.
 
 ### Example 2: Automated Trade Log Review
 
-The speaker had an existing Google Sheets trade log that surfaced process gaps such as incorrect grading, failure to size based on grade, or losing money on good ideas. The problem was it was entirely manual and took too long. He used Claude to recreate the trade log as an interactive tool that asks him questions after each trade, pushes him to be more specific, and surfaces tendencies and patterns. The daily log inference layer acts like a manager, while the performance layer acts like a CEO, generating weekly and monthly reviews of trading patterns.
+The speaker had an existing Google Sheets trade log that surfaced process gaps such as incorrect grading, failure to size based on grade, or losing money on good ideas. The problem was it was entirely manual and inefficient. He used Claude to recreate the trade log as an interactive tool that asks him questions after each trade, pushes him to be more specific, and surfaces tendencies and patterns. The daily log inference layer acts like a manager, while the performance layer acts like a CEO, generating weekly and monthly reviews of trading patterns.
 
 ## Best Practices
 
@@ -64,26 +64,26 @@ The speaker had an existing Google Sheets trade log that surfaced process gaps s
 
 - The better your data quality and boundaries, the better the AI output
 - You must own your intellectual property; maintain the architecture documents yourself
-- Claude Code's context degrades over long sessions; start fresh for new layers
+- Claude Code's context degrades as sessions run longer; start fresh for new layers
 - The AI cannot read your mind; you must explicitly teach it your process and definitions
-- Simple UI tweaks can stay in Claude Code, but structural changes must go through the architecture first
-- The goal is efficiency and accuracy, not just building more features
+- Contained UI changes such as font size adjustments can stay in Claude Code, but structural changes must go through the architecture first
+- The objective is efficiency and accuracy, not just building more features
 
 ## Security & Safety Notes
 
 - Always verify AI-generated trade recommendations against your own analysis
 - Include source citations in every section of reports so you can trace data back to origin
-- Start with small, contained tasks before trusting the AI with complex decisions
+- Start with contained tasks before expanding to broader analysis
 - Treat the AI as an assistant, not a replacement for trading judgment
-- Audit the structure of outputs, not just the data; errors often appear in section placement
+- Audit the structure of outputs as well as the data; the AI may place content in the wrong section
 
 ## Common Pitfalls
 
 - **Problem:** Using Claude Code only as a code factory and never leveraging its inference capabilities
-  **Solution:** Design an inference architecture that wires Claude's reasoning directly into your app as a live feature, not just a backend code generator.
+  **Solution:** Design an inference architecture that wires Claude's reasoning directly into your trading assistant as a live feature, not just a backend code generator.
 - **Problem:** Running the entire project in one Claude Code session, leading to context degradation and contradictions
   **Solution:** Use separate chat threads dedicated to each inference layer (morning report, daily log, performance).
-- **Problem:** Vibe coding without architecture documents, causing contradictions, artifacts, and lost progress
+- **Problem:** Building without architecture documents, causing contradictions, artifacts, and lost progress
   **Solution:** Maintain a per-layer architecture document as the single source of truth and update it before sending changes to Claude Code.
 - **Problem:** Expecting the AI to understand your trading process without explicitly teaching it
-  **Solution:** Build a settings tab containing your playbooks, theme definitions, risk tolerance, catalyst methodology, and review process so the AI references the right context for each task.
+  **Solution:** Build a settings tab containing your playbooks, theme definitions, risk tolerance, catalyst methodology, and review process so the AI references the relevant settings for each task.

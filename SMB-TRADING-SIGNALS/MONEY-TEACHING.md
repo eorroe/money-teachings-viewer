@@ -4,7 +4,7 @@ SMB TRADING SIGNALS: The 7 Must-Have Checks for Breakout Trades
 
 ## Overview
 
-SMB Capital traders break down the 15 checks in favor they use to grade breakout trade setups, identifying the 7 must-have signals that separate high-probability trades from low-conviction ones. These signals help traders screen for potential breakouts before the market opens and confirm trades in real-time, focusing on technical setup quality, context, and timing.
+SMB Capital traders use 15 checks in favor across setup, context, and timing to grade breakout trade setups. The 7 must-have signals are: A+ pink line, higher time frame squeeze, blue sky, narrative, volume moment, clean tape, and hidden relative strength. These signals help traders screen for potential breakouts before the market opens and confirm trades in real-time, focusing on technical setup quality, context, and timing.
 
 ## When to Follow These Money Teachings
 
@@ -18,93 +18,93 @@ SMB Capital traders break down the 15 checks in favor they use to grade breakout
 
 ### Step 1: Verify the A+ Pink Line (Breakout Level)
 
-Identify a clear, high-quality breakout level that has been tested multiple times. The pink line should show that the level is significant and that the stock has consolidated around it. Look for a level where the stock has previously found support or resistance, indicating that a break above it would be meaningful.
+Identify a significant breakout level where failed breakouts at the level strengthen it each time. Volume should spike at each test. When the stock breaks above the level, look for a change in tape character: new buyers stepping in and volume increasing.
 
 ### Step 2: Confirm Higher Time Frame Squeeze
 
-Check that the stock is in a compression pattern on a higher time frame (hourly, daily, or weekly). A squeeze indicates that the stock has been consolidating tightly for days, weeks, or months, building energy for a powerful move. The tighter and longer the consolidation, the higher the probability of a strong breakout.
+Check that the stock is in a compression pattern on a higher time frame (hourly, daily, or weekly). A squeeze on a daily chart typically takes weeks to months to set up and tighten. A tighter and longer consolidation means the breakout move has more potential.
 
 ### Step 3: Ensure Blue Sky Above
 
-Make sure there is little to no resistance above the breakout level. Blue sky means the stock can move freely without hitting prior highs or heavy supply zones. This allows for clean momentum and avoids being forced into a premature profit target due to overhead resistance.
+Make sure there is no resistance above the breakout level. Blue sky means the stock can move freely without hitting prior highs or supply zones. Without overhead resistance, the stock is not forced into a premature profit target that limits risk-reward.
 
 ### Step 4: Establish a Compelling Narrative
 
-The stock must have a reason to move beyond just the chart pattern. A narrative can be a fundamental catalyst, a theme trade, a short squeeze story, or a growth narrative. Understanding why market participants should buy the stock adds conviction and helps you hold through volatility.
+The stock must have a reason to move beyond the chart pattern. A narrative is the driver that explains why market participants should buy the stock, such as a news event that changes how the market values the stock, a group of stocks moving together on the same theme, a short squeeze where short sellers are forced to cover, or a growth story. Identifying the narrative helps you hold through volatility.
 
 ### Step 5: Spot the Volume Moment
 
-Look for an outlier volume event as the stock breaks out. Volume is the fingerprint of institutional participation. You want to see 5x average volume or at least two standard deviations above average. If volume is absent as the stock clears the level, the breakout lacks confirmation and is suspect.
+Look for a volume moment as the stock breaks out. Volume confirms that large traders and institutions are buying. You want to see 5x average volume or over two standard deviations above average. If volume is absent as the stock clears the level, the breakout lacks confirmation and is suspect.
 
 ### Step 6: Trade a Clean Tape
 
-Only enter when price action is orderly. A clean tape means the stock respects levels, pullbacks are shallow and logical, the spread is tight, and order flow is consistent. Avoid stocks that are choppy, wiki, or have wide spreads, as messy price action often leads to being chopped up even if the stock eventually goes higher.
+Only enter when price action is clean. A clean tape means the stock respects levels, pullbacks hold at logical levels, the spread is tight, and order flow is steady. Avoid stocks that are choppy, erratic, or have wide spreads, because messy price action can trap you in a losing position even if the stock eventually goes higher.
 
 ### Step 7: Confirm Hidden Relative Strength
 
-Watch how the stock behaves relative to the market or its sector. Hidden relative strength means the stock holds up or grinds higher when the market dips or goes sideways. This shows that institutional demand exists even without broad market help, signaling that the stock is ready to move on its own.
+Watch how the stock behaves relative to the market or its sector. Hidden relative strength means the stock holds its value or ticks higher when the market dips or goes sideways. This shows that large buyer demand exists even without broad market help, and the stock has only one direction to go.
 
 ## Examples
 
 ### Example 1: SNDK (Samsung-related semiconductor breakout)
 
-SNDK broke out beautifully from a base with a 30-minute squeeze setup. Overnight, Samsung raised prices in Korea, acting as a hidden catalyst. The stock tested its previous all-time high, did a stutter step, and then broke out the next day. This trade had the A+ pink line, higher time frame compression, clear blue sky, and a catalyst, demonstrating how multiple checks in favor can align.
+SNDK broke out from a base with a 30-minute squeeze setup. Overnight, Samsung raised prices in Korea, acting as a hidden catalyst. The stock tested its previous all-time high, pulled back briefly, and then broke out the next day. This trade had the A+ pink line, higher time frame compression, clear blue sky, and a catalyst, demonstrating how checks in favor can align.
 
 ### Example 2: Fastly (earnings play with clean tape)
 
-Fastly was an earnings play where the tape opened extremely clean. It exploded through the pre-market high, held, and had a penny spread with continuous order flow. This clean tape provided high conviction and showed that institutional participation was real, making it an ideal breakout trade despite being a name they hadn't traded in years.
+Fastly was an earnings play where the tape opened clean. It moved through the pre-market high, held, and had a penny spread with continuous order flow. This clean tape provided conviction and showed that large traders were buying consistently, making it a breakout trade despite being a name they hadn't traded in years.
 
 ### Example 3: LNG (momentum name within a sector theme)
 
-During a day when all natural gas names were moving together, LNG stood out as the leading name within that theme. The whole sector going provided massive conviction because the trade was supported by a broader market tailwind. This shows how sector rotation and theme trading can create powerful breakout setups.
+During a day when all natural gas names were moving together, LNG stood out as the leading name within that theme. The whole sector moving provided conviction because the trade was supported by the sector trend. This shows how stocks rotating between sectors and theme trading can create breakout setups.
 
 ### Example 4: Tesla (weekly squeeze with podcast catalyst)
 
-Tesla had a beautiful weekly squeeze and broke above a key level. The night before the breakout, Musk went on a podcast and discussed various topics. While not a high-grade fundamental catalyst, it was enough to push an A+ chart pattern into an explosive 2-day move. This illustrates that catalysts exist on a spectrum, and even a C-catalyst can trigger a move when the technical setup is exceptional.
+Tesla had a weekly squeeze and broke above a breakout level. The night before the breakout, Musk spoke on a podcast. While not a fundamental catalyst—a news event that changes how the market values the stock—it was enough to push an A+ chart pattern into a 2-day move. This illustrates that catalysts vary in strength, and even a C-catalyst—a weak catalyst that might only push a stock already going higher—can trigger a move when the technical setup is strong.
 
 ## Best Practices
 
 - Grade your trade before entering by checking all 7 must-haves: A+ pink line, higher time frame squeeze, blue sky, narrative, volume moment, clean tape, and hidden relative strength
-- Use the 15-point checklist to assign an "adds conviction" or "must have" rating to each signal
+- Grade each of the 15 checks in favor as must-have, adds-conviction, or extra credit based on the setup, context, and timing categories
 - Screen for potential setups before the market opens so you know exactly what to watch for
-- Wait for the volume moment confirmation; do not buy a breakout without elevated volume
-- Only trade stocks with clean tape; if the price action is messy, walk away even if everything else looks perfect
+- Wait for the volume moment confirmation; do not buy a breakout without 5x average volume or over two standard deviations above average
+- Only trade stocks with clean tape; if the price action is choppy, erratic, or has wide spreads, walk away even if everything else looks perfect
 - Look for hidden relative strength the day before or morning of the breakout to confirm internal strength
-- Understand that a narrative can be anything from a growth story to a short squeeze; you just need to identify what is driving the move
+- Understand that a narrative can be anything from a growth narrative to a short squeeze; you just need to identify what is driving the move
 
 ## Keep In Mind
 
-- Not every breakout needs every signal, but the 7 must-haves dramatically increase your odds
-- Market tailwind is not a must-have; leading stocks can break out even in a ranging market
-- A catalyst is not required, but it adds significant conviction when present
-- Momentum names tend to behave differently on breakouts than choppy, low-interest names
-- A stock opening within striking distance of the breakout level is preferred; avoid chasing stocks that have already run an ATR away from the level
-- The market is aggressively rotational, so focus on themes and sectors that are actually in play
+- Not every breakout needs every signal, but the 7 must-haves increase the probability of a successful breakout
+- Market tailwind is not a must-have; leading stocks can break out even when the market is in a narrow range
+- A catalyst is not required, but it adds conviction when present
+- Momentum names tend to behave differently on breakouts than choppy names
+- A stock opening at or near the breakout level is preferred; avoid chasing stocks that have already moved one Average True Range (ATR) away from the level
+- The market rotates between themes, so focus on sectors that are in an uptrend
 
 ## Security & Safety Notes
 
-- Never enter a breakout trade based solely on one signal; always look for multiple checks in favor aligning
-- If a stock is opening far above the breakout level, you are likely too late and risk buying a rejection
-- Wide spreads and messy price action are signs of low liquidity and can trap you in a bad position
+- Never enter a breakout trade based solely on one signal; always look for checks in favor aligning
+- If a stock is opening half an ATR or more above the breakout level, you are likely too late and risk buying a rejection
+- Wide spreads and choppy, erratic price action are signs of low liquidity and can force you to exit a trade at a loss
 - Be aware that a stock can gap up on news and still fail; always wait for confirmation above the level with volume
-- Trading breakouts in non-momentum names often leads to disappointment, even if the chart looks identical to a momentum name
+- Trading breakouts in names that do not behave like momentum stocks can lead to disappointment, even if the chart looks identical to a momentum name
 
 ## Common Pitfalls
 
 - **Problem:** Buying a breakout without volume confirmation
-  **Solution:** Always wait for a volume moment. If the stock clears the level on low volume, the breakout is likely a fakeout. Volume is the confirmation that institutions are participating.
+  **Solution:** Always wait for a volume moment. If the stock clears the level on less than 2x average volume, the breakout is a fakeout. Volume confirms that large traders are buying.
 
 - **Problem:** Chasing a stock that has already run an ATR above the breakout level
-  **Solution:** Only enter when the stock is at or very near the breakout level. If it has already moved an entire ATR to reach the level, the energy spent reduces the probability of a continued measured move.
+  **Solution:** Only enter when the stock is at the breakout level. If it has already moved an entire ATR to reach the level, the breakout has used momentum that would otherwise fuel the move higher.
 
 - **Problem:** Trading stocks with messy, choppy price action
-  **Solution:** Demand a clean tape. If the stock is wiki, has wide spreads, or cannot hold logical levels, do not force the trade. Clean price action is a hallmark of momentum stocks.
+  **Solution:** Demand a clean tape. If the stock is erratic, has wide spreads, or cannot hold prior highs and lows, do not force the trade. Clean price action is typical of momentum stocks.
 
 - **Problem:** Ignoring hidden relative weakness
-  **Solution:** Watch how the stock behaves when the market dips. If it falls harder than the market or fails to participate in rallies, it lacks the internal strength needed for a powerful breakout. Hidden relative strength is a must-have.
+  **Solution:** Watch how the stock behaves when the market dips. If it falls more than the market or fails to participate in rallies, it lacks the internal strength needed for a strong breakout. Hidden relative strength is a must-have.
 
 - **Problem:** Overvaluing a catalyst and ignoring technicals
-  **Solution:** A catalyst adds conviction but cannot save a poor technical setup. An A+ pink line, squeeze, and blue sky are still required. Grade catalysts on a spectrum from A+ to C.
+  **Solution:** A catalyst adds conviction but cannot replace a setup without an A+ pink line, squeeze, and blue sky. Those three must-haves are still required. Grade catalysts by strength from A+ to C, where an A+ catalyst can stand on its own and a C-catalyst only pushes a stock that is already going higher.
 
 - **Problem:** Believing every breakout needs an uptrend
-  **Solution:** Base breakouts from stage one into stage two are often the best trades and may not be in an established uptrend. Do not discard a setup solely because the stock is not trending yet.
+  **Solution:** Base breakouts from flat bases may not be in an established uptrend. Do not discard a setup solely because the stock is not trending yet.

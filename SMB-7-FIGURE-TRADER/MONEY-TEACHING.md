@@ -2,7 +2,7 @@
 
 ## Overview
 
-This money teaching is based on the SMB Capital Elite Prop Firm Playbook, a proprietary framework used by one of the premier proprietary trading firms to create consistently profitable traders who earn seven and eight figures annually. The playbook is a structured 10-variable exercise that traders complete daily to deconstruct their best trades, build a personal trading database, and develop the discipline to only trade high-probability setups. By systematically analyzing every trade through the lens of big picture context, fundamentals, technicals, strategy, risk, and execution review, traders learn to think and act like professionals rather than gamblers. This teaching distills the core philosophy and actionable steps from the SMB playbook so you can apply the same principles to build a lasting trading business.
+This money teaching is based on the SMB Capital Elite Prop Firm Playbook, a proprietary framework from SMB Capital. Many of the firm's traders consistently earn seven and even eight figures a year. The playbook is a structured 10-variable exercise that traders complete daily to deconstruct their best trades, build a personal trading database, and develop the discipline to only trade high-probability setups. By systematically analyzing every trade through the lens of big picture context, intraday fundamentals, stock selection, technical analysis, trade strategy, risk management, reading the tape, technology, trade review, and diligence, traders learn to think and act like professionals rather than gamblers. This teaching distills the core philosophy and actionable steps from the SMB playbook so you can apply the same principles to build a lasting trading business.
 
 ## When to Follow These Money Teachings
 
@@ -18,7 +18,7 @@ This money teaching is based on the SMB Capital Elite Prop Firm Playbook, a prop
 
 ### Step 1: Learn the 10-Variable Playbook Framework
 
-Understand the 10 variables that make up every trade analysis in the SMB playbook: Big Picture, Intraday Fundamentals, Stock Selection, Technical Analysis, Trade Strategy, Risk Management, Reading the Tape, Technology, Trade Review, and Diligence. Each variable is scored on a scale of 1 to 10, and you must score 80 or better across all 10 variables to "compete" in the exercise. The goal is not perfection but specificity - you must be able to look at your playbook 10 years from now and instantly understand the story of each trade.
+Understand the 10 variables that make up every trade analysis in the SMB playbook: Big Picture, Intraday Fundamentals, Stock Selection, Technical Analysis, Trade Strategy, Risk Management, Reading the Tape, Technology, Trade Review, and Diligence. Each variable is scored on a scale of 1 to 10, and you must score 80 or better on each of the 10 variables to "compete" in the exercise. The goal is not perfection but specificity - you must be able to look at your playbook 10 years from now and instantly understand the story of each trade.
 
 ### Step 2: Do the Daily Playbook Exercise at Market Close
 
@@ -30,19 +30,19 @@ Start by identifying what was happening in the broader market. Mark the most imp
 
 ### Step 4: Assess Intraday Fundamentals
 
-For any trade with an earnings catalyst or news event, look at the actual report. Check the income statement for operating margins - declining margins are a major red flag that the street hates. Determine how the core business is actually doing versus whether the company had a one-off event (like selling real estate or a tax loss) that inflated numbers. Ask: did the EPS beat come from real core business improvement or from adjustments? A three-minute look at the income sheet can reveal whether the headline numbers are misleading and where hedge funds and institutions will actually trade.
+For any trade with an earnings catalyst or news event, look at the actual report. Check the income statement for operating margins - declining margins are a major red flag that Wall Street analysts dislike. Determine how the core business is actually doing versus whether the company had a one-off event (like selling real estate or a tax loss) that inflated numbers. Ask: did the EPS beat come from real core business improvement or from adjustments? A three-minute look at the income sheet can reveal whether the headline numbers are misleading and where hedge funds and institutions will actually trade.
 
 ### Step 5: Evaluate Stock Selection
 
-Determine whether the stock you selected was the right vehicle for your thesis. Consider the news catalyst or technical catalyst quality on a scale of 1 to 10. An unusually strong catalyst (positive or negative) creates the best trading opportunities. In the transcript, the traders identified a negative news catalyst rated 9 or 9.5 out of 10 because the company's core business was weak despite an apparent EPS beat. Good stock selection means finding the stock with the biggest catalyst that aligns with your edge, not just any stock that moves.
+Determine whether the stock you selected was the right vehicle for your thesis. Consider the news catalyst or technical catalyst quality on a scale of 1 to 10. An unusually strong catalyst (positive or negative) creates the best trading opportunities. In the transcript, the traders identified a negative news catalyst rated 9 or 9.5 out of 10 because the company's core business was weak despite an apparent EPS beat. Good stock selection means finding the stock with an unusually strong catalyst that aligns with your edge, not just any stock that moves.
 
 ### Step 6: Score Technical Analysis Objectively
 
-Systematize your technical scoring by assigning positive or negative points to each indicator. For example, if price is above a moving average, that is a positive score; if below, negative. Use three moving averages and three VWAPs as a baseline. Be specific about percentages - how far below a key level is price? Is it within 5% or 10%? These half points matter over hundreds of opportunities. Document why each level matters and the story behind it. The overall technical setup should be clearly explained with the key levels that define the trade.
+Systematize your technical scoring by assigning positive or negative points to each indicator. For example, if price is above a moving average, that is a positive score; if below, negative. Use three moving averages and three VWAPs as a baseline. Be specific about percentages - how far below a key level is price? Is it within 5% or 10%? These half points matter when applied consistently over many opportunities. Document why each level matters and the story behind it. The overall technical setup should be clearly explained with the key levels that define the trade.
 
 ### Step 7: Define Trade Strategy with Multiple Scenarios
 
-Create a specific trade strategy with clearly defined scenarios before entering. For example: Scenario 1 - gap into resistance and push higher with a target of 220-226; Scenario 2 - gap into resistance and fade back to VWAP and pre-market lows with a target of 188-190. For each scenario, define exactly what "fails" means - is it a break of a two-minute candle, a trend line break, serious weakness on the tape, or price holding above VWAP? A skilled active discretionary trader must be specific about entries and exits. This specificity is what separates top traders from everyone else.
+Create a specific trade strategy with clearly defined scenarios before entering. For example: Scenario 1 - gap into resistance and push higher to the 220 area, consolidate, then break above with targets of 226 and 230; Scenario 2 - gap into resistance and fade back to VWAP and pre-market lows at 188 or 190. For each scenario, define exactly what "fails" means - is it a break of a two-minute candle, a trend line break, serious weakness on the tape, or price holding above VWAP? A skilled active discretionary trader must be specific about entries and exits. This specificity is what separates top traders from everyone else.
 
 ### Step 8: Size Risk Based on Opportunity Quality
 
@@ -50,15 +50,15 @@ Assign a risk allocation grade (A+, A, B, etc.) based on opportunity quality, li
 
 ### Step 9: Use Technology and Set Alerts
 
-During the trading day, use your platform to set alerts at key levels identified in your playbook. In the transcript, the traders used TradingView to anchor VWAPs from the year-to-date, earnings report event, prior swing low, and prior high areas. They set alerts at 200 and other market levels. Alerts should be set for the low of the open, VWAP breaks, and any other level that would confirm or invalidate your thesis. Constantly reset alerts throughout the day to give yourself signals to enter and add to positions.
+During the trading day, use your platform to set alerts at key levels identified in your playbook. In the transcript, the traders used TradingView to anchor VWAPs from the year-to-date, earnings report event, prior swing low, and prior high areas. They set alerts at 200 and at the low of the open, VWAP breaks, and other key levels identified in the playbook. Alerts should be set for the low of the open, VWAP breaks, and any other level that would confirm or invalidate your thesis. Constantly reset alerts throughout the day to give yourself signals to enter and add to positions.
 
 ### Step 10: Conduct a Trade Review Focused on What You Did Well
 
-After each trade, review what happened and score each of the 10 variables. Most people focus only on what went wrong, but to become a seven-figure trader you must identify what you did really well. Ask: what was the catalyst? Why was this a great trade? What did I do to find it? Then find more trades like that. In the transcript, the traders received a 9 on diligence for reading the income statement, a 9 on stock selection for finding the negative news catalyst, and an 8.5 on trade management for the opening range break execution. The feedback was used to identify what to repeat, not just what to fix.
+After each trade, review what happened and score each of the 10 variables. Most people focus only on what went wrong, but to build a profitable trading business you must identify what you did really well. Ask: what was the catalyst? Why was this a great trade? What did I do to find it? Then find more trades like that. In the transcript, the traders received a 9 on diligence for reading the income statement, a 9 on stock selection for finding the negative news catalyst, and an 8.5 on trade management for the opening range break execution. The feedback was used to identify what to repeat, not just what to fix.
 
 ### Step 11: Compile Playbook Trades and Identify Your Best Setups
 
-Over weeks and months, compile all of your playbook trades into a personal database. Review this database to identify the trades you like best, trade the best in real time, and make the most money on. Do more of those trades. Eliminate the trades you do not do well with. This is how you build your trading business - by fretting through your playbook trades and focusing on your edge. If a trade is not already in your playbook, you should not be making it during market hours. If you are making trades outside your playbook, you are overtrading.
+Over weeks and months, compile all of your playbook trades into a personal database. Review this database to identify the trades you like best, trade the best in real time, and generate the highest returns on. Do more of those trades. Eliminate the trades you do not do well with. This is how you build your trading business - by reviewing and analyzing your playbook trades and focusing on your edge. If a trade is not already in your playbook, you should not be making it during market hours. If you are making trades outside your playbook, you are overtrading.
 
 ## Examples
 
@@ -68,11 +68,11 @@ In the transcript, the traders analyzed SPY gapping down near the 20-day moving 
 
 ### Example 2: Intraday Fundamentals - RH Earnings Report Deception
 
-The traders analyzed RH (Restoration Hardware) after earnings. The company reported a positive EPS beat and 12% year-over-year revenue growth, which initially looked positive. However, within three minutes of checking the income statement, they discovered the net income came entirely from Aspen LLC, an equity method investment, not from RH's core business. Operating margins were actually declining, and they had not achieved their China sourcing reduction goals. The EPS beat was misleading - the core business was weak. This is the kind of due diligence that identifies where hedge funds and institutions will trade, and it earned a perfect 10 out of 10 on fundamentals.
+The traders analyzed RH (Restoration Hardware) after earnings. The company reported a positive EPS beat and 12% year-over-year revenue growth. The positive EPS beat initially looked like good news. However, within three minutes of checking the income statement, they discovered the net income came entirely from Aspen LLC, an equity method investment, not from RH's core business. Operating margins were actually declining, and they had not achieved their China sourcing reduction goals. The EPS beat was misleading - the core business was weak. This is the kind of due diligence that identifies where hedge funds and institutions will trade, and it earned a perfect 10 out of 10 on fundamentals.
 
 ### Example 3: Trade Strategy - Gap Into Resistance Fade
 
-For the RH trade, the traders developed two scenarios. Scenario 1 (bull case): gap into resistance and push higher to the 220 area, consolidate, then break above with targets of 226 and 230. Scenario 2 (bear case, favored): gap into resistance and fade, with the after-hours pre-market reaction failing at the open. They would look for a reversion to VWAP and then target pre-market lows around 188-190. Risk allocation was graded as A (not A+) because of lower liquidity and potential slippage on volatile moves. The traders planned to start with around 50 shares and scale into the position if the opening high failed, letting the trade run as a "trade to hold" given the 9.5 negative news catalyst.
+For the RH trade, the traders developed two scenarios. Scenario 1 (bull case): gap into resistance and push higher to the 220 area, consolidate, then break above with targets of 226 and 230. Scenario 2 (bear case, favored): gap into resistance and fade, with the after-hours pre-market reaction failing at the open. They would look for a reversion to VWAP and then target pre-market lows at 188 or 190. Risk allocation was graded as A (not A+) because of lower liquidity and potential slippage on volatile moves. The traders planned to start with around 50 shares and scale into the position if the opening high failed, letting the trade run as a "trade to hold" given the 9.5 negative news catalyst.
 
 ### Example 4: Trade Management - Opening Range Break Entry
 
@@ -98,14 +98,14 @@ In the actual trade execution, the traders entered on bullet four, the opening r
 ## Keep In Mind
 
 - The playbook template is a starting point - individualize it as you gain experience by tweaking, adding, or removing variables
-- Half points in your scoring system matter significantly over hundreds of opportunities
-- "Trade to hold" for high-catalyst trades with unusually strong news or technical catalysts; do not scalp everything
+- Half points in your scoring system matter when applied consistently over many opportunities
+- "Trade to hold" for trades with an unusually strong negative news catalyst; do not scalp these trades
 - You will not get an A+ opportunity every day, but you will still trade every day with appropriately reduced risk
-- The little things make the big things happen - small improvements in specificity compound over time
-- Your playbook is your database for constructing trades with edge; make it robust
-- If you are not doing the playbook exercise, you are not specific enough to compete with professional traders
+- The little things make the big things happen - small improvements in how precisely you define entries, exits, and failure conditions compound over time
+- Your playbook is your database for constructing trades with edge; make it comprehensive and detailed
+- If you are not doing the playbook exercise, you are not specific enough about your entries, exits, and failure conditions to compete with professional traders
 - Risk allocation should match opportunity quality - full size for A+, reduced size for A or lesser
-- The best traders outperform because they are specific about entries and exits, not because they have magical indicators
+- The best traders outperform because they are specific about entries and exits, not because they use secret indicators
 
 ## Security & Safety Notes
 
@@ -113,7 +113,7 @@ In the actual trade execution, the traders entered on bullet four, the opening r
 - Always define your stop loss and exact exit criteria before entering any position
 - For multi-scenario trade plans, allocate different risk amounts to each scenario rather than risking the same size on outcomes you do not favor
 - Monitor liquidity and be aware that less liquid stocks have ceilings on position size and carry slippage risk
-- If you are the only one thinking a certain way and everyone around you is doing the opposite, you may be wrong - have a system for exiting
+- If you are the only one thinking a certain way and everyone around you is doing the opposite, your thesis may be incorrect - have a system for exiting
 - Do not hold a losing position indefinitely just because the thesis has not played out yet - define your failure conditions in advance
 
 ## Common Pitfalls

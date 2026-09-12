@@ -2,94 +2,94 @@
 
 ## Overview
 
-A structured 4-step framework for traders transitioning into swing trading, designed to help beginners build a scalable swing trading business without starting from scratch. This process teaches you to leverage existing day trading skills, gradually increase position size, identify high-probability setups, and manage trades with disciplined systems.
+A structured 4-step framework for traders transitioning into swing trading, designed to help beginners build a swing trading practice using their existing day trading skills. This process teaches you to systematically increase position size, identify trade setups with defined criteria, and manage trades with documented rules.
 
 ## When to Follow These Money Teachings
 
 - When you are a day trader looking to expand into swing trading
 - When you want to capture larger moves from trades you already take intraday
 - When you need a systematic approach to position sizing and trade management
-- When learning to identify high-probability swing setups in strong market environments
-- When you want to avoid common beginner mistakes like over-leveraging or cutting winners too early
+- When learning to identify swing setups with measurable criteria in markets meeting specific environment metrics
+- When you want to avoid beginner mistakes like over-leveraging or cutting winners too early
 
 ## Steps
 
 ### Step 1: Review Your Biggest Winners
 
-Go back through your trading history and identify your most profitable trades, not just swing trades but all winners. Examine the charts on a daily timeframe and ask: could any of these day trades have been swing trades? Look for trades with strong contextual backdrops - higher time frame technicals, catalysts, and clean chart patterns. The goal is to recognize that you may already be picking stocks correctly and just need to learn how to hold them longer. Document the characteristics that made these trades work so you can build a playbook.
+Go back through your trading history and identify your trades with the highest risk-adjusted returns, not just swing trades but all winners. Examine the charts on a daily timeframe and ask: could any of these day trades have been swing trades? Look for trades with contextual factors including higher time frame technicals, catalysts, and specific chart patterns. The goal is to recognize that you may already be selecting stocks using valid criteria and just need to learn how to hold them for multiple days or weeks. Document the characteristics that made these trades work so you can build a documented set of rules.
 
 ### Step 2: Get Reps With Small Size
 
-Do not jump into full swing position sizes immediately. Start by holding a small core portion of your existing day trades overnight to get comfortable with overnight risk. Use the MCR (Momentum to Core) ratio to predetermine how much of each position you will sell into momentum versus hold for the swing. For example, with a 100-share position at a 60/40 MCR ratio, you would sell 60 shares into strength and hold 40 as a core swing position. Begin with very small sizes (such as 5-10 shares) and scale up gradually as you gain confidence and experience with overnight holding.
+Do not jump into your standard day trade position size for swing trades immediately. Start by holding 5-20% of your existing day trade position overnight to gain experience with overnight risk. Use the MCR (Momentum to Core) ratio to predetermine how much of each position you will sell into momentum versus hold for the swing. For example, with a 100-share position at a 60/40 MCR ratio, you would sell 60 shares into strength and hold 40 as a core swing position. Begin with 5-10 shares and scale up by 5-10 share increments as you gain experience with overnight holding.
 
 ### Step 3: Learn Your Setups
 
 Swing trading is a trading style, not a specific strategy. Focus on mastering one setup at a time rather than overwhelming yourself with multiple strategies. Key setups discussed include:
 
-- Consolidation breakout: A stock in a leading sector with a clean base, converging moving averages (10-day, 20-day), tight range, and the rubber band effect building energy. Enter on the breakout above resistance with confirmation from volume and multi-timeframe alignment.
-- Mean reversion: A stock in a steady uptrend that disconnects significantly from key moving averages (50-day, 20-day, 10-day, and especially the 5-day SMA). Look for volume and range expansion signaling a blow-off top, then fade the extreme move back toward the mean.
-- Continuation trade: A stock that has already broken out and is pulling back to its rising 10-day or 20-day moving average or prior breakout level. Enter when it reclaims the prior day's high or week's high, confirming a higher low within a developing uptrend.
+- Consolidation breakout: A stock in a sector outperforming the broader market with a defined base, converging 10-day and 20-day moving averages, narrow price range, and energy building from the consolidation. Enter on the breakout above resistance with volume confirmation and multi-timeframe alignment.
+- Mean reversion: A stock in an uptrend that disconnects 7 to 12 ATRs from the 50-day moving average, with greater disconnection from the 20-day, 10-day, and 5-day SMA. Look for volume and range expansion over two to three days signaling an extreme move disconnected from moving averages, then fade the move back toward the 5-day SMA.
+- Continuation trade: A stock that has already broken out and is pulling back to its 10-day or 20-day moving average or prior resistance level. Enter when it reclaims the prior day's high or week's high, confirming a higher low within an uptrend.
 
-For each setup, write down all required variables, back test them, and practice identifying them in real time before trading with real capital.
+For each setup, write down every variable that influences the setup, back test them, and practice identifying them in real time before trading with real capital.
 
 ### Step 4: Have a System to Manage the Trades
 
-Each setup requires a different trade management system. Determine your stop loss and profit targets before entering. For mid to large caps, trail stops against the prior day's low, the 10-day SMA, or the 20-day SMA depending on where you entered and the setup type. For small caps or low floats, use multi-day VWAP or key support levels instead, as prior day lows can be too wide. For earnings day-one swings, consider using anchored VWAP from the earnings release as your initial line in the sand. Adjust your management based on market maturity: use wider stops and longer time horizons in early-stage trends, but tighten your leash and cut losses quicker when the market is extended and you are buying later-stage breakouts. Never trade without a predefined exit plan.
+Each setup requires a different trade management system. Determine your stop loss and profit targets before entering. For mid to large caps, trail stops against the prior day's low, the 10-day SMA, or the 20-day SMA depending on where you entered and the setup type. For small caps or low floats, use multi-day VWAP or specific support levels instead, as prior day lows can be too wide. For earnings day-one swings, consider using anchored VWAP (Volume Weighted Average Price) from the earnings release as your initial stop loss level. Adjust your management based on trend stage: use wider stops and longer time horizons when the market is in an early-stage uptrend, but use tighter stop losses and cut losses within one to two trading days when the market is extended and you are buying breakouts in the later stage of a move. Never trade without a predefined exit plan.
 
 ## Examples
 
 ### Example 1: AMD Day Trade That Became a Swing Trade
 
-A trader bought AMD intraday on a day-one breakout and exited the same day for a small profit. Upon reviewing the chart later, they realized the stock never revisited their entry price and went on to run for two additional weeks. This illustrates how a day trade with strong contextual backdrop (higher time frame technicals, catalyst) could have been held as a swing trade for much larger gains.
+A trader bought AMD intraday on a day-one breakout and exited the same day. Upon reviewing the chart later, they realized the stock never revisited their entry price and went on to run for two additional weeks. This illustrates how a day trade with contextual factors including higher time frame technicals and a catalyst could have been held as a swing trade for larger gains.
 
 ### Example 2: ARM Consolidation Breakout
 
-ARM formed a 2-year base on the weekly chart, broke out above 190 in April, then consolidated for 3 weeks with tightening range and converging 10-day, 20-day, and 100-day moving averages. The 200-day remained in a rising trend. The breakout on May 20 featured explosive volume, all-time high extension, and no pullback. Entry was staged: starter size above 230 (mid-range), then full size added on the actual breakout above 240 with a low-of-day stop. The setup was graded A- due to market environment (first pullback in Qs reclaiming), leading sector (semis), and impending NVIDIA earnings catalyst.
+ARM formed a 2-year base on the weekly chart, broke out above 190 in April, then consolidated for 3 weeks with a tightening price range and converging 10-day, 20-day, and 100-day moving averages. The 200-day remained in a rising trend. The breakout on May 20 featured volume, all-time high extension, and no pullback. Entry was staged: starter size above 230, then full size added on the actual breakout above 240 with a low-of-day stop. The setup was graded A- due to market environment (first pullback in Qs reclaiming), leading sector (semis), and impending NVIDIA earnings catalyst.
 
 ### Example 3: ONDS Breakout With Mixed Grade
 
-ONDS gapped up significantly near a key multi-month breakout point with a catalyst. However, the sector lacked major bullish sentiment and explosive recent momentum. Graded B+, the trader entered long but trimmed aggressively when the stock extended an ATR (average true range) above the 14-day level, holding only a small core with a low-of-day stop and planning to trail from the next day. The plan was to lock in profits and let the remainder run for 2-3 days or stop out.
+ONDS gapped up near a multi-month resistance level with a catalyst. However, the sector lacked bullish sentiment and recent momentum. Graded B+, the trader entered long but trimmed when the stock extended above the 14-day ATR (average true range), holding a core position with a low-of-day stop and planning to trail from the next day. The plan was to lock in profits and let the remainder run for 2 to 3 days or stop out.
 
 ### Example 4: Enphase Continuation Trade
 
-After Enphase showed as the strongest stock in the market on day two of a move, it pulled in to the 170 level intraday and immediately reclaimed. The trader bought the dip with a tactical 1-2 day hold rather than a robust swing entry, selling everything the following day on a green candle. This demonstrates that not every continuation trade is meant to be held for weeks; the time frame depends on the environment and the specific entry quality.
+After Enphase ranked as the top performing stock in the market on day two of a move, it pulled in to the 170 level intraday and immediately reclaimed. The trader bought the dip with a tactical 1-2 day hold rather than a multi-week swing entry, selling everything the following day on a green candle. This demonstrates that not every continuation trade is meant to be held for weeks; the time frame depends on the market conditions and the specific entry criteria.
 
 ## Best Practices
 
 - Use the MCR ratio to predetermine position allocation before day one ends, which eliminates FOMO
-- Start with one proven setup and master it before adding new strategies
-- Size small when transitioning to swing trading to build confidence without risking significant capital
+- Start with one backtested setup and master it before adding new strategies
+- Size to 5-20% of your normal day trade size when transitioning to swing trading to build confidence without risking capital you cannot afford to lose
 - Assess the market environment across three buckets: breadth, risk appetite, and market behavior (failed breakouts, how stocks react to news)
-- Let the environment dictate your activity: when conditions are murky, sit on your hands
-- Place stops at the true structural level (low of day, consolidation low, or key moving average) and resist the urge to tighten stops based on intraday noise
-- In late-stage extended markets, use a tighter leash on new entries and cut losses quicker
+- Let the market condition metrics dictate your activity: when breadth is narrowing, risk assets are underperforming, and breakouts are failing, reduce trading activity
+- Place stops at the low of day, consolidation low, 10-day SMA, or 20-day SMA and resist the urge to tighten stops based on intraday price movement
+- In extended markets, use tighter stop losses on new entries and cut losses within one to two trading days
 
 ## Keep In Mind
 
 - Swing trading is a style, not a specific strategy. Do not confuse the two.
-- Not all swing setups are equal. A consolidation breakout in a leading sector with institutional interest (like ARM) has different expected value and management rules than a mean reversion short in a speculative sector with high short interest.
-- The environment matters more than perfect entries. Kfits philosophy: if the environment is favorable, you do not need pinpoint entries; if the environment is murky, no entry is good enough.
-- "Last in, first out": positions bought later in an extended trend should be managed more aggressively than positions established at the beginning of a move.
+- Not all swing setups are equal. A consolidation breakout in a sector outperforming the broader market with institutional buying interest (like ARM) has different expected value and management rules than a mean reversion short in a sector with speculative trading characteristics and high short interest.
+- The market condition metrics matter more than precise entry prices. Kfits philosophy: when market breadth is expanding, risk assets are leading, and breakouts are working, you do not need precise entry prices; when market breadth is narrowing, risk assets are lagging, and breakouts are failing, no entry is good enough.
+- "Last in, first out": manage recent positions more aggressively. Positions bought later in a trend should be cut faster than positions established at the start of a move.
 
 ## Security & Safety Notes
 
-- Avoid trading on margin as a beginner. The 2% market down days that crush margin accounts can erase an entire month of gains.
+- Avoid trading on margin as a beginner. The 2% market down days that force margin calls can erase a month of gains.
 - Never risk more than you are willing to lose on any single trade.
-- Back test and practice on a demo account until results are consistent before risking meaningful capital.
-- Be aware of overnight risk: earnings reports, gaps, and news can create significant opening moves against your position.
+- Back test and practice on a demo account until results are consistently profitable before risking capital you are willing to lose.
+- Be aware of overnight risk: earnings reports, gaps, and news can create opening moves against your position.
 - If adverse news occurs overnight, honor your stop loss and do not hope for a recovery.
 
 ## Common Pitfalls
 
 - **Problem:** Believing swing trading is a specific strategy rather than a style that encompasses multiple setups
-  **Solution:** Understand that swing trading refers to the time horizon (holding days to weeks), and you must define your specific setups and rules for each.
+  **Solution:** Understand that swing trading refers to the time horizon (holding multiple days to weeks), and you must define your specific setups and rules for each.
 - **Problem:** Reviewing winners but failing to act on the insight that they could have been swing trades
-  **Solution:** When you identify a winner that ran much longer than your day trade, intentionally design a swing trading version of that setup with clear hold rules.
+  **Solution:** When you identify a winner that ran longer than your day trade, intentionally design a swing trading version of that setup with clear hold rules.
 - **Problem:** Starting with full position size and experiencing large overnight drawdowns
-  **Solution:** Begin with 5-20% of your normal day trade size and scale up gradually as you build experience with overnight holding.
+  **Solution:** Begin with 5-20% of your normal day trade size and scale up incrementally as you build experience with overnight holding.
 - **Problem:** Using the same stop and management rules for every setup regardless of context
-  **Solution:** Differentiate between intraday momentum scalps and true swing trades. For small caps, use multi-day VWAP or key support; for large caps, trail against prior day low or rising moving averages.
+  **Solution:** Differentiate between intraday momentum scalps and true swing trades. For small caps, use multi-day VWAP or specific support levels; for large caps, trail against prior day low or moving averages trending higher.
 - **Problem:** Getting stubborn and refusing to exit when the market becomes extended and new entries fail
-  **Solution:** Adopt a "tight leash" mentality in late-stage trends. Cut losses quickly on new breakouts that fail, even if earlier positions in the trend are still working.
+  **Solution:** Adopt a tight stop loss mentality in extended markets. Cut losses within one to two trading days on new breakouts that fail, even if earlier positions in the trend are still working.
 - **Problem:** Overwhelming yourself with too many setups at once
-  **Solution:** Master one setup completely before expanding your playbook. Add new strategies gradually, just as you would scale position size.
+  **Solution:** Master one setup completely before expanding your documented set of rules. Add new strategies incrementally, just as you would scale position size.
