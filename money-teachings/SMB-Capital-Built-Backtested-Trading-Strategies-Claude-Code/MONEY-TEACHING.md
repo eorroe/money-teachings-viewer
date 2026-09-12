@@ -28,21 +28,21 @@ Paste the generated Pine Script into TradingView's Strategy Tester. Before trust
 
 ### Step 4: Verify the Output and Avoid Technical Debt
 
-Treat Claude's output like a research note from a junior analyst: it is a starting point to pressure-test, not a verdict to accept. Never trade a number Claude cites without checking the primary source. Review the code for logical errors, curve-fitting (over-optimizing to past data), and regime sensitivity (how the strategy performs across different market conditions). Strategies with trend filters (such as a 200 EMA) naturally screen out low-conviction entries during quiet periods and tend to survive better than those without.
+Treat Claude's output like a research note from a junior analyst: it is a starting point to pressure-test, not a verdict to accept. Never trade a number Claude cites without checking the primary source. Review the code for logical errors, curve-fitting (over-optimizing to past data), and regime sensitivity (how the strategy performs across different market conditions). Strategies with trend filters (such as a 200 EMA) tend to filter out weak entries during low-volatility periods and tend to perform better than those without.
 
 ### Step 5: Automate Execution with a Rules-Based System
 
-Once the strategy passes realistic backtests, connect it to automated execution. Use a webhook or alert service to route TradingView signals to your broker or prop firm account. This enforces your stop-loss, take-profit, and position-sizing rules without emotional interference. For prop firm accounts, automated rule enforcement is critical because 70% of evaluation failures stem from loss-limit violations caused by discretionary overrides.
+Once the strategy passes realistic backtests, connect it to automated execution. Use a webhook or alert service to route TradingView signals to your broker or prop firm account. This enforces your stop-loss, take-profit, and position-sizing rules without emotional interference. For prop firm accounts, automated rule enforcement is essential to prevent loss-limit violations caused by discretionary overrides.
 
 ## Examples
 
 ### Example 1: EMA Crossover with RSI Filter
 
-Prompt: "Write a Pine Script strategy that goes long when the 9 EMA crosses above the 21 EMA, only if RSI(14) is between 40 and 65. Exit on opposite crossover or 1.5% loss. Add a daily trend filter using the 200 EMA." Backtest with 0.05% commission and 1-tick slippage. In a 90-day paper trading experiment, this strategy returned +11.2% versus SPY's +6.4%, outperforming the benchmark.
+Prompt: "Write a Pine Script strategy that goes long when the 9 EMA crosses above the 21 EMA, only if RSI(14) is between 40 and 65. Exit on opposite crossover or 1.5% loss. Add a daily trend filter using the 200 EMA." Backtest with 0.05% commission and 1-tick slippage. In backtesting, this strategy outperformed the benchmark.
 
 ### Example 2: Breakout Momentum with ATR Sizing
 
-Prompt: "Create a breakout strategy that enters on a 4-candle high breakout with volume 1.5x the 20-bar average. Use ATR(14) to set stop loss at 1.5x ATR below entry. Trail profit at 2x ATR." After realistic backtest validation, this strategy was automated and returned +14.7% over 90 days, making it the top performer in the experiment.
+Prompt: "Create a breakout strategy that enters on a 4-candle high breakout with volume 1.5x the 20-bar average. Use ATR(14) to set stop loss at 1.5x ATR below entry. Trail profit at 2x ATR." After realistic backtest validation, this strategy was automated and performed well in testing.
 
 ### Example 3: Review Trade Journal with Claude
 
@@ -52,9 +52,9 @@ Export your trade journal to Claude and ask it to cluster wins and losses by set
 
 - ✅ Design strategy logic in plain English with specific constraints before prompting Claude
 - ✅ Backtest with realistic commission and slippage settings (0.05% commission, 1-tick slippage)
-- ✅ Verify every output from Claude against primary sources and your own pre-written rules
-- ✅ Automate execution so rules, not emotions, govern every trade
-- ✅ Build a trading playbook (a documented record of your strategies and trade reviews) and review every trade to identify recurring setups and mistakes
+- ✅ Verify every output from Claude against original data sources and your own pre-written rules
+- ✅ Automate execution so rules, not impulsive decisions driven by fear or greed, govern every trade
+- ✅ Build a trading playbook (a documented record of your strategies and trade reviews) and review every trade to identify repeated setups that appear multiple times in your trading history and mistakes
 - ✅ Prepare before the open by using Claude to rank watchlist names with identifiable catalysts (such as earnings reports, FDA decisions, or product launches) versus noise
 - ❌ Do not ask Claude to predict stock prices or forecast market direction
 - ❌ Do not let Claude size positions or place trades unsupervised
@@ -63,11 +63,11 @@ Export your trade journal to Claude and ask it to cluster wins and losses by set
 
 ## Keep In Mind
 
-- AI generates syntax, not validated logic against live market conditions. LLMs have absorbed every over-fitted strategy ever published.
-- Backtest results are consistently 30–50% too optimistic when default settings are used. Always apply realistic friction.
-- A documented process compounds; a prediction does not. Codify your rules, review them, and repeat them.
-- The edge comes from disciplined execution, not from the AI tool itself. Only about 21% of retail traders using AI report measurable profitability gains.
-- Strategies with trend filters naturally survive low-volatility regimes better than those without.
+- AI generates syntax, not validated logic against live market conditions. LLMs may replicate over-fitted strategies published online.
+- Backtest results are often too optimistic when default settings are used. Always apply realistic friction.
+- A documented process improves results over time through repeated review and refinement. Codify your rules, review them, and repeat them.
+- The edge comes from disciplined execution, not from the AI tool itself. Retail traders using AI often report lower profitability than expected.
+- Strategies with trend filters tend to perform better during low-volatility regimes than those without.
 
 ## Security & Safety Notes
 
@@ -86,10 +86,10 @@ Export your trade journal to Claude and ask it to cluster wins and losses by set
   **Solution:** Describe entry conditions, filter conditions, exit logic, timeframe, and session constraints with specificity.
 
 - **Problem:** Overfitting to short backtests and assuming future performance will match.  
-  **Solution:** Require at least 200 trades in backtest and test across multiple market conditions—trending, ranging, high-volatility, and low-volatility—before going live.
+  **Solution:** Require testing across multiple market conditions—trending, ranging, high-volatility, and low-volatility—before going live.
 
 - **Problem:** Automating raw AI signals without a human verification layer.  
   **Solution:** Treat Claude as a research analyst. Verify every signal against your pre-written rules and never let it size positions or place trades unsupervised.
 
 - **Problem:** Ignoring regime sensitivity and market context changes.  
-  **Solution:** Add trend filters (such as a 50 EMA or 200 EMA) to screen out low-conviction entries during quiet periods, and re-evaluate strategies when market behavior shifts.
+  **Solution:** Add trend filters (such as a 50 EMA or 200 EMA) to filter out weak entries during low-volatility periods, and re-evaluate strategies when market behavior shifts.

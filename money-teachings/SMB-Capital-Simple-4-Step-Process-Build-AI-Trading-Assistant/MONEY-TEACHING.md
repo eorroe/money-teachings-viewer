@@ -2,13 +2,13 @@
 
 ## Overview
 
-This Money Teaching walks through SMB Capital's simple 4-step framework for building a personal AI trading assistant using Claude, even with no coding experience. It covers how to plan your workflow, generate custom trading tools, personalize them to your style, and automate your daily routine. The goal is to remove time-consuming preparation and execution bottlenecks (e.g., building watchlists, writing scripts, reviewing trades) so you can focus on trading.
+This Money Teaching walks through SMB Capital's simple 4-step framework for building a personal AI trading assistant using Claude, even with no coding experience, and covers how to plan your workflow, generate custom trading tools, personalize them to your style, and automate your daily routine. The goal is to remove time-consuming preparation and execution bottlenecks (e.g., building watchlists, writing scripts, reviewing trades) so you can focus on trading.
 
 ## When to Follow These Money Teachings
 
 - When you want to build a personal AI trading assistant without extensive coding experience
 - When working with Claude to generate custom trading tools like alerts, dashboards, or trade journals
-- When the user asks about automating pre-market research, trade review, or order logic with AI
+- When you want to automate pre-market research, trade review, or order logic with AI
 
 ## Steps
 
@@ -20,19 +20,19 @@ Before you start building, define exactly what you want your AI assistant to do.
 
 Take your plan and feed it into Claude. Describe what you want in simple, direct language—Claude will write the code, build the scripts, and create the tools for you. You do not need to be a programmer. Provide explicit rules, logic, constraints, and formatting requirements, and Claude handles the implementation.
 
-### Step 3: Personalization (Make It Yours)
+### Step 3: Personalization (Customize To Your Trading Style)
 
 Once Claude produces the initial version, refine it. Adjust prompts, modify logic, and tailor outputs to match your specific trading style (e.g., day trading, swing trading, scalping) and personal trading playbook (e.g., your written entry/exit rules, risk parameters). Iterate by requesting changes until the tool fits your workflow. This step transforms a generic solution into a personalized trading assistant.
 
 ### Step 4: Automate Your Daily Routine
 
-Set up schedules, integrate the assistant with your existing tools (e.g., TradingView, broker platform, Google Sheets, Discord), and let it handle repetitive tasks automatically. This includes pre-market research briefings, trade journaling, performance analysis, and alert monitoring. Automation lets you focus on execution while AI handles the grunt work.
+Set up schedules, integrate the assistant with your existing tools (e.g., TradingView, broker platform, Google Sheets, Discord), and let it handle repetitive tasks automatically. This includes pre-market research briefings, trade journaling, performance analysis, and alert monitoring. Automation lets you focus on execution while AI handles the repetitive preparation and analysis tasks.
 
 ## Examples
 
 ### Example 1: Custom TradingView Alert
 
-Use Claude to build a Pine Script v5 indicator and alert that triggers when price breaks above the 30-minute opening range high with volume at least 1.5x the opening range average, price above VWAP, and within the first 2 hours of the session. Include visual requirements like horizontal lines and background color changes.
+Use Claude to build a Pine Script v5 indicator and alert that triggers when price breaks above the 30-minute opening range high with volume at least 1.5x the opening range average, price above Volume Weighted Average Price (VWAP), and within the first 2 hours of the session. Include visual requirements like horizontal lines and background color changes.
 
 ### Example 2: Pre-Market Game Plan Automation
 
@@ -40,7 +40,7 @@ Feed Claude a watchlist with overnight news and pre-market data, and ask it to a
 
 ### Example 3: Custom Trade Journal and Performance Analysis
 
-Ask Claude to build a Python script that imports broker CSV data and analyzes performance by setup type (e.g., opening range breakout, VWAP reclaim, moving average bounce), time of day (e.g., first 30 minutes, midday, last hour), and day of week. The script should calculate win rates, average wins and losses, expectancy, and flag time periods where win rate falls below your personal baseline threshold (e.g., below 40% win rate over 20+ trades).
+Ask Claude to build a Python script that imports broker CSV data and analyzes performance by setup type (e.g., opening range breakout, VWAP reclaim, moving average bounce), time of day (e.g., first 30 minutes, midday, last hour), and day of week. The script should calculate win rates, average wins and losses, expectancy, and flag time periods where win rate falls below your personal baseline threshold (e.g., below 40% win rate over at least 20 trades).
 
 ### Example 4: AI Trade Autopsy
 
