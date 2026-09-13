@@ -2,7 +2,7 @@
 
 ## Overview
 
-This money teaching explains why two traders given the exact same chart, the same setup, and the same entry can walk away with vastly different results. Steve made $200 because he stopped watching the tape, focused on his own P&L, and sold into strength at the top. Paula made $2,000 because she stayed engaged with the stock, watched what the tape showed, and held her position as the momentum continued. The difference comes down to one core shift: stop focusing on your P&L and start watching the tape.
+This money teaching explains why two traders given the exact same chart, the same setup, and the same entry can walk away with results ranging from $200 to $2,000. Steve made $200 because he stopped watching the tape, focused on his own profit and loss (P&L), and sold into strength at the top. Paula made $2,000 because she stayed engaged with the stock, watched what the tape showed, and held her position as the momentum continued. The difference comes down to one core shift: stop focusing on your P&L and start watching the tape.
 
 ## When to Follow These Money Teachings
 
@@ -16,7 +16,7 @@ This money teaching explains why two traders given the exact same chart, the sam
 
 ### Step 1: Identify the Setup and Know What You Are Looking For
 
-Study the chart before the open and understand what setup you are watching. In this example, the traders were looking for a reversal on the second day off a prior-day close and a pullback. The setup can play out in one of three ways: a quick sideways consolidation, a 9-period Exponential Moving Average (9 EMA) continuation trade, or a Volume-Weighted Average Price (VWAP) continuation trade. Know your setup so well that you understand when the setup you are watching should be presented to you. Steve had the Hood stock on his watchlist after a close with a pullback the day before. He knew the setup. He just did not maximize it.
+Study the chart before the open and understand what setup you are watching. In this example, the traders were looking for a reversal on the second day off a prior-day close and a pullback. The setup can play out in one of three ways: a quick sideways consolidation, a 9-period Exponential Moving Average (9 EMA) continuation trade, or a Volume-Weighted Average Price (VWAP) continuation trade. Know your setup so well that you understand when the setup you are watching meets all of its entry criteria. Steve had the Hood stock on his watchlist after a close with a pullback the day before. He knew the setup. He just did not maximize it.
 
 ### Step 2: Enter the Trade Only After a Distinct and Noticeable Change in the Tape
 
@@ -28,25 +28,25 @@ The moment you enter, do not start running P&L calculations in your head. That v
 
 ### Step 4: Keep Watching for a Change in Character
 
-After you are in the trade, continue watching the tape. Look for a distinct and noticeable change in the character of the price action. If the stock reclaims VWAP and the buyers keep stepping in with accelerating volume, the trade is shifting. It is no longer just a short-term trade. It may be becoming a larger continuation. Do not assume your initial read is the final read. Paula watched the bid step up, saw the volume accelerate, and noticed the 9 EMA start to curl back up. That told her the entire stock was shifting.
+After you are in the trade, continue watching the tape. Look for a distinct and noticeable change in the character of the price action. If the stock reclaims VWAP and the buyers keep stepping in with accelerating volume, the trade is shifting. It is no longer just a short-term trade. It may be becoming a larger continuation. Do not assume your initial read is the final read. Paula watched the bid step up, saw the volume accelerate, and noticed the 9 EMA start to curl back up. That told her the entire stock's price action was shifting.
 
 ### Step 5: Add to Your Position When the Tape Tells You the Opportunity Is Real
 
-When the trade shifts and the momentum is confirmed, it is appropriate to add to your position. Paula entered the initial trade, then as the tape confirmed buyers were in control, she added to her position. She then moved her stop up to the lows of the new pullback candle. This lets you lock in risk while staying in the trade. Your open P&L from the original position covers the new risk. You are not increasing your total exposure. The trade can get better and better once momentum is truly on your side.
+When the trade shifts and the momentum is confirmed, it is appropriate to add to your position when the tape confirms buyers are in control and momentum is sustained. Paula entered the initial trade, then as the tape confirmed buyers were in control, she added to her position. She then moved her stop up to the lows of the new pullback candle. This lets you lock in risk while staying in the trade. Your open P&L from the original position covers the new risk. You are not increasing your total exposure. The trade can get better and better once momentum is truly on your side.
 
 ### Step 6: Set Your Exit Rule Before the Trade and Stick to It
 
-Know your exit before you enter. For a momentum trade like this, Paula used a close below the 9 EMA as her exit signal. Do not sell at the highest price of the move. Do not sell into strength because it feels good to take a quick win. Watch the tape. When the bar closes below the 9 EMA, that is your reason to sell. Trust the process. Good stocks with momentum are forgiving. They will pull back and give you another chance to exit. It may seem counterintuitive that taking profits too early can be riskier than holding until your rule triggers.
+Know your exit before you enter. For a momentum trade like this, Paula used a close below the 9 EMA as her exit signal. Do not sell at the highest price of the move. Do not sell into strength because it feels good to take a quick win. Watch the tape. When the bar closes below the 9 EMA, that is your reason to sell. Trust the process. Good momentum stocks typically pull back after extended moves, giving you another chance to exit. They will pull back and give you another chance to exit. It may seem counterintuitive that taking profits too early can be riskier than holding until your rule triggers.
 
 ### Step 7: Use the "Is It Real?" Mantra to Stay Present
 
-Paula's approach was a simple question she repeated to herself throughout the trade: "Is it real?" If the momentum is real, the stock will continue to grow and the setup will keep presenting new opportunities. If it is not real, the trade will start to reverse and break down. Asking this question keeps you focused. It keeps you from entering trades that do not fit the setup. It lets you stay in when the tape is confirming and stay out when it is not. Practice this mantra in your journaling and then bring it into execution.
+Paula's approach was a simple question she repeated to herself throughout the trade: "Is the momentum confirmed by sustained volume and continuous buying?" If the momentum is real, the stock will continue to grow and the setup will keep presenting new opportunities. If it is not real, the trade will start to reverse and break down. Asking this question keeps you focused. It keeps you from entering trades that do not fit the setup. It lets you stay in when the tape is confirming and stay out when it is not. Practice this mantra in your journaling and then bring it into execution.
 
 ## Examples
 
 ### Example 1: Steve's $200 Trade - Focusing on Self Instead of the Stock
 
-Steve studied the setup. He had Hood on his watchlist. He waited for the pullback, saw the buyers step in, and entered at the right time with the right stop. He sold right into the top of the move. Correct execution on the entry. But he immediately started checking his P&L. The voice in his head said "I just made $200, that is enough." He stopped watching the tape. He missed the volume acceleration, the continuous buying, the 9 EMA curling back up, and the continuation. He walked away with $200 on a trade that had the potential for much more. There is nothing wrong with the $200 trade, but if you keep doing this every day, you are missing out on profits.
+Steve studied the setup. He had Hood on his watchlist. He waited for the pullback, saw the buyers step in, and entered at the right time with the right stop. He sold right into the top of the move. Correct execution on the entry. But he immediately started checking his P&L. The voice in his head said "I just made $200, that is enough." He stopped watching the tape. He missed the volume acceleration, the continuous buying, the 9 EMA curling back up, and the continuation. He walked away with $200 on a trade that had the potential for $2,000. There is nothing wrong with the $200 trade, but if you keep doing this every day, you are missing out on profits.
 
 ### Example 2: Paula's $2,000 Trade - Staying Market Focused
 
@@ -54,7 +54,7 @@ Paula saw the exact same setup. She entered at the same price with the same init
 
 ### Example 3: The "Fast Cars Have the Best Brakes" Principle
 
-Good stocks with momentum are forgiving, but this is counter to your instincts. Your instinct is to protect profits quickly when the stock moves in your favor. But in a confirmed momentum move, selling into strength can be the wrong move. The stock will likely pull back and give you another chance to exit. Paula understood this. She trusted the momentum. She did not need to sell at the highest price of the move. The 9 EMA break gave her a clear exit rule. Hold until your exit rule triggers.
+Good stocks with momentum are forgiving, but this is counter to your instincts. A common instinct is to protect profits quickly when the stock moves in your favor. But in a confirmed momentum move, selling into strength can be the wrong move. The stock often pulls back and give you another chance to exit. Paula understood this. She trusted the tape evidence showing sustained buying pressure. She did not need to sell at the highest price of the move. The 9 EMA break gave her a clear exit rule. Hold until your exit rule triggers.
 
 ## Best Practices
 
@@ -75,7 +75,7 @@ Good stocks with momentum are forgiving, but this is counter to your instincts. 
 - The $200 outcome does not mean the entry was wrong. Steve executed the entry correctly. The issue was the exit and the mindset shift that happened after the first planned exit level was hit.
 - Paula did not take on additional risk beyond what Steve took. Her initial stop was at the same level as Steve's. The add was backed by the open P&L from her first position. This is a risk management technique, not an averaging down on a losing trade.
 - The "Is it real?" question is a reminder to focus. It forces you to look at the tape, not your internal thoughts.
-- Low-momentum stocks tend to give clearer signals than high-momentum stocks. The tape gives you clear signals and clear exit points.
+- In our experience, low-momentum stocks often give clearer signals than high-momentum stocks. The tape gives you unambiguous signals and well-defined exit points.
 - You are not missing trades. You are missing the best part of trades you have already taken because you checked out mentally.
 - A setup is only the start of a trade. The setup is the beginning. The trade is what happens when the stock starts moving in real time.
 
@@ -106,7 +106,7 @@ Good stocks with momentum are forgiving, but this is counter to your instincts. 
   **Solution:** Treat each trade as part of a session, not an isolated event. After entering, stay engaged. Watch for adds and new entries. The best opportunities can appear right after your first trade is working.
 
 - **Problem:** You confuse the setup with the trade and do not recognize when the setup has evolved into something better.
-   **Solution:** Reassess the trade. A continuation trade off VWAP can become a continuation trade above the 9 EMA can become a full profit move. Let the tape tell you what the trade is now, not what it was when you entered.
+   **Solution:** Reassess the trade. A continuation trade off VWAP can become a continuation trade above the 9 EMA, which can become a full profit move. Let the tape tell you what the trade is now, not what it was when you entered.
 
 - **Problem:** You feel attached to your initial thesis and ignore tape evidence that contradicts it.
    **Solution:** The tape shows actual buying and selling pressure. Your thesis is a starting point, not a conclusion. If the tape shows something different, adapt. Paula adjusted her approach. Steve did not.

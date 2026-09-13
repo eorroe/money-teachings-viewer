@@ -4,7 +4,7 @@ SMB TRADING SIGNALS: The 7 Must-Have Checks for Breakout Trades
 
 ## Overview
 
-SMB Capital traders use 15 checks in favor across setup, context, and timing to grade breakout trade setups. The 7 must-have signals are: A+ pink line, higher time frame squeeze, blue sky, narrative, volume moment, clean tape, and hidden relative strength. These signals help traders screen for potential breakouts before the market opens and confirm trades in real-time, focusing on technical setup quality, context, and timing.
+SMB Capital traders use 15 checks in favor organized into setup, context, and timing categories. Each check is then graded as a must-have, adds-conviction, or extra credit. The 7 must-have signals are: A+ pink line, higher time frame squeeze, blue sky, narrative, volume moment, clean tape, and hidden relative strength. Traders screen for all 15 checks before the market opens to grade a trade's potential, then look for the must-haves to confirm in real-time.
 
 ## When to Follow These Money Teachings
 
@@ -18,11 +18,11 @@ SMB Capital traders use 15 checks in favor across setup, context, and timing to 
 
 ### Step 1: Verify the A+ Pink Line (Breakout Level)
 
-Identify a significant breakout level where failed breakouts at the level strengthen it each time. Volume should spike at each test. When the stock breaks above the level, look for a change in tape character: new buyers stepping in and volume increasing.
+The "A+" is a quality grade assigned to the breakout level itself, not a separate label. Identify a significant breakout level where prior failed breakouts at the level strengthen it each time — without previous failures at the level, you cannot know it is significant. Volume typically spikes at each test of the level. When the stock breaks above the level, look for a change in tape character: new buyers stepping in and volume increasing. A high-quality pink line is foundational because it is how you visually confirm a breakout is actually happening.
 
 ### Step 2: Confirm Higher Time Frame Squeeze
 
-Check that the stock is in a compression pattern on a higher time frame (hourly, daily, or weekly). A squeeze on a daily chart typically takes weeks to months to set up and tighten. A tighter and longer consolidation means the breakout move has more potential.
+Check that the stock is in a compression pattern on a higher time frame — the hourly, daily, or weekly chart. A squeeze on a daily chart typically takes weeks to months to set up and tighten; on a weekly chart it can take even longer. A tighter and longer consolidation means the breakout move has more potential. Alignment across multiple higher time frames (weekly, daily, and hourly simultaneously) is even stronger and is the ideal A+ setup.
 
 ### Step 3: Ensure Blue Sky Above
 
@@ -30,11 +30,11 @@ Make sure there is no resistance above the breakout level. Blue sky means the st
 
 ### Step 4: Establish a Compelling Narrative
 
-The stock must have a reason to move beyond the chart pattern. A narrative is the driver that explains why market participants should buy the stock, such as a news event that changes how the market values the stock, a group of stocks moving together on the same theme, a short squeeze where short sellers are forced to cover, or a growth story. Identifying the narrative helps you hold through volatility.
+The stock must have a reason to move beyond the chart pattern. A narrative is the driver that explains why market participants should buy the stock. This can take many forms: a news event that changes how the market values the stock, a group of stocks moving together on the same theme, a short squeeze where short sellers are forced to cover, a growth story, or a "this shouldn't be happening" narrative — where the stock is defying bearish expectations (such as negative fundamentals or a failed breakdown) yet continues to hold or climb. You do not need to calculate valuations; you only need to identify what is driving the move. Identifying the narrative helps you hold through volatility.
 
 ### Step 5: Spot the Volume Moment
 
-Look for a volume moment as the stock breaks out. Volume confirms that large traders and institutions are buying. You want to see 5x average volume or over two standard deviations above average. If volume is absent as the stock clears the level, the breakout lacks confirmation and is suspect.
+Look for a volume moment as the stock breaks out. Volume confirms that large traders and institutions are participating — it is the fingerprint of market participants and the options market. The standard target is 5x average volume or over two standard deviations above average by day's end, but a volume moment can show up in other valid forms: a sharp burst of elevated volume in the morning as the stock breaks out, followed by lighter volume as it digests sideways above the breakout level, is still a volume moment as long as the stock holds above where that volume came in. If volume is absent as the stock clears the level, the breakout lacks confirmation and is suspect. Without a volume moment, you should question whether your pink line is even significant.
 
 ### Step 6: Trade a Clean Tape
 
@@ -42,7 +42,7 @@ Only enter when price action is clean. A clean tape means the stock respects lev
 
 ### Step 7: Confirm Hidden Relative Strength
 
-Watch how the stock behaves relative to the market or its sector. Hidden relative strength means the stock holds its value or ticks higher when the market dips or goes sideways. This shows that large buyer demand exists even without broad market help, and the stock has only one direction to go.
+Watch how the stock behaves relative to the market or its sector — this works best with market-dependent stocks. Hidden relative strength means the stock holds its value or ticks slightly higher on market down ticks without staging a large rally of its own. It is called "hidden" because the move is subtle; a 10% gain on its own is not hidden strength, that is just relative strength. Look for it the day before or the morning of the breakout. It shows that large buyer demand exists even without broad market help, and that the stock has only one direction to go.
 
 ## Examples
 

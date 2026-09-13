@@ -2,14 +2,14 @@
 
 ## Overview
 
-This teaching covers how to survive and profit from market crashes and volatility events. It focuses on trading strategies during news-driven sell-offs and risk management principles. The content is based on SMB Capital's analysis of the "Armageddon Friday" market crash and how their trading desk positioned themselves to profit while managing risk.
+This teaching covers how to survive and profit from market crashes and volatility events. It focuses on trading strategies during news-driven sell-offs and risk management principles. The content is based on SMB Capital's trading desk debrief of the "Armageddon Friday" market crash — their nickname for the October 2025 event — and how their trading desk positioned themselves to profit while managing risk.
 
 ## When to Follow These Money Teachings
 
-- When the market experiences a breaking news event causing 3% or larger declines
+- When the market experiences a breaking news event causing a drop of at least 3%
 - When trading at all-time highs and facing policy announcements or executive actions
-- When you need to manage risk during high-volatility conditions
-- When you want to capitalize on trend days and liquidation events
+- When you need to manage risk during headline-driven market conditions with rapid price swings
+- When you want to capitalize on trend days and crypto liquidation events — events where leveraged positions are automatically closed due to margin calls
 - When adjusting your trading strategy
 - When dealing with fear of missing out (FOMO) and comparison bias (comparing your performance to other traders) in trading
 
@@ -21,23 +21,23 @@ Monitor news feeds and social media platforms such as X for catalysts (events th
 
 ### Step 2: Execute Immediate Risk Management
 
-When a breaking news event hits, action is risk management. Review your current positions and determine what needs to be reduced or eliminated. If the news involves policy announcements or executive actions, consider shorting before evaluating your long portfolio. Abandon any pre-market plans as they become irrelevant during news events.
+When a breaking news event hits, action is risk management. Review your current positions and determine what needs to be reduced or eliminated. If the news involves policy announcements or executive actions, consider shorting before evaluating your long portfolio — this guidance assumes your account has margin and short-selling permissions. Abandon any pre-market plans as they become irrelevant during news events.
 
 ### Step 3: Identify Market Direction Plays
 
-Interpret the news to determine market direction. Look for volume spikes, distance from all-time highs, and the time of day. On a Friday with policy announcements or executive actions and the market near all-time highs, the probability of further downside increases as traders avoid holding long positions over the weekend.
+Interpret the news to determine market direction. Look for volume spikes, distance from all-time highs, and the time of day. On a Friday with policy announcements or executive actions and the market near all-time highs, the probability of downside of at least 3% increases as traders avoid holding long positions over the weekend.
 
 ### Step 4: Use Appropriate Instruments
 
-For market-wide moves, trade the indices rather than individual stocks. Use Qs (NASDAQ-100 ETF) or VIX (CBOE Volatility Index) to express your market view. If you want to trade individual stocks, only do so after establishing your core market position. This prevents the mistake of picking a stock that underperforms the broader market during a sell-off.
+For market-wide moves, trade the indices rather than individual stocks — this assumes access to index instruments such as Qs or VIX. Use Qs (NASDAQ-100 ETF) or VIX (CBOE Volatility Index) to express your market view. If you want to trade individual stocks, only do so after establishing your core market position. This prevents the mistake of picking a stock that underperforms the broader market during a sell-off.
 
 ### Step 5: Manage Positions Through Trend Days
 
-During a trend day, hold your position as long as the market continues in your direction and fails to reverse. A key principle attributed to Linda Raschke: never short a weak market on a Friday. As the day progresses and bounces fail, the likelihood increases that the trend will continue because no one wants to hold over the weekend. Consider using weekly options for trend days rather than 0 DTE (zero days to expiration) options if you expect the move to continue.
+A trend day is a session where the market moves consistently in one direction with counter-trend bounces that fail to reclaim the trend level. During a trend day, hold a position as long as the market closes below the intraday high (on a down trend day) without reclaiming that level — a failure to reverse the trend direction. A key principle attributed to Linda Raschke: never short a weak market on a Friday. As the day progresses and bounces fail to reclaim the prior high, the likelihood increases that the trend will continue into the close because no one wants to hold over the weekend. Consider using weekly options for trend days rather than 0 DTE (zero days to expiration) options if you expect the move to continue past the session close.
 
 ### Step 6: Maintain Psychological Discipline
 
-Avoid comparing your performance to other traders. Morgan Housel describes the hardest financial skill as getting the goalpost to stop moving. Focus on your own process, follow your rules, and let price action confirm your trades. In markets where many stocks are rising rapidly, it is easy to get overwhelmed. Keep your focus narrow, use price alerts, and avoid chasing trades based on fear of missing out (FOMO).
+Avoid comparing your performance to other traders. Morgan Housel describes the hardest financial skill as getting the goalpost to stop moving. Focus on your own defined trading process, follow your own rules, and let price action confirm your trades. In markets where quantum, robotics, rare earth, batteries, drones, nuclear energy, AI data center, and crypto mining stocks are rising rapidly, it is easy to get overwhelmed. Keep your focus narrow, use price alerts, and avoid chasing trades based on fear of missing out (FOMO).
 
 ## Examples
 
@@ -47,11 +47,11 @@ On a Friday morning, Trump announced 100% additional tariffs on China and export
 
 ### Example 2: The Musk-Trump Feud / Tesla Sell-off
 
-When Trump and Musk engaged in a public battle on X, Tesla stock sold off sharply. Traders who monitored X posts in the days leading up to the event could have anticipated the move. Musk had been posting critical messages for days, and once Trump joined in, the market realized the relationship was deteriorating. This was a breaking news setup that could be anticipated by watching the developing story.
+When Trump and Musk engaged in a public battle on X, Tesla stock sold off. Traders who monitored X posts in the days leading up to the event could have anticipated the move. Musk had been posting increasingly critical messages for days, and once Trump joined in, the market realized the relationship was deteriorating. This was a breaking news event whose escalation could be anticipated by watching the developing story on X.
 
 ### Example 3: The Crypto Liquidation Event
 
-The crypto market experienced the largest liquidation event in history, erasing over $19 billion in minutes. This was 10 times larger than the 2020 COVID crash or the FTX collapse. The cause was over-leverage at all-time highs. According to Unusual Whales, a trader opened a levered Bitcoin short 30 minutes before Trump's tariff announcement and made $192 million in two hours. This demonstrates both the danger of leverage and the opportunity for prepared traders.
+The crypto market experienced the largest liquidation event in history per the Trading Floor podcast, erasing $19 billion in minutes. This was approximately 10 times larger than the 2020 COVID crash liquidation event or the FTX collapse liquidation event. The cause was over-leverage at all-time highs. According to Unusual Whales, a trader opened a levered Bitcoin short 30 minutes before Trump's tariff announcement and made $192 million in two hours. This demonstrates both the danger of leverage and the opportunity for prepared traders.
 
 ## Best Practices
 
@@ -75,13 +75,13 @@ The crypto market experienced the largest liquidation event in history, erasing 
 
 ## Keep In Mind
 
-- Morgan Housel describes the hardest financial skill as getting the goalpost to stop moving
+- Morgan Housel writes in The Psychology of Money that the hardest financial skill is getting the goalpost to stop moving
 - Traders have strategies and playbooks that perform differently in different environments
 - Market character changes over time and your trading must adapt accordingly
 - Psychology can override even the best risk systems when the mind starts overriding them
 - Markets at all-time highs are vulnerable to sharp reversals
-- Correlations go to 1 during major sell-offs, making indices the best instruments to trade
-- A 3% drop can feel like Armageddon when leverage is high and sentiment is extreme
+- Correlations converge toward 1 (all assets moving together) during major sell-offs, making indices the best instruments to trade
+- A 3% drop can feel extreme — the SMB Capital team described their October 2025 event as "Armageddon Friday" — when leverage is high (crypto traders were levered up at all-time highs per the podcast) and sentiment is extreme (quantum stocks described by podcast hosts as unable to go down)
 
 ## Security & Safety Notes
 
@@ -95,16 +95,16 @@ The crypto market experienced the largest liquidation event in history, erasing 
 ## Common Pitfalls
 
 - **Problem:** Trading over-leveraged without stops during market crashes
-  **Solution:** Always maintain stops and avoid excessive leverage. The 19 billion dollar crypto liquidation was caused by over-leverage.
+  **Solution:** Always maintain stops and avoid excessive leverage. The $19 billion crypto liquidation event was caused by over-leverage at all-time highs.
 
 - **Problem:** Picking individual stocks instead of market instruments for market-wide moves
-  **Solution:** Trade Qs or VIX (CBOE Volatility Index) first to express your market view. The SMB Capital trading desk notes that they learned this lesson when AMD underperformed the market on a sell-off day.
+  **Solution:** Trade Qs or VIX (CBOE Volatility Index) first to express your market view. The SMB Capital trading desk notes that they learned this lesson when AMD underperformed the Qs on a prior sell-off day, illustrating that even a strong stock can lag the index.
 
 - **Problem:** Comparing yourself to other traders and letting FOMO drive decisions
-  **Solution:** Keep it "you versus you." Morgan Housel describes the hardest financial skill as getting the goalpost to stop moving. Focus on your own process.
+  **Solution:** Keep it "you versus you." Morgan Housel describes the hardest financial skill as getting the goalpost to stop moving. Focus on your own defined trading process.
 
 - **Problem:** Abandoning your trading plan during breaking news events
   **Solution:** Have a plan, but also build the foundation to follow it. Prepare mentally so you do not freeze during volatility.
 
-- **Problem:** Assuming the market will keep going up because "these stocks can't go down"
-  **Solution:** Recognize that sentiment can flip instantly. When most traders are complacent at all-time highs, the stage is set for a sharp reversal.
+- **Problem:** Assuming the market will keep going up because traders believe "these stocks cannot decline"
+  **Solution:** Recognize that sentiment can flip instantly. When most traders are complacent at all-time highs — the SMB Capital podcast hosts noted that some traders were saying quantum stocks "just can't go down" — the stage is set for a sharp reversal.

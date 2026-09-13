@@ -24,7 +24,7 @@ Look for stocks or commodities that have made a parabolic move. Gold in this exa
 
 ### Step 3: Confirm Macro and Fundamental Context
 
-Do not trade technicals in isolation. For this gold trade, four macro factors aligned: Trump remarks that a full-scale tariff war with China is unsustainable gave markets certainty; the S&P 500 and QQQ were testing all-time highs indicating returning risk appetite; the CBOE Volatility Index (VIX) was declining after tariff announcements signaling reduced fear; and the DXY (dollar index) was snapping back which historically pressures gold. When the DXY (dollar index) snaps back, it historically pressures gold lower. For this gold trade, the dollar had been weakening which supported gold, but the DXY snapback signaled a potential gold top. Gold gapped up after the Friday sell-off, triggering stops on existing swing short positions and forcing liquidations. The gap-down on the trade day reset the structure and provided the new short entry.
+Do not trade technicals in isolation. For this gold trade, four macro factors aligned: Trump remarks that a full-scale tariff war with China is unsustainable gave markets certainty; the S&P 500 and QQQ were testing all-time highs indicating returning risk appetite; the CBOE Volatility Index (VIX) was declining after tariff announcements signaling reduced fear; and the DXY (dollar index) was snapping back which historically pressures gold. We compare the US dollar index with GLD because a weakening dollar contributed to gold's runup, but a snapback in DXY hinted at a possible top. Gold gapped up after the Friday sell-off, triggering stops on existing swing short positions and resetting the trade for new shorts. The gap-down on October 21st was super weak and provided the new short entry.
 
 ### Step 4: Mark Key Technical Levels
 
@@ -44,7 +44,7 @@ Place your initial stop above the October 21st high of the day or above VWAP if 
 
 ### Step 8: Review the Trade Objectively
 
-After the trade, conduct a thorough review. Identify what you did well (early spotting, entries, tape reading) and what went wrong (exits at 384 and 381 before the clear capitulation at 377). For this gold trade, the team scored 84.5 out of 100, rounded to 85. Mistakes included exiting at 384 and 381 before the clear capitulation at 377, which represented the majority of the total P&L for the trade. Acknowledge errors honestly and update your playbook for next time.
+After the trade, conduct a thorough review. Identify what you did well (early spotting, entries, tape reading) and what went wrong (exits at 384 and 381 before the clear capitulation at 377). For this gold trade, the team scored 84.5 out of 100, rounded to 85. Mistakes included exiting at 384 and 381 before the clear capitulation at 377, which represented almost half of the total P&L for the trade. Acknowledge errors honestly and update your playbook for next time.
 
 ## Examples
 
@@ -73,7 +73,7 @@ Using scans.com, the team built a scanner with three criteria: price closed high
 
 - Gold is a terrible product to trade intraday due to global hedging activity that creates messy price action unrelated to gold fundamentals. However, when global macro events are more in the news, gold can produce A+ setups. Only trade it when you see A+ trades.
 - You do not need to know where price is going. Focus on prior positioning, who is buying and selling, and what is likely to happen next based on that positioning.
-- A $400 stock needs more than a 4-point move to justify the trade. Ensure your reward-to-risk ratio is defined before entering.
+- A $400 gold stock needs more than a 4-point move to justify the trade. Ensure your reward-to-risk ratio is defined before entering.
 - The best trades on the desk come when daily charts show an opportunity and intraday charts confirm it in the same direction.
 
 ## Security & Safety Notes

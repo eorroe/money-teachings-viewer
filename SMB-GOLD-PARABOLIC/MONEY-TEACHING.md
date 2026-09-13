@@ -2,25 +2,25 @@
 
 ## Overview
 
-This money teaching explains how to identify and execute mean reversion parabolic short trades, using gold as a case study. The core idea is that when an asset goes parabolic with unsustainable acceleration and reaches retail euphoria, it sets up a high-probability short opportunity. The chart is the primary signal, while euphoric headlines and mainstream mania serve as confirmation that a short-term top may be near.
+This money teaching explains how to identify and execute mean reversion parabolic short trades, using gold as a case study. The core idea is that when an asset goes parabolic with unsustainable acceleration and reaches retail euphoria, it sets up a repeatable-pattern short opportunity. The chart is the primary signal, while euphoric headlines and mainstream mania serve as confirmation that a short-term top may be near.
 
 ## When to Follow These Money Teachings
 
 - When an asset class has gone parabolic with gaps and unsustainable acceleration
-- When you observe euphoria signals like mainstream headlines, people in your personal circle asking about the trade, or queues forming to buy the asset
+- When you observe euphoria signals such as hundreds of people lining up to buy physical gold, non-traders asking about the trade (for example, an Uber driver mentioning your portfolio or a family member calling to ask about gold), and mainstream headlines (for example, Bank of America raising its gold price target to 5,000 or JP Morgan's Jamie Dimon stating that 10,000 is possible)
 - When trading on a Friday with zero days to expiration (DTE) or monthly options expiration that could accelerate a reversal
 - When you need to understand how a 24-hour asset like gold futures typically behaves around key technical levels
-- When looking for confirmation from a related asset showing weaker price action (like silver vs gold) to validate a thesis
+- When looking for confirmation from silver (a related asset) showing weaker price action (like failing to reclaim Volume Weighted Average Price (VWAP) on bounces) to validate the trade rationale
 
 ## Steps
 
 ### Step 1: Identify the parabolic move and unsustainable acceleration
 
-Find an asset that has experienced a run, blown through a key psychological level, and is showing parabolic acceleration. Look for gaps in a row on the daily chart, expansion in ATR, and price extending far above its 50-day and 200-day moving averages. The move must be getting faster, not rising steadily without parabolic acceleration.
+Find an asset that has experienced a run, blown through a key psychological level such as $4,000 for GLD, and is showing parabolic acceleration. Look for gaps in a row on the daily chart, expansion in Average True Range (ATR), and price extending far above its 50-day and 200-day moving averages (for example, GLD was approximately 36 points above its 50-day moving average around 360). The move must be getting faster, not rising steadily without parabolic acceleration.
 
 ### Step 2: Confirm euphoria through headlines and behavior
 
-Collect news from the day of the potential setup. Look for price target increases from major banks, mainstream articles showing people lining up to buy physical product, and retail frenzy on social media. Note when non-traders start discussing the asset, such as an Uber driver mentioning your portfolio or people in your personal circle calling to ask about it.
+Collect news from the day of the potential setup. Look for price target increases from major banks such as Bank of America (which raised its target to 5,000) or JP Morgan (where Jamie Dimon stated 10,000 was possible), mainstream articles showing people lining up to buy physical product (for example, hundreds of people lining up to buy physical gold in Singapore and Australia), and retail frenzy on social media. Note when non-traders start discussing the asset, such as an Uber driver mentioning your portfolio or people in your personal circle calling to ask about it.
 
 ### Step 3: Review the daily chart for the specific setup
 
@@ -32,11 +32,11 @@ Mark the prior day's high as your pre-determined stop level. Identify a consolid
 
 ### Step 5: Consider the options calendar and asset-specific behavior
 
-Check if it is a Friday with zero DTE or monthly options expiration. On expirations, dealers unwinding hedges can accelerate moves in either direction. Also understand the trading characteristics of the asset: gold trades around the clock and does not typically limit down like equities, so expect slower, less volatile price action unless the setup is truly parabolic.
+Check if it is a Friday with zero DTE or monthly options expiration. On expirations, dealers unwinding hedges can accelerate moves in either direction. Also understand the trading characteristics of the asset: gold trades around the clock and does not typically limit down like equities (for example, in the October 23 gold trade, the traders were not expecting multiple limit-down halts), so expect slower, less volatile price action unless the setup is truly parabolic.
 
 ### Step 6: Size appropriately and enter on the breakdown
 
-Reduce position size in pre-market because you lack regular session price action context. Enter a test position to test the thesis. If the asset flushes off the open and holds below the key level, increase position size during regular trading hours. If it rebids above the breakdown level, exit immediately.
+Reduce position size in pre-market because you lack regular session price action context. Enter a test position to test the trade setup. If the asset flushes off the open and holds below the key level, increase position size during regular trading hours. If it rebids above the breakdown level, exit immediately. Do not increase position size aggressively (for example, do not "blow out" on your first pre-market entry).
 
 ### Step 7: Use related assets showing weaker price action to confirm
 
@@ -44,11 +44,11 @@ Check related assets that should move with your primary trade. If silver shows w
 
 ### Step 8: Define profit targets based on asset behavior
 
-For mean reversion shorts on parabolic moves, the best outcomes engulf the prior one to two days of parabolic price action. Targets may be closer than profit targets typically used for overvalued equities because the fundamental thesis may still be intact. In gold, the 20-day moving average around 370 was a logical area to cover partials.
+For mean reversion shorts on parabolic moves, the best outcomes engulf the prior one to two days of parabolic price action. Targets may be closer than profit targets typically used for overvalued equities because the fundamental drivers of the asset (for example, gold's rate-cut cycle, central bank buying, and inflation hedge demand) may still be intact. In gold, the 20-day moving average around 370 was a logical area to cover partials because, historically, only four times has gold been up more than nine weeks in a row, and after such streaks the average two-day decline was 6.5 percent and one-month decline was 11 percent.
 
 ### Step 9: Manage risk with defined-risk options when needed
 
-If the asset is showing high volatility and you fear a stop run, consider using zero DTE puts or short-dated options to define your maximum loss. This protects you from gap-throughs while still capturing the downside move. You can also layer in stock for nimble in-and-out entries while using options for the larger directional bet.
+If the asset is showing high volatility (for example, expansion in Average True Range (ATR) and juiced implied volatility/options premiums) and you fear a stop run, consider using zero DTE puts or short-dated options to define your maximum loss. This protects you from gap-throughs while still capturing the downside move. You can also layer in stock for nimble in-and-out entries while using options for the larger directional bet.
 
 ## Examples
 
@@ -58,11 +58,11 @@ GLD had gone parabolic, blowing through $4K and extending well above its 50-day 
 
 ### Example 2: SMCI and MSTR Blow-Off Trades
 
-In prior years, SMCI and MSTR both experienced parabolic runs followed by limit-down unwind days, on Fridays. These trades share the same playbook: unsustainable acceleration, euphoria, and a sharp snapback that engulfs prior parabolic days. They serve as historical analogs for how parabolic shorts can unfold.
+In recent years (for example, in 2024), SMCI and MSTR both experienced parabolic runs followed by limit-down unwind days on Fridays. These trades share the same playbook: unsustainable acceleration, euphoria, and a sharp snapback that engulfs prior parabolic days. They serve as historical analogs for how parabolic shorts can unfold.
 
 ### Example 3: Beyond Meat Three-Day Parabola
 
-Beyond Meat went parabolic for three days straight. This is the type of move where you look for the quick unwind intraday that provides fantastic risk-reward. Even though it did not limit down, the orderly stairstep unwind over multiple days still offered opportunities for shorts who recognized the lack of aggressive panic selling.
+Beyond Meat went parabolic for three days straight. This is the type of move where you look for the quick unwind intraday that provides favorable risk-reward relative to the distance to your stop. Even though it did not limit down, the orderly stairstep unwind over multiple days still offered opportunities for shorts who recognized the lack of sharp panic selling.
 
 ## Best Practices
 
@@ -70,20 +70,20 @@ Beyond Meat went parabolic for three days straight. This is the type of move whe
 - ✅ Use the chart as the primary driver; treat euphoric headlines as context, not the trigger
 - ✅ Reduce position size in pre-market until you understand how the asset trades in regular hours
 - ✅ Check the options expiration calendar, especially on Fridays
-- ✅ Know the trading characteristics of the asset you are trading (around-the-clock, typical volatility, how it unwinds)
+- ✅ Know the trading characteristics of the asset you are trading (around-the-clock, typical volatility measured by expansion in Average True Range (ATR), how it unwinds)
 - ✅ Use a related asset showing weaker price action as confirmation before building a large position
 - ✅ Have a pre-determined stop level identified before entry and do not lower your stop level to avoid being stopped out
 - ❌ Do not short an asset that is rising steadily without parabolic acceleration; wait for the parabolic acceleration
 - ❌ Do not step in front of the upward side of a trend before reversal just because you think it is overvalued
-- ❌ Do not use stops placed too close to the entry price for 24-hour assets like gold futures
-- ❌ Do not increase position size aggressively on a trade where the fundamental thesis remains unchanged
+- ❌ Do not use stops placed too close to the entry price for 24-hour assets like gold futures (for example, in the gold trade, a stop at 395 was found to be too tight because overnight futures can temporarily spike above prior highs)
+- ❌ Do not increase position size aggressively (for example, do not "blow out" on your first pre-market entry) on a trade where the fundamental drivers of the asset remain unchanged
 
 ## Keep In Mind
 
 - Gold was the first asset class to hit $30 trillion in market cap and posted its best year since 1979
-- Central banks worldwide were buying gold at record pace (34.2 billion in inflows over 10 weeks) to diversify away from the US dollar
-- Real rates, inflation, and rate cut expectations all drive gold; the fundamental thesis does not invalidate a short-term top
-- Gold is priced in a basket of currencies, so when all currencies devalue simultaneously, gold rises even if the dollar appears flat
+- Central banks worldwide were buying gold at record pace (34.2 billion in inflows over 10 weeks) to diversify away from the US dollar, with major buyers including Russia, China, India, Poland, Kazakhstan, Turkey, and the Czech Republic
+- Real rates, inflation, and rate cut expectations all drive gold; the fundamental drivers do not invalidate a short-term top
+- Gold is priced in a basket of currencies (for example, the dollar-euro pair), so when multiple currencies devalue simultaneously, gold rises even if the dollar appears flat
 - Only four times in history has gold been up at least 10 weeks in a row; after such streaks, the average two-day decline was 6.5 percent and one-month decline was 11 percent
 - The London Exchange close is a key transition point for gold because physical gold trading dominates during London hours, while futures and hedge fund flows dominate after the close
 
@@ -91,7 +91,7 @@ Beyond Meat went parabolic for three days straight. This is the type of move whe
 
 - This material is for educational purposes only and does not constitute financial advice
 - Trading involves risk of loss; never risk more than you can afford to lose
-- Always use stop losses and position sizing commensurate with your account size
+- Always use stop losses and position sizing appropriate for your risk tolerance
 - Past performance of similar setups does not guarantee future results
 
 ## Common Pitfalls
@@ -100,13 +100,13 @@ Beyond Meat went parabolic for three days straight. This is the type of move whe
   **Solution:** If the stop run is immediately followed by a price reversal back below the level, the failed breakout can itself be information to re-enter. If not, accept the loss and move on.
 
 - **Problem:** Expecting gold or other 24-hour assets to limit down like equities do.
-  **Solution:** Adjust your expectation to slower, less volatile price action. Do not size for a limit-down move unless the parabolic setup is extreme.
+  **Solution:** Adjust your expectation to slower, less volatile price action. Do not size for a limit-down move unless the parabolic setup meets extreme conditions (for example, multiple consecutive daily gaps and expansion in Average True Range (ATR)).
 
 - **Problem:** Using a stop placed too close to the entry price on an asset that trades around the clock, leading to being stopped out temporarily by normal overnight volatility.
   **Solution:** Widen your stop to account for around-the-clock trading, or use zero DTE options with defined risk to control your maximum loss.
 
 - **Problem:** Shorting before the parabolic acceleration signal appears because the asset feels overvalued.
-  **Solution:** Wait for parabolic acceleration and consecutive daily gaps, and the clear unsustainable speed. The front side of a strong trend with valid fundamentals can run much longer than expected.
+  **Solution:** Wait for parabolic acceleration and consecutive daily gaps, and unsustainable speed measured by expanding Average True Range (ATR) or price moving multiple standard deviations above its moving average. The front side of a strong trend with valid fundamentals can run longer than expected (for example, gold ran for nine consecutive weeks in its 2024 rally).
 
 - **Problem:** Ignoring the trading characteristics of the asset and applying equity rules to commodities or futures.
   **Solution:** Study how the asset has historically traded during prior pullbacks. For gold, review past consolidation patterns and unwind characteristics before entering.

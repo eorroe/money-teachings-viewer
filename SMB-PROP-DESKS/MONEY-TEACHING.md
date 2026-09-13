@@ -28,15 +28,15 @@ Before entering any trade, assess its quality relative to your playbook criteria
 
 ### Step 4: Adopt the Right Trader Persona for Each Grade
 
-Once a trade is graded, shift into the corresponding trader mindset. The A+ trader is offensive, expressive, willing to take multiple shots, and comfortable with active resilience. The A- trader is selective but consistent. The B trader is defensive, patient, and picky, only taking the best B setups. The C trader is experimental and strictly limited. If you are assigned a B grade, you must behave like the B trader even if you have experienced success or increased your account size.
+Once a trade is graded, shift into the corresponding trader mindset. The A+ trader is offensive, expressive, willing to take multiple shots, and comfortable with active resilience. The A trader is willing to get stopped out if all checks in favor are present, and is willing to swing the trade for a bigger move. The A- trader is consistent and reliable—these are your core trades of the week that you always want to take because they have undisputable edge. The B trader is defensive, patient, and picky, only taking the best B setups and protecting risk rather than going willy-nilly. The C trader is experimental and strictly limited, used for working on new plays. If you are assigned a B grade, you must behave like the B trader even if you have experienced success or increased your account size.
 
 ### Step 5: Execute With Grade-Appropriate Sizing and Tactics
 
-Enter the trade using a position size that reflects its grade percentage of your max daily risk. For an A+ trade, you might build the position over multiple entries, buy dips to Volume Weighted Average Price (VWAP), use a Time Weighted Average Price (TWAP) program, and hold for a swing trade. For a B trade, you would wait for a very specific pattern, avoid pre-market or open entries, and keep the position small. Do not apply A+ tactics to a B-grade setup.
+Enter the trade using a position size that reflects its grade percentage of your max daily risk. For an A+ trade, express it freely—buy puts on the open as a hedge, build into the swing trade on dips to VWAP, use a TWAP program, give yourself multiple shots, and be willing to get stopped out. For a B trade, wait for a very specific pattern, avoid pre-market or open entries, and keep the position small. Do not apply A+ tactics to a B-grade setup.
 
 ### Step 6: Track Running Stats Per Grade
 
-Keep detailed records of win rate, misgrades, and running P&L for each grade. Review these stats monthly. If your B-trader stats show a super low win rate and no consistently profitable edge, respect that data and remain defensive. If you discover that B trades are generating losses despite profitable A and A+ months, impose a monthly cap on the number of B trades you take. Use the stats to continuously refine your grading accuracy.
+Keep detailed records of win rate, misgrades, and running P&L for each grade. Review these stats monthly. As Tim Beldin notes, each grade is like a different version of you—the A+ trader Tim, the A trader Tim, the A- trader Tim, the B trader Tim. If your B-trader stats show a super low win rate and no consistently profitable edge (the B trader would have been fired long ago), respect that data and remain defensive. If you discover that B trades are generating losses despite profitable A and A+ months, impose a monthly cap on the number of B trades you take. Use the stats to continuously refine your grading accuracy.
 
 ### Step 7: Scale Without Changing Your Process
 
@@ -46,11 +46,11 @@ When you are ready to increase position sizes because of strong performance, do 
 
 ### Example 1: Gold Overextension Short (A+ Trade)
 
-In episode 10 of the Trading Floor Podcast, gold gapped up massively into a Thursday session with extreme overextension across multiple timeframes, well above moving averages, large Average True Range (ATR) extensions, and unfilled gaps. Before the open, SMB's team identified this as a potential A+ opportunity because all positive factors supporting the setup aligned. As the A+ trader, Garrett used full expression: he bought puts on the open as a hedge, built into the swing trade on dips to VWAP using a TWAP program, and remained willing to get stopped out because the risk-reward was fantastic. The position was sized up to the 80% max risk allocation for the day, and the trade ultimately moved 90%.
+In episode 10 of the Trading Floor Podcast, gold gapped up massively into a Thursday session with extreme overextension across multiple timeframes—above the Kelner channels on all four timeframes, large ATR extensions from the five-day low, well above moving averages, and unfilled gaps. SMB's team identified this as an overextension short setup and a potential A+ opportunity because all positive factors supporting the setup aligned. As the A+ trader, Garrett used full expression: he bought puts on the open as a hedge, built into the swing trade on dips to VWAP using a TWAP program, and remained willing to get stopped out because the risk-reward was fantastic. The position was sized up to the 80% max risk allocation for the day.
 
 ### Example 2: FSLY Earnings (A-Grade Trade)
 
-FSLY earnings was graded as an A+ catalyst (huge inflection quarter, acceleration in edge computing theme) but was downgraded to A because the broader market was crashing, introducing extra uncertainty. SMB's team bought on dips versus the low of the day and let price action confirm the thesis. Even though the catalyst was exceptional, the market environment prevented it from being treated as a pure A+ size, demonstrating how multiple variables shift the final grade.
+FSLY earnings was graded as an A+ catalyst (huge inflection quarter, acceleration in edge computing theme) but was downgraded to A because the broader market was crashing, introducing extra uncertainty. SMB's team bought on dips to VWAP using a TWAP program and let price action confirm the thesis. Even though the catalyst was exceptional, the market environment prevented it from being treated as a pure A+ size, demonstrating how multiple variables shift the final grade.
 
 ### Example 3: B Trade Overtrading Warning
 
@@ -66,6 +66,8 @@ A trader who increased their account size might see too many B-grade trades and 
 - ✅ Scale by raising your max risk limit, not by changing your percentage allocation or psychology
 - ✅ Play tight: only take A+, A, and A- trades; avoid B and C trades unless they are your best setups
 - ✅ Review past parabolic shorts and catalyst plays to calibrate your grading intuition
+- ✅ Cap B trades monthly to avoid leaks—B trades don't make up monthly P&L but can cut into gains from A+ and A trades if overtraded
+- ✅ Aim for a triangle-shaped trade frequency where A- trades form the center, A+ and A trades are less frequent but high-conviction, and B trades are the most selective
 
 ## Keep In Mind
 
