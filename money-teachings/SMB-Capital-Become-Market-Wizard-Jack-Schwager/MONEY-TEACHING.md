@@ -15,23 +15,23 @@ This Money Teaching distills insights from Jack Schwager and George Coyle on wha
 
 ### Step 1: Master the three timeless trading principles — respect price action, let winners run, cut losers immediately
 
-These three rules appear in every Market Wizard interview collected by Jack Schwager across Market Wizards (1989), The New Market Wizards (1992), and Stock Market Wizards (2001), spanning documented trading records from the 1970s through the 2000s. Even intraday traders operating on one-minute charts follow these principles by waiting for price confirmation before entering positions and exiting losing positions within minutes.
+These three rules appear in every Market Wizard interview collected by Jack Schwager across Market Wizards (1989), The New Market Wizards (1992), and Stock Market Wizards (2001), spanning documented trading records from the 1970s through the 2000s. Even intraday traders operating on one-minute charts follow these principles by waiting for a close above resistance or a specific candlestick pattern before entering positions and exiting losing positions within 1–5 minutes.
 
 ### Step 2: Accept that discretionary judgment produces strong risk-adjusted returns over pure mechanical systems
 
-Understand that fully automated single-trader mechanical systems rarely produce the top-tier lifetime compound annual growth rates (20–40% or more per year over at least 10 years) and strong drawdown-to-return ratios recorded by Market Wizards. The best long-term track records in Schwager's books belong to discretionary traders who adapt, apply judgment, and adjust positions based on evolving experience.
+Understand that fully automated single-trader mechanical systems infrequently produce the top-tier lifetime compound annual growth rates (20% or more per year over at least 10 years) recorded by Market Wizards. The best long-term track records in Schwager's books belong to discretionary traders who adapt, apply judgment, and adjust positions based on evolving experience.
 
 ### Step 3: Develop the seven consistent personality traits of elite traders
 
-Cultivate self-awareness of your strengths and weaknesses, set clear specific financial goals, maintain confidence in your analysis even when positions are temporarily underwater, act independently of crowd opinion, sustain genuine passion for markets, commit fully to the process, and keep trading after losses rather than quitting. These traits appear across Market Wizards and are partly natural, but all can be strengthened through deliberate practice and journaling.
+Cultivate self-awareness of your strengths and weaknesses, set clear specific financial goals, maintain confidence in your analysis even when positions are temporarily underwater, act independently of crowd opinion, sustain genuine passion for markets, commit fully to the process, and keep trading after losses rather than quitting. These traits appear across Market Wizards. George Coyle noted traders were born with certain inherent personality traits, while Jack Schwager emphasized that all can be strengthened through deliberate practice and journaling.
 
 ### Step 4: Expect and prepare for early career account losses and blowups
 
-Recognize that full-account losses are a documented occurrence in Market Wizard histories. Traders such as Richard Dennis and Paul Tudor Jones each experienced major account drawdowns early in their careers before building their most successful track records. Build a substantial financial buffer and an emotional process for processing losses so you can recover and continue trading after drawdowns.
+Recognize that complete loss of capital (100% drawdown) is a documented occurrence in Market Wizard histories. Traders such as Richard Dennis and Paul Tudor Jones each experienced major account drawdowns early in their careers before building their most successful track records. Build a financial buffer for living expenses and an emotional process for processing losses so you can recover and continue trading after drawdowns.
 
 ### Step 5: Commit to the real time, stress, and volatility costs of high-level trading
 
-Accept that strong long-term returns require sustained screen time (14, 16 hours a day, as documented for some top traders) and the capacity to endure large drawdowns in a single quarter. Several documented Market Wizards later reduced their trading activity or stepped back entirely because the physical and psychological toll of that intensity outweighed further wealth accumulation.
+Accept that strong long-term returns require sustained screen time of 14–16 hours a day, as documented for some top traders, and the capacity to endure large drawdowns in difficult quarters. Several documented Market Wizards later reduced their trading activity or stepped back entirely because the physical and psychological toll of that intensity outweighed further wealth accumulation.
 
 ### Step 6: Verify track records using documented statements and multi-factor scoring
 
@@ -39,11 +39,11 @@ If evaluating a trader or auditing your own results, review monthly brokerage st
 
 ### Step 7: Understand what edges are and which ones still apply in current market conditions
 
-Know that basic trend-following and value-investing principles documented in classic texts (e.g., Jesse Livermore's *How to Trade in Stocks*, 1940) are now widely known and no longer provide a competitive advantage on their own. Modern viable edges can include strategies once considered too risky for most traders, such as shorting small cap penny stocks or selling short-dated out-of-the-money options — but only when executed with hard stop-loss rules and precise timing discipline.
+Know that basic trend-following and value-investing principles documented in classic texts (e.g., Jesse Livermore's *How to Trade in Stocks*, 1940) are now well-documented in standard trading literature and no longer provide a competitive advantage on their own. Modern viable edges can include strategies once considered too risky for most traders, such as shorting small cap penny stocks or selling short-dated out-of-the-money options — but only when executed with hard stop-loss rules.
 
 ### Step 8: Distinguish systematic trading from discretionary trading
 
-Recognize that systematic trading means every rule — entry, exit, position size, stop-loss — is defined in advance and followed without deviation. Using software to generate entry signals but deciding individually whether to act on each signal is discretionary trading, not systematic. Adjusting a strategy's parameters based on post-analysis of results remains systematic; overriding an active signal based on gut feeling is discretionary.
+Recognize that systematic trading means every rule — entry, exit, position size, stop-loss — is defined in advance and followed without deviation. Using software to generate entry signals but deciding individually whether to act on each signal is discretionary trading, not systematic. Adjusting a strategy's parameters based on post-analysis of results remains systematic; overriding an active signal based on instinct rather than analysis is discretionary.
 
 ### Step 9: Adapt your strategy as market regimes change
 
@@ -51,7 +51,7 @@ Accept that specific edges degrade as other market participants discover them, a
 
 ### Step 10: Set realistic expectations about Market Wizard-level performance
 
-Acknowledge that sustained 20% or more annual compound returns with drawdowns below 20% over at least 10 years — the threshold Schwager used to identify Market Wizard-level traders in his books — is very rare. Observations from the interviews suggest that psychological factors (discipline, independence, comfort with uncertainty) are key contributors, though many dedicated individuals can achieve consistent profitability with focused effort.
+Acknowledge that sustained 20% or more annual compound returns with drawdowns below 20% over at least 10 years — the threshold Schwager used to identify Market Wizard-level traders in his books — is estimated to be very rare. Observations from the interviews suggest that psychological factors (discipline, independence, comfort with uncertainty) are key contributors, though many dedicated individuals can achieve consistent profitability with focused effort.
 
 ## Examples
 

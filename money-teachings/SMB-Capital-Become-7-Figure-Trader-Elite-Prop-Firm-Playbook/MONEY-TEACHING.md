@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Money Teaching outlines the 10-variable playbook template and daily trade review process used by SMB Capital to develop elite proprietary traders who consistently earn seven and eight figures annually. The core principle is that building a profitable trading career requires constructing a robust trading business through disciplined daily deconstruction of your best trades, scoring each trade objectively on 10 variables, and repeating what works while eliminating what doesn't.
+This Money Teaching outlines the 10-variable playbook template and daily trade review process used by SMB Capital to develop elite proprietary traders who consistently earn between $1 million and $99 million per year. The core principle is that building a profitable trading career requires constructing a robust trading business through disciplined daily deconstruction of your best trades, scoring each trade objectively on 10 variables, and repeating what works while eliminating what doesn't.
 
 ## When to Follow These Money Teachings
 
@@ -15,11 +15,11 @@ This Money Teaching outlines the 10-variable playbook template and daily trade r
 
 ### Step 1: Complete the Daily Playbook Exercise
 
-At the end of every trading day, review the day's trades and identify one trade that scored 80 or above on the 10-variable playbook template — either one you executed or one you spotted but did not take. Deconstruct that high-scoring trade using the full 10-variable template to study it deeply and extract the lessons. This exercise must be completed every single trading day to build your trading edge over time.
+At the end of every trading day, review the day's trades and identify one trade that scored 80 or above on the 10-variable playbook template — either one you executed or one you spotted but did not take. If no trade scored 80 or above, select the highest-scoring trade and document why it fell short. If multiple trades scored 80 or above, select the one with the highest score. Deconstruct that high-scoring trade using the full 10-variable template to study it deeply and extract the lessons. This exercise must be completed every single trading day to build your trading edge over time.
 
 ### Step 2: Compile and Curate Your Playbook Trades
 
-As you complete the daily playbook exercise session after session, compile all of your playbook trades into a personal database. Review this compiled list to identify the trades you execute best in real time, and focus on doing more of those specific setups. Conversely, eliminate the trades that you consistently underperform on. Only trade setups that already exist in your playbook; any trade taken during market hours that is not pre-approved in your playbook is considered overtrading and should be avoided.
+As you complete the daily playbook exercise session after session, compile all of your playbook trades into a personal database. Review this compiled list to identify the trades you execute best in real time, and focus on doing more of those specific setups. Conversely, eliminate trades where you have 3 or more losses in your last 5 attempts. Only trade setups that already exist in your playbook; any trade taken during market hours that is not pre-approved in your playbook is considered overtrading and should be avoided.
 
 ### Step 3: Build Each Playbook Trade Using the 10-Variable Template
 
@@ -48,15 +48,15 @@ Include tape reading (order flow, volume, and intraday momentum) as a required c
 
 ### Step 6: Perform Deep Due Diligence on Fundamentals
 
-When a trade involves a news catalyst such as earnings, spend 3 to 5 minutes reviewing the actual company filings. Look at the income statement, operating margins, and net income to determine whether the core business is improving or if the positive numbers are one-off items. The goal is to identify whether the headline numbers represent real business strength or accounting adjustments designed to mislead the market.
+When a trade involves a news catalyst such as earnings, spend 3 to 5 minutes reviewing the actual company filings. Look at the income statement, operating margins, and net income to determine whether the core business is improving or if the positive numbers are one-off items. The goal is to identify whether the headline numbers represent real business strength or accounting adjustments that inflate earnings without corresponding cash flow improvement.
 
 ### Step 7: Identify and Score Catalysts
 
-Classify every setup as either a technical catalyst or a news catalyst. Rate the strength of the catalyst on a scale of 1 to 10, where 1 is a minor catalyst and 10 is a major market-moving catalyst. The best trades have catalysts that score 8 or higher — such as technical setups where price has moved more than 3 standard deviations from the 20-day moving average, or news catalysts where earnings miss estimates by more than 15% or guidance is materially revised. Focus your playbook on trades with high-scoring catalysts because they provide the edge needed to generate significant profits.
+Classify every setup as either a technical catalyst or a news catalyst. Rate the strength of the catalyst on a scale of 1 to 10, where 1 is a minor catalyst and 10 is a major market-moving catalyst. For example: 3 = local news with 2–5% expected impact, 7 = earnings with 15–30% expected impact, 10 = FDA decision with 50%+ expected impact. The best trades have catalysts that score 8 or higher — such as technical setups where price has moved more than 3 standard deviations from the 20-day moving average, or news catalysts where earnings miss estimates by more than 15% or guidance revised by more than 10%. Focus your playbook on trades with high-scoring catalysts because they provide the edge needed to generate significant profits.
 
 ### Step 8: Use a Risk Allocation and Sizing Scorecard
 
-Before entering any trade, assign a risk allocation grade (A+, A, B, etc.) based on liquidity, scalability, and opportunity quality. Only take A+ opportunities with full size. Reduce position size for lower-grade opportunities. This habit becomes instinctual over time and prevents catastrophic losses while maximizing gains on your best ideas.
+Before entering any trade, assign a risk allocation grade (A+ = 100% of max size, A = 75%, A- = 50%, B+ = 25%, B = 10%) based on liquidity, scalability, and opportunity quality. For example: Liquidity — A+ = >1M average daily volume, A = 500K–1M, B = <500K. Only take A+ opportunities with full size. Reduce position size for lower-grade opportunities. This habit becomes instinctual over time and prevents catastrophic losses while maximizing gains on your best ideas.
 
 ### Step 9: Review Trades by Focusing on What You Did Well
 
@@ -64,13 +64,13 @@ When conducting your trade review, do not focus exclusively on mistakes. Explici
 
 ### Step 10: Set Technology Alerts and Monitor Key Levels
 
-During live trading, set alerts at all key technical levels — such as prior swing low VWAPs, moving averages, and pre-market highs and lows — so you receive signals to enter or adjust positions without constantly watching the chart. Reset these alerts throughout the day as levels are hit and new ones emerge.
+During live trading, set alerts at the prior day high/low, VWAP, 20/50/200-day moving averages, pre-market highs/lows, and significant round numbers — such as prior swing low VWAPs, moving averages, and pre-market highs and lows — so you receive signals to enter or adjust positions without constantly watching the chart. Reset these alerts throughout the day as levels are hit and new ones emerge.
 
 ## Examples
 
 ### Example 1: Earnings Gap Fade Trade
 
-A trader identifies a stock gapping up into year-to-date VWAP resistance after earnings. The technical setup scores minus four out of six because price is below a declining 200-day moving average and rallying into VWAP highs. The trader reads the actual 10-Q filing within three minutes and discovers that net income came entirely from an equity method investment in another company, not from core operations, while operating margins declined year-over-year. The news catalyst is rated 9.5 out of 10 for negativity. The trader shorts the opening range break, holds the trade-to-hold thesis through the blowoff top, and captures the move down to the month-to-date VWAP. The trade review emphasizes the strength of the negative news catalyst as the key factor to repeat.
+A trader identifies a stock gapping up into year-to-date VWAP resistance after earnings. The technical analysis variable scores 4 out of 10 because price is below a declining 200-day moving average and rallying into VWAP highs. The trader reads the actual 10-Q filing within three minutes and discovers that net income came entirely from an equity method investment in another company, not from core operations, while operating margins declined year-over-year. The news catalyst is rated 9.5 out of 10 for negativity. The trader shorts the opening range break, holds the trade-to-hold thesis through the blowoff top, and captures the move down to the month-to-date VWAP. The trade review emphasizes the strength of the negative news catalyst as the key factor to repeat.
 
 ### Example 2: Gap Into Support With VWAP Confluence
 
@@ -91,8 +91,8 @@ A trader monitors SPY gapping down near the 20-day moving average, which coincid
 
 - Building a comprehensive playbook takes time and repetition; the process is the edge, not any single trade
 - A score of 80 or above on the 10-variable template means the setup meets the minimum threshold for trading; below 80 means the setup needs more work and should not be traded
-- Trades with a win rate of 30% or lower that have catalysts scoring 8 or higher can still generate massive profits if sized correctly and held with discipline
-- Your playbook should be written clearly enough that you can read it 10 years from now and instantly understand the story
+- Trades with a win rate of 30% or lower that have catalysts scoring 8 or higher can still generate returns exceeding 10R if sized correctly and held with discipline
+- Your playbook should be written clearly enough that you can read it 10 years from now and understand the trade thesis, key levels, catalyst, and expected outcome without referring to external notes
 
 ## Security & Safety Notes
 

@@ -15,19 +15,19 @@ This teaching introduces the "pink line rule," a trading methodology that preven
 
 ### Step 1: Identify and Draw the Pink Line
 
-Mark the highest resistance level visible on a daily or weekly chart — a level that, if broken on volume equal to or greater than 150% of the stock's 20-day average daily volume, would change the stock's price character from range-bound to trending. Make the line bold and a bright, high-contrast color (e.g., hot pink or magenta) so it stands out against all candles. Only use levels that have been tested at least twice on high volume and held. Do not use random intraday highs, minor intraday support/resistance, or levels from a 5-minute chart.
+Mark the highest resistance level visible on a daily or weekly chart — a level that, if broken on volume equal to or greater than 150% of the stock's 20-day average daily volume, would change the stock's price character from range-bound to trending. Make the line bold and a bright, high-contrast color (e.g., hot pink or magenta) so it stands out against all candles. Only use levels that have been tested at least twice on high volume and held. Do not use intraday highs not confirmed by at least two prior tests on high volume, minor intraday support/resistance, or levels from a 5-minute chart.
 
 ### Step 2: Default to Waiting for the Close Above the Pink Line
 
-Do not enter any position while the stock is below the pink line. Wait for the stock to print a full candle close above the level before entering. If the stock rallies up to the line intraday and then pulls back below it, you are not missing a valid trade — a legitimate breakout must close above. Ask yourself: "What am I giving up by waiting?" For a typical range-breakout trade targeting 10-20 points of upside, giving up less than 0.50 points to confirm the breakout is negligible compared to the risk of a fakeout loss.
+Do not enter any position while the stock is below the pink line. Wait for the stock to print a full candle close above the level before entering. If the stock rallies up to the line intraday and then pulls back below it, you are not missing a valid trade — a legitimate breakout must close above. Ask yourself: "What am I giving up by waiting?" For a typical range-breakout trade targeting 10-20 points of upside, giving up less than 0.50 points to confirm the breakout is less than 5% of the expected upside target.
 
 ### Step 3: Monitor Energy Expenditure Off the Open
 
-If the stock has already moved at least 0.50x of its 20-day Average True Range (ATR) to reach the pink line during the opening 30-minute session, a sustained breakout is unlikely. In this case, do not chase. Instead, wait for the stock to hold above the line for at least 15 minutes of consecutive 1-minute candles, or wait until the sell offers sitting at the pink line are lifted. Buying a stock that has already surged to the breakout level increases the probability of a pullback and a losing trade.
+If the stock has already moved at least 0.50x of its 20-day Average True Range (ATR) to reach the pink line during the opening 30-minute session, a sustained breakout is uncommon. In this case, do not chase. Instead, wait for the stock to hold above the line for at least 15 minutes of consecutive 1-minute candles, or wait for the price to pull back and hold above the pink line for at least 15 minutes of consecutive 1-minute candles. Buying a stock that has already surged to the breakout level increases the probability of a pullback and a losing trade.
 
 ### Step 4: Avoid the First 10 Minutes of Price Discovery
 
-The first 10 minutes of the regular trading session (9:30 AM – 9:40 AM ET) are characterized by price discovery, institutional order flow, fakeouts, and mean reversion. Opening drives in this window visually resemble breakout setups but fail by 10:00 AM. Unless you have a specific, pre-documented exception from Step 6, do not chase moves in this window. The open is where the most FOMO occurs, and chasing here leads to overtrading and preventable losses.
+The first 10 minutes of the regular trading session (9:30 AM – 9:40 AM ET) are characterized by price discovery, institutional order flow, fakeouts, and mean reversion. Opening drives in this window often resemble breakout setups but frequently fail by 10:00 AM. Unless you have a specific, pre-documented exception from Step 6, do not chase moves in this window. The open is where FOMO is most prevalent, and chasing here leads to overtrading and preventable losses.
 
 ### Step 5: Grade the Pink Line by Time Frame and Test Count
 
@@ -35,21 +35,21 @@ Only mark A+ pink lines drawn from the daily or weekly chart. A level tested at 
 
 ### Step 6: Recognize Acceptable Exceptions to the Rule
 
-The pink line rule is not absolute. Four specific, process-driven exceptions exist, each requiring documented confirmation before breaking the rule:
-- **Catalyst**: A material, verifiable catalyst — such as an FDA approval, earnings pre-announcement, major contract win, or regulatory filing — that materially changes the stock's expected price trajectory. You must understand the catalyst and see volume at or above 200% of the 20-day average daily volume before entering.
-- **Compression**: The stock has been tightly consolidating in a range no wider than 0.25x its 20-day ATR for at least three consecutive daily candles, building pent-up energy. Breaking out of this compressed range can foreshadow the full pink line breakout.
+The pink line rule is not absolute. Four specific, process-driven exceptions exist, each requiring written confirmation in a trading journal noting the exception type, date, and catalyst details before breaking the rule:
+- **Catalyst**: A catalyst that results in a price target revision of at least 20% from the prior consensus, such as an FDA approval, earnings pre-announcement, major contract win, or regulatory filing. You must be able to explain the catalyst's expected price impact in one sentence and see volume at or above 200% of the 20-day average daily volume before entering.
+- **Compression**: The stock has been tightly consolidating in a range no wider than 0.25x its 20-day ATR for at least three consecutive daily candles, creating a volatility contraction where the range narrows progressively. Breaking out of this compressed range can foreshadow the full pink line breakout.
 - **Strong Close**: The stock closes within 0.25 points of the daily high on the prior session, with a close above its 20-day moving average and volume at or above 150% of the 20-day average. This strong close foreshadows a higher probability of pink line breakout the next session and justifies an anticipated entry.
-- **In-Play Intraday Exception**: For stocks with volume at or above 300% of their 20-day average daily volume and an active catalyst, a clean intraday level derived from a daily or weekly chart can qualify as an A+ pink line. This is an outlier scenario reserved for exceptional conditions, not the norm.
+- **In-Play Intraday Exception**: For stocks with volume at or above 300% of the 20-day average daily volume and an active catalyst (a catalyst released within the last 24 hours), an intraday level with at least two tests on high volume during the current session can qualify as an A+ pink line. This is an outlier scenario reserved for these specific conditions, not the norm.
 
 ### Step 7: Trade at the Edges of Ranges, Not the Middle
 
-When a stock is in a defined trading range (bounded by a clear support low and resistance high over at least 10 daily candles), avoid entering trades in the middle third of that range. Whether fading a rejection or buying a breakout, there is greater statistical edge and a favorable risk-reward ratio at the range extremes — the support low and the resistance/pink line high. Middle-of-range price action is noise, driven by random order flow, and leads to overtrading as traders try to guess direction without any confirmed edge.
+When a stock is in a defined trading range (bounded by a clear support low and resistance high over at least 10 daily candles), avoid entering trades in the middle third of the price range, calculated as the zone between the support low plus one-third of the range and the support low plus two-thirds of the range. Whether fading a rejection or buying a breakout, there is a risk-reward ratio of at least 2:1 at the range extremes — the support low and the resistance/pink line high. Middle-of-range price action is unpredictable with no confirmed directional bias, driven by unpredictable order flow, and leads to overtrading as traders try to guess direction without any confirmed edge.
 
 ## Examples
 
 ### Example 1: Tesla Range Breakout (Original Mistake)
 
-A stock has traded in a range no wider than 0.50x its 20-day ATR for at least 15 daily sessions and shows relative strength (closes in the upper third of its daily range) off the open on three consecutive days. The trader chases the stock each morning below the pink line, only to watch it stall and collapse back into the range by midday. After four consecutive losing trades, the trader finally catches the confirmed breakout close above the line on day five — but ends up breaking even on the entire idea because the four early losses total 2.50 points while the winning trade nets only 2.50 points. The pink line rule would have prevented all four premature entries and the associated losses.
+A stock has traded in a range no wider than 0.50x its 20-day ATR for at least 15 daily sessions and shows relative strength (closes in the upper third of the day's high-low price range) off the open on three consecutive days. The trader chases the stock each morning below the pink line, only to watch it stall and collapse back into the range by midday. After four consecutive losing trades, the trader finally catches the confirmed breakout close above the line on day five — but ends up breaking even on the entire idea because the four early losses total 2.50 points while the winning trade nets only 2.50 points. The pink line rule would have prevented all four premature entries and the associated losses.
 
 ### Example 2: No Trade Victory
 
@@ -63,13 +63,13 @@ SMCI (Super Micro Computer) pre-announces earnings with a specific revenue guida
 
 - ✅ Draw the pink line using the highest high on the daily or weekly chart that has been tested at least twice on volume ≥ 150% of the 20-day average; make the line bold and hot pink or magenta
 - ✅ Default to waiting for a full candle close above the pink line before entering any position
-- ✅ Grade a daily or weekly chart pink line as A+; treat 5-minute or lower intraday levels as secondary only
+- ✅ Grade a daily or weekly chart pink line as A+; do not use 5-minute or lower intraday levels as primary pink lines; they may be referenced only as secondary confirmation after the primary daily or weekly pink line is identified
 - ✅ Measure energy expenditure off the open in units of 0.50x the 20-day ATR before deciding whether to chase to the line
 - ✅ Avoid entering trades in the middle third of a defined range; only trade at the support low or resistance/pink line high
 - ✅ Document the catalyst or compression signal in a written trading journal before breaking the pink line rule
 - ✅ After a stock holds above the pink line for at least 15 minutes of consecutive 1-minute candles, enter on a pullback to the line
 - ❌ Do not chase a stock that has already moved at least 0.50x of its 20-day ATR to reach the pink line during the opening 30-minute session
-- ❌ Do not use a random intraday high or a level from a 5-minute chart as your pink line
+- ❌ Do not use an intraday high not confirmed by at least two prior tests on high volume or a level from a 5-minute chart as your pink line
 - ❌ Do not break the pink line rule without a documented catalyst or compression signal in your trading journal
 - ❌ Do not enter trades during the first 10 minutes of the regular session (9:30 AM – 9:40 AM ET)
 - ❌ Do not ignore the closing price; a stock's close above the pink line carries more predictive value than any intraday spike above the line
@@ -91,12 +91,12 @@ SMCI (Super Micro Computer) pre-announces earnings with a specific revenue guida
 ## Common Pitfalls
 
 - **Problem:** Chasing a stock that has already moved at least 0.50x of its 20-day ATR to reach the pink line during the opening 30-minute session (9:30 AM – 10:00 AM ET).
-  **Solution:** Do not enter. Wait for the stock to hold above the line for at least 15 minutes of consecutive 1-minute candles, or wait for the sell offers at the pink line to be lifted before entering on a pullback.
-- **Problem:** Using a minor intraday high (from a 5-minute or lower time frame) as the pink line.
+  **Solution:** Do not enter. Wait for the stock to hold above the line for at least 15 minutes of consecutive 1-minute candles, or wait for the price to hold above the pink line for at least 15 minutes of consecutive 1-minute candles before entering on a pullback.
+- **Problem:** Using an intraday high not confirmed by at least two prior tests on high volume (from a 5-minute or lower time frame) as the pink line.
   **Solution:** The pink line must be drawn from a daily or weekly chart and represent a level that, if broken on volume ≥ 150% of the 20-day average, would change the stock's price character from range-bound to trending.
 - **Problem:** Entering trades in the middle third of a range because the stock looks temporarily strong or weak.
-  **Solution:** Only take trades at the support low or the resistance/pink line high. Middle-of-range price action is noise and offers no statistical edge; define the range boundaries using at least 10 prior daily candles.
+  **Solution:** Only take trades at the support low or the resistance/pink line high. Middle-of-range price action is unpredictable with no confirmed directional bias and offers no quantified edge; define the range boundaries using at least 10 prior daily candles.
 - **Problem:** Breaking the pink line rule without a valid catalyst or compression signal, driven by FOMO.
   **Solution:** Write the specific catalyst name, date, and volume reading in your trading journal before entering. If you cannot articulate exactly why this situation is different from a normal fakeout in 2-3 sentences, you are acting on emotion — do not enter.
 - **Problem:** Assuming a sharp spray upward off the open (first 10 minutes) is confirmation of a breakout.
-  **Solution:** Opening moves in the first 10 minutes (9:30 AM – 9:40 AM ET) are fakeouts driven by price discovery, options market maker positioning, and automated trading. Do not enter until the full candle closes above the pink line.
+  **Solution:** Opening moves in the first 10 minutes (9:30 AM – 9:40 AM ET) often fail due to price discovery imbalances and automated trading activity. Do not enter until the full candle closes above the pink line.

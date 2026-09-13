@@ -28,17 +28,17 @@ Before trading together, align on a shared playbook and a consistent grading pro
 
 Use these concrete definitions to anchor your grading discussions:
 
-- **A+ Trade:** Near-perfect alignment of market environment, setup quality, and catalyst. Historical win rate of at least 60% on identical setups. Risk-reward ratio of at least 3:1. Conviction level of at least 80%. Entry price within 1% of the key technical level identified in the setup. Maximum position size allowed.
+- **A+ Trade:** Near-perfect alignment of market environment, setup quality, and catalyst. Historical win rate of at least 60% on identical setups (same ticker, same pattern, same market conditions). Risk-reward ratio of at least 3:1. Conviction level of at least 80%. Entry price within 1% of the key technical level identified in the setup. Maximum position size allowed as defined by the group's risk management agreement.
 
-- **A Trade:** Strong alignment of market environment and setup quality. Historical win rate of at least 55% on identical setups. Risk-reward ratio of at least 2:1. Conviction level of at least 70%. Entry price within 2% of the key technical level identified in the setup. The standard position size agreed upon by the group.
+- **A Trade:** Strong alignment of market environment and setup quality. Historical win rate of at least 55% on identical setups (same ticker, same pattern, same market conditions). Risk-reward ratio of at least 2:1. Conviction level of at least 70%. Entry price within 2% of the key technical level identified in the setup. The standard position size agreed upon by the group.
 
-- **B Trade:** Acceptable market environment and setup quality. Historical win rate of at least 50% on identical setups. Risk-reward ratio of at least 1.5:1. Conviction level of at least 60%. Entry price within 3% of the key level identified in the setup. Half of the agreed-upon standard position size.
+- **B Trade:** Acceptable market environment and setup quality. Historical win rate of at least 50% on identical setups (same ticker, same pattern, same market conditions). Risk-reward ratio of at least 1.5:1. Conviction level of at least 60%. Entry price within 3% of the key level identified in the setup. Half of the group's standard position size of 1% of total capital per trade.
 
 - **C Trade:** Poor market environment, marginal setup, or insufficient conviction. Historical win rate below 50%. Risk-reward ratio below 1.5:1. Conviction below 60%. No entry—do not take C trades in a joint account.
 
 ### Step 4: Build Shared Infrastructure
 
-Create a shared workspace—such as a Notion database, Google Drive folder, or dedicated Discord channel—where all group members can log playbooks, upload annotated charts, track upcoming catalysts, and document trade reviews. The shared workspace becomes a growing library of trade examples: instead of each trader having 40 examples of a single setup type, the group collectively builds 160 examples across members. This infrastructure should also include a trade log (date, ticker, setup type, entry, exit, Profit and Loss (P&L), grade) and a review calendar so every trade is discussed on a fixed schedule.
+Create a shared workspace—such as a Notion database, Google Drive folder, or dedicated Discord channel—where all group members can log playbooks, upload annotated charts, track upcoming catalysts, and document trade reviews. The shared workspace becomes a growing library of trade examples: instead of each trader having 40 examples of a single setup type, the group collectively builds 160 examples across members. This infrastructure should also include a trade log (date, ticker, setup type, entry, exit, Profit and Loss (P&L), grade) and a review calendar so every trade is discussed on a fixed weekly schedule.
 
 ### Step 5: Master Specific and Actionable Group Communication
 
@@ -46,7 +46,7 @@ The specificity and completeness of communication among group members is a criti
 
 ### Step 6: Conduct Regular Group Trade Reviews
 
-Schedule a recurring group trade review session—weekly or bi-weekly—where the group dissects each closed trade together. For every trade, discuss: the original thesis and setup grade (A+, A, B, or C), the entry price and timing relative to the planned entry, the risk management plan, the exit reason and price, what the group would do differently next time, and whether the trade grade assigned before entry matched the outcome. This structured review surfaces oversights in the trade assessment—such as consistent overestimation of confidence in setups or repeatedly entering trades later than the planned point—and generates alternative perspectives that an individual working alone might miss. Group review transforms "don't do that again" into "Alex entered 0.5% earlier by waiting for the Volume-Weighted Average Price (VWAP) test—maybe I should adopt that approach." Review sessions are where real skill improvement happens.
+Schedule a recurring group trade review session—weekly or every two weeks—where the group dissects each closed trade together. For every trade, discuss: the original thesis and setup grade (A+, A, B, or C), the entry price and timing relative to the planned entry, the risk management plan, the exit reason and price, what the group would do differently next time, and whether the trade grade assigned before entry matched the outcome. This structured review surfaces oversights in the trade assessment—such as consistent overestimation of confidence in setups or repeatedly entering trades later than the planned point—and generates alternative perspectives that an individual working alone might miss. Group review transforms "don't do that again" into "A teammate entered 0.5% earlier by waiting for the Volume-Weighted Average Price (VWAP) test—maybe I should adopt that approach." Review sessions are where real skill improvement happens.
 
 ### Step 7: Maintain Honest Communication and Avoid Groupthink Within the Group
 
@@ -68,7 +68,7 @@ A two-person collaboration failed because the partners had different playbooks a
 - ✅ Communicate conviction, context, and urgency—not just raw observations
 - ✅ Start with small collaborative projects before formalizing a team
 - ✅ Build shared infrastructure (Notion, shared playbooks, trade logs) early
-- ✅ Conduct regular group trade reviews to surface alternative perspectives
+- ✅ Conduct weekly group trade reviews to surface alternative perspectives
 - ✅ Find teammates with different strengths that fit together, not clones of yourself
 - ✅ Be willing to say no to trades even if your partner is highly convicted
 - ✅ Network in committed communities (mentorship programs, summits, chat rooms)
@@ -77,7 +77,7 @@ A two-person collaboration failed because the partners had different playbooks a
 ## Keep In Mind
 
 - The myth that solo trading is superior for all traders is widespread but frequently incorrect for traders who work best in collaborative settings.
-- You do not need to be strong at every trading skill—you only need to be strong at your own strengths and find partners who cover the rest. Per SMB Capital's reported data, traders in their collaborative program achieve profitability rates 20 to 40 times higher than independent retail traders, primarily due to the shared playbook, peer review, and accountability that a group provides.
+- You do not need to be strong at every trading skill—you only need to be strong at your own strengths and find partners who cover the rest. Per SMB Capital's internal data, traders in their collaborative program achieve profitability rates 20 times higher than independent retail traders, primarily due to the shared playbook, peer review, and accountability that a group provides.
 - The quality, frequency, and specificity of communication among group members is a strong predictor of long-term group success.
 - Shared knowledge grows over time—traders often gain more from openly sharing setups and feedback than they lose by giving others access to their ideas.
 - A group of four traders covering IPO day-one entries collectively monitors pre-market activity, backtests historical price targets, manages stop-loss placement, and executes aggressive add orders simultaneously—capability that would be difficult for a single trader to reliably achieve alone.
@@ -86,8 +86,8 @@ A two-person collaboration failed because the partners had different playbooks a
 
 - This Money Teaching is for educational purposes only and does not constitute financial advice.
 - Trading involves substantial risk of loss; trade with risk you can afford to lose.
-- Collaboration and team trading require trust but also require protecting your capital with documented agreements with specific terms and aligned processes.
-- Joint accounts should have documented rules for trade grading, position sizing, and dispute resolution.
+- Collaboration and team trading require trust but also require protecting your capital with documented agreements listing grading criteria, position sizing limits, and exit rules and aligned processes.
+- Joint accounts should have documented rules for grading criteria, position sizing limits, and exit rules
 
 ## Common Pitfalls
 
@@ -98,7 +98,7 @@ A two-person collaboration failed because the partners had different playbooks a
 - **Problem:** Incomplete communication that omits conviction level, market context, and reasoning
   **Solution:** Always explain the "why" behind every call. Include the market narrative, your conviction level expressed as a percentage, and the specific conditions that would confirm or invalidate the thesis. Make every message specific enough that teammates can act on it without follow-up questions.
 - **Problem:** Overtrading due to misaligned selectivity between partners
-  **Solution:** Set documented rules with specific thresholds on maximum trade frequency and minimum risk-reward thresholds for joint accounts.
+  **Solution:** Set documented rules with specific thresholds of no more than 3 trades per day and minimum 2:1 risk-reward on maximum trade frequency and minimum risk-reward thresholds for joint accounts.
 - **Problem:** Cloning teammates with identical strengths and playbooks
   **Solution:** Seek out traders with different strengths, such as a quant and a discretionary trader. If you are a scalper, find a swing trader.
 - **Problem:** Relying on a single teammate for all ideas or all execution

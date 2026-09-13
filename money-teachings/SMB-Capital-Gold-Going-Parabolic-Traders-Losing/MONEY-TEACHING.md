@@ -54,7 +54,7 @@ Not every parabolic short works immediately. Gold wicked back through all-time h
 
 ### Example 1: Gold Parabolic Short (GLD, October 2026)
 
-Gold had its best year since 1979, reached at least $4,000, and was being touted by major banks with ever-higher targets, including Bank of America raising gold to $5,000 and JPMorgan saying $10,000 is possible. People lining up to buy physical gold in multiple countries, and stories about Jane Street allegedly being short gold long Bitcoin added to the mania. GLD closed at dead highs on Thursday, gapped up Friday pre-market, and then rolled over. Traders shorted the breakdown below $395, targeting the 20-day moving average around $370. The trade worked into the close with silver acting as the laggard confirmation.
+Gold had its best year since 1979, reached at least $4,000, and was being touted by major banks with specific Bank of America and JPMorgan price targets, including Bank of America raising gold to $5,000 and JPMorgan saying $10,000 is possible. People lining up to buy physical gold in multiple countries, and stories about Jane Street allegedly being short gold long Bitcoin added to the mania. GLD closed at dead highs on Thursday, gapped up Friday pre-market, and then rolled over. Traders shorted the breakdown below $395, targeting the 20-day moving average around $370. The trade worked into the close with silver acting as the laggard confirmation.
 
 ### Example 2: Beyond Meat Blowoff
 

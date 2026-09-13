@@ -27,7 +27,7 @@ Your first prompt will not be perfect. Use ChatGPT to help you articulate exactl
 
 ### Step 4: Teach the AI About Your Trading System
 
-Make the assistant personal by providing context about your trading playbook, rules, checks in favor, blacklisted tickers, and past examples of really good trades. The more the AI knows about your specific approach (breakouts, mean reversion, catalyst plays, etc.), the better it can filter and prioritize information for you.
+Make the assistant personal by providing context about your trading playbook, rules, conditions that favor a trade, blacklisted tickers, and past examples of really good trades. The more the AI knows about your specific approach (breakouts, mean reversion, catalyst plays, etc.), the better it can filter and prioritize information for you.
 
 ### Step 5: Validate Output and Fix Issues
 
@@ -35,11 +35,11 @@ Review the assistant's output every day, with particular attention to pre-market
 
 ### Step 6: Add Real-Time Data and Advanced Features
 
-Once the basic assistant works, upgrade it by connecting to real-time market data APIs such as Polygon (polygon.io). This lets the assistant reference live chart data, how long the market has been consolidating and catalyst-driven events. You can also add earnings data from SEC EDGAR filings, TradingView scanner results, and custom indicators by signing up for Polygon's free tier at polygon.io and pasting your API key into the assistant's environment.
+Once the basic assistant works, upgrade it by connecting to real-time market data APIs such as Polygon (polygon.io). This lets the assistant reference live chart data, determine how long the market has been consolidating, and identify catalyst-driven events. You can also add earnings data from SEC EDGAR filings, TradingView scanner results, and custom indicators by signing up for Polygon's free tier at polygon.io and pasting your API key into the assistant's environment.
 
 ### Step 7: Build Scanners and Custom Scripts
 
-Use Claude to create scanners and custom studies that would otherwise take a month or be impossible to code manually without AI assistance. Examples include a low-float scanner with criteria such as price between 20 cents and $10, excluding OTC stocks, average cumulative volume of at least 100,000 shares, and a gap-up of at least 2%, or a custom ARVOL study for ThinkorSwim/TradingView (which compares today's cumulative volume to the average cumulative volume over the past five sessions at the same time). Describe the logic in plain language and let Claude generate the code.
+Use Claude to create scanners and custom studies that would otherwise take a month or be impossible to code manually without AI assistance. Examples include a low-float scanner with criteria such as price between 20 cents and $10, excluding OTC stocks, average daily cumulative volume over the past five trading sessions at the same time of day, and a gap-up of at least 2%, or a custom ARVOL study for ThinkorSwim/TradingView (which compares today's cumulative volume to the average cumulative volume over the past five sessions at the same time). Describe the logic in plain language and let Claude generate the code.
 
 ### Step 8: Leverage Templates for Automated Models
 
