@@ -24,7 +24,7 @@ Look for stocks or commodities that have made a parabolic move. Gold in this exa
 
 ### Step 3: Confirm Macro and Fundamental Context
 
-Do not trade technicals in isolation. For this gold trade, four macro factors aligned: Trump remarks that a full-scale tariff war with China is unsustainable gave markets certainty; the S&P 500 and QQQ were testing all-time highs indicating returning risk appetite; the CBOE Volatility Index (VIX) was declining after tariff announcements signaling reduced fear; and the DXY (dollar index) was snapping back which historically pressures gold. We compare the US dollar index with GLD because a weakening dollar contributed to gold's runup, but a snapback in DXY hinted at a possible top. Gold gapped up after the Friday sell-off, triggering stops on existing swing short positions and resetting the trade for new shorts. The gap-down on October 21st was super weak and provided the new short entry.
+Do not trade technicals in isolation. For this gold trade, four macro factors aligned: Trump remarks that a full-scale tariff war with China is unsustainable gave markets certainty; the S&P 500 and QQQ were testing all-time highs indicating returning risk appetite; the CBOE Volatility Index (VIX) was declining after tariff announcements signaling reduced fear; and the DXY (dollar index) was snapping back which historically pressures gold. We compare the US dollar index with GLD because a weakening dollar contributed to gold's runup, but a snapback in DXY hinted at a possible top. Gold gapped up after the Friday sell-off on October 17th, triggering stops on existing swing short positions and resetting the trade for new shorts. The gap-down on October 21st provided the new short entry.
 
 ### Step 4: Mark Key Technical Levels
 
@@ -44,13 +44,13 @@ Place your initial stop above the October 21st high of the day or above VWAP if 
 
 ### Step 8: Review the Trade Objectively
 
-After the trade, conduct a thorough review. Identify what you did well (early spotting, entries, tape reading) and what went wrong (exits at 384 and 381 before the clear capitulation at 377). For this gold trade, the team scored 84.5 out of 100, rounded to 85. Mistakes included exiting at 384 and 381 before the clear capitulation at 377, which represented almost half of the total P&L for the trade. Acknowledge errors honestly and update your playbook for next time.
+After the trade, conduct a thorough review. Identify what you did well (early spotting, entries, tape reading) and what went wrong (exits at 384 and 381 before the clear capitulation at 377). For this gold trade, the team scored 84.5 out of 100, rounded to 85. Mistakes included exiting at 384 and 381 before the clear capitulation at 377. Acknowledge errors honestly and update your playbook for next time.
 
 ## Examples
 
 ### Example 1: Gold (GLD) Overextended Short on October 21st
 
-The trade was a short on gold as it broke down from a parabolic rally. Gold had risen 27% in a month and a half with three measured moves from a four-month wedge consolidation. The day before the big unwind, the range was the largest of the move and volume was the highest. On the unwind day, gold dropped more than 5% in a single day, the largest decline in over a decade, with volume twice the 20-day average. The trade was triggered when price failed at VWAP and broke the pre-market low. Key levels were 390 (pre-market support), 385 (prior day low), and 373 (higher-timeframe support). The team entered at VWAP rejection and at the two-bar break below pre-market low. The stop was above the October 21st high of the day. Although the team exited too early at 384 and 381, the clear capitulation came at 377 where the largest volume candle of the day appeared.
+The trade was a short on gold as it broke down from a parabolic rally. Gold had risen 27% in a month and a half with three measured moves from a four-month wedge consolidation. The day before the big unwind, the daily range was the largest of the upward parabolic move and volume was the highest of that move. On the unwind day, gold dropped more than 5% in a single day, the largest decline in over a decade, with volume twice the 20-day average. The trade was triggered when price failed at VWAP and broke the pre-market low. Key levels were 390 (pre-market support), 385 (prior day low), and 373 (higher-timeframe support). The team entered at VWAP rejection and at the two-bar break below pre-market low. The stop was above the October 21st high of the day. Although the team exited too early at 384 and 381, the clear capitulation came at 377 where the largest volume candle of the day appeared.
 
 ### Example 2: Scanner Setup for Finding Similar Trades
 

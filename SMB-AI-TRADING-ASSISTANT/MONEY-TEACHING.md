@@ -34,7 +34,7 @@ Once all questions are answered, Claude will generate a complete .md implementat
 
 ### Step 2: Build Mode — Build the Skeleton
 
-Start a new Claude Code session (or stay in the same one), make sure you are NOT in Plan Mode (toggle "Accept Edits" ON), and paste your saved .md implementation plan into the session. Tell Claude: "Here's my implementation plan for a trading dashboard that I'm trying to build. I want you to build the skeleton of this."
+Start a new Claude Code session (or stay in the Plan Mode session from Step 1), make sure you are NOT in Plan Mode (toggle "Accept Edits" ON), and paste your saved .md implementation plan into the session. Tell Claude: "Here's my implementation plan for a trading dashboard that I'm trying to build. I want you to build the skeleton of this."
 
 Claude will then build the full HTML dashboard skeleton. Once it finishes, you will get a link to open the dashboard in your browser. No further coding is required on your part during this step—Claude builds the HTML dashboard skeleton and provides you a browser link.
 
@@ -46,7 +46,7 @@ Open the dashboard in your browser using the link Claude provided. Review what w
 - Modifying charts to show exact accuracy percentage and cumulative profit and loss (P&L) on the X axis instead of just letter grades (A+, A, A-, B)
 - Incorporating your trading playbook rules, the specific conditions you look for before entering a trade (your "checks in favor"), and your execution rules into dedicated tabs
 - Adding a performance coach layer that reviews trade write-ups and identifies recurring mistakes
-- Adding a "strengths" or goals section (Tim noted he should add this but hasn't yet)
+- Adding a "strengths" or goals section
 - Backfilling old trades so the dashboard shows historical data and graphs
 
 Continue iterating in Build Mode until the dashboard matches your implementation plan and includes all tabs and stats you defined in Step 1.

@@ -2,25 +2,25 @@
 
 ## Overview
 
-This Money Teaching guides traders through building a custom AI trading assistant using Claude Code (CLI tool) or Claude.ai web interface, even with little coding experience. The approach focuses on operational efficiency (reducing the time spent on repetitive data gathering and formatting tasks) rather than prediction, helping traders automate manual daily processes like pre-market research, trade tracking, and market scanning. Justin Speiro, a trader at SMB Capital, demonstrates how he built an AI-powered pre-market research dashboard in approximately 20 hours that now saves him 55–65 minutes each morning.
+This Money Teaching guides traders through building an AI trading assistant using Claude Code (CLI) or Claude.ai web interface, even with no formal coding background. The approach focuses on operational efficiency (reducing the time spent on repetitive data gathering and formatting tasks) rather than prediction, helping traders automate manual daily processes like pre-market research, trade tracking, and market scanning. Justin Speiro, a trader at SMB Capital, demonstrates how he built an AI-powered pre-market research dashboard in 18–22 hours that now saves him approximately 60 minutes each morning.
 
 ## When to Follow These Money Teachings
 
 - When you want to automate a repetitive daily trading workflow such as email research, trade tracking, or market scanning
- - When you have little or no coding experience but want to build custom trading tools
+ - When you have little or no coding experience but want to build trading tools
  - When you're spending at least one hour per trading day on manual research and want to free up time for actual trading
-- When you want to create personalized dashboards, widgets, or studies that fit your specific trading playbook
+ - When you want to create dashboards tailored to your specific trading setups, rules, and blacklisted tickers
  - When you need to process data for stocks with at least 100,000 shares of average daily volume efficiently
 
 ## Steps
 
 ### Step 1: Identify a Daily Manual Process to Automate
 
-Look at your current daily workflow and find a repetitive task you do manually. Examples include scanning research emails, tracking trades, reviewing economic calendars, or monitoring pre-market scanners. Justin started by identifying that he was spending his morning going through 90–110 research emails. The key is to pick something you already do consistently, so you know exactly what the end result should look like.
+Look at your current daily workflow and find a repetitive task you do manually. Examples include scanning research emails, tracking trades, reviewing economic calendars, or monitoring pre-market scanners. Justin started by identifying that he was spending his morning going through roughly 100 research emails. The key is to pick something you already do consistently, so you know exactly what the end result should look like.
 
-### Step 2: Open Claude Code (CLI tool) or Claude.ai web interface and Describe Your Goal
+### Step 2: Open Claude Code (CLI) or Claude.ai web interface and Describe Your Goal
 
-Launch Claude Code and simply describe what you want to build in plain language. This is called "vibe coding." For example, say: "I want to build a dashboard that tracks my trades. I want to be able to upload my trade data at the end of the day and then see my win rate, win-loss ratio, average losing trade, average winning trade, and win rate, win-loss ratio, average winning trade, average losing trade, and any other statistics you specify." The more specific and articulate you are about what you want, the better the output. If you struggle to express exactly what you need, use an external LLM like ChatGPT first to help refine your description (requires access to ChatGPT), then copy and paste that into the Claude interface you are using.
+Launch Claude Code and simply describe what you want to build in plain language. This is called "vibe coding." For example, say: "I want to build a dashboard that tracks my trades. I want to be able to upload my trade data at the end of the day and then see my win rate, win-loss ratio, average losing trade, average winning trade, win rate, win-loss ratio, average winning trade, average losing trade, and any other statistics you specify." The more specific and articulate you are about what you want, the better the output. If you struggle to express exactly what you need, use another LLM like ChatGPT to help refine your description, then copy and paste that into the Claude interface you are using.
 
 ### Step 3: Use Plan Mode to Brainstorm Before Building
 
@@ -32,7 +32,7 @@ You will encounter problems where Claude does something incorrectly or produces 
 
 ### Step 5: Teach the AI About Your Trading Business and System
 
-Generic AI output is only as good as the data and context you give it. To make your assistant truly personalized, feed it information about how you trade. Share your playbook, your trade confirmation criteria, your blacklisted tickers, your position sizing preferences, and examples of past good trades. Justin spent 4–5 hours going line by line through his trading analysis script to teach Claude every parameter and why each line exists. The more the AI knows about your specific style, the more valuable its output becomes.
+Generic AI output is only as good as the data and context you give it. To make your assistant truly tailored to your trading playbook, rules, and blacklisted tickers, feed it information about how you trade. Share your playbook, your trade confirmation criteria, your blacklisted tickers, your position sizing preferences, and examples of past good trades. Justin spent approximately four to five hours going line by line through his trading analysis script to teach Claude every parameter and why each line exists. The more the AI knows about your specific style, the more valuable its output becomes.
 
 ### Step 6: Incorporate Real Data Sources
 
@@ -40,7 +40,7 @@ Your assistant is only as good as the data it processes. Sign up for six free ne
 
 ### Step 7: Build Simple Widgets or Advanced Scanners
 
-Start small and scale up. A simple first project might be a risk widget that sits on your screen and reminds you what your daily position sizes are for A+ setups (highest conviction), A setups (strong), B setups (marginal), and C setups (avoid). As you get comfortable, build more complex tools such as pre-market scanners, custom ThinkScript or TradingView studies, or backtesting scripts. For example, Justin built a low float scanner that filters for stocks with price greater than or equal to $0.20 and less than $10.00, excludes OTC (over-the-counter) stocks,   requires at least 100,000 average daily cumulative volume, and is gapping up by at least 2%, then sorts by dollar volume.
+Start small and scale up. A simple first project might be a risk widget that sits on your screen and reminds you what your daily position sizes are for A+ setups (highest conviction), A setups (strong), B setups (marginal), and C setups (avoid). As you get comfortable, build more complex tools such as pre-market scanners, ThinkScript or TradingView studies, or backtesting scripts. For example, Justin built a low float scanner that filters for stocks with price greater than or equal to $0.20 and less than $10.00, excludes OTC (over-the-counter) stocks, requires at least 100,000 average daily cumulative volume, and is gapping up by at least 2% above the prior-day close, then sorts by dollar volume.
 
 ### Step 8: Validate and Refine Continuously
 
@@ -50,7 +50,7 @@ Never take the AI's output at face value. Always check for bad or outdated data.
 
 ### Example 1: Pre-Market Research Dashboard
 
-Justin built a dashboard that runs every morning and produces a macro rundown. It starts with the most important overnight development, provides an economic calendar rated by importance (such as MBA (Mortgage Bankers Association) mortgage applications at 7:00 a.m. marked as low importance), lists key events like Tax Day or historical retail buy-the-dip dynamics, summarizes earnings that came out in pre-market, and then identifies what the AI thinks will move the market most that day along with the catalysts. It also surfaces secondary names from research emails with quick notes. This project took 18–22 hours initially; can now be rebuilt in approximately 45–50 minutes if needed.
+Justin built a dashboard that runs every morning and produces a macro rundown. It starts with the most important overnight development, provides an economic calendar rated by importance (such as MBA (Mortgage Bankers Association) mortgage applications at 7:00 a.m. marked as low importance), lists key events like Tax Day or historical retail buy-the-dip dynamics, summarizes earnings that came out in pre-market, and then identifies what the AI thinks will move the market most that day along with the catalysts. It also surfaces secondary names from research emails with quick notes. This project took 18–22 hours initially; can now be rebuilt in approximately 60 minutes if needed.
 
 ### Example 2: Trade Tracker Dashboard
 
@@ -58,25 +58,25 @@ Justin built a dashboard that runs every morning and produces a macro rundown. I
 
 ### Example 3: Low Float Scanner
 
-Justin built a scanner that looks for low float stocks gapping up. Parameters: price greater than or equal to $0.20 and less than $10.00, excludes OTC stocks, average daily cumulative volume at least 100,000 shares, and gapping up by at least 2% above the prior-day close (filters out noise; adjust higher for higher-quality setups). Results are sorted by dollar volume. During the week of April 15, this scanner identified runners like Bird (IRD) and Snail (SNAL), with daily dollar volume between $1 billion and $4 billion.
+Justin built a scanner that looks for low float stocks gapping up. Parameters: price greater than or equal to $0.20 and less than $10.00, excludes OTC stocks, average daily cumulative volume at least 100,000 shares, and gapping up by at least 2% above the prior-day close. Results are sorted by dollar volume. During the week of April 15, this scanner identified runners like Bird (IRD) and Snail (SNAL), with daily dollar volume between $1 billion and $4 billion.
 
-### Example 4: Custom ThinkScript or TradingView Study
+### Example 4: ThinkScript or TradingView Study
 
-If you use ThinkorSwim or TradingView, Claude Code can build custom studies that would normally require learning difficult proprietary scripting languages. For example, a study that compares today's cumulative volume to the cumulative volume over the last five regular trading sessions (09:30–16:00 ET) at that same intraday timestamp. This kind of study would require manual workarounds in ThinkScript, but Claude can generate it quickly.
+If you use ThinkorSwim or TradingView, Claude Code can build studies that would normally require learning proprietary scripting languages. For example, a study that compares today's cumulative volume to the cumulative volume over the last five regular trading sessions (09:30–16:00 ET) at that same intraday timestamp. This kind of study would require manual workarounds in ThinkScript, but Claude can generate it quickly.
 
 ### Example 5: Gap Up Backtest Script
 
-Tim, a trader at SMB Capital, described building a backtesting script where you pull the last year of data for stocks that gapped up by 0.5 × the 14-day Average True Range (ATR) (Average True Range), where 0.5 ATR is a common threshold for identifying meaningful intraday gaps (Average True Range), compute stats like how many times it happened, what the average close was, what percentage closed green versus red, and the average move from open to high. This gives you conviction on whether a setup is worth trading before you actually press the keys.
+Tim, a trader at SMB Capital, described building a backtesting script where you pull the last year of data for stocks that gapped up by 0.5 × the 14-day Average True Range (ATR), where 0.5 ATR is a common threshold for identifying meaningful intraday gaps, compute stats like how many times it happened, what the average close was, what percentage closed green versus red, and the average move from open to high. This gives you conviction on whether a setup is worth trading before you actually press the keys.
 
 ## Best Practices
 
 - ✅ Start by identifying a specific daily process you already do manually and describe it to Claude in plain language
 - ✅ Use plan mode in Claude Code to brainstorm the full project brief before switching to build mode
 - ✅ Refine your prompts using ChatGPT or another LLM when Claude does not understand what you want
-- ✅ Teach Claude about your trading playbook, rules, blacklisted tickers, and past good trades to personalize output
+ - ✅ Teach Claude about your trading playbook, rules, blacklisted tickers, and past good trades to tailor the output to your trading setups, rules, and blacklisted tickers
  - ✅ Subscribe to six free newsletters including Vital Knowledge, Hammerstone Reports, MarketWatch, Wall Street Journal, Bloomberg, and Trade the News
 - ✅ Review AI output every morning and immediately correct mistakes so the tool improves over time
- - ✅ Use your own previously written scripts or templates (including past automated models or backtest frameworks you have previously built (requires access to your own scripts)) as a starting point when building automated models or backtests (for example, a script you have previously written that pulls the last year of data for stocks gapping up by 0.5 × the 14-day Average True Range (ATR) (Average True Range), where 0.5 ATR is a common threshold for identifying meaningful intraday gaps, then computes win rate, percentage of green closes, average close, and average move from open to high)
+ - ✅ Use your own previously written scripts or templates as a starting point when building automated models or backtests (for example, a script you have previously written that pulls the last year of data for stocks gapping up by 0.5 × the 14-day Average True Range (ATR), where 0.5 ATR is a common threshold for identifying meaningful intraday gaps, then computes win rate, percentage of green closes, average close, and average move from open to high)
 - ✅ Isolate the mutable "control center" of a script — the entry and exit trade logic — while keeping the data collection and feature pipelines intact
 
 ## Keep In Mind

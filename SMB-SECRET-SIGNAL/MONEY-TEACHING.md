@@ -4,13 +4,13 @@ SMB Hidden Relative Strength Early Signal
 
 ## Overview
 
-This money teaching explains how to identify hidden relative strength, institutional buying that occurs when the broader market declines. It is institutional accumulation that appears before many confirmed breakout moves, allowing traders to position ahead of the move instead of chasing stocks that have already made large moves. By watching how stocks behave during market downdrafts and normalizing for volatility, traders can build a watch list of stocks most likely to breakout when the market closes higher for the day.
+This money teaching explains how to identify hidden relative strength, institutional buying that occurs when the broader market declines. It is institutional accumulation that appears before most confirmed breakout moves, allowing traders to position ahead of the move instead of chasing stocks that have already made large moves. By watching how stocks behave during market downdrafts and normalizing for volatility, traders can build a watch list of stocks most likely to breakout when the market closes higher for the day.
 
 ## When to Follow These Money Teachings
 
-- When the market closes lower for the day and you need to find stocks with the smallest losses
+- When the market closes lower for the day and you need to find stocks declining 0.25% or less while the market is down at least 2%
 - When watching a stock approaching a resistance level and waiting for confirmation before entering
-- When a trader asks about early signals before a move becomes widely recognized
+- When you are a trader looking for early signals before a move becomes widely recognized
 - When building or ranking a watch list for swing or day trading
 
 ## Steps
@@ -21,11 +21,11 @@ Monitor SPY, QQQ, or your relevant benchmark on days the market closes down at l
 
 ### Step 2: Collect qualitative data points
 
-As the market ticks down, watch your stock closely. Note when it declines less than the market, when it holds its price level with visible buying interest, when it does not drop during the session, or when it advances while the market is down for the day. Each of these moments is a data point showing resilience and underlying buying pressure.
+As the market ticks down, watch your stock closely. Note when it declines less than the market, when it holds its price level with buying support, when it does not drop during the session, or when it advances while the market is down for the day. Each of these moments is a data point showing resilience and underlying buying pressure.
 
 ### Step 3: Compare stock to benchmark
 
-Compare the stock's move directly to the benchmark. If the Q's are down 2% and your stock is only down 0.25%, that is hidden relative strength. Look for stocks holding their 10-day moving average while the market is declining.
+Compare the stock's move directly to the benchmark. If QQQ is down 2% and your stock is only down 0.25%, that is hidden relative strength. Look for stocks holding their 10-day moving average while the market is declining.
 
 ### Step 4: Measure ATR-adjusted relative strength (quantitative method)
 
@@ -34,7 +34,7 @@ If you want to quantify the signal:
 - Divide that move by the stock's ATR (average true range) to normalize for volatility
 - Do the same calculation for your benchmark
 - Subtract the benchmark's normalized return from the stock's normalized return
-- When this difference line rises above its prior high, hidden relative strength is detected
+- When this difference line makes a new high, hidden relative strength is detected
 
 ### Step 5: Add to your relative strength watch list
 
@@ -48,11 +48,11 @@ Do not enter a trade on the same day the market closes lower. Hidden relative st
 
 ### Example 1: Tesla Breakout
 
-During a two-day market pullback, Tesla showed relative strength while the Q's sold off into the close. On day two, Tesla was stronger, tested the breakout level, and the relative strength line made new highs into the close. Tesla then broke out and continued moving higher. The key observation was that Tesla was taking out its morning high in the afternoon session while the Q's did not.
+During a two-day market pullback, Tesla showed relative strength while QQQ sold off into the close. On day two, Tesla was stronger, tested the breakout level, and the relative strength line made new highs into the close. Tesla then broke out and continued moving higher. The key observation was that Tesla was taking out its morning high in the afternoon session while QQQ did not.
 
 ### Example 2: SNDK Breakout
 
-SNDK was pulling back and consolidating after advancing approximately 20% when the market had a sell day that closed in the bottom 20% of its range. SNDK declined 0.25% and held its 10-day moving average. The relative strength line broke out while SNDK was still flat. This hidden relative strength signaled institutional buying. SNDK then opened approximately 3% higher after a Samsung price-rise catalyst, paused at approximately 280, and broke above resistance for the next leg up. The stock closed slightly lower that session, but it was far stronger than the market.
+SNDK was pulling back and consolidating after advancing 20% when the market had a sell day that closed in the bottom 20% of its range. SNDK declined 0.25% and held its 10-day moving average. The relative strength line broke out while SNDK was still consolidating. This hidden relative strength suggested institutional buying was occurring. SNDK then opened 3% higher after Samsung raised its prices overnight, paused at 280, and broke above resistance for the next leg up. The stock closed lower that session, but it was stronger than the market.
 
 ## Best Practices
 
@@ -71,7 +71,7 @@ SNDK was pulling back and consolidating after advancing approximately 20% when t
 - Hidden relative strength is the footprint of institutions executing large positions over time via TWAP (time-weighted average price)
 - It appears, in the speaker's experience, roughly 90% of the time before confirmed breakouts
 - You do not have to enter a trade on the same day you first observe hidden relative strength; it can remain visible for two to five consecutive trading sessions
-- The signal is most actionable when applied to stocks already on your watch list that are within 5% of a prior resistance level
+- The signal is most reliable when applied to stocks already on your watch list that are within 5% of a prior resistance level
 - As your playbook database grows, use hidden relative strength as a method for ranking your watch list by identifying stocks with the strongest relative price behavior during market declines
 
 ## Security & Safety Notes

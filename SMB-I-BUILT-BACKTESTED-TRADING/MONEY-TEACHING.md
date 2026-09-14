@@ -36,7 +36,7 @@ Once Claude can run backtests independently, set up parameterized variations of 
 
 ### Step 6: Use GitHub Properly for Version Control
 
-Adopt standard GitHub practices, including using branches instead of committing directly to main. Create a new branch for every change or new strategy, do all development and testing in that branch, and submit a pull request when ready to merge. Use the pull request process to perform code reviews, including letting Claude review its own code or having reviewers look at it. Never develop directly in the main branch if your code controls live trading strategies, because a mistake could break production code. Bite-size branches are easier to merge and easier to debug when something goes wrong.
+Adopt standard GitHub practices, including using branches instead of committing directly to main. Create a new branch for every change or new strategy, do all development and testing in that branch, and submit a pull request when ready to merge. Use the pull request process to perform code reviews, including letting Claude review its own code or having reviewers look at it. Never develop directly in the main branch if your code controls live trading strategies, because a mistake could break production code. Small, focused branches are easier to merge and easier to debug when a bug or error occurs.
 
 ## Examples
 
@@ -58,7 +58,7 @@ A trader created a Claude skill that runs a backtest on only the MSFT symbol for
 - ✅ Provide Claude with a reference script and clear context so it generates code in your style and conventions
 - ✅ Build reusable skills or functions for repetitive tasks like smoke tests, data lookups, and verification checks
 - ✅ Use version control properly with branches, pull requests, and code reviews
-- ✅ Keep changes to bite-size pieces so they are easy to test, merge, and debug
+- ✅ Keep changes to small, manageable pieces so they are easy to test, merge, and debug when a bug or error occurs
 - ✅ Use consistent variable names across all strategies so changes can be made quickly
 - ✅ Run parameterized backtests overnight to maximize the number of strategies tested
 - ✅ Give Claude specific prompts with full context to reduce token usage
@@ -82,14 +82,14 @@ A trader created a Claude skill that runs a backtest on only the MSFT symbol for
 ## Common Pitfalls
 
 - **Problem:** Trying to build a custom backtesting system from scratch with Claude instead of using an established platform like AmiBroker
-  **Solution:** Use tools that have been refined for 30 years, such as AmiBroker, which is the most efficient way for the retail trader.
+  **Solution:** Use tools that have been refined for 30 years, such as AmiBroker, which is an efficient option for many retail systematic traders.
 - **Problem:** Not providing sufficient context in prompts, leading to inconsistent code and elevated token costs
-  **Solution:** Give Claude a reference script, specify exact parameters, time frames, stops, and profit targets specifically. The more specific the prompt, the higher the likelihood of a successful one-shot result.
+  **Solution:** Give Claude a reference script, specify exact parameters, time frames, stops, and profit targets specifically. The more specific the prompt, the higher the likelihood that Claude will complete the task from a single prompt without requiring follow-up interaction.
 - **Problem:** Committing directly to the main branch without testing, risking broken production code
   **Solution:** Always create a feature branch, test changes in isolation, and merge via a pull request after review.
 - **Problem:** Taking on projects that are too large to safely test and merge, making it impossible to identify what change broke production
-  **Solution:** Break work into bite-size pieces. Create a branch for each piece, test it, and merge it before starting the next.
+  **Solution:** Break work into small, manageable pieces. Create a branch for each piece, test it, and merge it before starting the next.
 - **Problem:** Generating code without style guides, creating technical debt that is hard to maintain
   **Solution:** Define and enforce a style guide for all strategy code. Use consistent variable names and structure so all strategies conform to your defined style guide.
-- **Problem:** Running full backtests every time you want to verify a bite-size change, wasting the 40 minutes to an hour a full backtest requires
+- **Problem:** Running full backtests every time you want to verify a small change, wasting the 40 minutes to an hour a full backtest requires
   **Solution:** Build a smoke test skill that runs a single symbol or a single day of data in seconds. Use it after every code change before running a full backtest.
