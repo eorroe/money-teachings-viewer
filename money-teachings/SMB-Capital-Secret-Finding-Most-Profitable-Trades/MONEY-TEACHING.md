@@ -27,7 +27,7 @@ Maintain organized watch lists of stocks grouped by theme. Know the key players,
 
 ### Step 4: Scan for Volume When a Catalyst Appears
 
-Use a force index or volume scanner to identify the 10 stocks with the highest volume and the 10 stocks with the lowest volume at market open (9:30 AM ET, during the first 15 minutes of trading). If multiple stocks from the same theme appear among the high-volume list, it confirms the theme is active and provides a tailwind for all related tickers. Add those theme tickers to your priority watch list to monitor for entry signals during the trading day.
+Use a force index or volume scanner to identify the 10 stocks with the highest volume and the 10 stocks with the lowest volume at market open (9:30 AM ET). If multiple stocks from the same theme appear among the high-volume list, it confirms the theme is active and provides a tailwind for all related tickers. Add those theme tickers to your priority watch list to monitor for entry signals during the trading day.
 
 ### Step 5: Identify Sympathy Plays
 
@@ -60,7 +60,7 @@ Quantum computing stocks experienced sharp price increases despite generating li
 ## Best Practices
 
 - ✅ Track themes and build watch lists before catalysts hit
-- ✅ Use volume scanners as theme filters—if at least 5 of the 10 highest-volume stock tickers belong to the same theme, enter positions or prioritize that theme for further analysis
+- ✅ Use volume scanners as theme filters—if at least 5 of the 10 highest-volume stock tickers at market open belong to the same theme, enter positions or prioritize that theme for further analysis
 - ✅ Treat chart patterns as execution timing tools, not selection criteria
 - ✅ Look for sympathy moves within a theme when one stock ticker receives a catalyst; scan all related tickers for concurrent volume and breakouts on the same day
 - ✅ Project future catalysts by mapping historical theme timelines
@@ -72,7 +72,7 @@ Quantum computing stocks experienced sharp price increases despite generating li
 - Patterns and indicators will not produce consistent results without context; they only have edge in the right stocks
 - The market moves in themes, not isolated stocks
 - Early-stage themes often start with only one or two companies that have real products and revenue, followed by small speculative stocks with no revenue and high short interest
-- Themes lose volatility and trading opportunity as they mature and become widely known—stay focused on the most recently identified emerging themes for the best risk-reward setups
+- Themes lose volatility and trading opportunity within 2-4 weeks of becoming widely known—stay focused on the most recently identified emerging themes (themes that have emerged within the past 1-2 weeks) for the best risk-reward setups
 - You never need to be right about the long-term outcome to profit; you just need to trade the theme while it's hot
 
 ## Security & Safety Notes
@@ -87,7 +87,7 @@ Quantum computing stocks experienced sharp price increases despite generating li
   **Solution:** Treat government signals, CEO meetings, and working groups as potential theme starters.
 - **Problem:** Getting stuck on old themes after they top out, while new themes are already running.
   **Solution:** Continuously scan for new volume leaders and rotate into emerging themes.
-- **Problem:** Overlooking offerings as always negative.
-  **Solution:** Evaluate offerings in context; offerings fund strategic contracts and theme expansion.
+- **Problem:** Overlooking stock offerings as always negative.
+  **Solution:** Evaluate stock offerings in context (offerings fund strategic contracts and theme expansion).
 - **Problem:** Ignoring sympathy plays and only trading the stock with the headline catalyst.
   **Solution:** When a theme catalyst hits, scan all related stock tickers for concurrent volume and breakouts on the same day.

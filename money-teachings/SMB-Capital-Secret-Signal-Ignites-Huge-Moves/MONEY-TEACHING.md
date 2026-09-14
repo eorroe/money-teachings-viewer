@@ -1,34 +1,34 @@
-# The Hidden Relative Strength Signal That Ignites Moves of 20% or More (And precisely how to trade it)
+# The Hidden Relative Strength Signal That Ignites Moves of 20% or more (measured from the stock's closing price) (And precisely how to trade it)
 
 ## Overview
 
-This Money Teaching explains how to identify and trade "hidden relative strength" — a signal that reveals which stocks are being accumulated by institutional buyers 1-3 days before breakouts occur. It covers how to spot stocks that maintain their value during market weakness, measure relative strength quantitatively using an ATR-normalized indicator, and use this information to prioritize your watchlist and time breakout entries. The method focuses on initiating positions before the breakout move becomes clearly visible (price closes above resistance on above-average volume) rather than selling into relative strength after the breakout move is underway.
+This Money Teaching explains how to identify and trade "hidden relative strength" — a signal that reveals which stocks are being accumulated by institutional buyers 1-3 days before breakouts occur (a breakout is defined as price closing above resistance on above-average volume). It covers how to spot stocks that maintain their value during market weakness, measure relative strength quantitatively using an ATR-normalized indicator, and use this information to prioritize your watchlist and time breakout entries. The method focuses on initiating positions before the breakout move becomes clearly visible (price closes above resistance on above-average volume, where resistance is a price level at which selling pressure has previously prevented the stock from closing above) rather than selling into relative strength after the breakout move is underway.
 
 ## When to Follow These Money Teachings
 
 - When you need to identify breakout candidates before stocks make their breakout move
 - When working with a trading watchlist and need to prioritize which stocks to focus on
 - When traders ask about spotting hidden relative strength or anticipating breakouts
-- When the broader market is having down days (QQQ or SPY down 1% or more) and you want to find stocks exhibiting hidden relative strength
+- When the broader market is having down days (QQQ or SPY down 1% or more from the prior day's close) and you want to find stocks exhibiting hidden relative strength
 - When you want to measure institutional accumulation in a stock
 
 ## Steps
 
 ### Step 1: Watch for Hidden Relative Strength During Weak Market Days
 
-Monitor SPY (S&P 500 ETF) or QQQ (Invesco QQQ Trust ETF, tracking the Nasdaq-100) and the target stock simultaneously during down days. A stock showing hidden relative strength declines no more than half as much as the benchmark index — it might be flat, down only 0.25% while QQQ drops 2-3%, or even up on a day when the broader market is down. Collect these qualitative data points: QQQ ticks down but the stock holds, QQQ rallies slightly and the stock moves more, or QQQ consolidates and the stock advances gradually.
+Monitor SPY (S&P 500 ETF) or QQQ (Invesco QQQ Trust ETF, tracking the Nasdaq-100) and the target stock simultaneously during down days. A stock showing hidden relative strength declines no more than half as much as the benchmark index (e.g., if QQQ drops 2%, the stock drops no more than 1%) — it might be flat, down only 0.25% while QQQ drops 2-3%, or even up on a day when the broader market is down. Collect these qualitative data points: QQQ ticks down but the stock holds, QQQ rallies slightly and the stock moves more, or QQQ consolidates and the stock advances gradually.
 
 ### Step 2: Apply Hidden Relative Strength to Two Use Cases
 
-Use hidden relative strength for: (1) scanning the broader market to build a list of stocks exhibiting hidden relative strength that can outperform when the market rebounds, and (2) timing breakouts on stocks already on your watchlist. For scanning, when the market is weak, actively look for stocks that decline less than the benchmark index and add those stocks to a dedicated relative strength watchlist. For breakout timing, watch for subtle relative strength (stock declines less than 50% of the benchmark's decline) appearing as a stock consolidates before the stock's breakout level.
+Use hidden relative strength for: (1) scanning the broader market to build a list of stocks exhibiting hidden relative strength that can outperform when the market rebounds, and (2) timing breakouts on stocks already on your watchlist. For scanning, when the market is weak, actively look for stocks that decline less than the benchmark index and add those stocks to a dedicated relative strength watchlist. For breakout timing, watch for subtle relative strength (stock declines less than 50% of the benchmark's decline, where the benchmark is QQQ or SPY) appearing as a stock consolidates before the stock's breakout level.
 
 ### Step 3: Build and Maintain a Relative Strength Watchlist
 
-Create a dedicated watchlist of stocks that have exhibited hidden relative strength. Prioritize the watchlist and move stocks to the top 5 of the watchlist when new hidden relative strength appears (at the end of the trading day). This ensures you are watching potential breakout candidates with the most hidden relative strength and not missing opportunities when the broader market shifts from market weakness to market strength.
+Create a dedicated watchlist of stocks that have exhibited hidden relative strength. Prioritize the watchlist and move stocks to the top 5 of the watchlist (ranked by ATR-normalized relative strength score) when new hidden relative strength appears (at the end of the trading day, based on the previous day's closing prices). This ensures you are watching potential breakout candidates with the most hidden relative strength and not missing opportunities when the broader market shifts from market weakness to market strength.
 
-### Step 4: Quantify Hidden Relative Strength Using ATR-Normalized Cumulative Returns (formula: (Close - PrevClose) / ATR, accumulated over 5 days)
+### Step 4: Quantify Hidden Relative Strength Using ATR-Normalized Cumulative Returns (formula: (Close - PrevClose) / 14-day ATR, accumulated over 5 days; ATR = Average True Range, a volatility measure)
 
-For a more quantitative approach, build an ATR (Average True Range)-adjusted relative strength indicator. ATR is a volatility measure representing the average range a stock moves in a single bar (candle). For each bar: take the stock's move from the previous close to the current close, divide it by the stock's 14-day ATR, and accumulate these values. Do the same for the benchmark (QQQ for Nasdaq-100, or SPY for S&P 500). Subtract the benchmark line from the stock's ATR-adjusted line. This normalizes for volatility and produces a clean relative strength line (positive values = outperformance, negative values = underperformance) that shows outperformance independent of how much a stock normally moves.
+For a more quantitative approach, build an ATR (Average True Range)-adjusted relative strength indicator. ATR is a volatility measure representing the average range a stock moves in a single bar (candle). For each bar: take the stock's move from the previous close to the current close, divide it by the stock's 14-day ATR (ATR is calculated as the average of the true range over the past 14 days), and accumulate these values. Do the same for the benchmark (QQQ for Nasdaq-100, or SPY for S&P 500). Subtract the benchmark line from the stock's ATR-adjusted line. This normalizes for volatility and produces a clean relative strength line (positive values = outperformance, negative values = underperformance) that shows outperformance independent of how much a stock normally moves.
 
 ### Step 5: Anticipate Breakouts, But Don't Chase
 

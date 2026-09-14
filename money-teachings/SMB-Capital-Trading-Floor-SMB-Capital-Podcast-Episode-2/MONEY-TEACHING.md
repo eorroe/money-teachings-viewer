@@ -84,9 +84,9 @@ Before trading QURE, the team reviewed ABBVX, a similar biotech that gapped up a
 ## Common Pitfalls
 
 - **Problem:** Buying the gap immediately at the open without waiting for a 1-minute candle to close above the consolidation range high on at least 1.5x average volume
-  **Solution:** Let the stock demonstrate a tradable setup. Wait for it to hold the gap (price stays above the opening price for at least 10 minutes), reclaim VWAP (the Volume-Weighted Average Price), and tighten into a range where the high-low spread is no more than 1%
+  **Solution:** Let the stock demonstrate a tradable setup (a tradable setup means the stock holds the gap, reclaims VWAP, and tightens into a range where the high-low spread is no more than 1%). Wait for it to hold the gap (price stays above the opening price for at least 10 minutes), reclaim VWAP (the Volume-Weighted Average Price), and tighten into a range where the high-low spread is no more than 1%
 - **Problem:** Ignoring the catalyst and trading purely on the technical pattern without checking if the projected revenue justifies the current market capitalization
-  **Solution:** Use valuation context to filter setups. Calculate the enterprise value per patient or price-to-revenue multiple using comparable biotech companies. A breakout pattern with at least a 2.5:1 risk-reward ratio on a catalyst that does not address a large unmet medical need is not worth the risk
+  **Solution:** Use valuation context to filter setups. Calculate the enterprise value per patient or price-to-revenue multiple using comparable biotech companies. A breakout pattern with at least a 2.5:1 risk-reward ratio on a catalyst that does not address an unmet medical need affecting at least 100,000 people is not worth the risk
 - **Problem:** Holding a winning intraday trade into the close without a defined exit plan
   **Solution:** Trail your stop at the 5-minute 20 EMA, take 50% partials at 75% of your target, and know your exit criteria before you enter
 - **Problem:** Swing trading a low-float small cap (fewer than 50 million shares outstanding) without checking for recent or pending equity offerings

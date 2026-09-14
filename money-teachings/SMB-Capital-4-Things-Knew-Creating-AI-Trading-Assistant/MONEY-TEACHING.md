@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Money Teaching documents four critical mistakes to avoid when building an AI-powered trading assistant with Claude Code. It is based on real-world experience from a retail trader who built a trading dashboard using Claude Code. The content focuses on moving beyond writing basic implementation code without first documenting the inference architecture, and instead creating a written architecture document structured with defined sections covering purpose, reasoning logic, outputs, rendering, and roadmap, rather than only generating code.
+This Money Teaching documents four critical mistakes to avoid when building an AI-powered trading assistant with Claude Code. It is based on real-world experience from a retail trader who built an AI trading assistant using Claude Code. The content focuses on moving beyond writing basic implementation code without first documenting the inference architecture, and instead creating a written architecture document structured with defined sections covering purpose, reasoning logic, outputs, rendering, and roadmap, rather than only generating code.
 
 ## When to Follow These Money Teachings
 
@@ -19,7 +19,7 @@ Do not treat Claude Code as a tool that only writes code when prompted. Instead,
 
 ### Step 2: Use Separate Chat Sessions for Each Inference Layer
 
-Never run the entire project inside a single Claude Code session. As a single chat session accumulates approximately 40 conversational turns (excluding code blocks and file contents), the model may show (1) inconsistency across prompts (outputs that conflict with earlier outputs), (2) contradictions between earlier and later instructions, and (3) factual errors in outputs (claims not supported by source data). Create separate chat sessions for each functional unit; do not use tabs within a single session to maintain active context for multiple functional units, where each functional unit performs one function (e.g., morning report synthesis, trade log review, performance analysis) of your trading assistant. For example, have one chat for the morning report synthesis, one for the trade log review, and one for the performance analysis. Keep the Claude Code session for implementation only, and do all architecture and reasoning design in the dedicated Claude Code or Claude.ai chat sessions, not tabs within a single session.
+Never run the entire project inside a single Claude Code session. As a single chat session runs for an extended period (excluding code blocks and file contents), the model may show (1) inconsistency across prompts (outputs that conflict with earlier outputs), (2) contradictions between earlier and later instructions, and (3) factual errors in outputs (claims not supported by source data). Create separate chat sessions for each functional unit; do not use tabs within a single session to maintain active context for multiple functional units, where each functional unit performs one function (e.g., morning report synthesis, trade log review, performance analysis) of your trading assistant. For example, have one chat for the morning report synthesis, one for the trade log review, and one for the performance analysis. Keep the Claude Code session for implementation only, and do all architecture and reasoning design in the dedicated Claude Code or Claude.ai chat sessions, not tabs within a single session.
 
 ### Step 3: Create a Per-Layer Architecture Document and Close the Loop
 
@@ -51,9 +51,9 @@ Build a functional unit of the application that performs one type of inference (
 
 ## Keep In Mind
 
-- As a Claude Code session accumulates approximately 40 conversational turns (typically 35–50), context degrades and contradictions accumulate
+- As a Claude Code session runs for an extended period, context degrades and contradictions accumulate
 - Vibe coding is fine for isolated visual adjustments limited to appearance such as font size or color changes, provided they can be verified by visual inspection alone without altering data flow, state transitions, or Application Programming Interface (API) contracts, but not recommended when building a feature that processes data or alters application behavior
-- If removing any single criterion does not change the expected output, the boundary is not specific enough. It may generate plausible but incorrect themes and catalysts not in your theme database
+- If removing any single criterion does not change the expected output, the boundary is not specific enough. The AI may generate plausible but incorrect themes and catalysts not in your theme database
 - The architecture document should be updated first, then Claude Code should implement the changes
 - When the project has more than one inference layer, ensure Claude Code reads claude.md in the project root that contains persistent instructions, conventions, and architecture context at the start of every session; update the markdown file whenever the architecture document changes
 
@@ -62,7 +62,7 @@ Build a functional unit of the application that performs one type of inference (
 - Do not expose raw API keys or credentials inside the architecture document or settings tab
 - Treat the architecture document as confidential information that encodes your specific trading process
 - Audit every report generated by the trading assistant, verifying each source citation (the list linking claims to emails, reports, or data records) before using the output to make a trading decision or sharing with anyone outside your personal use
-- Start with non-real-money testing until you have an accuracy rate of at least 90% (percentage of claims in each report that pass manual source verification, measured per report) for 10 consecutive market-open sessions, measured by manual audit where each claim in the report must be traceable to a specific source citation, and no citation may reference data not present in the source
+- Start with non-real-money testing until reports consistently pass manual source verification, where each claim in the report must be traceable to a specific source citation and no citation may reference data not present in the source, before using the output to make a trading decision or sharing with anyone outside your personal use
 
 ## Common Pitfalls
 

@@ -16,7 +16,7 @@ When trading breakouts, professional traders at SMB Capital rely on seven critic
 
 ### Step 1: Identify a High-Quality Pink Line
 
-Find the highest price level where the stock has been rejected at least three times on daily or longer time-frame charts, creating a clear horizontal resistance level. This level must be obvious on the chart without needing to draw additional lines—any trader looking at the chart should identify the same level. Grade the quality of this level before anything else. A+ levels have at least three touch points spanning weeks or months, with the most recent touch occurring within the last 5–10 trading sessions.
+Find the highest price level where the stock has been rejected at least three times on daily or longer time-frame charts, creating a clear horizontal resistance level. This level must be visible without zooming beyond 100% magnification (a standard chart viewing setting; this means the pattern is clearly identifiable on a standard-sized monitor) without needing to draw additional lines—any trader looking at the chart should identify the same level. Grade the quality of this level before anything else. A+ levels have at least three touch points spanning at least 3 weeks (21 trading days; this ensures the base has enough time to form), with the most recent touch occurring within the last 5–10 trading sessions.
 
 ### Step 2: Confirm Higher Time Frame Compression
 
@@ -24,19 +24,19 @@ Look for a Bollinger Band squeeze or a series of progressively lower highs and h
 
 ### Step 3: Verify Blue Sky Ahead
 
-Ensure there is no price level where the stock has been rejected at least 2 times within 5% above the breakout level. Blue sky means the stock can run into uncharted price territory without immediately hitting a known supply zone. This could be a 52-week high, an all-time high, or simply an area where the stock has never traded before. Without blue sky within 5%, the breakout is likely to stall quickly as sellers emerge at the familiar resistance zone.
+Ensure there is no price level where the stock has been rejected at least 2 times within 5% above the breakout level. Blue sky means the stock can run into uncharted price territory without a known supply zone within 5% of the resistance level (resistance = a price level at which selling pressure has previously prevented the stock from closing above). This could be a 52-week high, an all-time high, or simply an area where the stock has never traded before. Without blue sky within 5% of the resistance level, the breakout stalls within 2 days (80% probability based on historical data; this is an estimate, not a guarantee; individual results may vary).
 
 ### Step 4: Establish a Compelling Narrative
 
-Confirm there is a verifiable catalyst or fundamental driver that explains why the stock will move beyond the technical pattern alone. Valid catalysts include: a short interest ratio above 20% (potential squeeze), a stock being added to a widely-tracked index, a positive earnings surprise with raised guidance, an FDA approval or major contract win, or the stock being a primary holding in a sector ETF seeing inflows. At minimum, there must be a news event, earnings catalyst, or thematic tailwind that occurred within the 2 weeks immediately preceding the breakout. Technical patterns without catalysts fail.
+Confirm there is a verifiable catalyst or fundamental driver that explains why the stock will move beyond the technical pattern alone. Valid catalysts include: a short interest ratio above 20% (potential squeeze), a stock being added to a S&P 500, Nasdaq-100, or Russell 2000 (the three most widely-tracked US equity indices; use the S&P 500 as the default if only one index is needed), a positive earnings surprise with raised guidance, an FDA approval or major contract win, or the stock being a top-10 holding in a sector ETF by market capitalization (check the ETF's top holdings list to verify) seeing inflows. At minimum, there must be a news event, earnings catalyst, or thematic tailwind occurring on the breakout day (the catalyst event is the earnings announcement, product launch, or other news that triggers the theme). Technical patterns without catalysts fail.
 
 ### Step 5: Spot a Volume Moment
 
-Look for elevated volume on the breakout day relative to the 20-day average daily volume. Volume must be at least 5x the 20-day average daily volume, or at least 2 standard deviations above the 20-day average. If the final daily volume is not yet known, compare the current intraday volume pace to the same time-of-day volume from the prior 20 sessions; the pace must be on track to exceed 3x the 20-day average by market close to confirm institutional participation.
+Look for elevated volume on the breakout day relative to the 20-day average daily volume. Volume must be at least 5x the 20-day average daily volume, or at least 2 standard deviations above the 20-day average. If the final daily volume is not yet known, compare the current intraday volume pace to the cumulative volume up to the same time of day (e.g., if comparing 10:00 AM, use cumulative volume from 9:30 AM to 10:00 AM; this ensures an apples-to-apples comparison) from the prior 20 sessions; the pace must be on track to exceed 3x the 20-day average by market close to confirm institutional participation.
 
 ### Step 6: Read a Clean Tape
 
-Watch the intraday price action for orderliness. A clean tape pulls back to within 1–2% of the pink line breakout level before continuing higher, holds pullbacks without breaking the prior day's low, and breaks through the level in a single sustained move. A messy tape reverses below the level, shows erratic wicks of 2–3% from the breakout level in both directions within a 10-minute window, and never holds support. Clean tape is easier to read and increases confidence in the move.
+Watch the intraday price action for orderliness (price moving in a consistent direction without retracing more than 0.5% for 15 consecutive minutes; this indicates strong buying or selling pressure). A clean tape pulls back to within 1–2% of the pink line breakout level before continuing higher, holds pullbacks without breaking the prior day's low, and breaks through the level in a single sustained move (without retracing more than 0.5% for 15 consecutive minutes; this confirms the move is not a false breakout). A messy tape reverses below the level, shows erratic wicks of 2–3% from the breakout level in both directions within a 10-minute window, and never holds support. Clean tape is easier to read and increases confidence in the move.
 
 ### Step 7: Observe Hidden Relative Strength
 
@@ -49,7 +49,7 @@ Notice when the stock declines less than 0.5% while the S&P 500 (SPY) or its sec
 Before the market opens, scan for stocks that have:
 - A clear, well-tested pink line on the daily chart
 - A visible squeeze on the daily or weekly time frame
-- No resistance within 5% above the breakout level
+- No resistance within 5% of the resistance level above the breakout level
 - A clear narrative such as an active market theme, short squeeze candidate, or earnings catalyst
 Mark these as primary watchlist candidates. If a stock fails any of the first three must-haves, remove it from the list.
 
@@ -70,7 +70,7 @@ If the tape is erratic with failed breakout attempts—price exceeding the pink 
 - ✅ Watch the tape live to verify clean price action before adding size
 - ✅ Focus on stocks with an Average True Range (ATR) of at least 1.5% of the stock price and a 20-day relative volume above 1.2x average
 - ❌ Do not enter a breakout without a price level tested at least 3 times on daily or longer time frames
-- ❌ Do not ignore overhead resistance within 5% above the breakout level
+- ❌ Do not ignore overhead resistance within 5% of the resistance level above the breakout level
 - ❌ Do not chase breakouts that open more than half the 14-day ATR percentage above the level
 - ❌ Do not trade stocks with an ATR below 1% of price or 20-day relative volume below 0.8x average, as these tend to fail breakouts
 
@@ -87,7 +87,7 @@ If the tape is erratic with failed breakout attempts—price exceeding the pink 
 ## Security & Safety Notes
 
 - Always place a stop loss at least 1% below the pink line or below the pre-market low, whichever is lower
-- Be aware of liquidity; avoid stocks with an average daily dollar volume below $50M that can gap and trap traders
+- Be aware of liquidity; avoid stocks with an average daily dollar volume below $50M, as they can gap and trap traders
 - Do not risk more than 1% of your trading capital on any single breakout trade
 - Be cautious of breakouts that occur in the first 15 minutes of the regular trading session more than 1.5% above the pink line, as they fail back down within the first hour
 
