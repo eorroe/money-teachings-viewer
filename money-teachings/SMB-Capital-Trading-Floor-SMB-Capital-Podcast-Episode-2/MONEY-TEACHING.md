@@ -36,7 +36,7 @@ If the breakout is happening within a 2-minute window, consider using a TWAP (Ti
 
 ### Step 6: Manage Risk with a Tight Stop
 
-Place your stop 0.5% to 1% below the breakout level or below the most recent swing low within the prior 30 minutes. In a volatile catalyst play like this, you should be risking no more than 0.5% of your total trading capital per point, targeting a reward of at least 2.5 points for every 1 point risked (a 2.5:1 risk-reward ratio). The tight range breakout is where you control risk with a predefined stop at 0.5% to 1% below the breakout level.
+Place your stop 0.5% to 1% below the breakout level or below the most recent swing low within the prior 30 minutes. In a volatile catalyst play like this, you should be risking no more than 0.5% of your total trading capital per trade, targeting a reward of at least 2.5 points for every 1 point risked (a 2.5:1 risk-reward ratio). The tight range breakout is where you control risk with a predefined stop at 0.5% to 1% below the breakout level.
 
 ### Step 7: Take Partial Profits and Trail the Rest
 

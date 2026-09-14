@@ -8,7 +8,7 @@ This Money Teaching explains SMB Capital's highest revenue-generating trading st
 
 - When you need to short a stock or commodity that has gained more than 20% over the past month and is showing overbought signals on daily, intermediate, and short-term time frames
 - When working with a mean reversion playbook rather than trend following
-- When the user asks about the #1 RSI strategy used by professional traders to capture sharp, unsustainable price highs (blowoff tops)
+- When the user asks about the RSI strategy used by professional traders to capture sharp, unsustainable price highs (blowoff tops)
 - When looking for an A+ setup with four checks in favor aligned before entering a trade
 - When filtering for outlier situations where price action has become extreme and unsustainable
 
@@ -16,7 +16,7 @@ This Money Teaching explains SMB Capital's highest revenue-generating trading st
 
 ### Step 1: Configure RSI With Custom Settings
 
-Change the default RSI parameters to detect extreme conditions rather than normal market activity. Set the length/period from 14 to 20, and change the thresholds from 70/30 to 80/20. This makes the signal harder to trigger and filters out noise. On a daily chart, the 20-period RSI covers approximately one calendar month of trading days, and aligns with other 20-period indicators you may already use.
+Change the default RSI parameters to detect extreme conditions rather than normal market activity. Set the length/period from 14 to 20, and change the thresholds from 70/30 to 80/20. This makes the signal harder to trigger and filters out noise. On a daily chart, the 20-period RSI covers approximately one calendar month of trading days and aligns with other 20-period indicators.
 
 ### Step 2: Monitor Multiple Time Frames for Alignment
 
@@ -24,7 +24,7 @@ Track the RSI across at least three time frames: daily, intermediate (such as 13
 
 ### Step 3: Identify the Outlier Setup and Acceleration
 
-Look for a stock or commodity that is overextended on multiple time frames and experiencing acceleration, not just a steady grind higher. Use tools such as Keltner channels (2 ATRs above a 20-period moving average) to compare current behavior to blowoff tops such as those seen in silver and gold. A normal trend with linear price appreciation is less attractive than one where the slope increases. The move must display characteristics of an unsustainable advance: short covering rallies where short sellers are forced to buy back shares at rising prices, and long buyers entering with optimism despite the overextended price.
+Look for a stock or commodity that is overextended on multiple time frames and experiencing acceleration, not just a steady grind higher. Use tools such as Keltner channels (2 ATRs above a 20-period moving average) to compare current behavior to blowoff tops such as those seen in silver and gold. A linear trend with steady price appreciation is less attractive than one where the slope increases. The move must display characteristics of an unsustainable advance: short covering rallies where short sellers are forced to buy back shares at rising prices, and long buyers entering with optimism despite the overextended price.
 
 ### Step 4: Wait for the A+ Setup With Checks in Favor
 
@@ -50,7 +50,7 @@ GLD exhibited the same pattern as SLV. The daily chart was extended relative to 
 
 ### Example 3: MicroStrategy (MSTR) Unsustainable High Reversal
 
-MSTR showed the same pattern as SLV and GLD. Daily, intermediate, and short-term time frames became overbought at the high of the move. On the 30-minute chart, the RSI lit up at the high, providing a precise intraday short entry. Earlier 30-minute signals were ignored because the daily and 130-minute were not yet aligned. The setup was cataloged as a repeatable example of the playbook.
+MSTR showed the same pattern as SLV and GLD. Daily, intermediate, and short-term time frames became overbought at the high of the move. On the 30-minute chart, the RSI lit up at the high, providing a precise intraday short entry. Prior 30-minute signals were ignored because the daily and 130-minute were not yet aligned. The setup was cataloged as a repeatable example of the playbook.
 
 ### Example 4: SMCI Rapid-Acceleration Short
 

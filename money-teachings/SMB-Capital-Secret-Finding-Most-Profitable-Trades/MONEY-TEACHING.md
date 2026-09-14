@@ -27,7 +27,7 @@ Maintain organized watch lists of stocks grouped by theme. Know the key players,
 
 ### Step 4: Scan for Volume When a Catalyst Appears
 
-Use a force index or volume scanner to identify the 10 stocks with the highest volume and the 10 stocks with the lowest volume at market open. If multiple stocks from the same theme appear among the high-volume list, it confirms the theme is active and provides a tailwind for all related tickers. Add those theme tickers to your priority watch list to monitor for entry signals during the trading day.
+Use a force index or volume scanner to identify the 10 stocks with the highest volume and the 10 stocks with the lowest volume at market open (9:30 AM ET, during the first 15 minutes of trading). If multiple stocks from the same theme appear among the high-volume list, it confirms the theme is active and provides a tailwind for all related tickers. Add those theme tickers to your priority watch list to monitor for entry signals during the trading day.
 
 ### Step 5: Identify Sympathy Plays
 
@@ -47,11 +47,11 @@ Study how past themes developed. When a new theme emerges, map its catalyst time
 
 ### Example 1: Data Center Theme - Enphase, Iron, and Cypher
 
-On September 8th, Enphase announced a $19 billion deal with Microsoft. While the news was specific to Enphase, Iron and Cypher broke out on their daily charts the same day. Traders who understood the data center theme recognized that if Enphase could lock down a massive hyperscaler contract, Iron and Cypher—as similar data center players—could likely do the same. Iron subsequently received a nearly $1 billion order from Nvidia and AMD, and Cypher later signed a $3 billion deal with FluidStack.
+On September 8th, Enphase announced a $19 billion deal with Microsoft. While the news was specific to Enphase, Iron and Cypher broke out on their daily charts the same day. Traders who understood the data center theme recognized that if Enphase could lock down a massive hyperscaler contract, Iron and Cypher—as similar data center players—could likely do the same. Iron subsequently received a combined order from Nvidia and AMD totaling approximately $950 million to $1 billion, and Cypher later signed a $3 billion deal with FluidStack.
 
 ### Example 2: Robotics Theme - Tesla, IRBT, and a Low-Float Runner
 
-When the White House signaled acceleration of the robotics program, the theme was already being tracked. Pre-market volume immediately concentrated in Tesla, iRobot (IRBT), and a low-float small-cap stock with high short interest as a percentage of float. All three moved together. Tesla was the institutionally viable leader with the highest market capitalization and deepest institutional ownership; IRBT was a speculative small-cap runner with high short interest as a percentage of float, making it prone to sharp short-squeeze moves; the low-float stock had a small number of publicly available shares, meaning even modest volume could produce large price moves. Traders who had the theme watch list ready could participate across multiple stock tickers based on their risk profile.
+When the White House signaled acceleration of the robotics program, the theme was already being tracked. Pre-market volume immediately concentrated in Tesla, iRobot (IRBT), and a low-float small-cap stock (Kit) with high short interest as a percentage of float. All three moved together. Tesla was the institutionally viable leader with the highest market capitalization and deepest institutional ownership; IRBT was a speculative small-cap runner with high short interest as a percentage of float, making it prone to sharp short-squeeze moves; the low-float stock had a small number of publicly available shares, meaning even modest volume could produce large price moves. Traders who had the theme watch list ready could participate across multiple stock tickers based on their risk profile.
 
 ### Example 3: Quantum Theme - Volume and Theme Agreement
 
