@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Money Teaching outlines the 10-variable playbook template and daily trade review process used by SMB Capital to develop elite proprietary traders who consistently earn between $1 million and $99 million per year. The core principle is that building a profitable trading career requires constructing a robust trading business through disciplined daily deconstruction of your best trades, scoring each trade objectively on 10 variables, and repeating what works while eliminating what doesn't.
+This Money Teaching outlines the 10-variable playbook template and daily trade review process used by SMB Capital to develop elite proprietary traders who earn between $1 million and $100 million per year year after year. The core principle is that building a profitable trading career requires constructing a robust trading business through disciplined daily deconstruction of your best trades, scoring each trade objectively on 10 variables, and repeating what works while eliminating what doesn't.
 
 ## When to Follow These Money Teachings
 
@@ -19,7 +19,7 @@ At the end of every trading day, review the day's trades and identify one trade 
 
 ### Step 2: Compile and Curate Your Playbook Trades
 
-As you complete the daily playbook exercise session after session, compile all of your playbook trades into a personal database. Review this compiled list to identify the trades you execute best in real time, and focus on doing more of those specific setups. Conversely, eliminate trades where you have 3 or more losses in your last 5 attempts. Only trade setups that already exist in your playbook; any trade taken during market hours that is not pre-approved in your playbook is considered overtrading and should be avoided.
+As you complete the daily playbook exercise over multiple consecutive trading sessions, compile all of your playbook trades into a personal database. Review this compiled list to identify the trades you execute best in real time, and focus on doing more of those specific setups. Conversely, eliminate trades where you have 3 or more losses in your last 5 attempts. Only trade setups that already exist in your playbook; any trade taken during market hours that is not pre-approved in your playbook is considered overtrading and should be avoided.
 
 ### Step 3: Build Each Playbook Trade Using the 10-Variable Template
 
@@ -56,15 +56,15 @@ Classify every setup as either a technical catalyst or a news catalyst. Rate the
 
 ### Step 8: Use a Risk Allocation and Sizing Scorecard
 
-Before entering any trade, assign a risk allocation grade (A+ = 100% of max size, A = 75%, A- = 50%, B+ = 25%, B = 10%) based on liquidity, scalability, and opportunity quality. For example: Liquidity — A+ = >1M average daily volume, A = 500K–1M, B = <500K. Only take A+ opportunities with full size. Reduce position size for lower-grade opportunities. This habit becomes instinctual over time and prevents catastrophic losses while maximizing gains on your best ideas.
+Before entering any trade, assign a risk allocation grade (A+ = 100% of max size, A = 75%, A- = 50%, B+ = 25%, B = 10%) based on liquidity, scalability, and opportunity quality. For example: Liquidity — A+ = >1M average daily volume, A = 500K–1M, B = <500K. Only take A+ opportunities with full size. Reduce position size for lower-grade opportunities. This habit becomes instinctual over time and prevents losses exceeding your maximum daily risk allocation while maximizing gains on your highest-rated opportunities.
 
 ### Step 9: Review Trades by Focusing on What You Did Well
 
-When conducting your trade review, do not focus exclusively on mistakes. Explicitly identify what you did really well — such as finding a news catalyst that scored 8 or higher on the 1-to-10 scale, or correctly reading the balance sheet to identify accounting adjustments — and determine how to find more trades like that. Repeating your strengths is how you become a seven-figure trader, not by endlessly critiquing minor flaws.
+When conducting your trade review, do not focus exclusively on mistakes. Explicitly identify what you did exceptionally well (trades scoring 80+ on your playbook) — such as finding a news catalyst that scored 8 or higher on the 1-to-10 scale, or correctly reading the balance sheet to identify accounting adjustments — and determine how to find more trades like that. Repeating your strengths is how you become a seven-figure trader, not by excessively critiquing small execution errors.
 
 ### Step 10: Set Technology Alerts and Monitor Key Levels
 
-During live trading, set alerts at the prior day high/low, VWAP, 20/50/200-day moving averages, pre-market highs/lows, and significant round numbers — such as prior swing low VWAPs, moving averages, and pre-market highs and lows — so you receive signals to enter or adjust positions without constantly watching the chart. Reset these alerts throughout the day as levels are hit and new ones emerge.
+During live trading, set alerts at the prior day high/low, Volume Weighted Average Price (VWAP, the average price a stock has traded at throughout the day weighted by volume), 20/50/200-day moving averages, pre-market highs/lows, and key psychological levels (e.g., $50, $100, $500) — such as prior swing low VWAPs, moving averages, and pre-market highs and lows — so you receive signals to enter or adjust positions without constantly watching the chart. Reset these alerts during all trading hours (9:30 AM - 4:00 PM ET) as levels are hit and new ones emerge.
 
 ## Examples
 
@@ -74,7 +74,7 @@ A trader identifies a stock gapping up into year-to-date VWAP resistance after e
 
 ### Example 2: Gap Into Support With VWAP Confluence
 
-A trader monitors SPY gapping down near the 20-day moving average, which coincides with a prior swing low anchored VWAP from May 23rd. The big picture notes key support at 593–594 and overhead resistance at 600–604. The trader marks why the 523 VWAP anchor matters — it represents the prior swing low where buyers stepped in after a rejection from 600. This playbook trade is constructed with specific levels, a clear thesis, and defined risk below the 524 level. The trader reviews the trade by focusing on the quality of the big picture annotation and the precision of the level definitions.
+A trader monitors SPY gapping down near the 20-day moving average, which coincides with a prior swing low anchored VWAP from May 23rd. The big picture notes key support at 593–594 and overhead resistance at 600–604. The trader marks why the 523 VWAP anchor matters — it represents the prior swing low where buyers stepped in after a rejection from 600. This playbook trade is constructed with specific levels, a well-documented thesis (one sentence explaining why the trade should work), and defined risk below the 524 level. The trader reviews the trade by focusing on the quality of the big picture annotation and the precision of the level definitions.
 
 ## Best Practices
 
@@ -89,10 +89,10 @@ A trader monitors SPY gapping down near the 20-day moving average, which coincid
 
 ## Keep In Mind
 
-- Building a comprehensive playbook takes time and repetition; the process is the edge, not any single trade
+- Building a comprehensive playbook takes consistent practice over an extended period (minimum 6 months); the process is the edge, not any single trade
 - A score of 80 or above on the 10-variable template means the setup meets the minimum threshold for trading; below 80 means the setup needs more work and should not be traded
-- Trades with a win rate of 30% or lower that have catalysts scoring 8 or higher can still generate returns exceeding 10R if sized correctly and held with discipline
-- Your playbook should be written clearly enough that you can read it 10 years from now and understand the trade thesis, key levels, catalyst, and expected outcome without referring to external notes
+- Trades with a win rate of 30% or lower that have catalysts scoring 8 or higher can still generate returns exceeding 10 times the risk (10R) if sized correctly and held with discipline
+- Your playbook should be with sufficient detail that you can re-read it 6 months later and understand your reasoning that you can read it 10 years from now and understand the trade thesis, key levels, catalyst, and projected price target and risk/reward ratio without referring to external notes
 
 ## Security & Safety Notes
 

@@ -24,15 +24,15 @@ Look for a Bollinger Band squeeze or a series of progressively lower highs and h
 
 ### Step 3: Verify Blue Sky Ahead
 
-Ensure there is no price level where the stock has been rejected at least 2 times within 5% above the breakout level. Blue sky means the stock can run into uncharted price territory without a known supply zone within 5% of the resistance level (resistance = a price level at which selling pressure has previously prevented the stock from closing above). This could be a 52-week high, an all-time high, or simply an area where the stock has never traded before. Without blue sky within 5% of the resistance level, the breakout stalls within 2 days (80% probability based on historical data; this is an estimate, not a guarantee; individual results may vary).
+Ensure there is no price level where the stock has been rejected at least 2 times within 5% above the breakout level. Blue sky means the stock can run into uncharted price territory without a known supply zone within 5% of the resistance level (resistance = a price level at which selling pressure has previously prevented the stock from closing above). This could be a 52-week high, an all-time high, or simply an area where the stock has never traded before. Without blue sky within 5% of the resistance level, the breakout stalls within 2 days in approximately 80% of cases (based on SMB Capital's internal backtest data; this is an estimate, not a guarantee).
 
 ### Step 4: Establish a Compelling Narrative
 
-Confirm there is a verifiable catalyst or fundamental driver that explains why the stock will move beyond the technical pattern alone. Valid catalysts include: a short interest ratio above 20% (potential squeeze), a stock being added to a S&P 500, Nasdaq-100, or Russell 2000 (the three most widely-tracked US equity indices; use the S&P 500 as the default if only one index is needed), a positive earnings surprise with raised guidance, an FDA approval or major contract win, or the stock being a top-10 holding in a sector ETF by market capitalization (check the ETF's top holdings list to verify) seeing inflows. At minimum, there must be a news event, earnings catalyst, or thematic tailwind occurring on the breakout day (the catalyst event is the earnings announcement, product launch, or other news that triggers the theme). Technical patterns without catalysts fail.
+Confirm there is a verifiable catalyst or fundamental driver that explains why the stock will move beyond the technical pattern alone. Valid catalysts include: a short interest ratio above 20% (potential squeeze), a stock being added to any one of the S&P 500, Nasdaq-100, or Russell 2000 (the three most widely-tracked US equity indices), a positive earnings surprise with raised guidance, an FDA approval or major contract win, or the stock being a top-10 holding in a sector ETF by market capitalization (check the ETF's top holdings list to verify) seeing inflows. At minimum, there must be a news event, earnings catalyst, or thematic tailwind occurring on the breakout day (the catalyst event is the earnings announcement, product launch, or other news that triggers the theme). Technical patterns without catalysts fail.
 
 ### Step 5: Spot a Volume Moment
 
-Look for elevated volume on the breakout day relative to the 20-day average daily volume. Volume must be at least 5x the 20-day average daily volume, or at least 2 standard deviations above the 20-day average. If the final daily volume is not yet known, compare the current intraday volume pace to the cumulative volume up to the same time of day (e.g., if comparing 10:00 AM, use cumulative volume from 9:30 AM to 10:00 AM; this ensures an apples-to-apples comparison) from the prior 20 sessions; the pace must be on track to exceed 3x the 20-day average by market close to confirm institutional participation.
+Look for elevated volume on the breakout day relative to the 20-day average daily volume. Volume must be at least 5x the 20-day average daily volume (a more stringent threshold); 2 standard deviations above the 20-day average is an alternative threshold only when 5x cannot be calculated. If the final daily volume is not yet known, compare the current intraday volume pace to the cumulative volume up to the same time of day (e.g., if comparing 10:00 AM, use cumulative volume from 9:30 AM to 10:00 AM; this ensures an apples-to-apples comparison) from the prior 20 sessions; the pace must be such that extrapolating the current cumulative volume to a full trading day exceeds 3x the 20-day average to confirm institutional participation.
 
 ### Step 6: Read a Clean Tape
 
@@ -49,14 +49,14 @@ Notice when the stock declines less than 0.5% while the S&P 500 (SPY) or its sec
 Before the market opens, scan for stocks that have:
 - A clear, well-tested pink line on the daily chart
 - A visible squeeze on the daily or weekly time frame
-- No resistance within 5% of the resistance level above the breakout level
+- Ensure there is at least 5% of clear price space above the pink line before entering
 - A clear narrative such as an active market theme, short squeeze candidate, or earnings catalyst
 Mark these as primary watchlist candidates. If a stock fails any of the first three must-haves, remove it from the list.
 
 ### Example 2: Real-Time Trade Execution
 
 Once the market is live:
-- Confirm the stock is opening at or within 0.5% above the pink line at the regular session open with a pre-market high/low range that spans less than 1.5% of the prior day's close
+- Confirm the stock is opening at or within 0.5% above the pink line at the regular session open with a pre-market high/low range that spans less than 1.5% of the prior day's close (a tight range indicates low volatility and high conviction)
 - Verify volume pace is tracking above 3x the 20-day average as price breaks through
 - Watch for a clean tape with pullbacks holding above the pink line and a single conviction breakout move
 - Notice if the stock declines less than 0.5% while the S&P 500 declines 1% or more in the same 15-minute window
@@ -80,7 +80,7 @@ If the tape is erratic with failed breakout attempts—price exceeding the pink 
 - Pink line, higher time frame squeeze, and blue sky are must-haves for any A+ setup
 - Narrative is the must-have for context
 - Volume moment, clean tape, and hidden relative strength add conviction
-- A stock qualifies as a momentum name if its 20-day relative volume exceeds 1.2x its 60-day average and its price has moved at least 5% in either direction within the prior 10 sessions
+- A stock qualifies as a momentum name if its 20-day relative volume exceeds 1.2x its 20-day average and its price has moved at least 5% in either direction within the prior 10 sessions
 - A market tailwind exists when the S&P 500 is above its 20-day moving average and the stock's sector ETF is higher than the previous session's closing price; low-float stocks (under 20M shares) with strong standalone catalysts may not require a market tailwind
 - The "within striking distance" timing signal (opening within 0.5% of the pink line) adds conviction but is not a must-have
 
@@ -97,7 +97,7 @@ If the tape is erratic with failed breakout attempts—price exceeding the pink 
   **Solution:** Wait for the stock to open at or within 0.5% above the pink line at the regular session open with a pre-market high/low range spanning less than 1.5% of the prior day's close, or let it pull back to the pink line before entering
 
 -   **Problem:** Trading stocks with ATR below 1% of price, 20-day relative volume below 0.8x average, or at least 3 failed breakouts in the last 5 attempts
-  **Solution:** Focus on stocks with ATR of at least 1.5% of price and 20-day relative volume above 1.2x average; if a stock has failed to hold a breakout in at least 3 of its last 5 attempts, do not trade it unless a catalyst such as an FDA approval, major contract, or earnings beat occurs
+  **Solution:** Focus on stocks with ATR of at least 1.5% of price and 20-day relative volume above 1.2x average; if a stock has failed to hold (closed back below the pink line within 2 hours) a breakout (a break above the pink line that exceeds 1%) in at least 3 of its last 5 attempts, do not trade it unless a catalyst such as an FDA approval, major contract, or earnings beat occurs
 
 -   **Problem:** Missing hidden relative strength signals
   **Solution:** Monitor how the stock behaves relative to its sector ETF or SPY in 15-minute windows when the broader market declines 1% or more; hidden strength is the final confirmation before the price moves decisively
