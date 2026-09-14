@@ -42,7 +42,7 @@ Only enter when price action is orderly. Orderly price action (called a "clean t
 
 ### Step 7: Confirm Hidden Relative Strength
 
-Watch how the stock behaves relative to the S&P 500 or its sector — this signal works best with stocks whose price movement correlates with the S&P 500. Hidden relative strength means the stock resists declining when the S&P 500 falls, without staging a large independent gain. Hidden relative strength is called "hidden" because the move does not register as a large rally; a gain of 10% or more over a few days is not hidden strength; that is visible relative strength. Look for hidden relative strength on the trading day before, or the morning of, the breakout. It shows that buyers are stepping in even without broad market help.
+Watch how the stock behaves relative to the S&P 500 or its sector — this signal works best with stocks whose price movement correlates with the S&P 500. Hidden relative strength means the stock resists declining when the S&P 500 falls, without staging a large independent gain. Hidden relative strength is called "hidden" because the move does not register as a large rally; a gain of at least 10% over a few days is not hidden strength; that is visible relative strength. Look for hidden relative strength on the trading day before, or the morning of, the breakout. It shows that buyers are stepping in even without broad market help.
 
 ## Examples
 
@@ -84,7 +84,7 @@ Tesla had a weekly Bollinger Band squeeze and broke above a well-established bre
 ## Security & Safety Notes
 
 - Never enter a breakout trade based solely on one signal; always confirm that multiple evaluation criteria are aligned
-- If a stock opens half an ATR or more above the breakout level, entry carries elevated rejection risk
+- If a stock opens at least half an ATR above the breakout level, entry carries elevated rejection risk
 - Bid-ask spreads wider than a few cents and erratic price action are signs of low liquidity and can force an exit at a loss
 - Be aware that a stock can gap up on news and still fail; always wait for the stock to hold above the breakout level with volume at least 2x the average daily volume.
 - Trading breakouts in stocks without consistent trending characteristics can lead to worse outcomes, even if the chart pattern resembles a stock with consistent trending behavior.

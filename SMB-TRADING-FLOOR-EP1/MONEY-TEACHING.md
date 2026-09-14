@@ -82,9 +82,9 @@ After the trade is closed:
 
 ### Example 1: Ethereum 4K Breakout (SMB Capital, the first week of August 2025)
 
-The SMB desk identified Ethereum (traded via ETHA ETF) as a candidate in early June when data from Glassnode and Coinglass on high short positioning surfaced. The thesis intensified on June 28 when Tom Lee was appointed chairman of BMnR (the firm building an Ethereum treasury under Tom Lee), and on June 30 when he announced a $250M private placement to build an Ethereum treasury. Additional catalysts followed: Peter Thiel took a stake in BMnR (July 15), Cathie Wood announced a stake (July 22), and Tom Lee held an investor presentation discussing the "alchemy of 5%" strategy (Bitmain's plan to accumulate 5% of the total supply of Ethereum as part of the treasury plan). Ethereum treasuries collectively acquired approximately $17B worth of ether by mid-August 2025.
+The SMB desk identified Ethereum (traded via ETHA ETF) as a candidate in early June when data from Glassnode and Coinglass on high short positioning surfaced. The thesis intensified on June 28 when Tom Lee was appointed chairman of BMnR (the firm building an Ethereum treasury under Tom Lee), and on June 30 when he announced a $250M private placement to build an Ethereum treasury. Additional catalysts followed: Peter Thiel took a stake in BMnR (July 15), Cathie Wood announced a stake (July 22), and Tom Lee held an investor presentation discussing the "alchemy of 5%" strategy (Bitmain's plan to accumulate 5% of the total supply of Ethereum as part of the treasury plan). Ethereum treasuries collectively acquired $17B worth of ether by mid-August 2025.
 
-On the technical side, Ethereum had built a four-year base on the monthly chart and was consolidating tightly below the 4K level in the first week of July. The desk noted the ETH/BTC ratio turning by July 15, confirming Ethereum was the asset to play. When ETHA closed above 4K on Friday, the desk entered using TWAP on Thursday and added stock at close on Friday, also buying 2-week-out calls. They held into the weekend because the fundamental and technical tailwinds warranted holding the position beyond a single day. Ethereum rallied for four more days, almost reaching 5K, before the prior bar low broke and they exited.
+On the technical side, Ethereum had built a four-year base on the monthly chart and was consolidating tightly below the 4K level in the first week of July. The desk noted the ETH/BTC ratio turning by July 15, confirming Ethereum was the asset to play. When ETHA closed above 4K on Friday, the desk entered using TWAP on Thursday and added stock at close on Friday, also buying 2-week-out calls. They held into the weekend because the fundamental and technical tailwinds warranted holding the position beyond a single day. Ethereum rallied for four more days, falling just short of 5K, before the prior bar low broke and they exited.
 
 ### Example 2: The Expected Volume Surge That Never Came
 
@@ -107,8 +107,8 @@ During the ETHA breakout on Thursday and Friday, the traders expected a high int
 ## Keep In Mind
 
 - A failed breakdown that reclaims and then gaps up and holds at the top of the range is a strong bullish pattern. In this trade, Ethereum had a failed breakdown six days before the confirmed breakout above 4K, then reclaimed and gapped up.
-- Bitcoin can break out to all-time highs while Ethereum consolidates sideways for years (as Ethereum did for approximately four years prior to this trade). The relative strength turn in the ETH/BTC ratio is a signal that Ethereum is the asset to own, not Bitcoin.
-- Stablecoin adoption is a fundamental driver for Ethereum because approximately half of all stablecoins are built on the Ethereum blockchain. Growth in stablecoin usage increases Ethereum transaction fees and network value.
+- Bitcoin can break out to all-time highs while Ethereum consolidates sideways for years (as Ethereum did for four years prior to this trade). The relative strength turn in the ETH/BTC ratio is a signal that Ethereum is the asset to own, not Bitcoin.
+- Stablecoin adoption is a fundamental driver for Ethereum because half of all stablecoins are built on the Ethereum blockchain. Growth in stablecoin usage increases Ethereum transaction fees and network value.
 - The "big pink line" (the breakout level) should be drawn as a distinct horizontal line on the chart and respected. Do not buy aggressively above it until the daily close confirms the break.
 - Team debate is common because traders see risk differently. The goal is to reach an equilibrium point (a mutually agreed-upon trade decision that balances competing views), not to force unanimity.
 
@@ -125,7 +125,7 @@ During the ETHA breakout on Thursday and Friday, the traders expected a high int
 - **Problem:** Buying the high after a sharp ramp into resistance without confirmation.
   **Solution:** Wait for a daily close above the breakout level or a TWAP (Time-Weighted Average Price) script that accumulates only while price holds above the level. Do not chase a moving price.
 - **Problem:** Selling too early into strength because the gap exceeds your planned exit threshold.
-  **Solution:** If the fundamental backdrop includes aligned tailwinds from Step 1, hold the stock position and take profits via short-dated call options (options expiring within approximately one to two weeks) instead of selling the stock position outright.
+  **Solution:** If the fundamental backdrop includes aligned tailwinds from Step 1, hold the stock position and take profits via short-dated call options (options expiring within one to two weeks) instead of selling the stock position outright.
 - **Problem:** Raising the stop-loss order before the breakout level is confirmed, after the opening drive.
   **Solution:** Keep the stop-loss order wide until the daily close above the level is confirmed. Only then tighten it to the prior day's low (the low of the session before the confirmed close) or the breakout level itself.
 - **Problem:** Failing to exit when the plan breaks because you are focused on the highest profit you could have captured.

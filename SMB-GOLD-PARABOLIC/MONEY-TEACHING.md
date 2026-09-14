@@ -16,7 +16,7 @@ This money teaching explains how to identify and execute mean reversion paraboli
 
 ### Step 1: Identify the parabolic move and unsustainable acceleration
 
-Find an asset that has experienced a run, blown through a key psychological level such as $4,000 per ounce for gold, and is showing parabolic acceleration. Look for gaps in a row on the daily chart, expansion in Average True Range (ATR), and price extending above its 50-day and 200-day moving averages (for example, GLD was 36 points above its 50-day moving average around 360). The move must be getting faster, not rising steadily without parabolic acceleration.
+Find an asset that has experienced a run, blown through a key psychological level such as $4,000 per ounce for gold, and is showing parabolic acceleration. Look for gaps in a row on the daily chart, expansion in Average True Range (ATR), and price extending above its 50-day and 200-day moving averages (for example, GLD was 36 points above its 50-day moving average at 360). The move must be getting faster, not rising steadily without parabolic acceleration.
 
 ### Step 2: Confirm euphoria through headlines and behavior
 
@@ -44,7 +44,7 @@ Check related assets that should move with your primary trade. If silver shows l
 
 ### Step 8: Define profit targets based on asset behavior
 
-For mean reversion shorts on parabolic moves, profitable mean reversion shorts typically engulf the prior two days of parabolic price action. Targets may be closer than profit targets used for overvalued equities because the fundamental drivers of the asset (for example, gold's rate-cut cycle, central bank buying, and inflation hedge demand) may still be intact. In gold, the 20-day moving average around 370 was a logical area to cover partials because, historically, only four times has gold been up more than nine weeks in a row, and after such streaks the average two-day decline was 6.5 percent and one-month decline was 11 percent.
+For mean reversion shorts on parabolic moves, profitable mean reversion shorts typically engulf the prior two days of parabolic price action. Targets may be closer than profit targets used for overvalued equities because the fundamental drivers of the asset (for example, gold's rate-cut cycle, central bank buying, and inflation hedge demand) may still be intact. In gold, the 20-day moving average at 370 was a logical area to cover partials because, historically, only four times has gold been up more than nine weeks in a row, and after such streaks the average two-day decline was 6.5 percent and one-month decline was 11 percent.
 
 ### Step 9: Manage risk with defined-risk options when needed
 
@@ -54,7 +54,7 @@ If the asset is showing high volatility (for example, expansion in Average True 
 
 ### Example 1: Gold Mean Reversion Short (October 23rd Friday)
 
-Gold had gone parabolic, breaking above $4,000 per ounce, and GLD extended 36 points above its 50-day moving average around 360. The prior day closed at the prior session's high with a strong close near the high. After hours GLD gapped up but could not hold the high, then reversed into the regular session open. The SMB Capital traders identified 395 as a key pre-market consolidation and gamma level. When gold broke below 395 off the open, the SMB Capital traders entered short. The October 23, 2024 gold short trade worked as gold sold off sharply, with silver confirming weakness by failing to reclaim Volume Weighted Average Price (VWAP) on bounces.
+Gold had gone parabolic, breaking above $4,000 per ounce, and GLD extended 36 points above its 50-day moving average at 360. The prior day closed at the prior session's high with a strong close near the high. After hours GLD gapped up but could not hold the high, then reversed into the regular session open. The SMB Capital traders identified 395 as a key pre-market consolidation and gamma level. When gold broke below 395 off the open, the SMB Capital traders entered short. The October 23, 2024 gold short trade worked as gold sold off sharply, with silver confirming weakness by failing to reclaim Volume Weighted Average Price (VWAP) on bounces.
 
 ### Example 2: SMCI and MSTR Blow-Off Trades
 

@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Money Teaching guides traders through building an AI trading assistant using Claude Code (CLI) or Claude.ai web interface, even with no formal coding background. The approach focuses on operational efficiency (reducing the time spent on repetitive data gathering and formatting tasks) rather than prediction, helping traders automate manual daily processes like pre-market research, trade tracking, and market scanning. Justin Speiro, a trader at SMB Capital, demonstrates how he built an AI-powered pre-market research dashboard in 18–22 hours that now saves him approximately 60 minutes each morning.
+This Money Teaching guides traders through building an AI trading assistant using Claude Code (CLI) or Claude.ai web interface, even with no formal coding background. The approach focuses on operational efficiency (reducing the time spent on repetitive data gathering and formatting tasks) rather than prediction, helping traders automate manual daily processes like pre-market research, trade tracking, and market scanning. Justin Speiro, a trader at SMB Capital, demonstrates how he built an AI-powered pre-market research dashboard in 18–22 hours that now saves him an hour each morning.
 
 ## When to Follow These Money Teachings
 
@@ -16,7 +16,7 @@ This Money Teaching guides traders through building an AI trading assistant usin
 
 ### Step 1: Identify a Daily Manual Process to Automate
 
-Look at your current daily workflow and find a repetitive task you do manually. Examples include scanning research emails, tracking trades, reviewing economic calendars, or monitoring pre-market scanners. Justin started by identifying that he was spending his morning going through roughly 100 research emails. The key is to pick something you already do consistently, so you know exactly what the end result should look like.
+Look at your current daily workflow and find a repetitive task you do manually. Examples include scanning research emails, tracking trades, reviewing economic calendars, or monitoring pre-market scanners. Justin started by identifying that he was spending his morning going through 100 research emails. The key is to pick something you already do consistently, so you know exactly what the end result should look like.
 
 ### Step 2: Open Claude Code (CLI) or Claude.ai web interface and Describe Your Goal
 
@@ -32,11 +32,11 @@ You will encounter problems where Claude does something incorrectly or produces 
 
 ### Step 5: Teach the AI About Your Trading Business and System
 
-Generic AI output is only as good as the data and context you give it. To make your assistant truly tailored to your trading playbook, rules, and blacklisted tickers, feed it information about how you trade. Share your playbook, your trade confirmation criteria, your blacklisted tickers, your position sizing preferences, and examples of past good trades. Justin spent approximately four to five hours going line by line through his trading analysis script to teach Claude every parameter and why each line exists. The more the AI knows about your specific style, the more valuable its output becomes.
+Generic AI output is only as good as the data and context you give it. To make your assistant truly tailored to your trading playbook, rules, and blacklisted tickers, feed it information about how you trade. Share your playbook, your trade confirmation criteria, your blacklisted tickers, your position sizing preferences, and examples of past good trades. Justin spent 4 to 5 hours going line by line through his trading analysis script to teach Claude every parameter and why each line exists. The more the AI knows about your specific style, the more valuable its output becomes.
 
 ### Step 6: Incorporate Real Data Sources
 
-Your assistant is only as good as the data it processes. Sign up for six free newsletters and research sources such as Vital Knowledge, Hammerstone Reports, MarketWatch, Wall Street Journal, Bloomberg, and Trade the News. You can also have the AI scrape public data like 8-K filings (SEC material event filings), earnings call transcripts, and company websites. The AI can then parse and synthesize all of this into a single morning briefing, saving you about an hour every day.
+Your assistant is only as good as the data it processes. Sign up for six free newsletters and research sources such as Vital Knowledge, Hammerstone Reports, MarketWatch, Wall Street Journal, Bloomberg, and Trade the News. You can also have the AI scrape public data like 8-K filings (SEC material event filings), earnings call transcripts, and company websites. The AI can then parse and synthesize all of this into a single morning briefing, saving you an hour every day.
 
 ### Step 7: Build Simple Widgets or Advanced Scanners
 
@@ -50,7 +50,7 @@ Never take the AI's output at face value. Always check for bad or outdated data.
 
 ### Example 1: Pre-Market Research Dashboard
 
-Justin built a dashboard that runs every morning and produces a macro rundown. It starts with the most important overnight development, provides an economic calendar rated by importance (such as MBA (Mortgage Bankers Association) mortgage applications at 7:00 a.m. marked as low importance), lists key events like Tax Day or historical retail buy-the-dip dynamics, summarizes earnings that came out in pre-market, and then identifies what the AI thinks will move the market most that day along with the catalysts. It also surfaces secondary names from research emails with quick notes. This project took 18–22 hours initially; it can now be rebuilt in approximately 60 minutes if needed.
+Justin built a dashboard that runs every morning and produces a macro rundown. It starts with the most important overnight development, provides an economic calendar rated by importance (such as MBA (Mortgage Bankers Association) mortgage applications at 7:00 a.m. marked as low importance), lists key events like Tax Day or historical retail buy-the-dip dynamics, summarizes earnings that came out in pre-market, and then identifies what the AI thinks will move the market most that day along with the catalysts. It also surfaces secondary names from research emails with quick notes. This project took 18–22 hours initially; it can now be rebuilt in an hour if needed.
 
 ### Example 2: Trade Tracker Dashboard
 

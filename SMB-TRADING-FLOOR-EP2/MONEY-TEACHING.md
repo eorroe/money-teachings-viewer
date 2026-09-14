@@ -28,7 +28,7 @@ Estimate potential revenue to gauge if the current price is reasonable. For QURE
 - Estimate treatment price ($2-3 million per patient, referencing their approved 2022 therapy priced at $3.5 million)
 - Calculate market share scenarios (10% = 10,000 patients = $25 billion revenue at $2.5M per treatment)
 - Compare to comparable biotechs trading at 2-4x peak sales
-- SMB estimated QURE's market cap at approximately $3–4 billion post-gap, while the conservative revenue scenario (10% market share at $2.5M per treatment) suggested $25 billion in annual revenue potential, indicating the stock was undervalued based on SMB's revenue model
+- SMB estimated QURE's market cap at $3–4 billion post-gap, while the conservative revenue scenario (10% market share at $2.5M per treatment) suggested $25 billion in annual revenue potential, indicating the stock was undervalued based on SMB's revenue model
 
 ### Step 4: Find Historical Analog Trades
 

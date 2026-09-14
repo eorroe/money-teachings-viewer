@@ -2,11 +2,11 @@
 
 ## Overview
 
-This money teaching describes SMB Capital's overextended parabolic RSI short: a consistently profitable strategy the SMB desk uses for overextended parabolic setups. It teaches how to identify parabolic moves (price moves with six or more consecutive up days in which daily gains accelerate from one day to the next) that have become extended beyond normal trading ranges for large-cap US equities, use a customized RSI setup with specific settings and thresholds, confirm signals across time frames, and execute mean reversion shorts with disciplined risk management.
+This money teaching describes SMB Capital's overextended parabolic RSI short: a consistently profitable strategy the SMB desk uses for overextended parabolic setups. It teaches how to identify parabolic moves (price moves with at least six consecutive up days in which daily gains accelerate from one day to the next) that have become extended beyond normal trading ranges for large-cap US equities, use a customized RSI setup with specific settings and thresholds, confirm signals across time frames, and execute mean reversion shorts with disciplined risk management.
 
 ## When to Follow These Money Teachings
 
-  - When a stock or commodity has risen in a parabolic move (as defined in Step 1: six or more consecutive up days with accelerating daily gains) and is showing signs of accelerating gains that exceed the prior day's gain
+  - When a stock or commodity has risen in a parabolic move (as defined in Step 1: at least six consecutive up days with accelerating daily gains) and is showing signs of accelerating gains that exceed the prior day's gain
  - When you want to filter for parabolic extension situations rather than trade normal trending stocks
  - When building a mean reversion short playbook for day-trading pullbacks
   - When you need a specific indicator-based framework (RSI, Keltner channels, opening range analysis) to avoid entering before the parabolic peak
@@ -16,17 +16,17 @@ This money teaching describes SMB Capital's overextended parabolic RSI short: a 
 
 ### Step 1: Identify the Setup Environment
 
-Look for a stock or commodity that is overextended on daily and intermediate charts. A parabolic move is a price move with six or more consecutive up days in which daily gains accelerate from one day to the next (not just a typical equity grind higher). The preferred scenario is a parabolic move where price has extended beyond normal trading ranges for large-cap US equities. Examples include silver (SLV) breaking out of a weekly base, stocks such as MSTR or SMCI that went parabolic, or any instrument hitting RSI levels well above 70 (the standard overbought threshold for normal RSI settings). Use an environment filter (red light / yellow light / green light) to confirm you are in a regime where this setup is valid: red light means market conditions do not meet the setup requirements and no trade should be taken, yellow light means proceed only with a parabolic setup with the majority of the five confirming factors aligned, and green light means all setup requirements are met. Avoid entering before the parabolic peak - the trader risks suffering losses if entry occurs before the peak is confirmed.
+Look for a stock or commodity that is overextended on daily and intermediate charts. A parabolic move is a price move with at least six consecutive up days in which daily gains accelerate from one day to the next (not just a typical equity grind higher). The preferred scenario is a parabolic move where price has extended beyond normal trading ranges for large-cap US equities. Examples include silver (SLV) breaking out of a weekly base, stocks such as MSTR or SMCI that went parabolic, or any instrument hitting RSI levels well above 70 (the standard overbought threshold for normal RSI settings). Use an environment filter (red light / yellow light / green light) to confirm you are in a regime where this setup is valid: red light means market conditions do not meet the setup requirements and no trade should be taken, yellow light means proceed only with a parabolic setup with the majority of the five confirming factors aligned, and green light means all setup requirements are met. Avoid entering before the parabolic peak - the trader risks suffering losses if entry occurs before the peak is confirmed.
 
 ### Step 2: Customize Your RSI Settings
 
 Do not use the default RSI settings (14-period, overbought 70, oversold 30). Instead, apply the SMB desk's custom configuration:
 
  - Change the RSI length/period from 14-period to 20-period. A 20-period lookback on a daily chart uses 20 trading days of data and filters out normal price action of large-cap US equities.
-  - Change the overbought threshold from 70 to 80. You want the RSI to show a reading above 80 only when the move is parabolic (as defined in Step 1: six or more consecutive up days with accelerating daily gains).
+  - Change the overbought threshold from 70 to 80. You want the RSI to show a reading above 80 only when the move is parabolic (as defined in Step 1: at least six consecutive up days with accelerating daily gains).
   - (Optional) Some SMB desk traders use even higher thresholds such as 85 or 90 for instruments with similar volatility characteristics (such as silver, gold, or comparable commodities) that can extend further than the normal trading ranges for large-cap US equities before reversing.
 
-These custom settings ensure more discerning signals that represent parabolic (as defined in Step 1: six or more consecutive up days with accelerating daily gains) and extended conditions rather than normal price action of large-cap US equities. The default 14-period, 70/30 settings are designed for normal price action of large-cap US equities; you need settings that trigger only on parabolic moves.
+These custom settings ensure more discerning signals that represent parabolic (as defined in Step 1: at least six consecutive up days with accelerating daily gains) and extended conditions rather than normal price action of large-cap US equities. The default 14-period, 70/30 settings are designed for normal price action of large-cap US equities; you need settings that trigger only on parabolic moves.
 
 ### Step 3: Confirm Across At Least Three Time Frames
 
@@ -43,7 +43,7 @@ If the weekly chart also shows RSI above your custom overbought threshold (RSI a
 Before entering, gather confirming factors. Indicators alone are not complete strategies; they are tools that describe market variables. Combine the multi-timeframe RSI signal with these additional context checks: Keltner channels, historical comparison, consecutive up days, gap up, and opening range breakdown:
 
  - Keltner channels (Average True Range-based bands above a moving average) to visualize price extension beyond the moving average.
- - Historical comparison: look at prior parabolic (six or more consecutive up days with accelerating daily gains) moves in the same instrument over the 12 months preceding the setup, or in instruments with similar volatility characteristics (such as silver (SLV) or gold (GLD)), to see what the indicators looked like at those prior peaks.
+ - Historical comparison: look at prior parabolic (at least six consecutive up days with accelerating daily gains) moves in the same instrument over the 12 months preceding the setup, or in instruments with similar volatility characteristics (such as silver (SLV) or gold (GLD)), to see what the indicators looked like at those prior peaks.
   - Consecutive days up: at least three consecutive up days leading into the trade day adds additional confirmation.
   - Gap up into the day: a gap up from the prior close into the trading session increases your statistical edge by confirming the move is continuing to accelerate. A gap up of at least 1% from the prior close is the minimum threshold for this factor.
   - Opening range breakdown (a downward break of the first 15 minutes of the trading session): wait for the opening range to break down to confirm intraday direction. The highest-conviction entry is an opening range breakdown that occurs after a gap up from the prior close.
@@ -53,7 +53,7 @@ Before entering, gather confirming factors. Indicators alone are not complete st
 This is a day trade, not a swing trade. You are capturing the downside reversal of a blowoff top (an overextended price peak followed by a decline of at least 2% within the trading session), not making a multi-week directional bet. Size the trade based on how many of the five confirming factors are present: (1) multi-timeframe RSI alignment, (2) gap up, (3) at least three consecutive up days, (4) opening range breakdown, and (5) Keltner channel extension:
 
  - If all five confirming factors are present (multi-timeframe RSI alignment, gap up, at least three consecutive up days, opening range breakdown, and Keltner channel extension), allocate full size (100% of the planned position).
-  - If one or more of the five confirming factors are absent (e.g., RSI is present but other context factors are absent), take a reduced position (50% of planned size). You can add size if all five confirming factors are present before the setup expires at the close of the trading session.
+  - If at least one of the five confirming factors are absent (e.g., RSI is present but other context factors are absent), take a reduced position (50% of planned size). You can add size if all five confirming factors are present before the setup expires at the close of the trading session.
  - Do not hold the position beyond the trading session. If the trade invalidates and price closes above the opening range high (the high of the first 15 minutes of the session) or breaks back above the 50-day and 200-day moving averages, exit immediately. These blowoff tops can produce reversals of at least 2% within the session in both directions; stubbornness can turn a winner into a loser.
 
 ### Step 6: Manage Risk and Review Performance
@@ -72,7 +72,7 @@ SMB Capital's desk executed a silver short via SLV in the week of Christmas (Mon
 
 ### Example 2: Gold (GLD) Mean Reversion Short
 
-SMB Capital also traded a similar setup in gold (GLD). The pattern was nearly identical to the silver trade: the daily RSI was showing RSI above 80, intermediate time frames confirmed, and the move was parabolic. The trade was a day trade that reversed sharply (a decline of at least 2% within the session). Gold later consolidated and made a new all-time high two months afterward. This illustrates that the strategy is a short-term day trade based on technical dynamics, not a long-term directional call. The desk does not need to know where silver or gold will be in six months; they only need to capture the rapid reversal when the move has become extended beyond normal trading ranges for large-cap US equities.
+SMB Capital also traded a similar setup in gold (GLD). The pattern was similar to the silver trade: the daily RSI was showing RSI above 80, intermediate time frames confirmed, and the move was parabolic. The trade was a day trade that reversed sharply (a decline of at least 2% within the session). Gold later consolidated and made a new all-time high two months afterward. This illustrates that the strategy is a short-term day trade based on technical dynamics, not a long-term directional call. The desk does not need to know where silver or gold will be in six months; they only need to capture the rapid reversal when the move has become extended beyond normal trading ranges for large-cap US equities.
 
 ### Example 3: MSTR and SMCI Parabolic Shorts
 
@@ -80,11 +80,11 @@ SMB Capital has cataloged trades within this same setup, including MSTR and SMCI
 
 ## Best Practices
 
- - ✅ Change RSI period from the 14-period to the 20-period and the overbought threshold from 70 to 80 to filter for parabolic (six or more consecutive up days with accelerating daily gains) conditions.
+ - ✅ Change RSI period from the 14-period to the 20-period and the overbought threshold from 70 to 80 to filter for parabolic (at least six consecutive up days with accelerating daily gains) conditions.
  - ✅ Require multi-timeframe confirmation: daily + intermediate (130-min or hourly) + short-term (30-min) all three time frames must show RSI above 80 as part of all five confirming factors being present.
 - ✅ Combine RSI with price action, Keltner channels, and historical regime comparison.
  - ✅ Treat this as a day trade - capture the rapid reversal, do not try to swing it for weeks.
-  - ✅ Size based on how many of the five confirming factors are present; allocate full size (100% of planned position) when all five confirming factors (multi-timeframe RSI alignment, gap up, at least three consecutive up days, opening range breakdown, and Keltner channel extension) are present, or take a reduced position (50% of planned size) if one or more factors are absent.
+  - ✅ Size based on how many of the five confirming factors are present; allocate full size (100% of planned position) when all five confirming factors (multi-timeframe RSI alignment, gap up, at least three consecutive up days, opening range breakdown, and Keltner channel extension) are present, or take a reduced position (50% of planned size) if at least one factor is absent.
  - ✅ Use indicators as checks to keep emotion and FOMO (fear of missing out) in check.
  - ✅ If an early entry attempt fails and price reclaims above the opening range high (the high of the first 15 minutes of the trading session), exit immediately without stubbornness.
  - ✅ Review each trade to evaluate whether you entered before the parabolic peak and risk allocation.

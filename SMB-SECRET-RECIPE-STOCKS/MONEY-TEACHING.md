@@ -63,7 +63,7 @@ On the trading day when earnings are reported before the market opens, run the r
 
 - Stocks doing less than 20% of ADV during pre-market extended hours should be filtered out from earnings-play analysis
 - The acceleration inflection quarter is the target setup; use this decision tree: (1) Is this the first profitable quarter in the 5-quarter window? If yes → First Clean Profitable Beat Quarter. (2) If no, does it have at least 5 percentage points YoY revenue acceleration? If yes → Acceleration Inflection Quarter. (3) Otherwise → Continued Beat Quarter (excluding one-time gains or accounting adjustments)
-- A stock can be downgraded from A+ to A based on market environment, where A+ means all five grading checks are positive; A means exactly one check is negative; A- means exactly two checks are negative; C means three or more checks are negative or the setup should be avoided
+- A stock can be downgraded from A+ to A based on market environment, where A+ means all five grading checks are positive; A means exactly one check is negative; A- means exactly two checks are negative; C means at least three checks are negative or the setup should be avoided
 - High short interest (measured as short interest as a percentage of float; such as the 12–13% observed with Fastly) can coincide with stronger day-one moves, but is not required for a successful trade
 - Pre-market work provides the primary inputs for the trade decision; intraday action confirms or invalidates the pre-market analysis
 

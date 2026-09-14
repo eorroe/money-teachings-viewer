@@ -1,8 +1,8 @@
-# SMB Capital - Why Did One Trader Make Approximately $200 and Another Over $2,000 on the Same Setup
+# SMB Capital - Why Did One Trader Make $200 and Another Over $2,000 on the Same Setup
 
 ## Overview
 
-This money teaching explains why two traders given the exact same chart, the same setup, and the same entry can walk away with results ranging from approximately $200 to over $2,000. Steve made approximately $200 because he stopped watching the tape, focused on his own profit and loss (P&L), and sold into strength at the peak. Paula made over $2,000 because she stayed engaged with the stock, watched what the tape showed, held her position as the momentum continued, and added to her position when the tape confirmed buyers were in control. The difference comes down to two core shifts: stop focusing on your P&L and start watching the tape, and add to your position when the tape confirms the momentum is real.
+This money teaching explains why two traders given the exact same chart, the same setup, and the same entry can walk away with results ranging from $200 to over $2,000. Steve made $200 because he stopped watching the tape, focused on his own profit and loss (P&L), and sold into strength at the peak. Paula made over $2,000 because she stayed engaged with the stock, watched what the tape showed, held her position as the momentum continued, and added to her position when the tape confirmed buyers were in control. The difference comes down to two core shifts: stop focusing on your P&L and start watching the tape, and add to your position when the tape confirms the momentum is real.
 
 ## When to Follow These Money Teachings
 
@@ -46,11 +46,11 @@ Paula's approach was a simple question she repeated to herself throughout the tr
 
 ### Example 1: Steve's $200 Trade - Focusing on Self Instead of the Stock
 
-Steve studied the setup. He had Hood on his watchlist. He waited for the pullback, saw the buyers step in, and entered at the entry signal with a stop below the pullback low. He sold at the peak of the move. Correct execution on the entry. But he immediately started checking his P&L. The voice in his head said "I just made $200, that is enough." He stopped watching the tape. He missed the volume acceleration, the continuous buying, the 9 EMA curling back up, and the continuation. He walked away with approximately $200 on a trade that could have reached over $2,000. There is nothing wrong with the approximately $200 trade, but if you keep doing this every day, you are missing out on profits.
+Steve studied the setup. He had Hood on his watchlist. He waited for the pullback, saw the buyers step in, and entered at the entry signal with a stop below the pullback low. He sold at the peak of the move. Correct execution on the entry. But he immediately started checking his P&L. The voice in his head said "I just made $200, that is enough." He stopped watching the tape. He missed the volume acceleration, the continuous buying, the 9 EMA curling back up, and the continuation. He walked away with $200 on a trade that could have reached over $2,000. There is nothing wrong with the $200 trade, but if you keep doing this every day, you are missing out on profits.
 
 ### Example 2: Paula's $2,000 Trade - Staying Market Focused
 
-Paula saw the exact same setup. She entered at the same price with the same initial risk. The difference is what she did next. She did not focus on her P&L. She focused on the tape. She watched the buyers step in after the VWAP reclaim. She saw volume accelerate. She watched the 9 EMA curl up. She recognized that this was no longer just a VWAP continuation trade. The stock's momentum was increasing. She added to her position and moved her stop up. She watched for the next add opportunity. She stayed in until the 9 EMA broke. She walked away with over $2,000 on the same trade on which Steve made approximately $200. Same setup. Same chart. Different outcome.
+Paula saw the exact same setup. She entered at the same price with the same initial risk. The difference is what she did next. She did not focus on her P&L. She focused on the tape. She watched the buyers step in after the VWAP reclaim. She saw volume accelerate. She watched the 9 EMA curl up. She recognized that this was no longer just a VWAP continuation trade. The stock's momentum was increasing. She added to her position and moved her stop up. She watched for the next add opportunity. She stayed in until the 9 EMA broke. She walked away with over $2,000 on the same trade on which Steve made $200. Same setup. Same chart. Different outcome.
 
 ### Example 3: The "Fast Cars Have the Best Brakes" Principle
 
@@ -72,7 +72,7 @@ A momentum stock that stays in motion gives you a clear mechanical exit signal (
 ## Keep In Mind
 
 - This approach is for traders who have identified a repeatable setup and are actively watching the tape in real time. It is not advice for beginners who have not yet identified a repeatable strategy.
-- The approximately $200 outcome does not mean the entry was wrong. Steve executed the entry correctly. The issue was the exit and the mindset shift that happened after the initial profit target was hit.
+- The $200 outcome does not mean the entry was wrong. Steve executed the entry correctly. The issue was the exit and the mindset shift that happened after the initial profit target was hit.
 - Paula did not take on additional risk beyond what Steve took. Her initial stop was at the same level as Steve's. The add was backed by the open P&L from her first position. This is a risk management technique, not an averaging down on a losing trade.
 - The "Is it real?" question is a reminder to focus. It forces you to look at the tape, not your internal thoughts.
 - A setup is only the start of a trade. The setup is the beginning. The trade is what happens when the stock starts moving in real time.

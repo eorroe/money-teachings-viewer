@@ -96,7 +96,7 @@ Every pod member should understand the shared playbook and execution standards, 
 
 On August 13th, BLSH opened at 85. The SMB team identified it as a potential A or A+ day-one IPO. One trader placed the opening order. Another had back-tested IPO day-one moves over the past three to four years and estimated the initial price target. A third determined a 5% stop was appropriate given the lack of prior price levels. A fourth was ready to add aggressively on dips and set stops at the low of day.
 
-The trade opened, they entered immediately, added to the position, hit their offers, and the stock faded to close at approximately 67. Garret noted: "I would never have done that by myself. Not in a million years." The team combined the range of cognitive tasks covered, back-testing, execution speed, and risk management in a way that would be challenging for any single individual to replicate alone.
+The trade opened, they entered immediately, added to the position, hit their offers, and the stock faded to close at 67. Garret noted: "I would never have done that by myself. Not in a million years." The team combined the range of cognitive tasks covered, back-testing, execution speed, and risk management in a way that would be challenging for any single individual to replicate alone.
 
 ### Example 2: Dr. S and K Fits — Complementary Strengths Over Decades
 

@@ -46,7 +46,7 @@ At the end of each day, examine every trade the strategy took and every trade th
 
 ### Step 8: Seek Out the Unusual
 
-Place yourself in a position to notice market activity that deviates from your strategy's typical entry parameters every day. Maintain a list stored in a dedicated journal or document of market observations, unusual price or volume activity, and trades that nearly met the strategy's entry criteria. Strategy ideas come from near-miss trades. Reviewing near-miss trades reveals new strategy rules outside your current filters.
+Place yourself in a position to notice market activity that deviates from your strategy's typical entry parameters every day. Maintain a list stored in a dedicated journal or document of market observations, unusual price or volume activity, and near-miss trades. Strategy ideas come from near-miss trades. Reviewing near-miss trades reveals new strategy rules outside your current filters.
 
 ### Step 9: Run Thought Experiments to Create Inverse Strategies
 

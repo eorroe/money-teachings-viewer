@@ -4,7 +4,7 @@ SMB Hidden Relative Strength Early Signal
 
 ## Overview
 
-This money teaching explains how to identify hidden relative strength, institutional buying that occurs when the broader market declines. It is institutional accumulation that appears before approximately 90% of confirmed breakout moves, allowing traders to position ahead of the move instead of chasing stocks that have already moved 10% or more. By watching how stocks behave during market downdrafts and normalizing for volatility, traders can build a watch list of stocks most likely to breakout when the market closes higher for the day.
+This money teaching explains how to identify hidden relative strength, institutional buying that occurs when the broader market declines. It is institutional accumulation that appears before 90% of confirmed breakout moves, allowing traders to position ahead of the move instead of chasing stocks that have already moved at least 10%. By watching how stocks behave during market downdrafts and normalizing for volatility, traders can build a watch list of stocks most likely to breakout when the market closes higher for the day.
 
 ## When to Follow These Money Teachings
 
@@ -69,7 +69,7 @@ SNDK was pulling back and consolidating after advancing 20% when the market had 
 ## Keep In Mind
 
 - Hidden relative strength is the footprint of institutions executing positions too large to complete in a single day over time via TWAP (time-weighted average price)
-- It appears, based on observed trading patterns, roughly 90% of the time before confirmed breakouts
+- It appears, based on observed trading patterns, 90% of the time before confirmed breakouts
 - You do not have to enter a trade on the same day you first observe hidden relative strength; it can remain visible for two to five consecutive trading sessions
 - The signal is most reliable when applied to stocks already on your watch list that are within 5% of a prior resistance level, compared to applying it to stocks that are not within 5% of a prior resistance level
 - As your playbook database grows, use hidden relative strength as a method for ranking your watch list by identifying stocks with the strongest relative price behavior during market declines
