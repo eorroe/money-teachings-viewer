@@ -2,7 +2,7 @@
 
 ## Overview
 
-This money teaching explains why two traders given the exact same chart, the same setup, and the same entry can walk away with results ranging from approximately $200 to over $2,000. Steve made approximately $200 because he stopped watching the tape, focused on his own profit and loss (P&L), and sold into strength at the peak. Paula made over $2,000 because she stayed engaged with the stock, watched what the tape showed, and held her position as the momentum continued. The difference comes down to one core shift: stop focusing on your P&L and start watching the tape.
+This money teaching explains why two traders given the exact same chart, the same setup, and the same entry can walk away with results ranging from approximately $200 to over $2,000. Steve made approximately $200 because he stopped watching the tape, focused on his own profit and loss (P&L), and sold into strength at the peak. Paula made over $2,000 because she stayed engaged with the stock, watched what the tape showed, held her position as the momentum continued, and added to her position when the tape confirmed buyers were in control. The difference comes down to two core shifts: stop focusing on your P&L and start watching the tape, and add to your position when the tape confirms the momentum is real.
 
 ## When to Follow These Money Teachings
 
@@ -24,19 +24,19 @@ Do not enter until you see a measurable shift in price action. Watch the tape de
 
 ### Step 3: Immediately After Entry, Stop Talking to Yourself About P&L
 
-The moment you enter, do not start running P&L calculations in your head. That voice saying "I just want to make $200" is distracting you from the stock. Nobody on the other side of the trade cares about your target. No one is monitoring your trade to help you hit your target. When you focus on your P&L, you miss the information the tape is giving you: increasing volume, continuous buying, accelerating momentum. Steve exited at the peak because he was focused on his P&L. Paula stayed in because she was focused on the stock.
+The moment you enter, do not start running P&L calculations in your head. That voice saying "I just want to make $200" is distracting you from the stock. The tape reflects actual buying and selling pressure, not your personal target. No external party is monitoring your trade to ensure you hit your target. When you focus on your P&L, you miss the information the tape is giving you: increasing volume, continuous buying, accelerating momentum. Steve exited at the peak after becoming focused on his P&L. Paula stayed in because she remained focused on the tape.
 
 ### Step 4: Keep Watching for a Change in Character
 
-After you are in the trade, continue watching the tape. Look for a change in the price pattern. If the stock reclaims VWAP and the buyers keep stepping in with accelerating volume, the setup is evolving. It is no longer just a quick trade. It may be becoming an extended move. Do not assume your initial read is the final read. Paula watched the bid step up, saw the volume accelerate, and noticed the 9 EMA start to curl back up. That told her the stock's momentum was increasing.
+After you are in the trade, continue watching the tape. Look for a change in the price pattern. If the stock reclaims VWAP and the buyers keep stepping in with accelerating volume, the setup may be evolving into a larger continuation move rather than a quick sideways trade. Do not assume your initial read is the final read. Paula watched the bid step up, saw the volume accelerate, and noticed the 9 EMA start to curl back up. That told her the stock's momentum was increasing.
 
 ### Step 5: Add to Your Position When the Tape Tells You the Opportunity Is Real
 
-When the stock continues moving up and momentum is sustained, you may add to your position when the tape confirms buyers are in control and momentum is sustained. Paula entered the initial trade, then as the tape confirmed buyers were in control, she added to her position. She then moved her stop up to the lows of the new pullback candle. This lets you secure your gains while staying in the trade. Your open P&L from the original position covers the new risk. You are not increasing your total exposure. The trade can get better and better once momentum is truly on your side.
+When the stock continues moving up and the tape shows sustained buying pressure, you may add to your position if buyers remain in control. Paula entered the initial trade, then as the tape confirmed buyers were in control, she added to her position. She then moved her stop up to the lows of the new pullback candle. This lets you secure your gains while staying in the trade. Your open P&L from the original position secures the new risk. You are not increasing your total exposure. The trade can get better and better once momentum is truly on your side.
 
 ### Step 6: Set Your Exit Rule Before the Trade and Stick to It
 
-Know your exit before you enter. For a momentum trade like this, Paula used a close below the 9 EMA as her exit signal. Do not sell at the peak of the move. Do not sell into strength because you want to lock in a quick win. Watch the tape. When the bar closes below the 9 EMA, that is your reason to sell. Trust the process. Good momentum stocks pull back after longer moves, giving you another chance to exit. They will pull back and give you another chance to exit. It may seem like taking profits early is safer, but selling before your rule triggers can be riskier because you exit before the move is exhausted.
+Know your exit before you enter. For a momentum trade like this, Paula used a close below the 9 EMA as her exit signal. Do not sell at the peak of the move. Do not sell into strength because you want to lock in a quick win. Watch the tape. When the bar closes below the 9 EMA, that is your reason to sell. Trust the process. Good momentum stocks pull back after longer moves, giving you another chance to exit. It may seem like taking profits early is safer, but selling before your rule triggers can be riskier because you exit before the move is exhausted.
 
 ### Step 7: Use the "Is It Real?" Mantra to Stay Present
 
@@ -50,11 +50,11 @@ Steve studied the setup. He had Hood on his watchlist. He waited for the pullbac
 
 ### Example 2: Paula's $2,000 Trade - Staying Market Focused
 
-Paula saw the exact same setup. She entered at the same price with the same initial risk. The difference is what she did next. She did not focus on her P&L. She focused on the tape. She watched the buyers step in after the VWAP reclaim. She saw volume accelerate. She watched the 9 EMA curl up. She recognized that this was no longer just a VWAP continuation trade. The stock's momentum was increasing. She added to her position and moved her stop up. She watched for the next add opportunity. She stayed in until the 9 EMA broke. She walked away with over $2,000 on the same trade Steve took approximately $200 from. Same setup. Same chart. Different outcome.
+Paula saw the exact same setup. She entered at the same price with the same initial risk. The difference is what she did next. She did not focus on her P&L. She focused on the tape. She watched the buyers step in after the VWAP reclaim. She saw volume accelerate. She watched the 9 EMA curl up. She recognized that this was no longer just a VWAP continuation trade. The stock's momentum was increasing. She added to her position and moved her stop up. She watched for the next add opportunity. She stayed in until the 9 EMA broke. She walked away with over $2,000 on the same trade on which Steve made approximately $200. Same setup. Same chart. Different outcome.
 
 ### Example 3: The "Fast Cars Have the Best Brakes" Principle
 
-Good stocks with momentum allow you to recover, but this goes against your instincts. A common instinct is to protect profits quickly when the stock moves in your favor. But in a confirmed momentum move, selling into strength can be the wrong move. The stock pulls back and gives you another chance to exit. Paula understood this. She trusted the tape evidence showing sustained buying pressure. She did not need to sell at the peak of the move. The 9 EMA break gave her a clear exit rule. Hold until your exit rule triggers.
+A momentum stock that stays in motion gives you a clear mechanical exit signal (such as a close below the 9 EMA) that a choppy, low-volatility stock does not provide. Paula understood this. She trusted the tape evidence showing sustained buying pressure. She did not need to sell at the peak of the move. The 9 EMA break gave her a clear exit rule. Hold until your exit rule triggers.
 
 ## Best Practices
 
@@ -75,8 +75,6 @@ Good stocks with momentum allow you to recover, but this goes against your insti
 - The approximately $200 outcome does not mean the entry was wrong. Steve executed the entry correctly. The issue was the exit and the mindset shift that happened after the initial profit target was hit.
 - Paula did not take on additional risk beyond what Steve took. Her initial stop was at the same level as Steve's. The add was backed by the open P&L from her first position. This is a risk management technique, not an averaging down on a losing trade.
 - The "Is it real?" question is a reminder to focus. It forces you to look at the tape, not your internal thoughts.
-- SMB Capital's data shows that low-momentum stocks give clearer signals than high-momentum stocks. The tape gives you unambiguous signals and well-defined exit points.
-- You are not missing trades. You are missing the largest profit portion of trades you have already taken because you checked out mentally.
 - A setup is only the start of a trade. The setup is the beginning. The trade is what happens when the stock starts moving in real time.
 
 ## Security & Safety Notes
@@ -90,7 +88,7 @@ Good stocks with momentum allow you to recover, but this goes against your insti
 
 ## Common Pitfalls
 
-- **Problem:** You enter a trade with a valid setup and immediately start calculating how much profit you need or want from it.
+- **Problem:** You enter a trade with a setup that meets all of its entry criteria and immediately start calculating how much profit you need or want from it.
   **Solution:** Recognize the thinking about your profit and loss as a distraction. Shift your focus back to the tape. Ask yourself "Is it real?" and let the tape show you.
 
 - **Problem:** You take a quick profit trade and later see the stock continue without you.

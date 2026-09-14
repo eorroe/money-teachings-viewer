@@ -20,7 +20,7 @@ Look at your current daily workflow and find a repetitive task you do manually. 
 
 ### Step 2: Open Claude Code (CLI) or Claude.ai web interface and Describe Your Goal
 
-Launch Claude Code and simply describe what you want to build in plain language. This is called "vibe coding." For example, say: "I want to build a dashboard that tracks my trades. I want to be able to upload my trade data at the end of the day and then see my win rate, win-loss ratio, average losing trade, average winning trade, win rate, win-loss ratio, average winning trade, average losing trade, and any other statistics you specify." The more specific and articulate you are about what you want, the better the output. If you struggle to express exactly what you need, use another LLM like ChatGPT to help refine your description, then copy and paste that into the Claude interface you are using.
+Launch Claude Code and simply describe what you want to build in plain language. This is called "vibe coding." For example, say: "I want to build a dashboard that tracks my trades. I want to be able to upload my trade data at the end of the day and then see my win rate, win-loss ratio, average losing trade, average winning trade, and any other statistics you specify." The more specific and articulate you are about what you want, the better the output. If you struggle to express exactly what you need, use another LLM like ChatGPT to help refine your description, then copy and paste that into the Claude interface you are using.
 
 ### Step 3: Use Plan Mode to Brainstorm Before Building
 
@@ -50,7 +50,7 @@ Never take the AI's output at face value. Always check for bad or outdated data.
 
 ### Example 1: Pre-Market Research Dashboard
 
-Justin built a dashboard that runs every morning and produces a macro rundown. It starts with the most important overnight development, provides an economic calendar rated by importance (such as MBA (Mortgage Bankers Association) mortgage applications at 7:00 a.m. marked as low importance), lists key events like Tax Day or historical retail buy-the-dip dynamics, summarizes earnings that came out in pre-market, and then identifies what the AI thinks will move the market most that day along with the catalysts. It also surfaces secondary names from research emails with quick notes. This project took 18–22 hours initially; can now be rebuilt in approximately 60 minutes if needed.
+Justin built a dashboard that runs every morning and produces a macro rundown. It starts with the most important overnight development, provides an economic calendar rated by importance (such as MBA (Mortgage Bankers Association) mortgage applications at 7:00 a.m. marked as low importance), lists key events like Tax Day or historical retail buy-the-dip dynamics, summarizes earnings that came out in pre-market, and then identifies what the AI thinks will move the market most that day along with the catalysts. It also surfaces secondary names from research emails with quick notes. This project took 18–22 hours initially; it can now be rebuilt in approximately 60 minutes if needed.
 
 ### Example 2: Trade Tracker Dashboard
 
@@ -73,7 +73,7 @@ Tim, a trader at SMB Capital, described building a backtesting script where you 
 - ✅ Start by identifying a specific daily process you already do manually and describe it to Claude in plain language
 - ✅ Use plan mode in Claude Code to brainstorm the full project brief before switching to build mode
 - ✅ Refine your prompts using ChatGPT or another LLM when Claude does not understand what you want
- - ✅ Teach Claude about your trading playbook, rules, blacklisted tickers, and past good trades to tailor the output to your trading setups, rules, and blacklisted tickers
+ - ✅ Teach Claude about your trading playbook, rules, blacklisted tickers, and past good trades to tailor the output to your trading setups
  - ✅ Subscribe to six free newsletters including Vital Knowledge, Hammerstone Reports, MarketWatch, Wall Street Journal, Bloomberg, and Trade the News
 - ✅ Review AI output every morning and immediately correct mistakes so the tool improves over time
  - ✅ Use your own previously written scripts or templates as a starting point when building automated models or backtests (for example, a script you have previously written that pulls the last year of data for stocks gapping up by 0.5 × the 14-day Average True Range (ATR), where 0.5 ATR is a common threshold for identifying meaningful intraday gaps, then computes win rate, percentage of green closes, average close, and average move from open to high)
@@ -83,7 +83,7 @@ Tim, a trader at SMB Capital, described building a backtesting script where you 
 
 - A practical advantage with AI is operational efficiency (reducing the time spent on repetitive data gathering and formatting tasks): how quickly you prepare, how organized your process is, and how effectively you execute on your trading ideas. It is not about getting AI to predict where a stock is going.
 - AI trading assistants are not "set it and forget it." They require regular review and updates. Justin's dashboard is on version three and he still identifies refinements to implement daily.
- - The quality of the output depends heavily on the quality of the data you feed it. If you only read one news source, an AI summary is less valuable because you lose the benefit of cross-referencing multiple perspectives. The value comes from cross-referencing at least two independent sources — so first identify and subscribe to at least six qualifying news or research feeds before aggregating.
+ - The quality of the output depends heavily on the quality of the data you feed it. If you only read one news source, an AI summary is less valuable because you lose the benefit of cross-referencing multiple perspectives. The value comes from cross-referencing at least six independent sources — so first identify and subscribe to at least six qualifying news or research feeds before aggregating.
 - You do not need to be a coder to build useful tools. Justin had minimal coding experience when he started. However, some basic coding literacy helps with debugging and making small manual adjustments.
 - The time you save can be used for other activities such as building more complex models, refining your playbook, or simply having more time outside of work.
 
@@ -98,7 +98,7 @@ Tim, a trader at SMB Capital, described building a backtesting script where you 
 ## Common Pitfalls
 
 - **Problem:** The AI produces generic recommendations that do not match your trading style (your specific setups — such as breakouts, mean reversion, or catalyst plays — your position sizing rules for A+ setups (highest conviction), A setups (strong), B setups (marginal), and C setups (avoid), and your blacklisted tickers)
-  **Solution:** Spend time teaching the AI about your playbook, your pre-trade conditions that must be true before entering a position (the specific pre-trade conditions that must be true before you enter a position), your rules, and examples of your best trades. The more context you provide, the more personalized and useful the output becomes.
+  **Solution:** Spend time teaching the AI about your playbook, your pre-trade conditions that must be true before entering a position, your rules, and examples of your best trades. The more context you provide, the more personalized and useful the output becomes.
 - **Problem:** The AI reports outdated or incorrect data such as outdated VIX levels that no longer reflect current market conditions
   **Solution:** Review the output daily. When you catch an error, go back and tell Claude to exclude that data point if it is not present in your parsed sources. Treat it as a project that improves with each iteration.
 - **Problem:** You get stuck on a prompt and Claude keeps producing output that does not match your intended strategy logic, data collection approach, or trade rules

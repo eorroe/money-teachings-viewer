@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Money Teaching shows how to use Claude Code to automate backtesting and strategy development for systematic trading. It focuses on linking Claude to backtesting platforms like AmiBroker or RealTest, providing reference scripts for consistent strategy generation, and building verification skills so Claude can self-check its work. The goal is to help systematic traders run four to five times as many backtests in less time while following software development best practices to avoid technical debt.
+This Money Teaching shows how to use Claude Code to automate backtesting and strategy development for systematic trading. It focuses on linking Claude to backtesting platforms like AmiBroker or RealTest, providing reference scripts for consistent strategy generation, and building verification skills so Claude can self-check its work. The goal is to help systematic traders run 4 to 5 times as many backtests in less time while following software development best practices to avoid technical debt.
 
 ## When to Follow These Money Teachings
 
@@ -16,15 +16,15 @@ This Money Teaching shows how to use Claude Code to automate backtesting and str
 
 ### Step 1: Link Claude Code to Your Backtesting Platform
 
-Connect Claude Code to a backtesting platform that supports automation, such as AmiBroker or RealTest. AmiBroker provides a standard Windows interface that allows Python scripts to run backtests, save results, and export to CSV without manual intervention. Configure Claude so that it can execute backtests on your behalf with a command. Automating backtests eliminates the need to manually click buttons, wait for results, and save files. If your current platform does not support external automation, consider switching to a platform that does, since this is a foundational step for the rest of the workflow.
+Connect Claude Code to a backtesting platform that supports automation, such as AmiBroker or RealTest. AmiBroker provides a standard Windows interface that allows Python scripts to run backtests, save results, and export to CSV (Comma-Separated Values) without manual intervention. Configure Claude so that it can execute backtests on your behalf with a command. Automating backtests eliminates the need to manually click buttons, wait for results, and save files. If your current platform does not support external automation, consider switching to a platform that does, since this is a foundational step for the rest of the workflow.
 
 ### Step 2: Provide Claude with a Reference Script When Generating Strategies
 
-When asking Claude to write a new trading strategy, always provide an example of an existing strategy script written in your preferred style. Include the conventions you follow, such as how trades are executed, how columns are captured, variable naming patterns, and how the script interacts with your backtesting platform. This is especially important for AmiBroker Formula Language (AFL) scripts, where there are different ways to write a strategy but only one structure that supports custom columns. By giving Claude a reference, you reduce token usage, and ensure new strategies integrate seamlessly with your existing codebase.
+When asking Claude to write a new trading strategy, always provide an example of an existing strategy script written in your preferred style. Include the conventions you follow, such as how trades are executed, how columns are captured, variable naming patterns, and how the script interacts with your backtesting platform. This is especially important for AmiBroker Formula Language (AFL) scripts, where multiple valid approaches exist for writing a strategy but only one structure that supports custom columns. By giving Claude a reference, you reduce token usage, and ensure new strategies integrate seamlessly with your existing codebase.
 
 ### Step 3: Build a Smoke Test Skill for Claude
 
-Create a skill or function that allows Claude to run a quick smoke test on any new strategy before running a full backtest. The smoke test should run the strategy on a single symbol or a single day's data, which takes seconds instead of the 40 minutes to an hour that a full backtest requires. Configure Claude to use this skill automatically after generating a new strategy so it can immediately verify whether the code is working. If the smoke test returns no results, too many results, or results that do not match expected trades, Claude can diagnose the issue right away rather than waiting for a full backtest to complete.
+Create a skill or function that allows Claude to run a quick smoke test on any new strategy before running a full backtest. The smoke test should run the strategy on a single symbol or a single day's data, which takes seconds instead of the 40 minutes to an hour that a full backtest requires. Configure Claude to use this skill automatically after generating a new strategy so it can immediately verify whether the code is working. If the smoke test returns no results, an excessive number of results, or results that do not match expected trades, Claude can diagnose the issue right away rather than waiting for a full backtest to complete.
 
 ### Step 4: Give Claude a Self-Verification Mechanism
 
@@ -32,7 +32,7 @@ Extend Claude's capabilities by giving it a way to verify its own correctness, s
 
 ### Step 5: Run Parameterized Backtests Overnight
 
-Once Claude can run backtests independently, set up parameterized variations of your strategies and let them run overnight. Instead of manually changing parameters one at a time, configure Claude to iterate through parameter sets and run each version automatically. Wake up to a full set of results and use them to optimize your strategy. This can increase the number of backtests you run by four to five times without any extra manual effort, turning a weekend task into an overnight batch job.
+Once Claude can run backtests independently, set up parameterized variations of your strategies and let them run overnight. Instead of manually changing parameters one at a time, configure Claude to iterate through parameter sets and run each version automatically. Wake up to a full set of results and use them to optimize your strategy. This can increase the number of backtests you run by 4 to 5 times without any extra manual effort, turning a weekend task into an overnight batch job.
 
 ### Step 6: Use GitHub Properly for Version Control
 
@@ -42,7 +42,7 @@ Adopt standard GitHub practices, including using branches instead of committing 
 
 ### Example 1: Automating AmiBroker Backtests with Python
 
-A systematic trader uses AmiBroker for backtesting but previously had to manually click the backtest button, wait for results, and save the CSV. By writing a Python script that uses AmiBroker's interface, they taught Claude to run backtests with a command. Claude executes the backtest, saves the results to a consistent location, and reports the output. This allows the trader to queue up four or five backtests and run them overnight, waking up to completed results instead of manually managing each run.
+A systematic trader uses AmiBroker for backtesting but previously had to manually click the backtest button, wait for results, and save the CSV. By writing a Python script that uses AmiBroker's interface, they taught Claude to run backtests with a command. Claude executes the backtest, saves the results to a consistent location, and reports the output. This allows the trader to queue up 4 or 5 backtests and run them overnight, waking up to completed results instead of manually managing each run.
 
 ### Example 2: Using a Reference Script to Generate Consistent Strategies
 
@@ -73,7 +73,7 @@ A trader created a Claude skill that runs a backtest on only the MSFT symbol for
 
 ## Security & Safety Notes
 
-- Never commit secrets, API keys, or credentials to version control or share them with Claude in prompts
+- Never commit secrets, Application Programming Interface (API) keys, or credentials to version control or share them with Claude in prompts
 - Always test new strategies in a paper trading or sandbox environment before deploying them to live accounts
 - Use pull requests and code reviews to ensure that changes to production strategies are verified before merging
 - Keep production code on a protected main branch and never develop directly on it when strategies are live
@@ -82,7 +82,7 @@ A trader created a Claude skill that runs a backtest on only the MSFT symbol for
 ## Common Pitfalls
 
 - **Problem:** Trying to build a custom backtesting system from scratch with Claude instead of using an established platform like AmiBroker
-  **Solution:** Use tools that have been refined for 30 years, such as AmiBroker, which is an efficient option for many retail systematic traders.
+  **Solution:** Use tools that have been refined over many years, such as AmiBroker, which is a practical choice for retail systematic traders.
 - **Problem:** Not providing sufficient context in prompts, leading to inconsistent code and elevated token costs
   **Solution:** Give Claude a reference script, specify exact parameters, time frames, stops, and profit targets specifically. The more specific the prompt, the higher the likelihood that Claude will complete the task from a single prompt without requiring follow-up interaction.
 - **Problem:** Committing directly to the main branch without testing, risking broken production code

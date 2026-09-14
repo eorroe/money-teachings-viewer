@@ -2,7 +2,7 @@
 
 ## Overview
 
-This money teaching is based on the SMB Capital Elite Prop Firm Playbook, a proprietary framework from SMB Capital. The firm's traders at SMB Capital consistently earn seven and even eight figures a year per the firm's training program. The playbook is a structured 10-variable exercise that traders complete daily to deconstruct their best trades, build a personal trading database, and develop the discipline to only trade setups already documented in your playbook. By systematically analyzing every trade through the lens of big picture context, intraday fundamentals, stock selection, technical analysis, trade strategy, risk management, reading the tape, technology, trade review, and diligence, traders learn to think and act like professionals rather than gamblers. This teaching distills the core philosophy and actionable steps from the SMB playbook so a trader can apply the same principles to build a lasting trading business.
+This money teaching is based on the SMB Capital Elite Prop Firm Playbook, a proprietary framework from SMB Capital. The firm's traders at SMB Capital consistently earn seven and even eight figures a year because the firm provides them with a blueprint that works. The playbook is a structured 10-variable exercise that traders complete daily to deconstruct their best trades, build a personal trading database, and develop the discipline to only trade setups already documented in your playbook. By systematically analyzing every trade through the lens of big picture context, intraday fundamentals, stock selection, technical analysis, trade strategy, risk management, reading the tape, technology, trade review, and diligence, traders learn to think and act like professionals rather than gamblers. This teaching distills the core philosophy and actionable steps from the SMB playbook so a trader can apply the same principles to build a lasting trading business.
 
 ## When to Follow These Money Teachings
 
@@ -50,7 +50,7 @@ Assign a risk allocation grade (A+, A, B, etc.) based on opportunity quality, li
 
 ### Step 9: Use Technology and Set Alerts
 
-During the trading day, use your platform to set alerts at specific price levels documented in your playbook. Use TradingView to anchor VWAPs from the year-to-date, earnings report event, prior swing low, and prior high areas. Set alerts at key price levels including 200 for the specific stock under analysis, the low of the open, VWAP breaks, the aftermarket high, pre-market low, and any other level that would confirm or invalidate your thesis. Alerts should be set for the low of the open, VWAP breaks, and any other level that would confirm or invalidate your thesis. Constantly reset alerts throughout the day to give yourself signals to enter and add to positions.
+During the trading day, use your platform to set alerts at specific price levels documented in your playbook. Use TradingView to anchor VWAPs from the year-to-date, earnings report event, prior swing low, and prior high areas. Set alerts at key price levels documented in your playbook, including the low of the open, VWAP breaks, the aftermarket high, pre-market low, and any other level that would confirm or invalidate your thesis. Alerts should be set for the low of the open, VWAP breaks, and any other level that would confirm or invalidate your thesis. Constantly reset alerts throughout the day to give yourself signals to enter and add to positions.
 
 ### Step 10: Conduct a Trade Review Focused on What You Did Well
 
@@ -64,7 +64,7 @@ Over weeks and months, compile the daily playbook trades (the one best trade ide
 
 ### Example 1: Big Picture Analysis - SPY Gapping Into Support
 
-The traders analyzed SPY gapping down near the 20-day moving average (red line) which coincided with the prior low anchored VWAP from 52440 (pink line). Key support was at 593-594, overhead resistance at 600 and 604. The 20-day vertical line marked the prior neckline of resistance. Price had rejected this level repeatedly before breaking above it in the prior three days, and this was the first pullback to test the former neckline from below. The traders explained that the change in character occurred when buyers stepped in after the rejection from 600, anchored VWAP at 52440 to mark the start of the uptrend. This level marked the start of the uptrend that carried to the prior neckline of resistance and above. This level of specificity - explaining why 52440 mattered and what happened there - is what earns high scores in the big picture variable.
+The traders analyzed SPY gapping down near the 20-day moving average (red line) which coincided with the prior low anchored VWAP from 523 (pink line). Key support was at 593-594, overhead resistance at 600 and 604. The 20-day vertical line marked the prior neckline of resistance. Price had rejected this level repeatedly before breaking above it in the prior three days, and this was the first pullback to test the former neckline from below. The traders explained that the change in character occurred when buyers stepped in after the rejection from 600, anchored VWAP at 523 to mark the start of the uptrend. This level marked the start of the uptrend that carried to the prior neckline of resistance and above. This level of specificity - explaining why 523 mattered and what happened there - is what earns high scores in the big picture variable.
 
 ### Example 2: Intraday Fundamentals - RH Earnings Report Deception
 
@@ -76,7 +76,7 @@ For the RH trade, the traders developed two scenarios. Scenario 1 (bull case): g
 
 ### Example 4: Trade Management - Opening Range Break Entry
 
-In the actual trade execution, the traders entered on bullet four, the opening range break. They broke the low of day and retested support as resistance, risking the blowoff candle. They traded into the 2-day VWAP, covering into the converging week-to-date and prior day VWAPs at 198. Entry was at bullet four (opening range break), exit was at bullet seven (covering into the converging week-to-date and prior day VWAPs). The traders noted this was a move-to-move trade concept, but emphasized that this particular setup was actually a trade to hold given the strong negative news catalyst. The trade management was graded 8.5 out of 10.
+In the actual trade execution, the traders entered on bullet four, the opening range break. They broke the low of day and retested support as resistance, risking the blowoff candle. They traded into the 2-day VWAP, covering at 198 into that level. Entry was at bullet four (opening range break), exit was at bullet seven (covering into the converging week-to-date and prior day VWAPs). The traders noted this was a move-to-move trade concept, but emphasized that this particular setup was actually a trade to hold given the strong negative news catalyst. The trade management was graded 8.5 out of 10.
 
 ## Best Practices
 
@@ -88,7 +88,7 @@ In the actual trade execution, the traders entered on bullet four, the opening r
 - ✅ Check the income statement and core business fundamentals when analyzing earnings
 - ✅ Anchor VWAPs at key events (earnings, prior swing lows/highs) to mark significance
 - ✅ Use a sizing scorecard and adjust position size based on opportunity quality
-- ✅ Set alerts at specific price levels during the trading day - such as the low of the open, VWAP breaks, 200 for the stock being traded, the aftermarket high, and pre-market low - to signal entries and exits
+- ✅ Set alerts at specific price levels during the trading day - such as the low of the open, VWAP breaks, the aftermarket high, and pre-market low - to signal entries and exits
 - ✅ Write your playbook so clearly that you could understand it 10 years from now
 - ❌ Do not make trades that are not already documented in your playbook
 - ❌ Do not focus trade reviews only on mistakes and shortcomings
@@ -100,8 +100,8 @@ In the actual trade execution, the traders entered on bullet four, the opening r
 - The playbook template is a starting point - individualize it as you gain experience by tweaking, adding, or removing variables
 - Half points in your scoring system matter when applied consistently over many opportunities
 - "Trade to hold" for trades with a negative news catalyst rated at least 9 on a scale of 1 to 10; capture an intraday trend rather than scalping these trades
-- For most traders, an A+ opportunity does not occur every day, but a trader will still trade every day with reduced position size - for example, 50 shares for an A-rated opportunity instead of full size
-- The little things make the big things happen - small improvements in how precisely you define entries, exits, and failure conditions compound over time
+- Traders may not get an A+ opportunity for two weeks, but they will still trade every day with reduced position size - for example, 50 shares for an A-rated opportunity instead of full size
+- Small improvements in how precisely you define entries, exits, and failure conditions compound over time
 - Your playbook is your database for constructing trades with edge; make it comprehensive and detailed
 - If a trader is not doing the playbook exercise, that trader is unlikely to be specific enough about entries, exits, and failure conditions to compete with professional traders
 - Risk allocation should match opportunity quality - full size for A+ opportunities, 50 shares for A opportunities, and proportionally less for lower grades
@@ -112,7 +112,7 @@ In the actual trade execution, the traders entered on bullet four, the opening r
 - Never risk more than a trader's predetermined allocation on any single trade (a trader must establish that allocation before trading)
 - Always define a stop loss and exact exit criteria before entering any position (a trader must determine these criteria prior to entry)
 - For multi-scenario trade plans, allocate different risk amounts to each scenario rather than risking the same size on outcomes you do not favor
-- Monitor liquidity and be aware that stocks with lower average daily volume have practical ceilings on position size and carry slippage risk
+- Monitor liquidity and be aware that stocks with lower average daily volume have upper limits on position size and carry slippage risk
 - If a trader's thesis contradicts the consensus view and all other market participants are taking the opposite position, that thesis may be incorrect - have a system for exiting
 - Do not hold a losing position beyond the time horizon defined in your trade plan just because the thesis has not played out yet - define your failure conditions in advance
 
@@ -131,7 +131,7 @@ In the actual trade execution, the traders entered on bullet four, the opening r
    **Solution:** When analyzing an earnings report, always check operating margins and core business income. A decline in operating margins is a key red flag. Determine whether EPS beats came from real operations or one-off adjustments.
 
 - **Problem:** Not defining exit criteria or what "fails" means before entering a trade
-  **Solution:** Define specific failure conditions in advance - a trend line break, parabolic move, VWAP hold, or consolidation area break. This specificity separates professional traders from everyone who cannot hold their positions.
+  **Solution:** Define specific failure conditions in advance - for example, a break of a two-minute candle, a break of a trend line, serious weakness clearly visible on the tape, or a break of a significant consolidation area. This specificity separates professional traders from everyone who cannot hold their positions.
 
 - **Problem:** Never individualizing the playbook as you gain experience
    **Solution:** As a trader reviews results over time and learns which setups align with that trader's approach, tweak, add, or remove variables from the template. The playbook is a living document, not a rigid rulebook.

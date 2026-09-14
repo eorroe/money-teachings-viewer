@@ -2,7 +2,7 @@
 
 ## Overview
 
-This money teaching teaches a structured, bucket-based framework for trading earnings reports as swing trades starting on day one (the first trading session following an earnings report release). SMB Capital traders use this playbook to categorize earnings reports into distinct buckets so they can identify trade setups (predefined price-action and volume conditions that signal an entry), evaluate each report with prior earnings history, and recognize when prior results meet the defined threshold — average day-two-and-beyond gains of at least 5% across early reporters — that indicates the street will upgrade ratings or price targets for the entire group of stocks. The fourth and newest bucket -- a market theme where constituent stocks are showing follow-through with upward price movement -- uses early reporters within a sector (stocks that report early in a quarter) as a leading indicator for later reporters in the same theme.
+This money teaching teaches a structured, bucket-based framework for trading earnings reports as swing trades starting on day one (the first trading session following an earnings report release). SMB Capital traders use this playbook to categorize earnings reports into distinct buckets so they can identify trade setups (predefined price-action and volume conditions that signal an entry), evaluate each report with prior earnings history, and recognize when prior results meet the defined threshold — average day-two-and-beyond gains of at least 5% across early reporters — that indicates Wall Street will upgrade ratings or price targets for the entire group of stocks. The fourth and newest bucket -- a market theme where constituent stocks are showing follow-through with upward price movement -- uses early reporters within a sector (stocks that report early in a quarter) as a leading indicator for later reporters in the same theme.
 
 ## When to Follow These Money Teachings
 
@@ -18,10 +18,10 @@ This money teaching teaches a structured, bucket-based framework for trading ear
 
 Categorize every earnings report you review into one of four buckets:
 
-- First clean profitable beat: The company just turned profitable for the first time. The report suggests the business model works. Creates a day-one price move of at least 5% (the threshold rises when short interest is at least 10%, or when the stock gaps above the implied move by at least 10%), suggesting the market may not have fully priced in results above the implied move. Does not indicate sustained profitability.
+- First clean profitable beat: The company just turned profitable for the first time. The report suggests the business model works. Creates a day-one price move of at least 5% (the threshold rises when short interest is at least 10%, or when the stock gaps above the implied move by at least 10%), suggesting Wall Street may not have fully priced in results above the implied move. Does not indicate sustained profitability.
 - Acceleration/inflection quarter: Acceleration in earnings per share (EPS) growth, or revenue growth, or both, following a first clean profitable beat, which suggests the acceleration in that prior profitable beat quarter was not a one-off fluke. This is the preferred setup.
 - Strong company continuing to crush it: You already had your inflection quarter. Earnings and revenue growth continue to meet or exceed consensus estimates, possibly with raised guidance. The rate of change from the prior quarter is lower than the acceleration quarter's rate of change, though still positive because the stock has already experienced its fundamental inflection. Prior positive results from the prior inflection quarter are incorporated into the current share price, which can contribute to gap ups that sell off.
-- Hot theme getting rewarded: A leading market theme is being rewarded by the street. Early reporters in that theme (stocks that report early in a quarter) hold above their day-one closing prices. Later reporters in the same theme follow through with upward price movement even when their individual numbers do not meet the acceleration/inflection-quarter threshold, because the street is upgrading their ratings or price targets for the entire group. This is the fourth bucket.
+- Hot theme getting rewarded: A leading market theme is being rewarded by Wall Street. Early reporters in that theme (stocks that report early in a quarter) hold above their day-one closing prices. Later reporters in the same theme follow through with upward price movement even when their individual numbers do not meet the acceleration/inflection-quarter threshold, because Wall Street is upgrading their ratings or price targets for the entire group. This is the fourth bucket.
 
 ### Step 2: Screen for Earnings Candidates
 
@@ -55,7 +55,7 @@ For the fourth bucket specifically:
 
 - Identify the highest-market-cap and highest-volume stocks in a leading theme and the order they report during the quarter.
 - Record day-one price reaction and price reaction through at least the fifth trading session for each early reporter.
-- If the street rewards early reporters with average gains of at least 5% from day-one close through day five, later reporters in the same theme are likely to follow through with upward price movement even when their individual numbers do not meet the acceleration/inflection-quarter threshold, because the street is upgrading their ratings or price targets for the entire group.
+- If Wall Street rewards early reporters with average gains of at least 5% from day-one close through day five, later reporters in the same theme are likely to follow through with upward price movement even when their individual numbers do not meet the acceleration/inflection-quarter threshold, because Wall Street is upgrading their ratings or price targets for the entire group.
 - Build a table of theme leaders, their report dates, and their day-one and post-day-one price movements.
 
 ## Examples
@@ -65,7 +65,7 @@ For the fourth bucket specifically:
 SMB traders identified fiber optics and photonics as a leading AI-related theme. The main stocks tracked were LITE, COHR, AAOI, and CIEN, reporting in that order during the quarter.
 
 - LITE reported first with an acceleration/inflection quarter. Day one saw a gap up followed by selling into the open that prevented it from holding the premarket high. However, day two through day four showed purchases on high volume and the stock moved higher until AAOI reported.
-- COHR reported second with earnings and revenue meeting or exceeding consensus estimates but not an acceleration quarter, and it was a larger, more diversified company than LITE. The street compared it unfavorably to LITE on the basis that COHR's earnings and revenue showed no acceleration quarter and initially gapped it down. Even so, it was purchased on high volume off the open and moved higher afterward, signaling the theme was showing follow-through with upward price movement.
+- COHR reported second with earnings and revenue meeting or exceeding consensus estimates but not an acceleration quarter, and it was a larger, more diversified company than LITE. Wall Street compared it unfavorably to LITE on the basis that COHR's earnings and revenue showed no acceleration quarter and initially gapped it down. Even so, it was purchased on high volume off the open and moved higher afterward, signaling the theme was showing follow-through with upward price movement.
 - AAOI reported third with a record revenue quarter and near profitability (projected to turn profitable within the next quarter), 14.5% short interest, a float of 60-70 million shares, and a weekly/monthly chart breaking above the resistance level established in 2017. It was a stock with a history of single-day price moves of at least 10% following earnings reports within the theme. Day one saw a gap above the prior close, high volume off the open, and gained nearly 100% in the first two days.
 - CIEN reported last and gapped down, was purchased on high volume off the open, and trended higher, similar to COHR, confirming the theme was showing follow-through with upward price movement.
 
@@ -87,8 +87,8 @@ AAOI did not cleanly fit the existing three buckets because it was not yet profi
 
 ## Keep In Mind
 
-- Not every earnings season follows the same pattern. Strong reports in a hot-theme environment tend to experience continued upward price movement for two to five trading sessions. Gap ups may be sold. The hot-theme bucket helps you identify when institutional traders are willing to take on risk for a specific sector.
-- An early-stage unprofitable company that is on track to profitability typically shows high revenue growth rates before turning profitable. Do not chase these unless they are projected to be profitable within one quarter and report within a theme showing follow-through with upward price movement.
+- Not every earnings season follows the same pattern. Earnings reports in a hot-theme environment tend to experience continued upward price movement for two to five trading sessions. Gap ups may be sold. The hot-theme bucket helps you identify when institutional traders are willing to take on risk for a specific sector.
+- An early-stage unprofitable company that is on track to profitability typically shows revenue growth rates before turning profitable. Do not chase these unless they are projected to be profitable within one quarter and report within a theme showing follow-through with upward price movement.
 - The catalyst is the primary factor. Theme, overnight volume, higher timeframe technicals, overnight price action, and opening volume are supporting factors that confirm or invalidate the catalyst signal.
 - When you screen, start with themes and work down to individual reports; read reports in theme context rather than evaluating each report's numbers in isolation.
 
@@ -101,12 +101,12 @@ AAOI did not cleanly fit the existing three buckets because it was not yet profi
 ## Common Pitfalls
 
 - **Problem:** Reading each earnings report in isolation and trying to judge it as good or bad without context.
-  **Solution:** Use the four-bucket framework and always look at the previous earnings history to understand the earnings trajectory and what the market is likely to be pricing in.
+  **Solution:** Use the four-bucket framework and always look at the previous earnings history to understand the earnings trajectory and what Wall Street is likely to be pricing in.
 - **Problem:** Missing a theme play because you focus only on individual stock metrics.
-  **Solution:** Track early reporters in each theme. If the street rewards them, later reporters in the same theme are likely to follow even if their numbers are not exceptional.
+  **Solution:** Track early reporters in each theme. If Wall Street rewards them, later reporters in the same theme are likely to follow even if their numbers are not exceptional.
 - **Problem:** Entering a trade without volume confirmation at the open.
   **Solution:** Wait for volume bars at least 2 standard deviations above the 20-day average daily volume off the open as a quantitative confirmation threshold before entering.
 - **Problem:** Buying a stock simply because a stock's EPS or revenue beat consensus estimates without considering whether the beat was already priced in.
   **Solution:** Check whether the stock is in the 'Strong company continuing to crush it' bucket where prior positive results are incorporated into the current share price, and watch for a day-one gap up followed by failure to hold above the premarket high into the close and a volume-confirmed pullback into the close.
 - **Problem:** Shorting a stock in a hot theme showing follow-through with upward price movement.
-  **Solution:** Avoid shorting names in a hot theme that the street is actively upgrading their ratings or price targets for. The momentum can persist beyond the opening-drive phase in strong theme plays.
+  **Solution:** Avoid shorting names in a hot theme that Wall Street is actively upgrading their ratings or price targets for. The momentum can persist beyond the opening-drive phase in theme plays.

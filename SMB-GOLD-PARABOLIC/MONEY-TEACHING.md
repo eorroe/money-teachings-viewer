@@ -2,7 +2,7 @@
 
 ## Overview
 
-This money teaching explains how to identify and execute mean reversion parabolic short trades, using gold as a case study. The core idea is that when an asset goes parabolic with unsustainable acceleration and triggers widespread retail participation and mainstream media coverage, the asset creates a potential short opportunity. The chart is the primary signal, while enthusiastic headlines and mainstream coverage serve as confirmation that a short-term top may be near.
+This money teaching explains how to identify and execute mean reversion parabolic short trades, using gold as a case study. The core idea is that when an asset goes parabolic with unsustainable acceleration and triggers retail participation, it creates a potential short opportunity. The chart is the primary signal, while euphoric headlines serve as confirmation that a short-term top may be near.
 
 ## When to Follow These Money Teachings
 
@@ -16,11 +16,11 @@ This money teaching explains how to identify and execute mean reversion paraboli
 
 ### Step 1: Identify the parabolic move and unsustainable acceleration
 
-Find an asset that has experienced a run, blown through a key psychological level such as $4,000 per ounce for gold, and is showing parabolic acceleration. Look for gaps in a row on the daily chart, expansion in Average True Range (ATR), and price extending far above its 50-day and 200-day moving averages (for example, GLD was 36 points above its 50-day moving average around 360). The move must be getting faster, not rising steadily without parabolic acceleration.
+Find an asset that has experienced a run, blown through a key psychological level such as $4,000 per ounce for gold, and is showing parabolic acceleration. Look for gaps in a row on the daily chart, expansion in Average True Range (ATR), and price extending above its 50-day and 200-day moving averages (for example, GLD was 36 points above its 50-day moving average around 360). The move must be getting faster, not rising steadily without parabolic acceleration.
 
 ### Step 2: Confirm euphoria through headlines and behavior
 
-Collect news from the day of the potential setup. Look for price target increases from major banks such as Bank of America (which raised its target to $5,000) or JP Morgan (where Jamie Dimon stated $10,000 was possible), mainstream articles showing people lining up to buy physical product (for example, hundreds of people lining up to buy physical gold in Singapore and Australia), and retail frenzy on social media. Note when non-traders start discussing the asset, such as an Uber driver mentioning your portfolio or people in your personal circle calling to ask about it.
+Collect news from the day of the trade setup. Look for price target increases from major banks such as Bank of America (which raised its target to $5,000) or JP Morgan (where Jamie Dimon stated $10,000 was possible), mainstream articles showing people lining up to buy physical product (for example, hundreds of people lining up to buy physical gold in Singapore and Australia), and retail frenzy on social media. Note when non-traders start discussing the asset, such as an Uber driver mentioning your portfolio or people in your personal circle calling to ask about it.
 
 ### Step 3: Review the daily chart for the specific setup
 
@@ -32,7 +32,7 @@ Mark the prior day's high as your pre-determined stop level. Identify a consolid
 
 ### Step 5: Consider the options calendar and asset-specific behavior
 
-Check if the day is a Friday with zero DTE or monthly options expiration. On expirations, dealers unwinding hedges can accelerate moves in either direction. Also understand the trading characteristics of the asset: gold trades around the clock and does not limit down as frequently as equities (for example, in the October 23, 2024 gold trade, the SMB Capital traders were not expecting repeated limit-down halts), so expect slower, less volatile price action unless the setup is truly parabolic.
+Check if the day is a Friday with zero DTE or monthly options expiration. On options expiration days, dealers unwinding hedges can accelerate moves in either direction. Also understand the trading characteristics of the asset: gold trades around the clock and does not routinely limit down (for example, in the October 23, 2024 gold trade, the SMB Capital traders were not expecting repeated limit-down halts), so expect grindy price action unless the setup is truly parabolic.
 
 ### Step 6: Size appropriately and enter on the breakdown
 
@@ -44,7 +44,7 @@ Check related assets that should move with your primary trade. If silver shows l
 
 ### Step 8: Define profit targets based on asset behavior
 
-For mean reversion shorts on parabolic moves, profitable mean reversion shorts engulf the prior one to two days of parabolic price action. Targets may be closer than profit targets used for overvalued equities because the fundamental drivers of the asset (for example, gold's rate-cut cycle, central bank buying, and inflation hedge demand) may still be intact. In gold, the 20-day moving average around 370 was a logical area to cover partials because, historically, only four times has gold been up more than nine weeks in a row, and after such streaks the average two-day decline was 6.5 percent and one-month decline was 11 percent.
+For mean reversion shorts on parabolic moves, profitable mean reversion shorts typically engulf the prior two days of parabolic price action. Targets may be closer than profit targets used for overvalued equities because the fundamental drivers of the asset (for example, gold's rate-cut cycle, central bank buying, and inflation hedge demand) may still be intact. In gold, the 20-day moving average around 370 was a logical area to cover partials because, historically, only four times has gold been up more than nine weeks in a row, and after such streaks the average two-day decline was 6.5 percent and one-month decline was 11 percent.
 
 ### Step 9: Manage risk with defined-risk options when needed
 
@@ -54,11 +54,11 @@ If the asset is showing high volatility (for example, expansion in Average True 
 
 ### Example 1: Gold Mean Reversion Short (October 23rd Friday)
 
-Gold had gone parabolic, breaking above $4,000 per ounce, and GLD extended well above its 50-day moving average around 360. The prior day closed at the prior session's high with a strong close near the high. After hours GLD gapped up but could not hold the high, then reversed into the regular session open. The SMB Capital traders identified 395 as a key pre-market consolidation and gamma level. When gold broke below 395 off the open, the SMB Capital traders entered short. The October 23, 2024 gold short trade worked as gold sold off sharply, with silver confirming weakness by failing to reclaim Volume Weighted Average Price (VWAP) on bounces.
+Gold had gone parabolic, breaking above $4,000 per ounce, and GLD extended 36 points above its 50-day moving average around 360. The prior day closed at the prior session's high with a strong close near the high. After hours GLD gapped up but could not hold the high, then reversed into the regular session open. The SMB Capital traders identified 395 as a key pre-market consolidation and gamma level. When gold broke below 395 off the open, the SMB Capital traders entered short. The October 23, 2024 gold short trade worked as gold sold off sharply, with silver confirming weakness by failing to reclaim Volume Weighted Average Price (VWAP) on bounces.
 
 ### Example 2: SMCI and MSTR Blow-Off Trades
 
-In 2024, SMCI and MSTR both experienced parabolic price advances followed by sharp decline days on Fridays. These historical trades share the same trading approach: unsustainable acceleration, retail frenzy signals, and a sharp reversal that encompasses prior parabolic price advances. These historical trades serve as examples for how parabolic short trades can unfold.
+In 2024, SMCI and MSTR both experienced parabolic price advances followed by sharp decline days on Fridays. These historical trades share the same trading approach: unsustainable acceleration, euphoria signals, and a sharp reversal that reverses prior parabolic price advances. These historical trades serve as examples for how parabolic short trades typically unfold.
 
 ### Example 3: Beyond Meat Three-Day Parabola
 
@@ -80,18 +80,18 @@ Beyond Meat went parabolic for three days straight. This is the type of move whe
 
 ## Keep In Mind
 
-- Gold was the first asset class to hit $30 trillion in market cap and posted its largest annual percentage gain since 1979
+- Gold was the first asset class to hit $30 trillion in market cap and posted its best year since 1979
 - Central banks worldwide were buying gold at record pace (34.2 billion in inflows over 10 weeks) to diversify away from the US dollar, with major buyers including Russia, China, India, Poland, Kazakhstan, Turkey, and the Czech Republic
 - Real rates, inflation, and rate cut expectations all drive gold; the fundamental drivers do not invalidate a short-term top
 - Gold is priced in a basket of currencies (for example, the dollar-euro pair), so when all currencies devalue simultaneously, gold rises even if the dollar appears flat
 - Only four times in history has gold been up more than nine weeks in a row; after such streaks, the average two-day decline was 6.5 percent and one-month decline was 11 percent
-- The London Exchange close is a key transition point for gold because physical gold trading dominates during London hours, while futures and hedge fund flows dominate after the close
+- The London Exchange close is a transition point for gold because physical gold trading is heavily concentrated during London hours, while futures and hedge fund flows are concentrated after the close
 
 ## Security & Safety Notes
 
 - This material is for educational purposes only and does not constitute financial advice
 - Trading involves risk of loss; never risk more than you can afford to lose
-- Always use stop losses and position sizing that limits any single trade loss to a percentage of your capital that you can afford
+- Always use stop losses and position sizing that limits any single trade loss
 - Past performance of similar setups does not guarantee future results
 
 ## Common Pitfalls
@@ -100,7 +100,7 @@ Beyond Meat went parabolic for three days straight. This is the type of move whe
   **Solution:** If the stop run is immediately followed by a price reversal back below the level, the failed breakout can itself be information to re-enter. If not, accept the loss and move on.
 
 - **Problem:** Expecting gold or other 24-hour assets to limit down like equities do.
-  **Solution:** Adjust your expectation to slower, less volatile price action. Do not size for a limit-down move unless the parabolic setup includes at least two consecutive daily gaps and expansion in Average True Range (ATR)).
+  **Solution:** Adjust your expectation to grindy price action. Do not size for a limit-down move unless the parabolic setup includes at least two consecutive daily gaps and expansion in Average True Range (ATR).
 
 - **Problem:** Using a stop placed within the normal overnight price swing range on an asset that trades around the clock, leading to being stopped out temporarily by normal overnight volatility.
   **Solution:** Widen your stop to account for around-the-clock trading, or use zero DTE options with defined risk to control your maximum loss.
